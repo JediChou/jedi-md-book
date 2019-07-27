@@ -1,0 +1,43 @@
+# Self Study
+
+Author: Jedi Chou
+Create at 2018.8.31 08:21 AM
+
+## Daily task
+
+* Mail
+  -[x] check 163.com mail
+
+* Daily Check-in task
+  -[x] Read articles and check interview invitation (MaiMai APP).
+  -[x] 101WeiQi daily exercise check-in.
+  -[x] Don't memorize words APP check-in.
+  -[x] NowCoder check-in and do an exercise that contains 20 puzzles.
+  -[x] 163 music APP check-in.
+  -[x] Open class APP by 163.com check-in.
+  -[x] Tencent cartoon APP check-in.
+  -[x] Double check
+  
+* Daily reading task
+  -[x] Feedly RSS reader.
+  -[x] ZHIHU Daily check.
+  -[x] InfoQ check.
+  -[x] Exercise of Vocabulary (vocabulary.com)
+  
+* Micro habit
+  -[x] Reading 1 minutes at SZLIB (BOKAN site).
+  -[x] Read a thesis and don't record.
+  -[x] Commit a C code to GITHUB or GITEE.
+  -[x] Reading 1 minutes at SIMPLE Wiki.
+  
+# New word or concept
+
+* Elasticsearch, Kibana
+* 虚拟机房在民办高职院校的构建与应用, 吴敏为, 《软件》2018,Vol.39, No.7
+  - Jedi: 完全没营养
+* 《软件导刊》是一本相对《软件》要高端点的杂志
+* [X3D](http://www.web3d.org/x3d/what-x3d)
+* [X3D-百度百科](https://baike.baidu.com/item/x3d)
+* 博看
+  - 《智能制造》杂志
+  
