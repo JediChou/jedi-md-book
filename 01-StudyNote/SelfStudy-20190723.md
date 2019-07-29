@@ -26,10 +26,4 @@ Author: Jedi Chou, Create at 2019.7.23 8:00 AM
 
 ## Other Done
 
-* Issue: 如何确定CA数据库中有哪些表没有被使用过
-* Issue: 批量签核可不用带参数
-* [未知的整合网址](eisp.idpbg.efoxconn.com)
-* Task
-  * 周顥：[苔干接口地址](http://10.39.7.37:8000/Info/AccreditInfo.asmx) ；接口參數：帳號/密碼/工號為  ACCOUNTANT/ACCOUNTANT/工號
-  * [Link](http://10.130.14.103/AccountIngCtrl/AccountIngCtrl.asmx?op=QueryEmp4Union)
 * [windows terminal](https://github.com/microsoft/Terminal)

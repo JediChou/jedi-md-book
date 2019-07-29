@@ -26,12 +26,6 @@ Author: Jedi Chou, Create at 2019.7.24 7:52 AM
 
 ## Other Done
 
-* Issue: 如何确定CA数据库中有哪些表没有被使用过
-* Issue: 批量签核可不用带参数
-* [未知的整合网址](eisp.idpbg.efoxconn.com)
-* Task
-  * 周顥：[苔干接口地址](http://10.39.7.37:8000/Info/AccreditInfo.asmx) ；接口參數：帳號/密碼/工號為  ACCOUNTANT/ACCOUNTANT/工號
-  * [Link](http://10.130.14.103/AccountIngCtrl/AccountIngCtrl.asmx?op=QueryEmp4Union)
 * Github project: TDengine (HuaWei product)
 * 10 Great Programming Projects to Improve Your Resume and Learn to Program
   * Sub title: Improve your skills in web development, programming, UI, automation and more
