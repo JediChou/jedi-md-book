@@ -10,3 +10,7 @@
 ## 2019.7.27
 
 * [Greenpeace](https://simple.wikipedia.org/wiki/Greenpeace)
+
+## 2019.7.29
+
+* [Zuni](https://simple.wikipedia.org/wiki/Zuni)
