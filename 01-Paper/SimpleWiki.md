@@ -14,3 +14,8 @@
 ## 2019.7.29
 
 * [Zuni](https://simple.wikipedia.org/wiki/Zuni)
+
+## 2019.7.30
+
+* [Sexual abstinence](https://simple.wikipedia.org/wiki/Sexual_abstinence)
+* [Jill Saward](https://simple.wikipedia.org/wiki/Jill_Saward)
