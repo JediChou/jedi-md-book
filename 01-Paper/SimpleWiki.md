@@ -19,3 +19,8 @@
 
 * [Sexual abstinence](https://simple.wikipedia.org/wiki/Sexual_abstinence)
 * [Jill Saward](https://simple.wikipedia.org/wiki/Jill_Saward)
+
+## 2019.7.31
+
+* [Lorenzo de' Medici](https://simple.wikipedia.org/wiki/Lorenzo_de%27_Medici)
+* [Subtropical cyclone](https://simple.wikipedia.org/wiki/Subtropical_cyclone)
