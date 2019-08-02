@@ -24,3 +24,8 @@
 
 * [Lorenzo de' Medici](https://simple.wikipedia.org/wiki/Lorenzo_de%27_Medici)
 * [Subtropical cyclone](https://simple.wikipedia.org/wiki/Subtropical_cyclone)
+
+## 2019.8.1
+
+* [Leeward Caribbean Creole English](https://simple.wikipedia.org/wiki/Leeward_Caribbean_Creole_English)
+* [Aurangzeb Khan](https://simple.wikipedia.org/wiki/Aurangzeb_Khan)
