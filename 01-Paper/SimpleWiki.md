@@ -29,3 +29,9 @@
 
 * [Leeward Caribbean Creole English](https://simple.wikipedia.org/wiki/Leeward_Caribbean_Creole_English)
 * [Aurangzeb Khan](https://simple.wikipedia.org/wiki/Aurangzeb_Khan)
+
+## 2019.8.2
+
+* [British Rail Class 950](https://simple.wikipedia.org/wiki/British_Rail_Class_950)
+* [2019 Venezuelan Presidential crisis](https://simple.wikipedia.org/wiki/2019_Venezuelan_Presidential_crisis)
+* [汤飞凡](https://zh.wikipedia.org/wiki/%E6%B1%A4%E9%A3%9E%E5%87%A1)
