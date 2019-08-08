@@ -35,3 +35,18 @@
 * [British Rail Class 950](https://simple.wikipedia.org/wiki/British_Rail_Class_950)
 * [2019 Venezuelan Presidential crisis](https://simple.wikipedia.org/wiki/2019_Venezuelan_Presidential_crisis)
 * [汤飞凡](https://zh.wikipedia.org/wiki/%E6%B1%A4%E9%A3%9E%E5%87%A1)
+
+## 2019.8.5
+
+* [Tommy Cooper](https://simple.wikipedia.org/wiki/Tommy_Cooper)
+* [Nepal Standard Time](https://simple.wikipedia.org/wiki/Nepal_Standard_Time)
+
+## 2019.8.7
+
+* [Ginger and Fred](https://simple.wikipedia.org/wiki/Ginger_and_Fred)
+* [Rust in Peace](https://simple.wikipedia.org/wiki/Rust_in_Peace)
+
+## 2019.8.8
+
+* [Lee Teng-hui](https://simple.wikipedia.org/wiki/Lee_Teng-hui)
+* [Hesperides](https://simple.wikipedia.org/wiki/Hesperides)
