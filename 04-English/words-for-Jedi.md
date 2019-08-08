@@ -386,3 +386,10 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * bun
 * cruel
 * partcipate
+
+## 2019-8-8
+
+* frown
+* guacamole
+* waddle
+* hurrah
