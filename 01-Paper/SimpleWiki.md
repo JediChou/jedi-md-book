@@ -50,3 +50,8 @@
 
 * [Lee Teng-hui](https://simple.wikipedia.org/wiki/Lee_Teng-hui)
 * [Hesperides](https://simple.wikipedia.org/wiki/Hesperides)
+
+## 2019.8.9
+
+* [My Friends Tigger & Pooh](https://simple.wikipedia.org/wiki/My_Friends_Tigger_%26_Pooh)
+* [Sukhoi Su-17](https://simple.wikipedia.org/wiki/Sukhoi_Su-17)
