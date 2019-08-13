@@ -59,3 +59,8 @@
 ## 2019.8.12
 
 * [Battery](https://simple.wikipedia.org/wiki/Battery_(crime))
+
+## 2019.8.13
+
+* [Dinah Shore](https://simple.wikipedia.org/wiki/Dinah_Shore)
+* [The Sundays](https://simple.wikipedia.org/wiki/The_Sundays)
