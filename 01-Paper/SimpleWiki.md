@@ -55,3 +55,7 @@
 
 * [My Friends Tigger & Pooh](https://simple.wikipedia.org/wiki/My_Friends_Tigger_%26_Pooh)
 * [Sukhoi Su-17](https://simple.wikipedia.org/wiki/Sukhoi_Su-17)
+
+## 2019.8.12
+
+* [Battery](https://simple.wikipedia.org/wiki/Battery_(crime))
