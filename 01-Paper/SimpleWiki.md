@@ -64,3 +64,8 @@
 
 * [Dinah Shore](https://simple.wikipedia.org/wiki/Dinah_Shore)
 * [The Sundays](https://simple.wikipedia.org/wiki/The_Sundays)
+
+## 2019.8.14
+
+* [Dan Bus Garage in Tel Aviv](https://simple.wikipedia.org/wiki/Dan_Bus_Garage_in_Tel_Aviv)
+* [Deborah Jeane Palfrey](https://simple.wikipedia.org/wiki/Deborah_Jeane_Palfrey)
