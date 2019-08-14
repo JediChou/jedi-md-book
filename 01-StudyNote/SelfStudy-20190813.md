@@ -3,7 +3,7 @@
 Author: Jedi Chou, Create at 2019.8.13 7:48 AM
 
 * Weekly review
-  -[ ] Read a thesis and don't record
+  -[x] Read a thesis and don't record. 10:32
 
 * Daily study
   * Check-in
@@ -17,7 +17,7 @@ Author: Jedi Chou, Create at 2019.8.13 7:48 AM
     -[x] Exercise of Vocabulary (vocabulary.com). 9:07
 
   * Micro habit
-    -[ ] Reading 1 minutes at SIMPLE Wiki
+    -[x] Reading 1 minutes at SIMPLE Wiki. 10:19
     -[x] Read Sina Blog
 
   * Reading
@@ -30,3 +30,8 @@ Author: Jedi Chou, Create at 2019.8.13 7:48 AM
 * Thesis: 网络信息计量学研究与发展评述
 * Thesis: 科技主路径分析:提升路径多样性的组合路径
 * Thesis: 基于文本分析的科技资源管理政策研究——以湖北省为例
+* Thesis Search Keyword: 数据仓库, Data warehouse
+* Thesis Search Keyword: 客户关系管理, CRM
+* Thesis Search Keyword: ODS, Operational Data Storage, 操作数据存储
+* Thesis Search Keyword: 日志采集，日志集中管理，日志统计
+* Thesis Search Keyword: syslog
