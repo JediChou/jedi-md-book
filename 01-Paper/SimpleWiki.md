@@ -69,3 +69,8 @@
 
 * [Dan Bus Garage in Tel Aviv](https://simple.wikipedia.org/wiki/Dan_Bus_Garage_in_Tel_Aviv)
 * [Deborah Jeane Palfrey](https://simple.wikipedia.org/wiki/Deborah_Jeane_Palfrey)
+
+## 2019.8.15
+
+* [Ali Asghar Khodadoust](https://simple.wikipedia.org/wiki/Ali_Asghar_Khodadoust)
+* [Indus Valley civilization](https://simple.wikipedia.org/wiki/Indus_Valley_civilization)
