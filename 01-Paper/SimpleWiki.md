@@ -74,3 +74,8 @@
 
 * [Ali Asghar Khodadoust](https://simple.wikipedia.org/wiki/Ali_Asghar_Khodadoust)
 * [Indus Valley civilization](https://simple.wikipedia.org/wiki/Indus_Valley_civilization)
+
+## 2019.8.16
+
+* [Las Vegas culture](https://simple.wikipedia.org/wiki/Las_Vegas_culture)
+* [Southwestern Bell](https://simple.wikipedia.org/wiki/Southwestern_Bell)
