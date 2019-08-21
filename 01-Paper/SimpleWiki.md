@@ -79,3 +79,8 @@
 
 * [Las Vegas culture](https://simple.wikipedia.org/wiki/Las_Vegas_culture)
 * [Southwestern Bell](https://simple.wikipedia.org/wiki/Southwestern_Bell)
+
+## 2019.8.21
+
+* [2011 Virginia earthquake](https://simple.wikipedia.org/wiki/2011_Virginia_earthquake)
+* [Penny Lilac](https://simple.wikipedia.org/wiki/Penny_Lilac)
