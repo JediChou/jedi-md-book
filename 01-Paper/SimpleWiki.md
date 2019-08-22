@@ -84,3 +84,10 @@
 
 * [2011 Virginia earthquake](https://simple.wikipedia.org/wiki/2011_Virginia_earthquake)
 * [Penny Lilac](https://simple.wikipedia.org/wiki/Penny_Lilac)
+
+## 2019.8.22
+
+* [Oak Grove Heights, Arkansas](https://simple.wikipedia.org/wiki/Oak_Grove_Heights,_Arkansas)
+* [Copt](https://simple.wikipedia.org/wiki/Copt)
+* [Fiat Panda](https://simple.wikipedia.org/wiki/Fiat_Panda)
+* [1986 State of the Union Address](https://simple.wikipedia.org/wiki/1986_State_of_the_Union_Address)
