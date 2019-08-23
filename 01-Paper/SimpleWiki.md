@@ -91,3 +91,4 @@
 * [Copt](https://simple.wikipedia.org/wiki/Copt)
 * [Fiat Panda](https://simple.wikipedia.org/wiki/Fiat_Panda)
 * [1986 State of the Union Address](https://simple.wikipedia.org/wiki/1986_State_of_the_Union_Address)
+* [Open science](https://en.wikipedia.org/wiki/Open_science)
