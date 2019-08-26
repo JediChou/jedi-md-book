@@ -99,3 +99,12 @@
 * [Fluoridation](https://simple.wikipedia.org/wiki/Fluoridation)
 * [Toothpaste TODO](https://simple.wikipedia.org/wiki/Toothpaste)
 * [Petitioner](https://simple.wikipedia.org/wiki/Petitioner)
+
+## 2019.8.26
+
+* [Fulton County, New York](https://simple.wikipedia.org/wiki/Fulton_County,_New_York)
+* [Nocardiosis](https://simple.wikipedia.org/wiki/Nocardiosis)
+* [Armenians in Switzerland](https://simple.wikipedia.org/wiki/Armenians_in_Switzerland)
+* [Riding habit](https://simple.wikipedia.org/wiki/Riding_habit)
+* [Erkki Tuomioja](https://simple.wikipedia.org/wiki/Erkki_Tuomioja)
+* [Falafel](https://simple.wikipedia.org/wiki/Falafel)
