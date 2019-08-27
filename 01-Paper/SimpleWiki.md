@@ -108,3 +108,8 @@
 * [Riding habit](https://simple.wikipedia.org/wiki/Riding_habit)
 * [Erkki Tuomioja](https://simple.wikipedia.org/wiki/Erkki_Tuomioja)
 * [Falafel](https://simple.wikipedia.org/wiki/Falafel)
+
+## 2019.8.27
+
+* [The Birdman](https://simple.wikipedia.org/wiki/The_Birdman)
+* [But I'm a Cheerleader](https://simple.wikipedia.org/wiki/But_I%27m_a_Cheerleader)
