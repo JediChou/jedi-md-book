@@ -393,3 +393,12 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * guacamole
 * waddle
 * hurrah
+
+## 2019-8-28
+
+* perceptual
+* approximate
+* arithmetic
+* perception
+* orchestra
+* accelerated
