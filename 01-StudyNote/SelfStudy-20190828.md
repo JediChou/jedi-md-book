@@ -22,4 +22,8 @@ Author: Jedi Chou, Create at 2019.8.28 7:56 AM
 
   * Reading
     -[x] Feedly RSS reader. 8:37
-    -[ ] 163.com mail
+    -[x] 163.com mail. 15:23
+
+## Other
+
+* Java编写SOAP Web Service.
