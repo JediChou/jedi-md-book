@@ -123,3 +123,8 @@
 
 * [Cheeseburger](https://simple.wikipedia.org/wiki/Cheeseburger)
 * [Lisa Della Casa](https://simple.wikipedia.org/wiki/Lisa_Della_Casa)
+
+## 2019.8.30
+
+* [Stanwood, Washington](https://simple.wikipedia.org/wiki/Stanwood,_Washington)
+* [Smush Parker](https://simple.wikipedia.org/wiki/Smush_Parker)
