@@ -128,3 +128,8 @@
 
 * [Stanwood, Washington](https://simple.wikipedia.org/wiki/Stanwood,_Washington)
 * [Smush Parker](https://simple.wikipedia.org/wiki/Smush_Parker)
+
+## 2019.9.2
+
+* [Lisa Lu](https://simple.wikipedia.org/wiki/Lisa_Lu)
+* [M. J. Radhakrishnan](https://simple.wikipedia.org/wiki/M._J._Radhakrishnan)
