@@ -133,3 +133,8 @@
 
 * [Lisa Lu](https://simple.wikipedia.org/wiki/Lisa_Lu)
 * [M. J. Radhakrishnan](https://simple.wikipedia.org/wiki/M._J._Radhakrishnan)
+
+## 2019.9.3
+
+* [Bordj Bou Arréridj Province](https://simple.wikipedia.org/wiki/Bordj_Bou_Arr%C3%A9ridj_Province)
+* [Sami literature](https://simple.wikipedia.org/wiki/Sami_literature)
