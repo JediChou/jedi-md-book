@@ -138,3 +138,13 @@
 
 * [Bordj Bou Arréridj Province](https://simple.wikipedia.org/wiki/Bordj_Bou_Arr%C3%A9ridj_Province)
 * [Sami literature](https://simple.wikipedia.org/wiki/Sami_literature)
+
+## 2019.9.4
+
+* [Forestay](https://simple.wikipedia.org/wiki/Forestay)
+* [County Monaghan](https://simple.wikipedia.org/wiki/County_Monaghan)
+
+## 2019.9.5
+
+* [The Decline and Fall of the Roman Empire](https://simple.wikipedia.org/wiki/The_Decline_and_Fall_of_the_Roman_Empire)
+* [Donauwörth](https://simple.wikipedia.org/wiki/Donauw%C3%B6rth)
