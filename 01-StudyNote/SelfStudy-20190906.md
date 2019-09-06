@@ -8,7 +8,7 @@ Author: Jedi Chou, Create at 2019.9.5 7:56 AM
 * Daily study
   * Check-in
     -[x] 101WeiQi daily exercise check-in. 8:12
-    -[ ] Open class APP by 163.com check-in
+    -[x] Open class APP by 163.com check-in. 17:33
     -[x] Read articles and check interview invitation (MaiMai APP). 9:49
     -[x] NowCoder check-in and do an exercise that contains 20 puzzles. 9:49
     -[x] Don't memorize words APP check-in. 9:50
