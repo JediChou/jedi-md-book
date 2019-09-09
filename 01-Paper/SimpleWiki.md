@@ -153,3 +153,9 @@
 
 * [Chard](https://simple.wikipedia.org/wiki/Chard)
 * [Japanese squirrel](https://simple.wikipedia.org/wiki/Japanese_squirrel)
+
+## 2019.9.9
+
+* [Hyperinflation](https://simple.wikipedia.org/wiki/Hyperinflation)
+* [Cue stick](https://simple.wikipedia.org/wiki/Cue_stick)
+* [syslog](https://en.wikipedia.org/wiki/Syslog#Syslog_message_components)
