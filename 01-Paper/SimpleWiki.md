@@ -159,3 +159,8 @@
 * [Hyperinflation](https://simple.wikipedia.org/wiki/Hyperinflation)
 * [Cue stick](https://simple.wikipedia.org/wiki/Cue_stick)
 * [syslog](https://en.wikipedia.org/wiki/Syslog#Syslog_message_components)
+
+## 2019.9.10
+
+* [Maria Mutagamba](https://simple.wikipedia.org/wiki/Maria_Mutagamba)
+* [Aquaman (movie)](https://simple.wikipedia.org/wiki/Aquaman_(movie))
