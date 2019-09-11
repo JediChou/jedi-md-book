@@ -28,3 +28,16 @@ Author: Jedi Chou, Create at 2019.9.11 7:47:25 AM
 
 * DesignCap
 * 今日浏览了一下nuget.org上的排名. 10:55
+* Adobe的免费软件
+  * Adobe Illustrator Draw (应该用不到)
+  * Adobe Capture (撷取类应用)
+  * Adobe XD CC (是一款交互设计软件)
+  * Adobe Spark (是Adobe 推出的主打简单设计的创意软件集，包括了Post海报、Page网页和Video视频三部分)
+  * Adobe Spark Post (是一款在线设计软件，类似国内的创客贴、懒设计，它为你提供了类目多样的图文混搭方案)
+  * Adobe Photoshop Express
+  * Adobe Photoshop Mix & Adobe Photoshop Fix
+  * Adobe Lightroom
+  * Adobe Premiere Clip
+  * Adobe Spark Video
+  * [Adobe Create Magazine](https://createmagazine.com/)
+  * Behance (资源共享APP)
