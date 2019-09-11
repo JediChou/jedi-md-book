@@ -164,3 +164,8 @@
 
 * [Maria Mutagamba](https://simple.wikipedia.org/wiki/Maria_Mutagamba)
 * [Aquaman (movie)](https://simple.wikipedia.org/wiki/Aquaman_(movie))
+
+## 2019.9.11
+
+* [Adam McKay](https://simple.wikipedia.org/wiki/Adam_McKay)
+* [Robert Doisneau](https://simple.wikipedia.org/wiki/Robert_Doisneau)
