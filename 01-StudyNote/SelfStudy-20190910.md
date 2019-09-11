@@ -17,6 +17,7 @@ Author: Jedi Chou, Create at 2019.9.10 8:29 AM
     -[x] Exercise of Vocabulary (vocabulary.com). 10:24
 
   * Micro habit
+  * Micro habit
     -[x] Reading 1 minutes at SIMPLE Wiki. 9:39
     -[x] Read Sina Blog. 9:37
 
