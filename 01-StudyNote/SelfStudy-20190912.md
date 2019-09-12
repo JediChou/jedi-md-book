@@ -27,3 +27,14 @@ Author: Jedi Chou, Create at 2019.9.12 8:47 AM
 ## Other
 
 * InfoQ, 2019年最新Elasticsearch学习路线图. 13:52
+* 删除Windows服务
+  * 管理员身份开启命令行(cmd.exe)
+  * sc delete service_name
+* 本地SQLServer更改端口为3000后，在SMSS中连接的Server Name为“localhost,3000”
+* 更改SQLServer的服务端口
+  * Open 'SQL Server Configuration Manager'
+  * Open 'SQL Server Network Configuration'
+  * Open 'Protocols for JEDILOCALSQL (Instance Name)'
+  * Double click 'TCP/IP'
+  * Click IP Addresses tab
+  * Set 'TCP Port' value
