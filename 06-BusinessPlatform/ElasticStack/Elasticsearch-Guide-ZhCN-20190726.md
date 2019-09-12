@@ -70,6 +70,3 @@
 * Elasticsearch开源协议为Apache 2 license
 
 #### 安装并运行ElasticSearch
-
-
-
