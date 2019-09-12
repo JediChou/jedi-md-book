@@ -1,4 +1,6 @@
-## ELK Notes - 2019.7.26
+# ELK Notes
+
+## 2019.7.26
 
 ```json
 GET _search
@@ -90,4 +92,3 @@ POST /my_index/my_type/_bulk
 { "title": "Brown fox brown dog" }
 
 ```
-
