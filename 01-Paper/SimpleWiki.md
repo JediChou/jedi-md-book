@@ -169,3 +169,8 @@
 
 * [Adam McKay](https://simple.wikipedia.org/wiki/Adam_McKay)
 * [Robert Doisneau](https://simple.wikipedia.org/wiki/Robert_Doisneau)
+
+## 2019.9.12
+
+* [Jennie Kwan](https://simple.wikipedia.org/wiki/Jennie_Kwan)
+* [Cave diving](https://simple.wikipedia.org/wiki/Cave_diving)
