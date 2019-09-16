@@ -174,3 +174,8 @@
 
 * [Jennie Kwan](https://simple.wikipedia.org/wiki/Jennie_Kwan)
 * [Cave diving](https://simple.wikipedia.org/wiki/Cave_diving)
+
+## 2019.9.16
+
+* [iTunes](https://simple.wikipedia.org/wiki/ITunes)
+* [How I Met Your Mother](https://simple.wikipedia.org/wiki/How_I_Met_Your_Mother)
