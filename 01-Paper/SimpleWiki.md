@@ -179,3 +179,8 @@
 
 * [iTunes](https://simple.wikipedia.org/wiki/ITunes)
 * [How I Met Your Mother](https://simple.wikipedia.org/wiki/How_I_Met_Your_Mother)
+
+## 2019.9.17
+
+* [Marta (footballer)](https://simple.wikipedia.org/wiki/Marta_(footballer))
+* [Mutilation](https://simple.wikipedia.org/wiki/Mutilation)
