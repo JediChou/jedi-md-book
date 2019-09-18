@@ -413,3 +413,7 @@
 * [aiops](https://github.com/topics/aiops)
   * FreeWheel, 包括统一报警、事件收集、分析通知平台
 * 在百度中搜索“C#异步编程”
+
+## 2019-9-17
+
+* [How to programmatically compile code using C# compiler](https://support.microsoft.com/en-us/help/304655/how-to-programmatically-compile-code-using-c-compiler)
