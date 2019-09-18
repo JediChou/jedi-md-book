@@ -184,3 +184,9 @@
 
 * [Marta (footballer)](https://simple.wikipedia.org/wiki/Marta_(footballer))
 * [Mutilation](https://simple.wikipedia.org/wiki/Mutilation)
+
+## 2019.9.18
+
+* [Blueberry](https://simple.wikipedia.org/wiki/Blueberry)
+* [Shrub](https://simple.wikipedia.org/wiki/Shrub)
+* [Acid](https://simple.wikipedia.org/wiki/Acid)
