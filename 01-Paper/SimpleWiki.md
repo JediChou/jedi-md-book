@@ -190,3 +190,9 @@
 * [Blueberry](https://simple.wikipedia.org/wiki/Blueberry)
 * [Shrub](https://simple.wikipedia.org/wiki/Shrub)
 * [Acid](https://simple.wikipedia.org/wiki/Acid)
+
+## 2019.9.19
+
+* [Fingal’s Cave](https://simple.wikipedia.org/wiki/Fingal%E2%80%99s_Cave)
+* [Pangaea](https://simple.wikipedia.org/wiki/Pangaea)
+* [Knitting](https://simple.wikipedia.org/wiki/Knitting)
