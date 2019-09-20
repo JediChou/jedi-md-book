@@ -196,3 +196,9 @@
 * [Fingal’s Cave](https://simple.wikipedia.org/wiki/Fingal%E2%80%99s_Cave)
 * [Pangaea](https://simple.wikipedia.org/wiki/Pangaea)
 * [Knitting](https://simple.wikipedia.org/wiki/Knitting)
+
+## 2019.9.20
+
+* [Maintenay](https://simple.wikipedia.org/wiki/Maintenay)
+* [Bonaventura Duda](https://simple.wikipedia.org/wiki/Bonaventura_Duda)
+* [Ruisseauville](https://simple.wikipedia.org/wiki/Ruisseauville)
