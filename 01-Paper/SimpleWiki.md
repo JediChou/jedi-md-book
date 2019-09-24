@@ -202,3 +202,12 @@
 * [Maintenay](https://simple.wikipedia.org/wiki/Maintenay)
 * [Bonaventura Duda](https://simple.wikipedia.org/wiki/Bonaventura_Duda)
 * [Ruisseauville](https://simple.wikipedia.org/wiki/Ruisseauville)
+
+## 2019.9.24
+
+* [Mini-bar](https://simple.wikipedia.org/wiki/Mini-bar)
+* [Hernando de Soto](https://simple.wikipedia.org/wiki/Hernando_de_Soto)
+* [Treasurer of the United States](https://simple.wikipedia.org/wiki/Treasurer_of_the_United_States)
+* [Tourcoing](https://simple.wikipedia.org/wiki/Tourcoing)
+* [Solomon River](https://simple.wikipedia.org/wiki/Solomon_River)
+* [The Doobie Brothers](https://simple.wikipedia.org/wiki/The_Doobie_Brothers)
