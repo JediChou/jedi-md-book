@@ -211,3 +211,8 @@
 * [Tourcoing](https://simple.wikipedia.org/wiki/Tourcoing)
 * [Solomon River](https://simple.wikipedia.org/wiki/Solomon_River)
 * [The Doobie Brothers](https://simple.wikipedia.org/wiki/The_Doobie_Brothers)
+
+## 2019.9.25
+
+* [Credit card](https://simple.wikipedia.org/wiki/Credit_card)
+* [David Haye](https://simple.wikipedia.org/wiki/David_Haye)
