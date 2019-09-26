@@ -216,3 +216,8 @@
 
 * [Credit card](https://simple.wikipedia.org/wiki/Credit_card)
 * [David Haye](https://simple.wikipedia.org/wiki/David_Haye)
+
+## 2019.9.26
+
+* [John Lithgow](https://simple.wikipedia.org/wiki/John_Lithgow)
+* [Pelvis](https://simple.wikipedia.org/wiki/Pelvis)
