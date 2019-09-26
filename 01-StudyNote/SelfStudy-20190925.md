@@ -22,4 +22,4 @@ Author: Jedi Chou, Create at 2019.9.25 8:40 AM
     -[x] 163.com mail. 10:03
 
 * Weekly review
-  -[ ] Read a thesis and don't record
+  -[x] Read a thesis and don't record. 20:00
