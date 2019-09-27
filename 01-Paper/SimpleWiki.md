@@ -221,3 +221,8 @@
 
 * [John Lithgow](https://simple.wikipedia.org/wiki/John_Lithgow)
 * [Pelvis](https://simple.wikipedia.org/wiki/Pelvis)
+
+## 2019.9.27
+
+* [Doctor Sivana](https://simple.wikipedia.org/wiki/Doctor_Sivana)
+* [DC Extended Universe](https://simple.wikipedia.org/wiki/DC_Extended_Universe)
