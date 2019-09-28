@@ -31,3 +31,15 @@ Author: Jedi Chou, Create at 2019.9.28 14:12 PM
 
 * [Elastic Site Search and Elastic App Search PHP Client 1.0.0 Released](https://www.elastic.co/cn/blog/elastic-site-search-elastic-app-search-php-client-1-0-0-released)
   * Jedi: 没想到这么晚才支持PHP
+  * $document应该从对象转过来比较好
+
+* [中国网络电视台](https://www.elastic.co/cn/videos/cntv)
+  * 日志规模达到每天7、8TB
+  * 总体日志规模达到700-800TB每年
+
+* [Watching/Alerting on Real-Time Data in Elasticsearch Using Kibana and SentiNL](https://dzone.com/articles/watchingalerting-on-real-time-data-in-elasticsearc)
+
+* [Kibana 可视化分析](https://www.elastic.co/cn/webinars/creating-kibana-dashboards)
+  * Benny Guo(郭斌)，Elastic架构师
+
+* [Elastic APM 解决方案研讨会](https://www.elastic.co/cn/webinars/using-the-elastic-stack-for-application-performance-management)
