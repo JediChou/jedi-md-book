@@ -226,3 +226,8 @@
 
 * [Doctor Sivana](https://simple.wikipedia.org/wiki/Doctor_Sivana)
 * [DC Extended Universe](https://simple.wikipedia.org/wiki/DC_Extended_Universe)
+
+## 2019.9.28
+
+* [Belle de Jour (writer)](https://simple.wikipedia.org/wiki/Belle_de_Jour_(writer))
+* [Jeannie Mai](https://simple.wikipedia.org/wiki/Jeannie_Mai)
