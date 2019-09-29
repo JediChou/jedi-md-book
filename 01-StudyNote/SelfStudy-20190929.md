@@ -125,3 +125,5 @@ pandoc: Error producing PDF
   * Jedi: 之前本地有个PDF是讲这个的
   * [Repo Index](https://github.com/chocolatey-archive)
   * [Choco Repo](https://github.com/chocolatey/choco)
+
+* [PyCharm - Getting started](https://www.jetbrains.com/help/pycharm/quick-start-guide.html)
