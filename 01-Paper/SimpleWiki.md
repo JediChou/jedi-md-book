@@ -231,3 +231,9 @@
 
 * [Belle de Jour (writer)](https://simple.wikipedia.org/wiki/Belle_de_Jour_(writer))
 * [Jeannie Mai](https://simple.wikipedia.org/wiki/Jeannie_Mai)
+
+## 2019.9.29
+
+* [Battle of Fredericksburg](https://simple.wikipedia.org/wiki/Battle_of_Fredericksburg)
+* [Jhulelal (Hinduism)](https://simple.wikipedia.org/wiki/Jhulelal_(Hinduism))
+* [Sindhi people](https://simple.wikipedia.org/wiki/Sindhi_people)
