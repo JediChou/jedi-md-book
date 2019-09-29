@@ -99,6 +99,28 @@ mktextfm ecrm1000
 mktextfm ecrm1000
 ```
 
+```shell
+
+# 执行以下命令后可以生成PDF文件
+# 该命令应该是安装texlive所需要的字体
+sudo apt-get install texlive-fonts-recommended
+
+# Notice: 注意，在md中若有中文就会报错
+# Error message
+jedi@MIS-F3216338:/mnt/d$ pandoc simple.md -o example.pdf
+! Package inputenc Error: Unicode char 中 (U+4E2D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...
+
+l.118 中
+
+Try running pandoc with --latex-engine=xelatex.
+pandoc: Error producing PDF
+```
+
 * [Chocolatey](https://chocolatey.org/), 这个工具没有好好研究过.
   * Jedi: 之前本地有个PDF是讲这个的
   * [Repo Index](https://github.com/chocolatey-archive)
