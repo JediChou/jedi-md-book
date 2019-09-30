@@ -237,3 +237,9 @@
 * [Battle of Fredericksburg](https://simple.wikipedia.org/wiki/Battle_of_Fredericksburg)
 * [Jhulelal (Hinduism)](https://simple.wikipedia.org/wiki/Jhulelal_(Hinduism))
 * [Sindhi people](https://simple.wikipedia.org/wiki/Sindhi_people)
+
+## 2019.9.30
+
+* [Hurricane Floyd](https://simple.wikipedia.org/wiki/Hurricane_Floyd)
+* [Big Fish](https://simple.wikipedia.org/wiki/Big_Fish)
+* [Ontario Highway 9](https://simple.wikipedia.org/wiki/Ontario_Highway_9)
