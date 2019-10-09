@@ -243,3 +243,13 @@
 * [Hurricane Floyd](https://simple.wikipedia.org/wiki/Hurricane_Floyd)
 * [Big Fish](https://simple.wikipedia.org/wiki/Big_Fish)
 * [Ontario Highway 9](https://simple.wikipedia.org/wiki/Ontario_Highway_9)
+
+## 2019.10.8
+
+* [Femtosecond](https://simple.wikipedia.org/wiki/Femtosecond)
+* [Mohammad Ali Jinnah University](https://simple.wikipedia.org/wiki/Mohammad_Ali_Jinnah_University)
+
+## 2019.10.9
+
+* [Methodism](https://simple.wikipedia.org/wiki/Methodism)
+* [Mangesh Tendulkar](https://simple.wikipedia.org/wiki/Mangesh_Tendulkar)
