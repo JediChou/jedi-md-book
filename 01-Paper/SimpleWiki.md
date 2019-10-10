@@ -253,3 +253,9 @@
 
 * [Methodism](https://simple.wikipedia.org/wiki/Methodism)
 * [Mangesh Tendulkar](https://simple.wikipedia.org/wiki/Mangesh_Tendulkar)
+
+## 2019.10.10
+
+* [Natural Killer T cell](https://simple.wikipedia.org/wiki/Natural_Killer_T_cell)
+* [Menan, Idaho](https://simple.wikipedia.org/wiki/Menan,_Idaho)
+* [Gus Grissom](https://simple.wikipedia.org/wiki/Gus_Grissom)
