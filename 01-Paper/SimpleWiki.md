@@ -259,3 +259,9 @@
 * [Natural Killer T cell](https://simple.wikipedia.org/wiki/Natural_Killer_T_cell)
 * [Menan, Idaho](https://simple.wikipedia.org/wiki/Menan,_Idaho)
 * [Gus Grissom](https://simple.wikipedia.org/wiki/Gus_Grissom)
+
+## 2019.10.11
+
+* [Lambada](https://simple.wikipedia.org/wiki/Lambada)
+* [Imperial Hotel, Tokyo](https://simple.wikipedia.org/wiki/Imperial_Hotel,_Tokyo)
+* [Tensile strength](https://simple.wikipedia.org/wiki/Tensile_strength)
