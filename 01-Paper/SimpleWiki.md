@@ -265,3 +265,9 @@
 * [Lambada](https://simple.wikipedia.org/wiki/Lambada)
 * [Imperial Hotel, Tokyo](https://simple.wikipedia.org/wiki/Imperial_Hotel,_Tokyo)
 * [Tensile strength](https://simple.wikipedia.org/wiki/Tensile_strength)
+
+## 2019.10.12
+
+* [A Midsummer Night's Dream](https://simple.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream)
+* [Priam](https://simple.wikipedia.org/wiki/Priam)
+* [Achilles](https://simple.wikipedia.org/wiki/Achilles)
