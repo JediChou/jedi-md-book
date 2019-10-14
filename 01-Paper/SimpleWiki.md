@@ -271,3 +271,9 @@
 * [A Midsummer Night's Dream](https://simple.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream)
 * [Priam](https://simple.wikipedia.org/wiki/Priam)
 * [Achilles](https://simple.wikipedia.org/wiki/Achilles)
+
+## 2019.10.14
+
+* [Earthenware](https://simple.wikipedia.org/wiki/Earthenware)
+* [Hollywood Canteen](https://simple.wikipedia.org/wiki/Hollywood_Canteen)
+* [Henrietta, Texas](https://simple.wikipedia.org/wiki/Henrietta,_Texas)
