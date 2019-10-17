@@ -277,3 +277,15 @@
 * [Earthenware](https://simple.wikipedia.org/wiki/Earthenware)
 * [Hollywood Canteen](https://simple.wikipedia.org/wiki/Hollywood_Canteen)
 * [Henrietta, Texas](https://simple.wikipedia.org/wiki/Henrietta,_Texas)
+
+## 2019.10.15
+
+* [Henry Hartsfield](https://simple.wikipedia.org/wiki/Henry_Hartsfield)
+* [Diprotodon](https://simple.wikipedia.org/wiki/Diprotodon)
+* [Philodendron](https://simple.wikipedia.org/wiki/Philodendron)
+
+## 2019.10.16
+
+* [Achtung Baby](https://simple.wikipedia.org/wiki/Achtung_Baby)
+* [Edith Savage-Jennings](https://simple.wikipedia.org/wiki/Edith_Savage-Jennings)
+* [David Sive](https://simple.wikipedia.org/wiki/David_Sive)
