@@ -289,3 +289,9 @@
 * [Achtung Baby](https://simple.wikipedia.org/wiki/Achtung_Baby)
 * [Edith Savage-Jennings](https://simple.wikipedia.org/wiki/Edith_Savage-Jennings)
 * [David Sive](https://simple.wikipedia.org/wiki/David_Sive)
+
+## 2019.10.17
+
+* [Amani Toomer](https://simple.wikipedia.org/wiki/Amani_Toomer)
+* [Lenny Johnrose](https://simple.wikipedia.org/wiki/Lenny_Johnrose)
+* [Dojo](https://simple.wikipedia.org/wiki/Dojo)
