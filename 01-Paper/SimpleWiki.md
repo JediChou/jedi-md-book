@@ -295,3 +295,9 @@
 * [Amani Toomer](https://simple.wikipedia.org/wiki/Amani_Toomer)
 * [Lenny Johnrose](https://simple.wikipedia.org/wiki/Lenny_Johnrose)
 * [Dojo](https://simple.wikipedia.org/wiki/Dojo)
+
+## 2019.10.18
+
+* [Choanoflagellate](https://simple.wikipedia.org/wiki/Choanoflagellate)
+* [Fat feminism](https://simple.wikipedia.org/wiki/Fat_feminism)
+* [Continuum hypothesis](https://simple.wikipedia.org/wiki/Continuum_hypothesis)
