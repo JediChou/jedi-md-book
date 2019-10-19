@@ -301,3 +301,10 @@
 * [Choanoflagellate](https://simple.wikipedia.org/wiki/Choanoflagellate)
 * [Fat feminism](https://simple.wikipedia.org/wiki/Fat_feminism)
 * [Continuum hypothesis](https://simple.wikipedia.org/wiki/Continuum_hypothesis)
+
+## 2019.10.19
+
+* [Allauch](https://simple.wikipedia.org/wiki/Allauch)
+  * Jedi: 为毛把一些法国村庄都搬到SimpleWiki上来，神经病
+* [Rudy Boschwitz](https://simple.wikipedia.org/wiki/Rudy_Boschwitz)
+* [Honey to the Bee](https://simple.wikipedia.org/wiki/Honey_to_the_Bee)
