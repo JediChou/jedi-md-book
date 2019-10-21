@@ -308,3 +308,9 @@
   * Jedi: 为毛把一些法国村庄都搬到SimpleWiki上来，神经病
 * [Rudy Boschwitz](https://simple.wikipedia.org/wiki/Rudy_Boschwitz)
 * [Honey to the Bee](https://simple.wikipedia.org/wiki/Honey_to_the_Bee)
+
+## 2019.10.21
+
+* [International human rights law](https://simple.wikipedia.org/wiki/International_human_rights_law)
+* [Larry Storch](https://simple.wikipedia.org/wiki/Larry_Storch)
+* [John Wojtowicz](https://simple.wikipedia.org/wiki/John_Wojtowicz)
