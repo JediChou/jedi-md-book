@@ -314,3 +314,9 @@
 * [International human rights law](https://simple.wikipedia.org/wiki/International_human_rights_law)
 * [Larry Storch](https://simple.wikipedia.org/wiki/Larry_Storch)
 * [John Wojtowicz](https://simple.wikipedia.org/wiki/John_Wojtowicz)
+
+## 2019.10.22
+
+* [Book of Judges](https://simple.wikipedia.org/wiki/Book_of_Judges)
+* [Josh Stewart](https://simple.wikipedia.org/wiki/Josh_Stewart)
+* [Earth's inner core](https://simple.wikipedia.org/wiki/Earth%27s_inner_core)
