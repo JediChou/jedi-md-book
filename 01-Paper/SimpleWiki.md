@@ -326,3 +326,9 @@
 * [Discordianism](https://simple.wikipedia.org/wiki/Discordianism)
 * [Isaac Parker](https://simple.wikipedia.org/wiki/Isaac_Parker)
 * [Alberta Adams](https://simple.wikipedia.org/wiki/Alberta_Adams)
+
+## 2019.10.25
+
+* [Education in Kansas](https://simple.wikipedia.org/wiki/Education_in_Kansas)
+* [Pishin](https://simple.wikipedia.org/wiki/Pishin)
+* [Gerald Götting](https://simple.wikipedia.org/wiki/Gerald_G%C3%B6tting)
