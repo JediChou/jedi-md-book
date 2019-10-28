@@ -332,3 +332,15 @@
 * [Education in Kansas](https://simple.wikipedia.org/wiki/Education_in_Kansas)
 * [Pishin](https://simple.wikipedia.org/wiki/Pishin)
 * [Gerald Götting](https://simple.wikipedia.org/wiki/Gerald_G%C3%B6tting)
+
+## 2019.10.28
+
+* [Montevideo Convention](https://simple.wikipedia.org/wiki/Montevideo_Convention)
+* [Second inauguration of James Monroe](https://simple.wikipedia.org/wiki/Second_inauguration_of_James_Monroe)
+* [James Monroe](https://simple.wikipedia.org/wiki/James_Monroe)
+* [NGC 4526](https://simple.wikipedia.org/wiki/NGC_4526)
+* [Anti-Federalism](https://simple.wikipedia.org/wiki/Anti-Federalism)
+* [Ghidra](https://en.wikipedia.org/wiki/Ghidra)
+* [JEB decompiler](https://en.wikipedia.org/wiki/JEB_decompiler)
+* [coreboot](https://en.wikipedia.org/wiki/Coreboot)
+* [Interactive Disassembler](https://en.wikipedia.org/wiki/Interactive_Disassembler)
