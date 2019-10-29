@@ -344,3 +344,12 @@
 * [JEB decompiler](https://en.wikipedia.org/wiki/JEB_decompiler)
 * [coreboot](https://en.wikipedia.org/wiki/Coreboot)
 * [Interactive Disassembler](https://en.wikipedia.org/wiki/Interactive_Disassembler)
+
+## 2019.10.29
+
+* [Cambridge, Massachusetts](https://simple.wikipedia.org/wiki/Cambridge,_Massachusetts)
+* [Vincelottes](https://simple.wikipedia.org/wiki/Vincelottes)
+* [Cumberland, Iowa](https://simple.wikipedia.org/wiki/Cumberland,_Iowa)
+* [Cumberland, Iowa](https://en.wikipedia.org/wiki/Cumberland,_Iowa)
+* [Brett Ratner](https://simple.wikipedia.org/wiki/Brett_Ratner)
+* [Mali](https://simple.wikipedia.org/wiki/Mali)
