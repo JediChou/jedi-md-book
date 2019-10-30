@@ -353,3 +353,11 @@
 * [Cumberland, Iowa](https://en.wikipedia.org/wiki/Cumberland,_Iowa)
 * [Brett Ratner](https://simple.wikipedia.org/wiki/Brett_Ratner)
 * [Mali](https://simple.wikipedia.org/wiki/Mali)
+
+## 2019.10.30
+
+* [Irsta](https://simple.wikipedia.org/wiki/Irsta)
+* [Chigger](https://simple.wikipedia.org/wiki/Chigger)
+* [Sean Hughes](https://simple.wikipedia.org/wiki/Sean_Hughes)
+* [St. Catherines Island](https://simple.wikipedia.org/wiki/St._Catherines_Island)
+* [Elliot Richardson](https://simple.wikipedia.org/wiki/Elliot_Richardson)
