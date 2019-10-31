@@ -36,3 +36,13 @@ Author: Jedi Chou, Create at 2019.10.30 8:20 AM
 
 * Thesis: 区块链系统中的分布式数据管理技术-挑战与展望
 * 学术期刊: 《电子科技》
+
+* [图解优秀软件设计人员的8个习惯](https://www.infoq.cn/article/x7NLxYDHbxHRmhWCARkW?utm_source=feedly&utm_medium=article)
+  * 让用户参与
+  * 设计优雅的抽象
+  * 专注于本质
+  * 不断模拟
+  * 环顾四周
+  * 重塑问题空间
+  * 视错误为机遇
+  * 好好考虑他们没有设计的东西
