@@ -361,3 +361,9 @@
 * [Sean Hughes](https://simple.wikipedia.org/wiki/Sean_Hughes)
 * [St. Catherines Island](https://simple.wikipedia.org/wiki/St._Catherines_Island)
 * [Elliot Richardson](https://simple.wikipedia.org/wiki/Elliot_Richardson)
+
+## 2019.10.31
+
+* [Honoré de Balzac](https://simple.wikipedia.org/wiki/Honor%C3%A9_de_Balzac)
+* [The Streets](https://simple.wikipedia.org/wiki/The_Streets)
+* [Lasne](https://simple.wikipedia.org/wiki/Lasne)
