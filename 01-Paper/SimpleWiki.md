@@ -367,3 +367,9 @@
 * [Honoré de Balzac](https://simple.wikipedia.org/wiki/Honor%C3%A9_de_Balzac)
 * [The Streets](https://simple.wikipedia.org/wiki/The_Streets)
 * [Lasne](https://simple.wikipedia.org/wiki/Lasne)
+
+## 2019.11.1
+
+* [Grammar](https://simple.wikipedia.org/wiki/Grammar)
+* [National library](https://simple.wikipedia.org/wiki/National_library)
+* [Radford, Virginia](https://simple.wikipedia.org/wiki/Radford,_Virginia)
