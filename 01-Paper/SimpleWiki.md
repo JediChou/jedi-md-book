@@ -373,3 +373,9 @@
 * [Grammar](https://simple.wikipedia.org/wiki/Grammar)
 * [National library](https://simple.wikipedia.org/wiki/National_library)
 * [Radford, Virginia](https://simple.wikipedia.org/wiki/Radford,_Virginia)
+
+## 2019.11.4
+
+* [Zakat](https://simple.wikipedia.org/wiki/Zakat)
+* [313](https://simple.wikipedia.org/wiki/313)
+* [Mycenae]()
