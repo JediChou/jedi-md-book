@@ -378,4 +378,10 @@
 
 * [Zakat](https://simple.wikipedia.org/wiki/Zakat)
 * [313](https://simple.wikipedia.org/wiki/313)
-* [Mycenae]()
+
+## 2019.11.5
+
+* [Five color theorem](https://simple.wikipedia.org/wiki/Five_color_theorem)
+* [Wayne Morris (American actor)](https://simple.wikipedia.org/wiki/Wayne_Morris_(American_actor))
+* [Gili Islands](https://simple.wikipedia.org/wiki/Gili_Islands)
+* [Unconditionally](https://simple.wikipedia.org/wiki/Unconditionally)
