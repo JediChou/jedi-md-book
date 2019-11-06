@@ -385,3 +385,9 @@
 * [Wayne Morris (American actor)](https://simple.wikipedia.org/wiki/Wayne_Morris_(American_actor))
 * [Gili Islands](https://simple.wikipedia.org/wiki/Gili_Islands)
 * [Unconditionally](https://simple.wikipedia.org/wiki/Unconditionally)
+
+## 2019.11.6
+
+* [Heard Island and McDonald Islands](https://simple.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands)
+* [Saint-Florent, Haute-Corse](https://simple.wikipedia.org/wiki/Saint-Florent,_Haute-Corse)
+* [Santiago Metropolitan Region](https://simple.wikipedia.org/wiki/Santiago_Metropolitan_Region)

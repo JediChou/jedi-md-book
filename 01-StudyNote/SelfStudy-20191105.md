@@ -31,6 +31,6 @@ Author: Jedi Chou, Create at 2019.11.5 11:12 AM
     * A woman with a rare genetic mutation that has protected her from dementia
     * A new book on cannibalism in the 1921 Soviet famine
     * I don't do riddles, Candidate, Faust
-  * reading: Canary, curious, Converge
+  * reading: Canary, curious, Converge, reinvent
 
 * [JRuby](https://www.jruby.org/)
