@@ -391,3 +391,9 @@
 * [Heard Island and McDonald Islands](https://simple.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands)
 * [Saint-Florent, Haute-Corse](https://simple.wikipedia.org/wiki/Saint-Florent,_Haute-Corse)
 * [Santiago Metropolitan Region](https://simple.wikipedia.org/wiki/Santiago_Metropolitan_Region)
+
+## 2019.11.7
+
+* [Polonaise (clothing)](https://simple.wikipedia.org/wiki/Polonaise_(clothing))
+* [Premier of Nova Scotia](https://simple.wikipedia.org/wiki/Premier_of_Nova_Scotia)
+* [Subspecies](https://simple.wikipedia.org/wiki/Subspecies)
