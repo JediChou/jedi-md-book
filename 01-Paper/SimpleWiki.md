@@ -397,3 +397,9 @@
 * [Polonaise (clothing)](https://simple.wikipedia.org/wiki/Polonaise_(clothing))
 * [Premier of Nova Scotia](https://simple.wikipedia.org/wiki/Premier_of_Nova_Scotia)
 * [Subspecies](https://simple.wikipedia.org/wiki/Subspecies)
+
+## 2019.11.8
+
+* [September Affair](https://simple.wikipedia.org/wiki/September_Affair)
+* [Hellraiser](https://simple.wikipedia.org/wiki/Hellraiser)
+* [Hilleste](https://simple.wikipedia.org/wiki/Hilleste)
