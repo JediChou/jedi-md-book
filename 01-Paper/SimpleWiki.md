@@ -403,3 +403,9 @@
 * [September Affair](https://simple.wikipedia.org/wiki/September_Affair)
 * [Hellraiser](https://simple.wikipedia.org/wiki/Hellraiser)
 * [Hilleste](https://simple.wikipedia.org/wiki/Hilleste)
+
+## 2019.11.11
+
+* [Gadolinium](https://simple.wikipedia.org/wiki/Gadolinium)
+* [Öland](https://simple.wikipedia.org/wiki/%C3%96land)
+* [Aiguille de Chambeyron](https://simple.wikipedia.org/wiki/Aiguille_de_Chambeyron)
