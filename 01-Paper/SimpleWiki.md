@@ -409,3 +409,9 @@
 * [Gadolinium](https://simple.wikipedia.org/wiki/Gadolinium)
 * [Öland](https://simple.wikipedia.org/wiki/%C3%96land)
 * [Aiguille de Chambeyron](https://simple.wikipedia.org/wiki/Aiguille_de_Chambeyron)
+
+## 2019.11.12
+
+* [Ian Lawrence](https://simple.wikipedia.org/wiki/Ian_Lawrence)
+* [Laura Marling](https://simple.wikipedia.org/wiki/Laura_Marling)
+* [Namibia](https://simple.wikipedia.org/wiki/Namibia)
