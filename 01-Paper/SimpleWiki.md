@@ -415,3 +415,9 @@
 * [Ian Lawrence](https://simple.wikipedia.org/wiki/Ian_Lawrence)
 * [Laura Marling](https://simple.wikipedia.org/wiki/Laura_Marling)
 * [Namibia](https://simple.wikipedia.org/wiki/Namibia)
+
+## 2019.11.13
+
+* [Lovelace (movie)](https://simple.wikipedia.org/wiki/Lovelace_(movie))
+* [Howard Cooke](https://simple.wikipedia.org/wiki/Howard_Cooke)
+* [34 BC](https://simple.wikipedia.org/wiki/34_BC)
