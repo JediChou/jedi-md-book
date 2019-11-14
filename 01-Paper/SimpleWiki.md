@@ -421,3 +421,9 @@
 * [Lovelace (movie)](https://simple.wikipedia.org/wiki/Lovelace_(movie))
 * [Howard Cooke](https://simple.wikipedia.org/wiki/Howard_Cooke)
 * [34 BC](https://simple.wikipedia.org/wiki/34_BC)
+
+## 2019.11.14
+
+* [British Rail Class EE1](https://simple.wikipedia.org/wiki/British_Rail_Class_EE1)
+* [West Ham](https://simple.wikipedia.org/wiki/West_Ham)
+* [Evacuation](https://simple.wikipedia.org/wiki/Evacuation)

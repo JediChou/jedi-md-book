@@ -28,3 +28,11 @@ Author: Jedi Chou, Create at 2019.11.13 8:03 AM
 
 * Words
   reading
+
+* 数据仓库的迁移策略, PerfDog, C++ duilib
+* 10.134.184.182
+* Jedi: electron类技术并不值得称道
+* Jedi: 如何用typescript来创建electron程序
+* Jedi: DynaTrace如果想大一统APM，那一定会死翘翘
+* Jedi: DynaTrace提出——自主云管理概念（Autonomous Cloud Management, ACM）
+* Jedi: 用Python编写一个AI，然后让AI为我们创建一个ASP.NET MVC的Web Page Template with xxx Style.
