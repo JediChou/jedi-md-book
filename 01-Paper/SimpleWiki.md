@@ -427,3 +427,9 @@
 * [British Rail Class EE1](https://simple.wikipedia.org/wiki/British_Rail_Class_EE1)
 * [West Ham](https://simple.wikipedia.org/wiki/West_Ham)
 * [Evacuation](https://simple.wikipedia.org/wiki/Evacuation)
+
+## 2019.11.15
+
+* [Yankee](https://simple.wikipedia.org/wiki/Yankee)
+* [Cape Horn](https://simple.wikipedia.org/wiki/Cape_Horn)
+* [Dirty rap](https://simple.wikipedia.org/wiki/Dirty_rap)
