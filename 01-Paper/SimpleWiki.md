@@ -433,3 +433,9 @@
 * [Yankee](https://simple.wikipedia.org/wiki/Yankee)
 * [Cape Horn](https://simple.wikipedia.org/wiki/Cape_Horn)
 * [Dirty rap](https://simple.wikipedia.org/wiki/Dirty_rap)
+
+## 2019.11.18
+
+* [Sangharakshita](https://simple.wikipedia.org/wiki/Sangharakshita)
+* [Dixon S. Miles](https://simple.wikipedia.org/wiki/Dixon_S._Miles)
+* [Orange Range](https://simple.wikipedia.org/wiki/Orange_Range)
