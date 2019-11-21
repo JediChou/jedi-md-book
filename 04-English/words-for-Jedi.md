@@ -402,3 +402,16 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * perception
 * orchestra
 * accelerated
+
+## 2019-11-20
+
+* canton
+* pharmacist
+* co-hosts
+
+## 2019-11-21
+
+* Furniture
+* dam
+* kerchief
+* comrade

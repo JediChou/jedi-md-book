@@ -439,3 +439,21 @@
 * [Sangharakshita](https://simple.wikipedia.org/wiki/Sangharakshita)
 * [Dixon S. Miles](https://simple.wikipedia.org/wiki/Dixon_S._Miles)
 * [Orange Range](https://simple.wikipedia.org/wiki/Orange_Range)
+
+## 2019.11.19
+
+* [Deus Ex](https://simple.wikipedia.org/wiki/Deus_Ex)
+* [Tennant Creek, Northern Territory](https://simple.wikipedia.org/wiki/Tennant_Creek,_Northern_Territory)
+
+## 2019.11.20
+
+* [Otto Carius](https://simple.wikipedia.org/wiki/Otto_Carius)
+* [Saints Cyril and Methodius](https://simple.wikipedia.org/wiki/Saints_Cyril_and_Methodius)
+* [WarioWare DIY](https://simple.wikipedia.org/wiki/WarioWare_DIY)
+* [Joy Behar](https://simple.wikipedia.org/wiki/Joy_Behar)
+
+## 2019.11.21
+
+* [Katherine Mansfield](https://simple.wikipedia.org/wiki/Katherine_Mansfield)
+* [Dairy Queen](https://simple.wikipedia.org/wiki/Dairy_Queen)
+* [Chiniot Tehsil](https://simple.wikipedia.org/wiki/Chiniot_Tehsil)
