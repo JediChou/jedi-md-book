@@ -457,3 +457,9 @@
 * [Katherine Mansfield](https://simple.wikipedia.org/wiki/Katherine_Mansfield)
 * [Dairy Queen](https://simple.wikipedia.org/wiki/Dairy_Queen)
 * [Chiniot Tehsil](https://simple.wikipedia.org/wiki/Chiniot_Tehsil)
+
+## 2019.11.25
+
+* [Big Van Vader](https://simple.wikipedia.org/wiki/Big_Van_Vader)
+* [Claude Le Jeune](https://simple.wikipedia.org/wiki/Claude_Le_Jeune)
+* [For Life](https://simple.wikipedia.org/wiki/For_Life)
