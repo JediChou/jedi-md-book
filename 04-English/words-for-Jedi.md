@@ -419,3 +419,26 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 ## 2019-11-25
 
 * floodgates
+
+## 2019-11-26
+
+* maritime
+* invade, invading
+* former
+* aquatic
+* amphibian
+* deprecation
+* reduce
+* oversight
+* buggy
+* individual
+* toggle
+* rollover
+* convince, convinced
+* Periodically
+
+## 2019-11-27
+
+* locomotive
+* milkweed, milkweed plant, Purple Milkweed
+* incremental

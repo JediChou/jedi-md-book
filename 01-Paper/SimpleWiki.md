@@ -463,3 +463,15 @@
 * [Big Van Vader](https://simple.wikipedia.org/wiki/Big_Van_Vader)
 * [Claude Le Jeune](https://simple.wikipedia.org/wiki/Claude_Le_Jeune)
 * [For Life](https://simple.wikipedia.org/wiki/For_Life)
+
+## 2019.11.26
+
+* [Bert Diaries](https://simple.wikipedia.org/wiki/Bert_Diaries)
+* [War of 1812](https://simple.wikipedia.org/wiki/War_of_1812)
+* [Giant salamander](https://simple.wikipedia.org/wiki/Giant_salamander)
+
+## 2019.11.27
+
+* [Hirson](https://simple.wikipedia.org/wiki/Hirson)
+* [British Rail 11104](https://simple.wikipedia.org/wiki/British_Rail_11104)
+* [Asclepias cordifolia](https://simple.wikipedia.org/wiki/Asclepias_cordifolia)
