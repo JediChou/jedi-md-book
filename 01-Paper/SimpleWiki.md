@@ -475,3 +475,9 @@
 * [Hirson](https://simple.wikipedia.org/wiki/Hirson)
 * [British Rail 11104](https://simple.wikipedia.org/wiki/British_Rail_11104)
 * [Asclepias cordifolia](https://simple.wikipedia.org/wiki/Asclepias_cordifolia)
+
+## 2019.11.28
+
+* [Baseball-Reference.com](https://simple.wikipedia.org/wiki/Baseball-Reference.com)
+* [Captain](https://simple.wikipedia.org/wiki/Captain)
+* [Robert Plant](https://simple.wikipedia.org/wiki/Robert_Plant)

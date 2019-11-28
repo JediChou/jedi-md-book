@@ -442,3 +442,16 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * locomotive
 * milkweed, milkweed plant, Purple Milkweed
 * incremental
+
+## 2019-11-28
+
+* splurge
+* endrores
+* How mantis shrimp make sense of the world
+* Ketogenic
+* annotate
+* intimate - cozy
+* feast - banquet
+* stink - odor
+* lahman
+* and toured with her in 2008
