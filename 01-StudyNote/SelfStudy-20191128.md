@@ -23,3 +23,25 @@ Author: Jedi Chou, Create at 2019.11.28 8:02 AM
 
 * Weekly review
   * Read a thesis and don't record
+
+## Other
+
+* Python图像处理入门
+  * 课程介绍及环境设置
+  * 计算机视觉及OpenCV基础
+  * 基本图像处理
+  * 图像分割及边缘提取
+  * 利用OpenCV实现对象侦测
+  * 对象侦测实作
+  * 扩增实境
+  * 物体追踪及动作分析
+
+* Data Technology—基础数据统计
+  * 流程概念
+  * 数据类型
+  * 数据分析要素
+  * 数据采集
+  * 数据相关性的图形分析
+
+* 懒模块? 数据脱敏?
+* [CMDB](https://baike.baidu.com/item/CMDB)
