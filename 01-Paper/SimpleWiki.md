@@ -481,3 +481,9 @@
 * [Baseball-Reference.com](https://simple.wikipedia.org/wiki/Baseball-Reference.com)
 * [Captain](https://simple.wikipedia.org/wiki/Captain)
 * [Robert Plant](https://simple.wikipedia.org/wiki/Robert_Plant)
+
+## 2019.11.29
+
+* [Wario World](https://simple.wikipedia.org/wiki/Wario_World)
+* [Freshwater biology](https://simple.wikipedia.org/wiki/Freshwater_biology)
+* [Nintendo GameCube](https://simple.wikipedia.org/wiki/Nintendo_GameCube)

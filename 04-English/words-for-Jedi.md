@@ -455,3 +455,28 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * stink - odor
 * lahman
 * and toured with her in 2008
+
+## 2019-11-29
+
+* embryos
+* Siberia: 18,000-year-old frozen 'dog' stumps scientists
+* Swimmers Beware of Deep Brain Stimulation
+* The Science of Curing Aging (2018)
+* Boeing 777X’s fuselage split dramatically during September stress test
+* What’s happens if SAT scores considers adversity
+* Show HN: Building websites from Sketch using deep learning – public launch
+* Jones on computer science in school curriculums
+* After WeWork, SoftBank’s Startup Bookkeeping Draws Scrutiny
+* Paradoxical Geniuses: “Let us burn the ships” (2017)
+* Why does the Librem 5 phone cost that much?
+* Domes are overrated
+* mental mountains
+* Show HN: A live-drawn portrait of the common face
+* treasure
+* Reception
+* climate change
+* The GameCube's controllers have two analog joysticks.
+* rancid
+  * What plant may cure Alzheimer's disease, increase circulation, tastes like almonds and smells like rancid butter?
+
+* disputed
