@@ -192,3 +192,5 @@
 * Jedi: 重要选项要勾选上
   * 侦错 -> 一般 -> 启用Just My Code（仅限Managed）
   * 侦错 -> 一般 -> 启用来源伺服器支援
+
+* Jedi: 似乎没有办法Step Into到DataSet的构造方法、File中的静态方法中去；
