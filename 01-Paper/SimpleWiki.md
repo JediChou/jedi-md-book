@@ -487,3 +487,9 @@
 * [Wario World](https://simple.wikipedia.org/wiki/Wario_World)
 * [Freshwater biology](https://simple.wikipedia.org/wiki/Freshwater_biology)
 * [Nintendo GameCube](https://simple.wikipedia.org/wiki/Nintendo_GameCube)
+
+## 2019.12.3
+
+* [Fire sprinkler](https://simple.wikipedia.org/wiki/Fire_sprinkler)
+* [Survival horror](https://simple.wikipedia.org/wiki/Survival_horror)
+* [ColecoVision](https://simple.wikipedia.org/wiki/ColecoVision)
