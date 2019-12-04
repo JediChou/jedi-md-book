@@ -493,3 +493,12 @@
 * [Fire sprinkler](https://simple.wikipedia.org/wiki/Fire_sprinkler)
 * [Survival horror](https://simple.wikipedia.org/wiki/Survival_horror)
 * [ColecoVision](https://simple.wikipedia.org/wiki/ColecoVision)
+
+## 2019.12.4
+
+* [Chloroflexi](https://simple.wikipedia.org/wiki/Chloroflexi)
+* [Bacon number](https://simple.wikipedia.org/wiki/Bacon_number)
+* [Languages of Afghanistan](https://simple.wikipedia.org/wiki/Languages_of_Afghanistan)
+
+* Words
+  * bacteria

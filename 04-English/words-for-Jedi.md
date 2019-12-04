@@ -484,3 +484,8 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 ## 2019-12-2
 
 * Seductive, Seductive girl
+
+## 2019.12.4
+
+* deboost
+* foul
