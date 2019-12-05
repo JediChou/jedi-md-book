@@ -489,3 +489,13 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 
 * deboost
 * foul
+
+## 2019.12.5
+
+* dehydration
+* Attendance
+* overturn
+* incognito
+* howl, wail
+* Paralympics
+* cross-country skier

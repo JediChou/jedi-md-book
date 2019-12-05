@@ -502,3 +502,9 @@
 
 * Words
   * bacteria
+
+## 2019.12.5
+
+* [Bengt Hassis](https://simple.wikipedia.org/wiki/Bengt_Hassis)
+* [1976 Summer Paralympics](https://simple.wikipedia.org/wiki/1976_Summer_Paralympics)
+* [Windward Islands](https://simple.wikipedia.org/wiki/Windward_Islands)
