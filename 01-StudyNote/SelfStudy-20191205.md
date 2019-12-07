@@ -28,3 +28,4 @@ Author: Jedi Chou, Create at 2019.12.4 8:05 AM
 
 * PPT的配色方案如何做（带小色盘的那个）？
 * WinDbg的下载似乎很难找
+* Linux date: date "+%Y-%m-%d %H:%M:%S"

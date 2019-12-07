@@ -508,3 +508,12 @@
 * [Bengt Hassis](https://simple.wikipedia.org/wiki/Bengt_Hassis)
 * [1976 Summer Paralympics](https://simple.wikipedia.org/wiki/1976_Summer_Paralympics)
 * [Windward Islands](https://simple.wikipedia.org/wiki/Windward_Islands)
+
+## 2019.12.7
+
+* [Moonwalker](https://simple.wikipedia.org/wiki/Moonwalker)
+* [Olympe de Gouges](https://simple.wikipedia.org/wiki/Olympe_de_Gouges)
+* [Naan](https://simple.wikipedia.org/wiki/Naan)
+* [Apricot](https://simple.wikipedia.org/wiki/Apricot)
+* [Mikhail Botvinnik](https://simple.wikipedia.org/wiki/Mikhail_Botvinnik)
+* [Yiddish](https://simple.wikipedia.org/wiki/Yiddish)
