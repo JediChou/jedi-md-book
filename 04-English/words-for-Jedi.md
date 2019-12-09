@@ -507,3 +507,10 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * Naan bread is made from basic bread ingredients like wheat flour, yeast, salt, and butter or ghee.
 * yogurt
 * chamber music
+
+## 2019.12.9
+
+* submarine
+* torpedo
+* diesel-electric
+* blockade

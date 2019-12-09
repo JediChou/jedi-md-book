@@ -517,3 +517,9 @@
 * [Apricot](https://simple.wikipedia.org/wiki/Apricot)
 * [Mikhail Botvinnik](https://simple.wikipedia.org/wiki/Mikhail_Botvinnik)
 * [Yiddish](https://simple.wikipedia.org/wiki/Yiddish)
+
+## 2019.12.9
+
+* [Submarine](https://simple.wikipedia.org/wiki/Submarine)
+* [Passerida](https://simple.wikipedia.org/wiki/Passerida)
+* []()
