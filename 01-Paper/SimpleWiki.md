@@ -522,4 +522,10 @@
 
 * [Submarine](https://simple.wikipedia.org/wiki/Submarine)
 * [Passerida](https://simple.wikipedia.org/wiki/Passerida)
-* []()
+
+## 2019.12.10
+
+* [Bais, Mayenne](https://simple.wikipedia.org/wiki/Bais,_Mayenne)
+* [Zinc sulfate](https://simple.wikipedia.org/wiki/Zinc_sulfate)
+* [Quinsac, Gironde](https://simple.wikipedia.org/wiki/Quinsac,_Gironde)
+* [1280s](https://simple.wikipedia.org/wiki/1280s)
