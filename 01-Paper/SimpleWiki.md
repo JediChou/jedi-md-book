@@ -529,3 +529,9 @@
 * [Zinc sulfate](https://simple.wikipedia.org/wiki/Zinc_sulfate)
 * [Quinsac, Gironde](https://simple.wikipedia.org/wiki/Quinsac,_Gironde)
 * [1280s](https://simple.wikipedia.org/wiki/1280s)
+
+## 2019.12.11
+
+* [Académie de l'air et de l'espace](https://simple.wikipedia.org/wiki/Acad%C3%A9mie_de_l%27air_et_de_l%27espace)
+* [Office of Public Works](https://simple.wikipedia.org/wiki/Office_of_Public_Works)
+* [Bouches-du-Rhône](https://simple.wikipedia.org/wiki/Bouches-du-Rh%C3%B4ne)
