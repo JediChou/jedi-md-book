@@ -514,3 +514,11 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * torpedo
 * diesel-electric
 * blockade
+
+## 2019.12.12
+
+* fermented 发酵
+* koji 发酵菌（类似酒曲）
+* Shrink 收缩
+* stink, 臭 - stench, 恶臭
+* misty 模糊不清

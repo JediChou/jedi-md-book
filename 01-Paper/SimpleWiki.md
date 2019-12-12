@@ -535,3 +535,9 @@
 * [Académie de l'air et de l'espace](https://simple.wikipedia.org/wiki/Acad%C3%A9mie_de_l%27air_et_de_l%27espace)
 * [Office of Public Works](https://simple.wikipedia.org/wiki/Office_of_Public_Works)
 * [Bouches-du-Rhône](https://simple.wikipedia.org/wiki/Bouches-du-Rh%C3%B4ne)
+
+## 2019.12.12
+
+* [Aveyron](https://simple.wikipedia.org/wiki/Aveyron)
+* [VCard](https://simple.wikipedia.org/wiki/VCard)
+* [Kōji](https://simple.wikipedia.org/wiki/K%C5%8Dji)
