@@ -541,3 +541,9 @@
 * [Aveyron](https://simple.wikipedia.org/wiki/Aveyron)
 * [VCard](https://simple.wikipedia.org/wiki/VCard)
 * [Kōji](https://simple.wikipedia.org/wiki/K%C5%8Dji)
+
+## 2019.12.13
+
+* [Weymouth, Nova Scotia](https://simple.wikipedia.org/wiki/Weymouth,_Nova_Scotia)
+* [1935 Labor Day Hurricane](https://simple.wikipedia.org/wiki/1935_Labor_Day_Hurricane)
+* [Crumpet](https://simple.wikipedia.org/wiki/Crumpet)
