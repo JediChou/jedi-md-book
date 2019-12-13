@@ -36,3 +36,6 @@ Author: Jedi Chou, Create at 2019.12.12 7:51 AM
   * Use SQL Developer Web to Create Data Model
   * Create and Modify APEX Application
   * Jedi: Notes, Pls care about those contents.
+
+* Jedi: New Idea, Write a program to auto generate project file or schedule for team work.
+* Jedi: Actually, my first hobby is information security.
