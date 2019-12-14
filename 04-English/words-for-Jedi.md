@@ -540,3 +540,8 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * Shrink 收缩
 * stink, 臭 - stench, 恶臭
 * misty 模糊不清
+
+## 2019.12.14
+
+* disparity：差距
+* indirect

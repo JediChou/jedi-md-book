@@ -547,3 +547,9 @@
 * [Weymouth, Nova Scotia](https://simple.wikipedia.org/wiki/Weymouth,_Nova_Scotia)
 * [1935 Labor Day Hurricane](https://simple.wikipedia.org/wiki/1935_Labor_Day_Hurricane)
 * [Crumpet](https://simple.wikipedia.org/wiki/Crumpet)
+
+## 2019.12.14
+
+* [Panch Pargana Kisan College](https://simple.wikipedia.org/wiki/Panch_Pargana_Kisan_College)
+* [Bat'leth](https://simple.wikipedia.org/wiki/Bat%27leth)
+* [Biophilia](https://simple.wikipedia.org/wiki/Biophilia)
