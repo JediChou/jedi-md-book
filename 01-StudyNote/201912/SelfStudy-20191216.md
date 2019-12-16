@@ -18,7 +18,7 @@ Author: Jedi Chou, Create at 2019.12.16 8:00 AM
 
   * Reading
     * 163.com mail. 9:08
-    * Feedly RSS. 10:18
+    * Feedly RSS. 10:18, 17:48
 
 * Weekly review
   * Read a thesis and don't record
@@ -27,3 +27,6 @@ Author: Jedi Chou, Create at 2019.12.16 8:00 AM
 ## Other
 
 * 要专门学一下Logo设计
+* 完成Feedly中Read Later的清理. 17:16
+* 下载了iSlide来用用. 17:44
+* 将WSL中的TypeScript升级至3.7.3 17:47
