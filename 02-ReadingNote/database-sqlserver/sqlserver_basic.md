@@ -130,7 +130,6 @@
 
 * The author create 5 user for those SQL basic services.
 
-
 ### 2.3 Installation
 
 * section metadata
@@ -217,7 +216,6 @@
 * Analysis exam papers for Cici 15:22
 * Jedi: tell us how to open sql server configuration tools
 * Jedi: connect to database engine use SSMT
-
 
 ### 2.5 Sample Database
 
@@ -504,7 +502,6 @@ variable length   nvarchar         varchar
 
 * Check SQL Server Books Online!
 
-
 ### 4.5 Keys
 
 * section metadata
@@ -515,7 +512,6 @@ variable length   nvarchar         varchar
 
 * primary key
   * identity specification (is identity)
-
 
 ### 4.6 default value
 
@@ -553,7 +549,6 @@ variable length   nvarchar         varchar
   * Type: Primary Key
 * Create a unique, and name it IX_ProductName
 
-
 ### 4.9 Creating Relationships - introduce
 
 * section metadata
@@ -579,7 +574,6 @@ variable length   nvarchar         varchar
 * Lab: Add a foreign key and some foreign data duplicate.
 * To 04:52
 
-
 71929_04_11_SC12_NORMALIZE.mov
 71929_04_12_SC12_COMPUTED.mov
 
@@ -601,4 +595,3 @@ variable length   nvarchar         varchar
 71929_06_07_SC12_DISTINCT.mov
 71929_06_08_SC12_JOIN.mov
 71929_06_09_SC12_SUBQUERY.mov
-

@@ -133,9 +133,10 @@ explorer.exe                  3848 ntdll.dll, kernel32.dll, KERNELBASE.dll,
     ```
 
     可以在这个窗口上导出rsp文件，相关rsp信息如下：
+
     ```text
     #-------------------------------------------------------------------------------
-    # Do not change the following system generated value. 
+    # Do not change the following system generated value.
     #-------------------------------------------------------------------------------
     oracle.install.responseFileVersion=/oracle/install/rspfmt_dbinstall_response_schema_v11_2_0
 
@@ -148,8 +149,8 @@ explorer.exe                  3848 ntdll.dll, kernel32.dll, KERNELBASE.dll,
     oracle.install.option=INSTALL_DB_SWONLY
 
     #-------------------------------------------------------------------------------
-    # This variable holds the hostname of the system as set by the user. 
-    # It can be used to force the installation to use an alternative   
+    # This variable holds the hostname of the system as set by the user.
+    # It can be used to force the installation to use an alternative
     # hostname rather than using the first hostname found on the system
     # (e.g., for systems with multiple hostnames and network interfaces).
     #-------------------------------------------------------------------------------
@@ -177,22 +178,22 @@ explorer.exe                  3848 ntdll.dll, kernel32.dll, KERNELBASE.dll,
     # pt_BR: Brazilian Portuguese     lt   : Lithuanian
     # bg   : Bulgarian                ms   : Malay
     # fr_CA: Canadian French          es_MX: Mexican Spanish
-    # ca   : Catalan                  no   : Norwegian                 
-    # hr   : Croatian                 pl   : Polish                    
-    # cs   : Czech                    pt   : Portuguese                
-    # da   : Danish                   ro   : Romanian                  
-    # nl   : Dutch                    ru   : Russian                   
-    # ar_EG: Egyptian                 zh_CN: Simplified Chinese        
-    # en_GB: English (Great Britain)  sk   : Slovak                    
-    # et   : Estonian                 sl   : Slovenian                 
-    # fi   : Finnish                  es_ES: Spanish                   
-    # de   : German                   sv   : Swedish                   
-    # el   : Greek                    th   : Thai                      
-    # iw   : Hebrew                   zh_TW: Traditional Chinese       
-    # hu   : Hungarian                tr   : Turkish                   
-    # is   : Icelandic                uk   : Ukrainian                 
-    # in   : Indonesian               vi   : Vietnamese                
-    # it   : Italian                                                   
+    # ca   : Catalan                  no   : Norwegian
+    # hr   : Croatian                 pl   : Polish
+    # cs   : Czech                    pt   : Portuguese
+    # da   : Danish                   ro   : Romanian
+    # nl   : Dutch                    ru   : Russian
+    # ar_EG: Egyptian                 zh_CN: Simplified Chinese
+    # en_GB: English (Great Britain)  sk   : Slovak
+    # et   : Estonian                 sl   : Slovenian
+    # fi   : Finnish                  es_ES: Spanish
+    # de   : German                   sv   : Swedish
+    # el   : Greek                    th   : Thai
+    # iw   : Hebrew                   zh_TW: Traditional Chinese
+    # hu   : Hungarian                tr   : Turkish
+    # is   : Icelandic                uk   : Ukrainian
+    # in   : Indonesian               vi   : Vietnamese
+    # it   : Italian
     #
     # Example : SELECTED_LANGUAGES=en,fr,ja
     #-------------------------------------------------------------------------------
@@ -204,16 +205,16 @@ explorer.exe                  3848 ntdll.dll, kernel32.dll, KERNELBASE.dll,
     ORACLE_HOME=D:\app2\mis\product\11.2.0\dbhome_1
 
     #-------------------------------------------------------------------------------
-    # Complete path of the Oracle Base. 
+    # Complete path of the Oracle Base.
     #-------------------------------------------------------------------------------
     ORACLE_BASE=D:\app2\mis
 
     #-------------------------------------------------------------------------------
-    # Installation Edition of the component.                        
-    #                                                             
-    # The value should contain only one of these choices.        
-    # EE     : Enterprise Edition                                
-    # SE     : Standard Edition                                  
+    # Installation Edition of the component.
+    #
+    # The value should contain only one of these choices.
+    # EE     : Enterprise Edition
+    # SE     : Standard Edition
     # SEONE  : Standard Edition One
     # PE     : Personal Edition (WINDOWS ONLY)
     #-------------------------------------------------------------------------------
@@ -229,7 +230,7 @@ explorer.exe                  3848 ntdll.dll, kernel32.dll, KERNELBASE.dll,
     oracle.install.db.isCustomInstall=false
 
     #-------------------------------------------------------------------------------
-    # This property is considered only if 'IsCustomInstall' is set to true 
+    # This property is considered only if 'IsCustomInstall' is set to true
     #
     # Description: List of Enterprise Edition Options you would like to install.
     #
@@ -288,7 +289,7 @@ explorer.exe                  3848 ntdll.dll, kernel32.dll, KERNELBASE.dll,
     oracle.install.db.config.starterdb.globalDBName=
 
     #-------------------------------------------------------------------------------
-    # The Starter Database SID 
+    # The Starter Database SID
     #-------------------------------------------------------------------------------
     oracle.install.db.config.starterdb.SID=
 
@@ -322,8 +323,8 @@ explorer.exe                  3848 ntdll.dll, kernel32.dll, KERNELBASE.dll,
 
     #-------------------------------------------------------------------------------
     # This include enabling audit settings, configuring password  
-    # profiles and revoking some grants to public. These settings 
-    # are provided by default.  You may choose to disable all.    
+    # profiles and revoking some grants to public. These settings
+    # are provided by default.  You may choose to disable all.
     #-------------------------------------------------------------------------------
     oracle.install.db.config.starterdb.enableSecuritySettings=true
 
@@ -343,10 +344,10 @@ explorer.exe                  3848 ntdll.dll, kernel32.dll, KERNELBASE.dll,
     oracle.install.db.config.starterdb.password.DBSNMP=
 
     #-------------------------------------------------------------------------------
-    # Can be one of the following 
+    # Can be one of the following
     # 1. GRID_CONTROL
     # 2. DB_CONTROL
-    # 
+    #
     oracle.install.db.config.starterdb.control=DB_CONTROL
 
     #-------------------------------------------------------------------------------
@@ -387,14 +388,14 @@ explorer.exe                  3848 ntdll.dll, kernel32.dll, KERNELBASE.dll,
     # Database file location:
     # directory for datafiles, control files, redo logs.
     #
-    # Applicable only when oracle.install.db.config.starterdb.storage=FILE_SYSTEM_STORAGE 
+    # Applicable only when oracle.install.db.config.starterdb.storage=FILE_SYSTEM_STORAGE
     #-------------------------------------------------------------------------------
     oracle.install.db.config.starterdb.fileSystemStorage.dataLocation=
 
     #-------------------------------------------------------------------------------
     # Backup and recovery location
     #
-    # Applicable only when oracle.install.db.config.starterdb.storage=FILE_SYSTEM_STORAGE 
+    # Applicable only when oracle.install.db.config.starterdb.storage=FILE_SYSTEM_STORAGE
     #-------------------------------------------------------------------------------
     oracle.install.db.config.starterdb.fileSystemStorage.recoveryLocation=
 
@@ -406,9 +407,9 @@ explorer.exe                  3848 ntdll.dll, kernel32.dll, KERNELBASE.dll,
     oracle.install.db.config.asm.diskGroup=
 
     #-------------------------------------------------------------------------------
-    # Password for ASMSNMP user of the ASM instance.                  
+    # Password for ASMSNMP user of the ASM instance.
     #
-    # Applicable only when oracle.install.db.config.starterdb.storage=ASM_STORAGE 
+    # Applicable only when oracle.install.db.config.starterdb.storage=ASM_STORAGE
     #-------------------------------------------------------------------------------
     oracle.install.db.config.asm.ASMSNMPPassword=
 
@@ -450,14 +451,14 @@ explorer.exe                  3848 ntdll.dll, kernel32.dll, KERNELBASE.dll,
     #------------------------------------------------------------------------------
     # Specify the Proxy server name. Length should be greater than zero.
     #
-    # Example    : PROXY_HOST=proxy.domain.com 
+    # Example    : PROXY_HOST=proxy.domain.com
     #------------------------------------------------------------------------------
     PROXY_HOST=
 
     #------------------------------------------------------------------------------
     # Specify the proxy port number. Should be Numeric and atleast 2 chars.
     #
-    # Example    : PROXY_PORT=25 
+    # Example    : PROXY_PORT=25
     #------------------------------------------------------------------------------
     PROXY_PORT=
 
