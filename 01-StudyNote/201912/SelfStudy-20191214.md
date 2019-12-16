@@ -23,3 +23,10 @@ Author: Jedi Chou, Create at 2019.12.14 8:00 AM
 * Weekly review
   * Read a thesis and don't record
   * Open class APP by 163.com check-in
+
+## Others
+
+* How create a font for your application or web site ?
+* [About Linux CA](https://linux.cn/article-10921-1.html)
+* [How to use Python debugger for beginner](https://linux.cn/article-9979-1.html)
+* [Five small Linux distribution](https://linux.cn/article-11040-1.html)
