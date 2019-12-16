@@ -553,3 +553,9 @@
 * [Panch Pargana Kisan College](https://simple.wikipedia.org/wiki/Panch_Pargana_Kisan_College)
 * [Bat'leth](https://simple.wikipedia.org/wiki/Bat%27leth)
 * [Biophilia](https://simple.wikipedia.org/wiki/Biophilia)
+
+## 2019.12.16
+
+* [Leslie Mann](https://simple.wikipedia.org/wiki/Leslie_Mann)
+* [Intern](https://simple.wikipedia.org/wiki/Intern)
+* [Circa Survive](https://simple.wikipedia.org/wiki/Circa_Survive)
