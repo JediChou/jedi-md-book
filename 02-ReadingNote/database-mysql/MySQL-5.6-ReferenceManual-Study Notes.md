@@ -1,7 +1,7 @@
 # MySQL 5.6 Reference Manual - Study Notes
 
-Online Document: https://dev.mysql.com/doc/refman/5.6/en/installing.html
-Study by Jedi Chou
+* [Online Document](https://dev.mysql.com/doc/refman/5.6/en/installing.html)
+* Study by Jedi Chou
 
 * History, 2016.6.8 14:06, create document.
 
