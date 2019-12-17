@@ -1,5 +1,4 @@
-Linuxacademy.com - Scenario based, Linux Labs
-=============================================
+# Linuxacademy.com - Scenario based, Linux Labs
 
 * Configuring BIND 9 DNS
 * Configuring Ubuntu NFS Version 4
@@ -25,11 +24,3 @@ Linuxacademy.com - Scenario based, Linux Labs
 * Configure IPv6 Addresses and Perform Basic IPv6 Troubleshooting
 * Route IP Traffic and Create Static Routes
 * Use Networking Teaming or Bonding to Configure Aggregated Network Links Between RedHat Enterprise Linux System
-
-  
-  
-
-
-
-
-
