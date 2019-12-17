@@ -559,3 +559,9 @@
 * [Leslie Mann](https://simple.wikipedia.org/wiki/Leslie_Mann)
 * [Intern](https://simple.wikipedia.org/wiki/Intern)
 * [Circa Survive](https://simple.wikipedia.org/wiki/Circa_Survive)
+
+## 2018.12.17
+
+* [Shawn Drover](https://simple.wikipedia.org/wiki/Shawn_Drover)
+* [Sergio Echigo](https://simple.wikipedia.org/wiki/Sergio_Echigo)
+* [Apples, Vaud](https://simple.wikipedia.org/wiki/Apples,_Vaud)
