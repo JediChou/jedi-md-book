@@ -1,7 +1,8 @@
 # 極課學院-職業路徑圖-Web大前端工程師
 
 ## 初级WEB前端工程师
-* 走进前端工程师的世界(8:07) 
+
+* 走进前端工程师的世界(8:07)
 * BaiDu.com - F.I.S前端開發工具
 * TaoBao.com
 * Web2.qq.com/webqq.html
@@ -17,38 +18,41 @@
 ## HTML5
 
 ### 1. HTML5與HTML4的區別
+
 * video 1: 推出的理由及目标和语法的改变(7:42)
   * 推出的理由及目標-title
-	  * 兼容性低, 文檔結構不夠明確, Web應用程序的功能受到限制
-	  * 新API提供了新特性
+    * 兼容性低, 文檔結構不夠明確, Web應用程序的功能受到限制
+    * 新API提供了新特性
   * 語法的改變-title
-	  * 內容類型 (html, htm)
-	  * DOCTYPE生命 (<!doctype html>)
-	  * 指定字符編碼 (<meta charset="utf-8">)
-	  * 可以省略標記的元素 (more)
-	  * 具有boolean的屬性 (default value -> true, notice)
-	  * 省略引號 (結合上部分)
+    * 內容類型 (html, htm)
+    * DOCTYPE生命 (<!doctype html>)
+    * 指定字符編碼 (<meta charset="utf-8">)
+    * 可以省略標記的元素 (more)
+    * 具有boolean的屬性 (default value -> true, notice)
+    * 省略引號 (結合上部分)
   * Done at 2015-10-26 PM 12:59
+
 * video 2: 新增的元素和废除的元素以及新增的属性和废除的属性(4:33)
   * 新增的結構元素-Title
-	* section, article, aside, header, hgroup, footer, nav, figure
+    * section, article, aside, header, hgroup, footer, nav, figure
   * 新增的其他元素-Title
-	* video, audio, embed, mark, progress, meter, time, ruby, rt, rp, wbr
-	* canvas, command, details, datalist, datagrid, keygen, output, source
-	* menu
+    * video, audio, embed, mark, progress, meter, time, ruby, rt, rp, wbr
+    * canvas, command, details, datalist, datagrid, keygen, output, source
+    * menu
   * 新增的input元素的類型-Title
-	  * email, url, number, range, Date Pickers
-	  * 廢除的元素-Big title
-	  * 能使用CSS代替的元素 (basefont, big, center, font, s, tt, u)
-	  * 不再使用frame框架
-	  * 只有部分瀏覽器支持的元素
-	  * 其他被廢除的元素
+    * email, url, number, range, Date Pickers
+    * 廢除的元素-Big title
+    * 能使用CSS代替的元素 (basefont, big, center, font, s, tt, u)
+    * 不再使用frame框架
+    * 只有部分瀏覽器支持的元素
+    * 其他被廢除的元素
   * 新增的屬性和廢除的屬性-Title
-	  * 新增的屬性-表單相關的屬性
-	  * 新增的屬性-鏈接相關的屬性
-	  * 新增的屬性-其他屬性
-	  * 廢除的屬性(比較多，見課後資料)
+    * 新增的屬性-表單相關的屬性
+    * 新增的屬性-鏈接相關的屬性
+    * 新增的屬性-其他屬性
+    * 廢除的屬性(比較多，見課後資料)
   * Done at 2015-10-26 PM 13:09
+
 * viedo 3: 全局属性(7:40)
   * 可以對任何元素都適用的屬性
   * contentEditable (ms, 允許用戶編輯, 隱藏狀態, demo-可編輯列表)
@@ -95,32 +99,37 @@
 * video 5: time元素和pubdate屬性
   * 微格式, 利用class屬性實現, 現在使用是無歧義
   * time元素, 時間
-	  * demo-time
-	  ```html
-	  <time datetime="2015-10-10">2015-10-10</time>
-	  <time datetime="2015-10-10T20:00">2015-10-10</time>
-	  <time datetime="2015-10-10T20:00Z">2015-10-10</time>
-	  <time datetime="2015-10-10T20:00+09:00">2015-10-10</time>
-	  ```
-	  * Z->UTC標準時間, +09:00->時差
+    * demo-time
+
+    ```html
+    <time datetime="2015-10-10">2015-10-10</time>
+    <time datetime="2015-10-10T20:00">2015-10-10</time>
+    <time datetime="2015-10-10T20:00Z">2015-10-10</time>
+    <time datetime="2015-10-10T20:00+09:00">2015-10-10</time>
+    ```
+
+    * Z->UTC標準時間, +09:00->時差
+  
   * pubdate屬性
     * 可選屬性, article中使用
-	* demo-pubdate
-	```
-		<article>
-			<header>
-				<h1>Apple</h1>
-				<p>
-					<!-- pubdate用來明確發布時間 -->
-					<time datetime="2015-10-10" pubdate="true">2015-10-10</time>
-				</p>
-				<p>other event
-					<time datetime="2015-10-10">2015-10-10</time>
-				</p>
-			</header>
-		</article>
-	```
-   * Dont at 2015-10-26 14:22
+    * demo-pubdate
+
+    ```html
+    <article>
+        <header>
+            <h1>Apple</h1>
+            <p>
+                <!-- pubdate用來明確發布時間 -->
+                <time datetime="2015-10-10" pubdate="true">2015-10-10</time>
+            </p>
+            <p>other event
+                <time datetime="2015-10-10">2015-10-10</time>
+            </p>
+        </header>
+    </article>
+    ```
+
+    * Dont at 2015-10-26 14:22
 
 ### 3. HTML5 新增的的非主体结构元素
 
@@ -129,51 +138,59 @@
   * 具有引導和導航作用的結構元素, ex: 數據表格, 搜索表單, logo
   * notice: header可出現多次
   * demo-header
+  
+  ```html
+    <div class="header"></div>
+        <div class="content"></div>
+        <div class="footer"></div>
+
+        <!-- now is changed -->
+        <header>
+            <h1/><h2/>
+            <article>
+                <header>
+                    <h1></h1>
+                </header>
+            </article>
+        </header>
   ```
-      <div class="header"></div>
-	  <div class="content"></div>
-	  <div class="footer"></div>
-	  
-	  <!-- now is changed -->
-	  <header>
-	      <h1/><h2/>
-		  <article>
-		      <header>
-			      <h1></h1>
-			  </header>
-		  </article>
-	  </header>
-  ```
+
   * demo-site: www.ghostchina.com
+
   * demo-header 2:
+
+  ```html
+  <header>
+    <h1>it</h1>
+    <a href="http://www.jikexueyuan.com>jike xueyuan</a>
+    <nav>
+      <ul>
+        <li><a href="#>study</a></li>
+        <li><a href="#>tech</a></li>
+        <li><a href="#>geek</a></li>
+      </ul>
+    </nav>
+  </header>
   ```
-      <header>
-	      <h1>it</h1>
-		  <a href="http://www.jikexueyuan.com>jike xueyuan</a>
-		  <nav>
-			<ul>
-				<li><a href="#>study</a></li>
-				<li><a href="#>tech</a></li>
-				<li><a href="#>geek</a></li>
-			</ul>
-		  </nav>
-	  </header>
-  ```
+
   * Done at 2015-10-26 PM 14:32
 
 * video 2: footer元素和hgroup元素
   * footer, 作為上層父級內容區塊或是一個根區塊的腳註(作者,相關閱讀鏈接,版權信息)
-	  * demo-footer
-	  ```
-		 <!-- now is changed -->
-		 <footer>
-			 <ul>
-				<li><a href="#a">a</a></li>
-				<li><a href="#b">b</a></li>
-			 </ul>
-		 </footer>
-	  ```
-	  * notice: article, section也可以嵌套footer
+    * demo-footer
+
+    ```html
+    <!-- now is changed -->
+    <footer>
+      <ul>
+        <li><a href="#a">a</a></li>
+        <li><a href="#b">b</a></li>
+      </ul>
+    </footer>
+    ```
+
+  * notice: article, section也可以嵌套footer
+  
   * hgroup元素
 	  * hgroup標題及其子標題進行分組的元素, 將h1~h6元素進行分組
 	  * demo-hgroup
@@ -259,8 +276,9 @@
 				</footer>
 			</body>
 		```
-	* Done at 2015-10-26 PM 15:33
-	
+
+    * Done at 2015-10-26 PM 15:33
+
 ### 4.HTML5 表单新增元素与属性
 
 * video 1: form屬性和formaction屬性

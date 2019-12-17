@@ -1,5 +1,4 @@
-Linuxacademy.com - Scenario based, OpenStack Labs
-=================================================
+# Linuxacademy.com - Scenario based, OpenStack Labs
 
 * The OpenStack Lab Environment
 * Using the Dashboard as Non-Admin tenat Horizon  

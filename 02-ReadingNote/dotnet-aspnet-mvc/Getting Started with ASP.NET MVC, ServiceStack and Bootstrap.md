@@ -122,7 +122,7 @@
       * [link10](https://www.bootstrapzero.com/bootstrap-template/devaid)
       * [link11](https://startbootstrap.com/template-overviews/landing-page/)
       * [link12](http://www.themeum.com/wordpress/themes/starter-free-responsive-onepage-wordpress-theme/)
-      * [link13](Wordpress themes https://bootstrapmade.com/demo/ModernaWp/)
+      * [link13 Wordpress themes]( https://bootstrapmade.com/demo/ModernaWp/)
       * [link14](https://bootstrapmade.com/demo/Shuffle/)
       * [link15](https://bootstrapmade.com/demo/Bocor/)
       * [link16](http://demo.themeum.com/wordpress/flat-theme/)
@@ -166,7 +166,7 @@
     * include css tag
     * Copy from doctype tag to header end comment
   * Add @RenderBody() to file bottom
-  * Add footer html code to file bottom 
+  * Add footer html code to file bottom
   * Copy all js to to mvc project script directory
   * Create a Templates directory under mvc project content directory
   * Copy Metron font/img/style to content/Templates directory
@@ -323,7 +323,7 @@
       ```
 
   * Create SubMission class
-  * Create SubMissionResponse class 
+  * Create SubMissionResponse class
   * Create a service class
   * Add a global.asax file
   * Bind a route tag to Submission class
@@ -394,7 +394,7 @@
       // implement service call
       public ActionResult News()
       {
-        var service = new JsonServiceClient("http://localhost:59068");  // create object for call serverice 
+        var service = new JsonServiceClient("http://localhost:59068");  // create object for call serverice
         var storResponses = service.Post<List<StoryResponse>>("story"...); // get web service execute result
         ViewBag.Stories = storyResponses;  // save result to ViewBag
         return View(); // return view, and ViewBag will pass to web page.

@@ -4,13 +4,13 @@
 
 ## 1. MICROSERVICES AT A GLANCE
 
-### 1.1. What is a Microservice?
+### 1.1. What is a Microservice
 
-#### 1.1.1. What is a Microservices Architecture?
+#### 1.1.1. What is a Microservices Architecture
 
 #### 1.1.2. Microservice Characteristics
 
-### 1.2. Why Microservices?
+### 1.2. Why Microservices
 
 #### 1.2.1. Enabling Continuous Delivery
 
@@ -22,7 +22,7 @@
 
 #### 1.2.5. Greenfield vs. Brownfield
 
-#### 1.2.6. Code Reuse?
+#### 1.2.6. Code Reuse
 
 ### 1.3. Serving a User Request - An Example of How Microservices Work in Concert
 
@@ -82,7 +82,7 @@
 
 ### 3.1. The Primary Driver for Scoping Microservices: Business Capabilities
 
-#### 3.1.1. What is a Business Capability?
+#### 3.1.1. What is a Business Capability
 
 #### 3.1.2. Identifying Business Capabilities
 
@@ -90,13 +90,13 @@
 
 ### 3.2. The Secondary Driver for Scoping for Microservices: Supporting Technical Capabilities
 
-#### 3.2.1. What is a Technical Capability?
+#### 3.2.1. What is a Technical Capability
 
 #### 3.2.2. Examples of Supporting Technical Capabilities
 
 #### 3.2.3. Identifying Technical Capabilities
 
-### 3.3. What to do When the Correct Scope is not Clear?
+### 3.3. What to do When the Correct Scope is not Clear
 
 #### 3.3.1. Sometimes Start a Bit Bigger
 
@@ -142,13 +142,13 @@
 
 ### 5.1. Each Microservice has a Data Store
 
-### 5.2. How to Partition your Data Between Microservices?
+### 5.2. How to Partition your Data Between Microservices
 
 #### 5.2.1. Rule 1: Data Ownership Follows Business Capabilities
 
 #### 5.2.2. Rule 2: Replicate for Speed and Robustness
 
-#### 5.2.3. Where Does a Microservice Store its Data?
+#### 5.2.3. Where Does a Microservice Store its Data
 
 ### 5.3. Implementing Data Storage in a Microservice
 
@@ -240,7 +240,7 @@
 
 ### 8.2. The OWIN Pipeline
 
-#### 8.2.1. What Belongs in OWIN and What Belongs in Nancy?
+#### 8.2.1. What Belongs in OWIN and What Belongs in Nancy
 
 ### 8.3. Writing Middleware
 
@@ -284,7 +284,7 @@
 
 #### 10.1.2. Authorize Users In Microservices
 
-#### 10.1.3. How Much Should Microservices Trust Each Other?
+#### 10.1.3. How Much Should Microservices Trust Each Other
 
 ### 10.2. Implementing Secure Microservice to Microservice Communication
 

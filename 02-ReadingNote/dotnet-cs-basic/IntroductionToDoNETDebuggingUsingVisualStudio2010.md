@@ -83,7 +83,6 @@
   * Certain difference exists in comparison to debugging an already running process
     * Hosting for ASP.NET application
 
-
 ## 5 Demo Debugging Using a Solution
 
 * Jedi: 做了一个断点被handle的例子
@@ -157,7 +156,7 @@
 * Using Symbols
   * Debugger must be told where the symbols reside
     * Debug -> Options and Settings -> Symbols
-	* Callstack and Modules window can also load symbols
+  * Callstack and Modules window can also load symbols
   * Microsoft has a public symbol server that can be selected
     * Most all of the Microsoft symbols are available
   * All or a few select symbol files can be loaded

@@ -1,4 +1,5 @@
 # nodejs download website pictures
+
 * desc: slove javascript picture spider
 - [ ] 2015-10-26 AM 11:00
 - [ ] download a picture from 114.efoxconn.com
@@ -136,16 +137,3 @@ Step 5 Deploy Windows 7 from the deployment share
 # h5-lab: 激发用户情绪的页面 (配色? 产品? 还是其他? 愿望? 2015-10-27)
 	* 性感、高對比、複雜又簡單、簡單到有內涵、色彩不單調  (2015-10-27)
 	* 看起來複雜實則簡單 (2015-10-29)
-	
-
-	
-
-
-##
-##
-##
-
-
-
-	
-

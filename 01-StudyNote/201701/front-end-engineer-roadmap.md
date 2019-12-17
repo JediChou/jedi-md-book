@@ -1,7 +1,7 @@
-Front End Engineer RoadMap
-==========================
+# Front End Engineer RoadMap
 
-# JiKeXueYuan.com
+## JiKeXueYuan.com
+
 * HTML5 Introduce (1 hour)
 * HTML5 Basic (5 days)
 * CSS3 Basic (3 days)
@@ -13,7 +13,8 @@ Front End Engineer RoadMap
 * jQuery Mobile (2 days)
 * Project Training (2 days)
 
-# Bloc
+## Bloc
+
 * Foundation (160 hours)
   - Introduction
   - Developer Tools: Command Line
@@ -156,7 +157,8 @@ Front End Engineer RoadMap
   - The In-Personal Interview
   - The Offer
 
-# Skills for Front-End Developers
+## Skills for Front-End Developers
+
 * Reference: http://www.impressivewebs.com/skills-front-end-developers/
 * Check list
   - css(xhtml, html4, html5)

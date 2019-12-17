@@ -4,7 +4,7 @@
 * RHCA: RH401, RH423, RH442, RH436, RHS333
   * RH423 (LDAP) 红帽独有的协议
   * RH442 Linux调优
-  * RH436 Linux各类集群 
+  * RH436 Linux各类集群
 * MySQL, NoSQL
 * 岗位：运维工程师, 系统工程师, 系统架构师, DBA
 * 方法：灵活应用基础知识（融汇贯通）

@@ -175,14 +175,14 @@ Status Code
   * App_Data: App_Data文件夹应该包含应用程序的本地数据存储
   * App_Start
     * BundleConfig.cs
-	* FilterConfig.cs
-	* RouteConfig.cs
-	* WebApiConfig.cs: 本课程要注意到地方
+  * FilterConfig.cs
+  * RouteConfig.cs
+  * WebApiConfig.cs: 本课程要注意到地方
   * Areas-[详见](https://docs.microsoft.com/zh-cn/aspnet/core/mvc/controllers/areas?view=aspnetcore-3.1)
   * Content
   * Controllers
     * HomeController.cs for web page
-	* ValuesController: ApiController for Web API
+  * ValuesController: ApiController for Web API
   * fonts
   * Models
   * Script
@@ -220,15 +220,15 @@ Status Code
   
   * Lab0802: 建立符合控制器的方法 public int Get(int id)
     * function: public int Get(int id) { return id; }
-	* [在浏览器中调用：xxx/api/Test/300](https://localhost:44381/api/Test/300)
+  * [在浏览器中调用：xxx/api/Test/300](https://localhost:44381/api/Test/300)
   
   * Lab0803: 建立随意的控制器方法，并赋予[HttpGet]
     * function: public int Get(int number) { return number; }
-	* [在浏览器中调用：xxx/api/Test/Get?number=2000](https://localhost:44381/api/Test/Get?number=2000)
+  * [在浏览器中调用：xxx/api/Test/Get?number=2000](https://localhost:44381/api/Test/Get?number=2000)
 
 * Memo
   * Study by Jedi at 2019.12.9 18:45 PM
-  * Chapter 3.2 M(no-V)C 
+  * Chapter 3.2 M(no-V)C
   * Length: 00:16:18 hour
   
 ## ASP.NET-AYSWebAPI-09.mp4
@@ -322,7 +322,6 @@ Status Code
 
 * Memo
   * Study by Jedi at
-
 
 ```text
 3.4 Understanding Actions 18:40

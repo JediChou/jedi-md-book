@@ -89,7 +89,7 @@
     * Additionally
       * Download CakePHP
         * git://github.com/cakephp/cakephp.git
-        * https://github.com/cakephp/cakephp/zipball/2.3.6
+        * [release 2.3.6](https://github.com/cakephp/cakephp/zipball/2.3.6)
   * Configure CakePHP
     * Create a Folder for our New CakePHP site
       * Move the CakePHP you downloaded into this folder

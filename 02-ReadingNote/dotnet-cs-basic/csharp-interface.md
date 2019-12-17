@@ -121,16 +121,19 @@ Sub title: A Practical Guide to Interfaces
 * Program to an interface rather than a concrete class
 * For example: Concrete class
   * Collections
-    * List<T>
-    * Array
-    * ArrayList
-    * SortedList<TKey, TValue>
-    * HashTable
-    * Queue/Queue<T>
-    * Stack/Stack<T>
-    * Dictionary<TKey, TValue>
-    * ObservableCollection<T>
-    * And. Custom Types
+
+  ```text
+    List<T>
+    Array
+    ArrayList
+    SortedList<TKey, TValue>
+    HashTable
+    Queue/Queue<T>
+    Stack/Stack<T>
+    Dictionary<TKey, TValue>
+    ObservableCollection<T>
+    And. Custom Types
+  ```
 
 * Collection Interfaces
 
@@ -153,10 +156,12 @@ public class List<T>: IList<T>,
 * Use IEnumerable interface, you can modify source and without effect for runabble codes.
   * approve maintainable increased
 
-* List people;
-* List<Person> people;
-* IEnumerable people;
-* IEnumerable<Person> people;
+* List people, IEnumerable people;
+
+```c#
+List<Person> people;
+IEnumerable<Person> people;
+```
 
 * PersonListBox.ItemSource = people;
 

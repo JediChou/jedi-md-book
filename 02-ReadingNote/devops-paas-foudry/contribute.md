@@ -12,7 +12,7 @@ In this topic:
 * Advice for Contributors
 * How Can You Preview Your Documentation Changes?
 
-## Why Should You Contribute?
+## Why Should You Contribute
 
 The Cloud Foundry documentation relies on contributions from the community to remain accurate, complete, and consumable.
 
@@ -25,7 +25,7 @@ Reasons to contribute to the Cloud Foundry documentation include:
 
 ## How Can You Contribute
 
-The source files for all Cloud Foundry docs are hosted on [Github0(http://github.com/), and each docs page has a link to its Github source file at the bottom. The source files are in Markdown/HTML/embedded Ruby (**html.md.erb**) format.
+The source files for all Cloud Foundry docs are hosted on [Github0](http://github.com/), and each docs page has a link to its Github source file at the bottom. The source files are in Markdown/HTML/embedded Ruby (**html.md.erb**) format.
 
 If you use Github, the most direct and effective way to contribute to the docs is to [submit a pull request](https://docs.cloudfoundry.org/concepts/contribute.html#github-pr) or [raise an issue](https://docs.cloudfoundry.org/concepts/contribute.html#github-issue) in the Github repository containing the docs content that you want to change.
 
@@ -88,7 +88,7 @@ To raise an issue on a Github repository:
 
 To contribute the CF docs without using Github, you can use the following:
 
-* Google Docs: Write new docs content, or copy-paste existing content, into a [Google Dirve](http://drive.google.com/) document. 
+* Google Docs: Write new docs content, or copy-paste existing content, into a [Google Dirve](http://drive.google.com/) document.
 
 * Email the CF docs team directly at [cf-docs@pivtal.io](cf-docs@pivotal.io).
 
@@ -110,7 +110,7 @@ Keep in mind:
 
 For further guidance, contact the Cloud Foundry Documantation Team at [cf-doc@pivotal.io](cf-docs@pivotal.io) or through our **#cf-docs** channel on the [Cloud Fundry Slack](https://cloudfoundry.slack.com/).
 
-## How Can You Preview Your Documentation Changes?
+## How Can You Preview Your Documentation Changes
 
 The Cloud Foundry Documentation Team uses the tool [Bookbinder](https://github.com/pivotal-cf/bookbinder) to publish the Cloud Foundry documentation.
 
@@ -132,4 +132,4 @@ Perform the following steps to preview documentation changes with Bookbinder:
     git clone git@github.com:cloudfoundry/docs-cloudfoundry-concepts.git
     ```
 
-4. Return to your workspace directory and clone 
+4. Return to your workspace directory and clone

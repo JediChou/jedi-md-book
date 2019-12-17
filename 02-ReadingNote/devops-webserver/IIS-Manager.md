@@ -566,7 +566,7 @@
 * administration.config -> moduleProviders
 * 参考本书第12章
 
-### 2.4.4 Metabase-走吧！走吧！走了！
+### 2.4.4 Metabase-走吧！走吧！走了
 
 * applicationHost.config, web.config
   * applicationHost.config, 可以在网站级和应用程序级对配置进行控制

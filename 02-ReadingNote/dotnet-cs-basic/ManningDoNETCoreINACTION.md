@@ -42,11 +42,11 @@
 
 ## about the author
 
-* Twitter (@DustinMetzgar) or his blog at http://mode19.net.
+* Twitter (@DustinMetzgar) or his blog at [http://mode19.net](http://mode19.net).
 * Jedi: Cool man.
 
 ## about the cover illustration
 
-## Why .NET Core?
+## Why .NET Core
 
 ### 1.1 Architecting enterprise applications before .NET Core

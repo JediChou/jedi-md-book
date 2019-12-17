@@ -90,9 +90,9 @@ appcmd.exe lock config "WebSite1" -section:httpErrors
 
 ```xml
 <webServices>
-	<protocols>
-	   <add name="HttpGet"/>
-	   <add name="HttpPost"/>
-	</protocols>
+  <protocols>
+     <add name="HttpGet"/>
+     <add name="HttpPost"/>
+  </protocols>
 </webServices>
 ```

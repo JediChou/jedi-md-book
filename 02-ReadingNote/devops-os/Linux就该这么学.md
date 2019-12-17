@@ -39,7 +39,7 @@
   * 查询软件描述信息：rpm -qpi filename.rpm
   * 列出软件文件信息：rpm -qpl filename.rpm
     * Jedi: qpi - query package information
-	* Jedi: qpl - query package and get list
+  * Jedi: qpl - query package and get list
   * 查询文件属于哪个RPM：rpm -qf filename
 
 ## 1.6 Yum软件仓库
@@ -67,19 +67,19 @@
 * 表1-3：systemd与System V init的区别
   * System V init运行级别
     * 0, 关机
-	* 1, 单用户模式
-	* 2, 等同于级别3
-	* 3，多用户的文本界面
-	* 4, 等同于级别3
-	* 5, 多用户的图形界面
-	* 6, 重启
-	* emergency, 紧急shell
+  * 1, 单用户模式
+  * 2, 等同于级别3
+  * 3，多用户的文本界面
+  * 4, 等同于级别3
+  * 5, 多用户的图形界面
+  * 6, 重启
+  * emergency, 紧急shell
   * systemd目标名称
     * runlevel0.target, poweroff.target, 关机
-	* runlevel1.target, rescue.target,单用户模式
-	* 2, 等同于级别3
-	* 3，多用户的文本界面
-	* 4, 等同于级别3
-	* 5, 多用户的图形界面
-	* 6, 重启
-	* emergency, 紧急shell
+  * runlevel1.target, rescue.target,单用户模式
+  * 2, 等同于级别3
+  * 3，多用户的文本界面
+  * 4, 等同于级别3
+  * 5, 多用户的图形界面
+  * 6, 重启
+  * emergency, 紧急shell
