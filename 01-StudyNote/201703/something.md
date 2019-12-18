@@ -97,22 +97,28 @@
 * eVAP1: 10.130.14.71
 * workflow / wk@Foxconn.com
 
-# The name of the web server agent (used for agent mapping on the dynaTrace Server).
+## The name of the web server agent (used for agent mapping on the dynaTrace Server)
+
 Name evap1-server_dotnet
 
-# The address of the dynaTrace Collector this agent should connect to. 
-# The address is of the form host:port, e.g. exampleserver:9998
+## The address of the dynaTrace Collector this agent should connect to
+
+## The address is of the form host:port, e.g. exampleserver:9998
+
 * Server hh-test01.cfa.com:9998
 
-# Dynatrace的配置文件
-* <dynatrace install directory>/agent/conf/dtwsagent.ini
+## Dynatrace的配置文件
+
+* dynatrace install directory/agent/conf/dtwsagent.ini
 * bootstrap agent (dtagent.dll) is loaded, but .NET agent (dtagentcore.dll) is not. Process restart or system reboot is required.
+
 * message1
-```
-agent did not connect or did not find matching system profile. 
+
+```text
+agent did not connect or did not find matching system profile.
 Please make sure that agent can connect to collector, and that
-agent settings system profile name is valid. 
-(.NET agent version:'v6.3.9.1009', Bootstrap 
+agent settings system profile name is valid.
+(.NET agent version:'v6.3.9.1009', Bootstrap
 agent version:'v6.3.0.1305').
 
 evap1-server_dotnet
@@ -120,8 +126,10 @@ evap1-server_dotnet
 
 015c0a4-7675-0f4c-8929-47d3c11ba1cd
 ```
+
 * message2
-```
+
+```text
 eVAP1: 10.130.14.71
 workflow / wk@Foxconn.com
 
@@ -138,18 +146,21 @@ httpstat: 一個檢查網站性能的curl統計分析工具
 Serialization And Deserialization In C# using Protobuf-net.dll
 ```
 
-# 代码分析
-* Code Analysis for Visual Studio 2012
-  - not only for C++
-  - Code Analysis - 代码分析
-* How to Write Custom FxCop Rule - YouTube
-  - https://www.youtube.com/watch?v=D_tThCGaylQ
+## 代码分析
 
-# 2017.3.25
+* Code Analysis for Visual Studio 2012
+  * not only for C++
+  * Code Analysis - 代码分析
+* How to Write Custom FxCop Rule - YouTube
+  * [FxCop Rule Reference](https://www.youtube.com/watch?v=D_tThCGaylQ)
+
+## 2017.3.25
+
 * 如何将Jetbrains TeamCity引入到开发中呢？
-  - 现在TeamCity免费了，这是一个非常好的消息；
+  * 现在TeamCity免费了，这是一个非常好的消息；
+
 * 另外, 感觉dotPeek非常好用！
-  - 注意到dotnet core 1.1在Win10编译的dll文件，其metadata信息是.net 4.6
-  - 具体的规格是
-    - 1.0.0.0, msil, .Net Framework v4.6.2, Debug
-    - 联想到另外一个问题：如何打包一个小型的.net runtime，让4.6的程序可以脱离sdk/runtime的运行？
+  * 注意到dotnet core 1.1在Win10编译的dll文件，其metadata信息是.net 4.6
+  * 具体的规格是
+    * 1.0.0.0, msil, .Net Framework v4.6.2, Debug
+    * 联想到另外一个问题：如何打包一个小型的.net runtime，让4.6的程序可以脱离sdk/runtime的运行？
