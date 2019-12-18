@@ -1,5 +1,8 @@
 # Oreilly XMPP The Definitive Guide
 
+* [Book link1](https://www.amazon.com/XMPP-Definitive-Real-Time-Applications-Technologies/dp/059652126X)
+* [Book link2](http://shop.oreilly.com/product/9780596521271.do)
+
 Part I. An Overview of XMPP
 
 ## Introduction
