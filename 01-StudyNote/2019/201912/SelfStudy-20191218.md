@@ -28,3 +28,18 @@ Author: Jedi Chou, Create at 2019.12.18 8:00 AM
 
 * 马修·沃克的《为什么要睡觉》
 * 需收集CTF的相关视频
+  * [CTF Time](https://ctftime.org/)
+  * [CTF Collections](https://ctf-wiki.github.io/ctf-wiki/introduction/resources-zh/)
+  * 有在[ctf learn](https://ctflearn.com/challenge/88)上注册一个学习账号
+* CTF
+  * APP-Script
+  * APP-System
+  * Cracking
+  * Cryptanalysis
+  * Forensic
+  * Network
+  * Programming
+  * Realist
+  * Steganography
+  * Web-Client
+  * Web-Server
