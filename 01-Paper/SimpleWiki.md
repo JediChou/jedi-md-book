@@ -560,8 +560,14 @@
 * [Intern](https://simple.wikipedia.org/wiki/Intern)
 * [Circa Survive](https://simple.wikipedia.org/wiki/Circa_Survive)
 
-## 2018.12.17
+## 2019.12.17
 
 * [Shawn Drover](https://simple.wikipedia.org/wiki/Shawn_Drover)
 * [Sergio Echigo](https://simple.wikipedia.org/wiki/Sergio_Echigo)
 * [Apples, Vaud](https://simple.wikipedia.org/wiki/Apples,_Vaud)
+
+## 2019.12.18
+
+* [Chomérac](https://simple.wikipedia.org/wiki/Chomérac)
+* [Roderick MacKinnon](https://simple.wikipedia.org/wiki/Roderick_MacKinnon)
+* [S4!Sash!](https://simple.wikipedia.org/wiki/S4!Sash!)
