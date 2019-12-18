@@ -1,11 +1,10 @@
-## Splunk Today 2019-2-16
+# Splunk Today 2019-2-16
 
 * 停止或重启w32time服务
 
 1、net stop w32time
 2、net start w32time
 3、w32tm /resync
-
 
 * 从命令行同步时间
 
