@@ -34,3 +34,21 @@ Author: Jedi Chou, Create at 2019.12.19 8:11 AM
   * [100 Essentials icon pack](dribbble.com/shots/5348814-100-Essentials-Icon-Pack)
   * [69 Vivid SVG Icons](iconstore.co/icons/vivid-svg-icons/)
   * [Essentials icon pack](invisionapp.com/inside-design/design-resource/essentials-icon-pack)
+
+* WakaTime plugins
+
+* vscode video
+  * Name: [VSCODE的正确开启方式，程序员提速必学](https://www.bilibili.com/video/av56583362/?p=8)
+  * 1 [VSCODE]社区版与开发版介绍与安装
+  * 2 [VSCODE] 命令行使用与安装中文语言包
+  * 3 [VSCODE] Windows彻底删除vscode
+  * 4 [VSCODE] Mac下彻底删除vscode
+  * 5 [VSCODE] 苹果系统下终端启动vscode
+  * 6 [VSCODE] 给Vscode一个漂亮的外衣
+  * 7 [VSCODE] 常用扩展安装与快捷键介绍
+  * 8 [VSCODE] 高效的PHP开发代码格式化插件
+  * 9 [VSCODE] vscode直接显示程序运行结果
+
+  ```text
+  Jedi Tips: 简单易懂！
+  ```
