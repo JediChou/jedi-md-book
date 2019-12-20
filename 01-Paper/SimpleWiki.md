@@ -572,8 +572,14 @@
 * [Roderick MacKinnon](https://simple.wikipedia.org/wiki/Roderick_MacKinnon)
 * [S4!Sash!](https://simple.wikipedia.org/wiki/S4!Sash!)
 
-## 2019.121.19
+## 2019.12.19
 
 * [Shelley Lubben](https://simple.wikipedia.org/wiki/Shelley_Lubben)
 * [UEFA Euro 2016 qualifying](https://simple.wikipedia.org/wiki/UEFA_Euro_2016_qualifying)
 * [Jean Dausset](https://simple.wikipedia.org/wiki/Jean_Dausset)
+
+## 2019.12.20
+
+* [Harpers Ferry, West Virginia](https://simple.wikipedia.org/wiki/Harpers_Ferry,_West_Virginia)
+* [Free State](https://simple.wikipedia.org/wiki/Free_State)
+* [Allendale County, South Carolina](https://simple.wikipedia.org/wiki/Allendale_County,_South_Carolina)
