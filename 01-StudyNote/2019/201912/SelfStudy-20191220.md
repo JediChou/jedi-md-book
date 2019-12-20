@@ -28,3 +28,30 @@ Author: Jedi Chou, Create at 2019.12.20 8:02 AM
 
 * VS Code plugin
   * Debugger for Microsoft Edge
+
+* 配色网站
+  * [Material Palette](https://www.materialpalette.com/)
+  * [Flat UI Color Picker](http://www.flatuicolorpicker.com/)
+  * [Flat UI Colors 2](https://flatuicolors.com/)
+  * [COOLORS](http://coolors.co/)
+  * [brand colors](http://brandcolors.net/)
+  * [material ui](https://www.materialui.co/colors)
+  * [Adobe Color](https://color.adobe.com/zh/create)
+
+* Icon Type
+  * Action
+  * Alert
+  * AV
+  * Cmmunication
+  * Content
+  * Device
+  * Edtior
+  * File
+  * Hardware
+  * Image
+  * Maps
+  * Navigation
+  * Notification
+  * Place
+  * Social
+  * Toggle
