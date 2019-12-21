@@ -23,3 +23,8 @@ Author: Jedi Chou, Create at 2019.12.21 7:51 AM
 * Weekly review
   * Read a thesis and don't record
   * Open class APP by 163.com check-in
+
+## Other
+
+* [Cool - Book download](http://www.allitebooks.org/)
+* 今天下载一些PDF书籍，这些先丢到云盘中，不能影响现在的学习进度。
