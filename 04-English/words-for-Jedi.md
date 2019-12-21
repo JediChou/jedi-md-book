@@ -545,3 +545,14 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 
 * disparity：差距
 * indirect
+
+## 2019.12.21
+
+* copulate
+* ceremony
+* citation
+* namesake
+* equipment, gear
+* nationalism
+* patriotism
+* Attendance

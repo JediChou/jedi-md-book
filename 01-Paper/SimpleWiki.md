@@ -583,3 +583,9 @@
 * [Harpers Ferry, West Virginia](https://simple.wikipedia.org/wiki/Harpers_Ferry,_West_Virginia)
 * [Free State](https://simple.wikipedia.org/wiki/Free_State)
 * [Allendale County, South Carolina](https://simple.wikipedia.org/wiki/Allendale_County,_South_Carolina)
+
+## 2019.12.21
+
+* [Airline hub](https://simple.wikipedia.org/wiki/Airline_hub)
+* [Jan Swammerdam](https://simple.wikipedia.org/wiki/Jan_Swammerdam)
+* [Yukio Okutsu](https://simple.wikipedia.org/wiki/Yukio_Okutsu)
