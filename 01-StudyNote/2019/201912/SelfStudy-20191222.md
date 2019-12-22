@@ -21,7 +21,7 @@ Author: Jedi Chou, Create at 2019.12.22 15:15 AM
     * 163.com mail. 16:33
 
 * Weekly review
-  * Read a thesis and don't record
+  * Read a thesis and don't record. 17:34
   * Open class APP by 163.com check-in
 
 ## Other
@@ -38,3 +38,12 @@ Author: Jedi Chou, Create at 2019.12.22 15:15 AM
   * 深度学习的数学
 
 * Unreal(虚幻引擎)似乎非常酷
+* 增加高效学习训练营的笔记（只记重点，内容尚需展开）
+* 待搜索关键字（在Bilibili中）
+  * Node + Bootstrap
+  * 服务网管
+  * token
+  * 代码生成
+* 以前写的小诗一首
+  * 明月两排林，幽静三人行。莫道困苦事，齐声梁父吟。
+  * 时间：2018.9.10 9:22
