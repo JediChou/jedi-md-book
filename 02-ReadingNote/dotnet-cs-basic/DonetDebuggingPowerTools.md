@@ -163,6 +163,37 @@
 
 * 2019.11.23 16:59 PM
 
-## 3 Developing Custom Diagnostic Tools using .NET
+### 2.5 Large Object Heap - Free Lists (4.5)
 
-## 4 Debug Diagnostics V2
+* Large object heap utilizes free lists to optimize space
+* Prior to 4.5 free lists were not used optimally
+  * Once a block was deemed as not capable of satisfying an allocation it would not be revisited for quite some time
+
+* Jedi: 2019.12.21 17:47
+
+### 2.6 Large Object Heap - Heap Balancing (4.5)
+
+* Server has one heap per logical processor
+* When a heap is full, a GC is triggered
+  * Allocation pattern causing a particular heap to be used heavily
+    * For example, thread allocating more memory than other work threads
+  * Source of the problem - the large object heap was not balanced
+* Large object heap is now balanced resulting in less GC's as a result
+  * In turn - reduces time spent in GC
+
+* There is a big demo for Heap Balancing between .NET 3.5 with .NET 4.5
+
+```c#
+
+class Program
+{
+  public static void Main(string[] args)
+  {
+
+  }
+}
+
+```
+
+* Jedi: ntsd.exe，这是个什么玩意？
+* Jedi: 看到 00:05:36 h
