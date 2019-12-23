@@ -589,3 +589,9 @@
 * [Airline hub](https://simple.wikipedia.org/wiki/Airline_hub)
 * [Jan Swammerdam](https://simple.wikipedia.org/wiki/Jan_Swammerdam)
 * [Yukio Okutsu](https://simple.wikipedia.org/wiki/Yukio_Okutsu)
+
+## 2019.12.23
+
+* [Nubia](https://simple.wikipedia.org/wiki/Nubia)
+* [Giovannino Guareschi](https://simple.wikipedia.org/wiki/Giovannino_Guareschi)
+* [Ornitholestes](https://simple.wikipedia.org/wiki/Ornitholestes)

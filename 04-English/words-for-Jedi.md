@@ -556,3 +556,15 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * nationalism
 * patriotism
 * Attendance
+
+## 2019.12.23
+
+* homoiconic
+* misapprehension
+* luxor (This word let me remember a PC game. And the game name is Luxor Zuma)
+  * [Luxor (video game)](https://en.wikipedia.org/wiki/Luxor_(video_game))
+  * [Luxor 2](https://en.wikipedia.org/wiki/Luxor_2)
+* cartoonist: 漫画家
+* humorist: 幽默主义者
+* priest: 牧师
+* Upper Jurassic: 晚侏罗纪
