@@ -23,3 +23,15 @@ Author: Jedi Chou, Create at 2019.12.23 7:59 AM
 * Weekly review
   * Read a thesis and don't record
   * Open class APP by 163.com check-in
+
+## Other
+
+* Book: [C#多线程编程实战](https://item.jd.com/12147384.html)
+
+* [Link](https://www.bilibili.com/video/av62186224?from=search&seid=4138225139583985995)
+  * Ray拿了一个基于System.Threading.Monitor的Log类，调试不起来！
+  * 主要原因还是对**多线程编程**和**异步编程**不太了解
+  * 在Bilibili上查了两组视频，应该要尽快了解并看一下。
+  * 异步编程似乎没有特别好的方法。似乎要么全同步，要么全异步！
+
+* 今天将C#的自定义属性看了下，颇有收获！
