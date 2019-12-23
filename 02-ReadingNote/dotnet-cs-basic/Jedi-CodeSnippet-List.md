@@ -1,10 +1,49 @@
-C# Code Snippet列表
-===================
+# CSharp Code Snippet
+
 基于Microsoft Visual Studio 2010 Version 10.0.30319.1 RTMRel
 
-# HTML
+## HTML
 
-## ASP.NET
+## JvaScript
+
+## ASP.NET AJAX
+
+## XML Comments
+
+## SQL
+
+### Function
+
+### Index
+
+### Login
+
+### Role
+
+### Schema
+
+### Stored Procedure
+
+### Synonym
+
+### Table
+
+### Trigger
+
+### User
+
+### User Defined Data Type
+
+### User Defined Table Type
+
+### User Defined Type
+
+### View
+
+## CSharp
+
+### ASP.NET
+
 * checkbox
 * dynamiccontrol
 * dynamicdatamanager
@@ -16,60 +55,23 @@ C# Code Snippet列表
 * listbox.snippet
 * listitem.snippet
 * listview.snippet
-* 
 
-## ASP.NET MVC2
-## ASP.NET MVC4
-## HTML
+### ASP.NET MVC 2
 
-# JScript
-## ASP.NET AJAX
-## JScript
-## XML Comments
+### ASP.NET MVC 4
 
-# SQL
-## Function
-## Index
-## Login
-## Role
-## Schema
-## Stored Procedure
-## Synonym
-## Table
-## Trigger
-## User
-## User Defined Data Type
-## User Defined Table Type
-## User Defined Type
-## View
+### NetFX30
 
-# Visual Basic
-## Application - Compiling, Resources, and Settings
-## ASP.NET MVC 2
-## ASP.NET MVC 4
-## Code Patterns - If, For Each, Try Catch, Property, etc
-## Data - LINQ, XML, Designer, ADO.NET
-## Fundamentals - Collections, Data Types, File System, Math
-## Office Development
-## Other - Connectivity, Security, Workflow
-## Test
-## Windows Forms Applications
-## Windows System - Logging, Processes, Registry, Services
-## WPF
+### Office Development
 
-# C#
-## ASP.NET MVC 2
-## ASP.NET MVC 4
-## NetFX30
-## Office Development
-## Other
-## Refactoring
-## Test
-## Visual C#
+### Refactoring
 
-## Jedi-Snippet
+### Test
 
-### 设计模式
+### Jedi-Snippet
+
+#### 设计模式
+
 * 接口-适配器模式
 * 接口-外观模式
 * 接口-合成模式
@@ -93,27 +95,34 @@ C# Code Snippet列表
 * 扩展-迭代器模式
 * 扩展-访问者模式
 
-### file io
+#### file io
+
 * 读文件
 * 写文件
 * 读文件的第一行
 * 追加文件
 
-### directory io
+#### directory io
+
 * get current directory full path
 * iteration current diretory
 
-### algorithms
+#### algorithms
+
 * bubble sort
 * quick sort
 * insert sort
 
-# XML
-## xsd
-## xslt
+## XML
 
-# NOAP
-## Word
+### xsd
+
+### xslt
+
+## NOAP
+
+### Word
+
 * 创建Workbook
 * 创建Worksheet
 * 创建Word文件
