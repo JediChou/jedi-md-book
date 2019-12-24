@@ -595,3 +595,9 @@
 * [Nubia](https://simple.wikipedia.org/wiki/Nubia)
 * [Giovannino Guareschi](https://simple.wikipedia.org/wiki/Giovannino_Guareschi)
 * [Ornitholestes](https://simple.wikipedia.org/wiki/Ornitholestes)
+
+## 2019.12.24
+
+* [Ana Kasparian](https://simple.wikipedia.org/wiki/Ana_Kasparian)
+* [Analog television](https://simple.wikipedia.org/wiki/Analog_television)
+* [Rohingya people](https://simple.wikipedia.org/wiki/Rohingya_people)

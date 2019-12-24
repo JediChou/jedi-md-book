@@ -568,3 +568,11 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * humorist: 幽默主义者
 * priest: 牧师
 * Upper Jurassic: 晚侏罗纪
+
+## 2019.12.24
+
+* pundit: 专家
+* agnostic: 不可知论者
+* Analog television: 模拟电视
+* Rohingya people: 罗兴亚人
+* redundant: 多余
