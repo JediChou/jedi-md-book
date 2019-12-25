@@ -576,3 +576,13 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * Analog television: 模拟电视
 * Rohingya people: 罗兴亚人
 * redundant: 多余
+
+## 2019.12.25
+
+* wide-angle: 广角
+* Lynnfield - 林非尔德
+* DMI (Direct Media Interface)：直接多媒体接口
+* HDMI (High-Definition Multimedia Interface)：高清多媒体接口
+* squads: 小队
+* addon: 附加在
+* Versatile: 多才多艺

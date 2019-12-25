@@ -601,3 +601,9 @@
 * [Ana Kasparian](https://simple.wikipedia.org/wiki/Ana_Kasparian)
 * [Analog television](https://simple.wikipedia.org/wiki/Analog_television)
 * [Rohingya people](https://simple.wikipedia.org/wiki/Rohingya_people)
+
+## 2019.12.25
+
+* [Las Campanas Observatory](https://simple.wikipedia.org/wiki/Las_Campanas_Observatory)
+* [Intel Core i5](https://simple.wikipedia.org/wiki/Intel_Core_i5)
+* [Battlefield 2](https://simple.wikipedia.org/wiki/Battlefield_2)
