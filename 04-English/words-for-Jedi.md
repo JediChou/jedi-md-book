@@ -586,3 +586,5 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * squads: 小队
 * addon: 附加在
 * Versatile: 多才多艺
+* full-blown: 成熟的
+* souped-up: 加强的
