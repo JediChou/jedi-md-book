@@ -31,3 +31,34 @@ Author: Jedi Chou, Create at 2019.12.25 8:04 AM
 * sum tools
   * md5sum
   * sha256sum
+
+* css framework
+  * Bulma
+  * Tailwind CSS
+  * Refactoring UI
+  * Bootstrap 4
+  * Semantic UI
+  * Foundation
+  * Materialize CSS
+  * Picnic CSS
+  * PaperCSS
+  * Animate.css
+
+* 整理jedichou-study-frontend目录. 14:52
+  * 相关目录归档
+  * 零星代码集中存放
+
+* 给Ray分享3个内容. 16:00
+  * async,await的最短示例
+  * mocha的测试nodejs的示例
+  * C#中用Selenium的介绍，后续做完实验后可以深入讨论
+
+* Java Stack. 16:49
+  * Phase 1: JavaSE, Oracle (SQL, PL/SQL), JDBC
+  * Phase 2: XML, JS, jQuery, JavaWeb, AJAX, UML
+  * Phase 3.1: Structs2, Hibernate, Spring, JPA, Spring Data
+  * Phase 3.2: JavaEE Project, SCM, MyBatis, WebService, SpringMVC, JBPM
+  * Phase 3.3: Shiro, JavaEE Project, Linux, WebSphere
+  * Phase 4: Android, Android Project 1, Android Project 2
+  * Phase 5: Hadoop, 实时计算
+  * Phase 6: Interview
