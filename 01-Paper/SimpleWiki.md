@@ -607,3 +607,9 @@
 * [Las Campanas Observatory](https://simple.wikipedia.org/wiki/Las_Campanas_Observatory)
 * [Intel Core i5](https://simple.wikipedia.org/wiki/Intel_Core_i5)
 * [Battlefield 2](https://simple.wikipedia.org/wiki/Battlefield_2)
+
+## 2019.12.26
+
+* [La Garnache](https://simple.wikipedia.org/wiki/La_Garnache)
+* [Karnam Malleswari](https://simple.wikipedia.org/wiki/Karnam_Malleswari)
+* [Toccata](https://simple.wikipedia.org/wiki/Toccata)
