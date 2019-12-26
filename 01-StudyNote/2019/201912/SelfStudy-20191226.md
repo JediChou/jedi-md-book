@@ -58,3 +58,11 @@ Author: Jedi Chou, Create at 2019.12.26 8:32 AM
   ```
 
   * 不过发现实际上OmniSharp的1.34.4-beta8其实根本就下载不到，所以似乎OmniSharp干脆就不检查依赖了. 16:37
+
+* vscode插件的存放位置："$system\User\$account\.vscode\extensions". 17:06
+* dotnet publish后，其publish目录需整体拷贝到别的地方（如指定目录）
+  * 所以，只是拷贝fib.exe, fib.dll其代码是不能执行的！
+  * 例如：因为fib.exe需要fib.runtimeconfig.json才能执行。
+  * 原因是因为需要指定fib.exe的dotnet运行时
+  * 如何查看运行时, [dotnet --list-runtimes](https://docs.microsoft.com/zh-cn/dotnet/core/install/how-to-detect-installed-versions?pivots=os-windows)
+  * 如何查看sdk, [dotnet --list-sdks](https://docs.microsoft.com/zh-cn/dotnet/core/install/how-to-detect-installed-versions?pivots=os-windows)
