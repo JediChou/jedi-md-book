@@ -613,3 +613,9 @@
 * [La Garnache](https://simple.wikipedia.org/wiki/La_Garnache)
 * [Karnam Malleswari](https://simple.wikipedia.org/wiki/Karnam_Malleswari)
 * [Toccata](https://simple.wikipedia.org/wiki/Toccata)
+
+## 2019.12.27
+
+* [Jahanara Alam](https://simple.wikipedia.org/wiki/Jahanara_Alam)
+* [A Little Bit Longer](https://simple.wikipedia.org/wiki/A_Little_Bit_Longer)
+* [1966](https://simple.wikipedia.org/wiki/1966)
