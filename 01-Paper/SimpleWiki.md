@@ -619,3 +619,9 @@
 * [Jahanara Alam](https://simple.wikipedia.org/wiki/Jahanara_Alam)
 * [A Little Bit Longer](https://simple.wikipedia.org/wiki/A_Little_Bit_Longer)
 * [1966](https://simple.wikipedia.org/wiki/1966)
+
+## 2019.12.28
+
+* [Tower Town](https://simple.wikipedia.org/wiki/Tower_Town)
+* [Bohemia](https://simple.wikipedia.org/wiki/Bohemia)
+* [Glass](https://simple.wikipedia.org/wiki/Glass)

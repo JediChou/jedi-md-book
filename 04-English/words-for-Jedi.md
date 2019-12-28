@@ -588,3 +588,16 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * Versatile: 多才多艺
 * full-blown: 成熟的
 * souped-up: 加强的
+
+## 2019.12.28
+
+* accelerate: 加速
+* misapprehension: 误解
+* drowsy: 昏昏欲睡
+* Abbreviate: 缩写
+* Bohemia: 波西米亚
+* handicraft: 手工艺品
+* duchy: 公国
+* transparent: 透明
+* soda-lime: 柠檬汽水
+* dioxide: 二氧化碳
