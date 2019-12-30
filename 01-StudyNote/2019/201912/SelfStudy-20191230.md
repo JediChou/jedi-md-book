@@ -23,9 +23,3 @@ Author: Jedi Chou, Create at 2019.12.30 7:54 AM
 * Weekly review
   * Read a thesis and don't record
   * Open class APP by 163.com check-in
-
-## Other
-
-* 在Windows7上安装Nodejs并更改缺省目录，要点是变更npm的缺省配置
-  * npm config ls：查看npm缺省配置
-  * npm config ls -l：查看npm缺省配置的详细信息
