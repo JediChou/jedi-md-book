@@ -601,3 +601,7 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * transparent: 透明
 * soda-lime: 柠檬汽水
 * dioxide: 二氧化碳
+
+## 2019.12.30
+
+* nationwide：全国的

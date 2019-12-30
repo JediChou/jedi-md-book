@@ -625,3 +625,9 @@
 * [Tower Town](https://simple.wikipedia.org/wiki/Tower_Town)
 * [Bohemia](https://simple.wikipedia.org/wiki/Bohemia)
 * [Glass](https://simple.wikipedia.org/wiki/Glass)
+
+## 2019.12.30
+
+* [Die Zeit](https://simple.wikipedia.org/wiki/Die_Zeit)
+* [Sea breeze](https://simple.wikipedia.org/wiki/Sea_breeze)
+* [2003 invasion of Iraq](https://simple.wikipedia.org/wiki/2003_invasion_of_Iraq)
