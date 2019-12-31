@@ -605,3 +605,7 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 ## 2019.12.30
 
 * nationwide：全国的
+
+## 2019.12.31
+
+* diplomat: 外交官

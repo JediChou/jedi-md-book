@@ -631,3 +631,9 @@
 * [Die Zeit](https://simple.wikipedia.org/wiki/Die_Zeit)
 * [Sea breeze](https://simple.wikipedia.org/wiki/Sea_breeze)
 * [2003 invasion of Iraq](https://simple.wikipedia.org/wiki/2003_invasion_of_Iraq)
+
+## 2019.12.31
+
+* [Wimblington](https://simple.wikipedia.org/wiki/Wimblington)
+* [Ravi Shankar Prasad](https://simple.wikipedia.org/wiki/Ravi_Shankar_Prasad)
+* [Anne Plunkett](https://simple.wikipedia.org/wiki/Anne_Plunkett)
