@@ -609,3 +609,11 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 ## 2019.12.31
 
 * diplomat: 外交官
+
+## 2020.1.2
+
+* coal：煤
+* turbines：涡轮机
+* petroleum：石油
+* iron ores：铁矿石
+* tidal energy：潮汐能

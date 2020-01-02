@@ -637,3 +637,9 @@
 * [Wimblington](https://simple.wikipedia.org/wiki/Wimblington)
 * [Ravi Shankar Prasad](https://simple.wikipedia.org/wiki/Ravi_Shankar_Prasad)
 * [Anne Plunkett](https://simple.wikipedia.org/wiki/Anne_Plunkett)
+
+## 2020.1.2
+
+* [Markham, Illinois](https://simple.wikipedia.org/wiki/Markham,_Illinois)
+* [Atlantic salmon](https://simple.wikipedia.org/wiki/Atlantic_salmon)
+* [Natural resource](https://simple.wikipedia.org/wiki/Natural_resource)
