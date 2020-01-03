@@ -617,3 +617,8 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * petroleum：石油
 * iron ores：铁矿石
 * tidal energy：潮汐能
+
+## 2020.1.3
+
+* artifact：自然的
+* howl - roar

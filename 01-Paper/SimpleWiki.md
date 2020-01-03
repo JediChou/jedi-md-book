@@ -643,3 +643,9 @@
 * [Markham, Illinois](https://simple.wikipedia.org/wiki/Markham,_Illinois)
 * [Atlantic salmon](https://simple.wikipedia.org/wiki/Atlantic_salmon)
 * [Natural resource](https://simple.wikipedia.org/wiki/Natural_resource)
+
+## 2020.1.3
+
+* [Ryuichi Sakamoto](https://simple.wikipedia.org/wiki/Ryuichi_Sakamoto)
+* [Ripening](https://simple.wikipedia.org/wiki/Ripening)
+* [Rationalization (mathematics)](https://simple.wikipedia.org/wiki/Rationalization_(mathematics))
