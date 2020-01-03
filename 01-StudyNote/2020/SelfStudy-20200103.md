@@ -29,3 +29,8 @@ Author: Jedi Chou, Create at 2020.1.3 8:42 AM
 * 下载到sosex_32,sosex_64，不知是否可以进行c#代码的调试. 11:13
 * 有见到一个叫DebugDiag的工具，也是dotnet standard系列的Crash跟踪工具. 11:26
   * 这个工具看起来很容易使用（百度后）. 11:32
+
+* Polynote: the new Jupyter?
+  * [Source](https://polynote.org/)
+  * pip3 install jep jedi virtualenv
+  * [Vega](https://vega.github.io/vega/)
