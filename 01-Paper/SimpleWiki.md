@@ -649,3 +649,9 @@
 * [Ryuichi Sakamoto](https://simple.wikipedia.org/wiki/Ryuichi_Sakamoto)
 * [Ripening](https://simple.wikipedia.org/wiki/Ripening)
 * [Rationalization (mathematics)](https://simple.wikipedia.org/wiki/Rationalization_(mathematics))
+
+## 2020.1.4
+
+* [Kerguelen Plateau](https://simple.wikipedia.org/wiki/Kerguelen_Plateau)
+* [Louis Nicollin](https://simple.wikipedia.org/wiki/Louis_Nicollin)
+* [Joanna Barnes](https://simple.wikipedia.org/wiki/Joanna_Barnes)

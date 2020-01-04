@@ -622,3 +622,9 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 
 * artifact：自然的
 * howl - roar
+
+## 2020.1.4
+
+* entrepreneur：企业家
+* temperament：气质
+* nomination：提名
