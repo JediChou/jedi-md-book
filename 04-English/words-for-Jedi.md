@@ -628,3 +628,21 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * entrepreneur：企业家
 * temperament：气质
 * nomination：提名
+
+## 2020.1.5
+
+* sunk
+  * adj. 凹陷的；（情绪）低沉的；失去希望的，无能为力的
+  * v. 下沉；坐下；降低；（声音）变小；在地上挖掘（sink 的过去式和过去分词）
+* venture
+  * n. 冒险旅行；（有风险的）企业
+  * v. 敢于冒险；小心地说（或做）；冒着失去……的风险
+  * n. (Venture) （法）旺蒂尔（人名）
+* cantata：n. 大合唱；（意）清唱剧；康塔塔（一种声乐套曲）
+* plastick
+  * adj. 塑料的；（外科）造型的；可塑的 | n...
+  * n. 塑料；整形外科；外科修补术
+* grim: adj. 冷酷的；糟糕的；残忍的；或是人名
+* sturgeon's law：史特金定律
+* egg tart：蛋挞
+* eggplant：茄子
