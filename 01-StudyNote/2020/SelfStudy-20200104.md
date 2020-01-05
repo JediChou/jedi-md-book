@@ -9,8 +9,8 @@ Author: Jedi Chou, Create at 2020.1.4 8:42 AM
     * Tencent cartoon APP check-in. 8:33
     * Exercise of Vocabulary (vocabulary.com). 9:27
     * Read articles and check interview invitation (MaiMai APP). 9:36
-    * Don't memorize words APP check-in
-    * NowCoder check-in and do an exercise that contains 20 puzzles.
+    * Don't memorize words APP check-in. 20:00
+    * NowCoder check-in and do an exercise that contains 20 puzzles. 20:00
 
   * Micro habit
     * Read Sina Blog. 9:46
