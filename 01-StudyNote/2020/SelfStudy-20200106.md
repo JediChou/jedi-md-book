@@ -27,3 +27,16 @@ Author: Jedi Chou, Create at 2020.1.5 7:59 AM
 ## Other
 
 * ROI
+* Lyft基于Flink的大规模准实时数据分析平台实践
+  * AWS Kinesis, Apache Kafka
+  * 数据流都会量化成文件
+  * Lyft使用的是开源社区中比较活跃的presto查询引擎
+  * 数据ETL([Extract-Transform-Load](https://en.wikipedia.org/wiki/Extract,_transform,_load))
+  * Lyft采用Flink实现流数据持久化
+  * Parquet是一种列数据存储格式，能够有效地支持交互式数据查询
+
+* 升级了WSL上的golang
+
+```shell
+sudo apt update golang
+```
