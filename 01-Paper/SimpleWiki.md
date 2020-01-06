@@ -655,3 +655,9 @@
 * [Kerguelen Plateau](https://simple.wikipedia.org/wiki/Kerguelen_Plateau)
 * [Louis Nicollin](https://simple.wikipedia.org/wiki/Louis_Nicollin)
 * [Joanna Barnes](https://simple.wikipedia.org/wiki/Joanna_Barnes)
+
+## 2020.1.6
+
+* [When I'm Sixty-Four](https://simple.wikipedia.org/wiki/When_I%27m_Sixty-Four)
+* [Marie Bashir](https://simple.wikipedia.org/wiki/Marie_Bashir)
+* [Religious Zionism](https://simple.wikipedia.org/wiki/Religious_Zionism)

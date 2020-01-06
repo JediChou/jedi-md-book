@@ -628,3 +628,22 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * entrepreneur：企业家
 * temperament：气质
 * nomination：提名
+
+## 2020.1.6
+
+* punt
+* propel
+* nutritious
+* sculpted
+* amplifier
+* pepper
+* I would never even dream of writing a song like that.
+* overdub
+* vocal
+* D-flat major
+* semitone
+* rooty-tooty
+* turgid
+* adolescent health
+* Zionism
+* encompass
