@@ -661,3 +661,9 @@
 * [When I'm Sixty-Four](https://simple.wikipedia.org/wiki/When_I%27m_Sixty-Four)
 * [Marie Bashir](https://simple.wikipedia.org/wiki/Marie_Bashir)
 * [Religious Zionism](https://simple.wikipedia.org/wiki/Religious_Zionism)
+
+## 2020.1.7
+
+* [Chola dynasty](https://simple.wikipedia.org/wiki/Chola_dynasty)
+* [Ernst Trygger](https://simple.wikipedia.org/wiki/Ernst_Trygger)
+* [Sombreffe](https://simple.wikipedia.org/wiki/Sombreffe)

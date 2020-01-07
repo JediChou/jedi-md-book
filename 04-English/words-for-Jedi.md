@@ -647,3 +647,16 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * adolescent health
 * Zionism
 * encompass
+
+## 2020.1.7
+
+* dagger：匕首
+* sought：寻求, attemped
+* gnome：侏儒
+* chamber：室
+* irreplaceable
+* propeller
+* pump-jet
+* propulsor
+* due to：由于
+* bump
