@@ -30,5 +30,11 @@ Author: Jedi Chou, Create at 2020.1.8 7:58 AM
   * AI Test Software
   * 业务权重, 回归测试用例, 特征值, 覆盖率, 已发现缺陷
   * [document](http://docs.testplant.com/EAI/eggplant-ai-documentation-home.htm)
-
 * [NovalIDE](https://gitee.com/wekay/NovalIDE)
+* HIDS（Host-based Intrusion Detection System）
+  * [Ref-Jedi:好文](https://www.freebuf.com/articles/es/222976.html)
+  * 开源Agent方案：AuditBeat、OSQuery、NxLog等等
+  * [osctrl](https://github.com/shengnoah/osctrl)
+  * [ClickHouse](https://clickhouse.yandex/)
+  * [Graylog](https://www.graylog.org/products/open-source)
+* RealWorld是个中文游戏引擎？
