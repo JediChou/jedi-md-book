@@ -660,3 +660,23 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * propulsor
 * due to：由于
 * bump
+
+## 2020.1.8
+
+* detach
+* plowing
+* driveways
+* conectere
+* We had a lot of pine forests in East Texas then and the coffins were made of pine.
+* burial
+* cremation
+* At a graveside funeral
+* immodest
+  * If you're immodest, you tend to brag about your abilities — you're not at all humble. The "arrogant" meaning came before the "improper" one, both from the Latin modestia, "moderation," and "correctness of conduct."
+* symphony
+* sculpted
+  * If something is sculpted, it's carved or modeled into a deliberate shape. An artist might make a sculpted statue of a Greek god.
+* gym
+* abdominal
+* thriller
+* new words for me
