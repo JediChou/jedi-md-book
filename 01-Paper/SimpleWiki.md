@@ -673,3 +673,9 @@
 * [The Last Poets](https://simple.wikipedia.org/wiki/The_Last_Poets)
 * [Banihal Pass](https://simple.wikipedia.org/wiki/Banihal_Pass)
 * [Escape from Alcatraz (movie)](https://simple.wikipedia.org/wiki/Escape_from_Alcatraz_(movie))
+
+## 2020.1.9
+
+* []()
+* []()
+* []()
