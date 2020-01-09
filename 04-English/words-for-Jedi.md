@@ -680,3 +680,10 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * abdominal
 * thriller
 * new words for me
+
+## 2020.1.9
+
+* tease
+* seize
+* sought
+* brutalist

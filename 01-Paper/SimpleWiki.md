@@ -676,6 +676,6 @@
 
 ## 2020.1.9
 
-* []()
-* []()
-* []()
+* [Ron Joyce](https://simple.wikipedia.org/wiki/Ron_Joyce)
+* [Thanos Mikroutsikos](https://simple.wikipedia.org/wiki/Thanos_Mikroutsikos)
+* [Parts of a sail](https://simple.wikipedia.org/wiki/Parts_of_a_sail)
