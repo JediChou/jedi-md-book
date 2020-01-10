@@ -629,6 +629,7 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * temperament：气质
 * nomination：提名
 
+<<<<<<< HEAD
 ## 2020.1.5
 
 * sunk
@@ -646,3 +647,63 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * sturgeon's law：史特金定律
 * egg tart：蛋挞
 * eggplant：茄子
+=======
+## 2020.1.6
+
+* punt
+* propel
+* nutritious
+* sculpted
+* amplifier
+* pepper
+* I would never even dream of writing a song like that.
+* overdub
+* vocal
+* D-flat major
+* semitone
+* rooty-tooty
+* turgid
+* adolescent health
+* Zionism
+* encompass
+
+## 2020.1.7
+
+* dagger：匕首
+* sought：寻求, attemped
+* gnome：侏儒
+* chamber：室
+* irreplaceable
+* propeller
+* pump-jet
+* propulsor
+* due to：由于
+* bump
+
+## 2020.1.8
+
+* detach
+* plowing
+* driveways
+* conectere
+* We had a lot of pine forests in East Texas then and the coffins were made of pine.
+* burial
+* cremation
+* At a graveside funeral
+* immodest
+  * If you're immodest, you tend to brag about your abilities — you're not at all humble. The "arrogant" meaning came before the "improper" one, both from the Latin modestia, "moderation," and "correctness of conduct."
+* symphony
+* sculpted
+  * If something is sculpted, it's carved or modeled into a deliberate shape. An artist might make a sculpted statue of a Greek god.
+* gym
+* abdominal
+* thriller
+* new words for me
+
+## 2020.1.9
+
+* tease
+* seize
+* sought
+* brutalist
+>>>>>>> e753d02e0695d71784fac18f02dc01c3036d5559

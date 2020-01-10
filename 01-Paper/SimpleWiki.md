@@ -656,6 +656,32 @@
 * [Louis Nicollin](https://simple.wikipedia.org/wiki/Louis_Nicollin)
 * [Joanna Barnes](https://simple.wikipedia.org/wiki/Joanna_Barnes)
 
+<<<<<<< HEAD
 ## 2020.1.5
 
 * Venture Scien Fiction - en.wikipedia.org (at Wikipedia App)
+=======
+## 2020.1.6
+
+* [When I'm Sixty-Four](https://simple.wikipedia.org/wiki/When_I%27m_Sixty-Four)
+* [Marie Bashir](https://simple.wikipedia.org/wiki/Marie_Bashir)
+* [Religious Zionism](https://simple.wikipedia.org/wiki/Religious_Zionism)
+
+## 2020.1.7
+
+* [Chola dynasty](https://simple.wikipedia.org/wiki/Chola_dynasty)
+* [Ernst Trygger](https://simple.wikipedia.org/wiki/Ernst_Trygger)
+* [Sombreffe](https://simple.wikipedia.org/wiki/Sombreffe)
+
+## 2020.1.8
+
+* [The Last Poets](https://simple.wikipedia.org/wiki/The_Last_Poets)
+* [Banihal Pass](https://simple.wikipedia.org/wiki/Banihal_Pass)
+* [Escape from Alcatraz (movie)](https://simple.wikipedia.org/wiki/Escape_from_Alcatraz_(movie))
+
+## 2020.1.9
+
+* [Ron Joyce](https://simple.wikipedia.org/wiki/Ron_Joyce)
+* [Thanos Mikroutsikos](https://simple.wikipedia.org/wiki/Thanos_Mikroutsikos)
+* [Parts of a sail](https://simple.wikipedia.org/wiki/Parts_of_a_sail)
+>>>>>>> e753d02e0695d71784fac18f02dc01c3036d5559
