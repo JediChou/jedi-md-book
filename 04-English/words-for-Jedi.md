@@ -629,7 +629,6 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * temperament：气质
 * nomination：提名
 
-<<<<<<< HEAD
 ## 2020.1.5
 
 * sunk
@@ -647,7 +646,7 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * sturgeon's law：史特金定律
 * egg tart：蛋挞
 * eggplant：茄子
-=======
+
 ## 2020.1.6
 
 * punt
@@ -706,4 +705,10 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * seize
 * sought
 * brutalist
->>>>>>> e753d02e0695d71784fac18f02dc01c3036d5559
+
+## 2020.1.10
+
+* ogre
+* dwarf
+* sculpted
+* slate
