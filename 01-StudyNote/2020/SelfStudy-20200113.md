@@ -29,7 +29,7 @@ Author: Jedi Chou, Create at 2020.1.13 7:56 AM
 * 学习使用Python中的virtualenv包
   * 创建numpy-ex. 13:39
   * 进入numpy-ex. 13:40
-  * 配置pip.ini中的代理配置. 13:49
+  * 配置pip.ini中的代理配置 (%user%\pip\pip.ini). 13:49
   * 在numpy-ex环境中安装numpy. 13:51
   * 在numpy-ex环境中安装ipython. 13:53
   * 退出ipython. 14:04
@@ -69,3 +69,33 @@ index-url = http://mirrors.aliyun.com/pypi/simple/
 [install]
 trusted-host = mirrors.aliyun.com
 ```
+
+* WinDbg调试课题. 17:14
+  * C#对象的内存分布
+  * ASM变量的内存分布
+
+* 历史资料整理：Adobe Experience Design. 17:18
+  * Book design
+  * Backgroud design
+  * Grid design
+  * Graphics design
+  * Brochure design
+  * Web design
+  * Interior design
+  * Computer processor design
+  * Solid modeling design
+  * Cover design
+  * Log design
+  * Tooltip design
+  * Listview design
+  * Business card design
+  * Font design
+  * Construction design
+  * Spcifications design
+  * Packaging design
+
+* 历史资料整理：用C#编写一个LED模拟程序. 17:20
+* 历史资料整理：[OneUI](http://www.jqueryfuns.com/resource/view/1677)
+* 历史资料整理：Hijacking
+* 历史资料整理：《数据造假理论》
+* 历史资料整理：《数学与人文》
