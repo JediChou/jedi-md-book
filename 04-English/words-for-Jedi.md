@@ -712,3 +712,11 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * dwarf
 * sculpted
 * slate
+
+## 2020.1.13
+
+* Precious：珍贵
+* Platinum：铂金
+* Nelumbo
+* water lilies
+* rehearsal

@@ -656,11 +656,10 @@
 * [Louis Nicollin](https://simple.wikipedia.org/wiki/Louis_Nicollin)
 * [Joanna Barnes](https://simple.wikipedia.org/wiki/Joanna_Barnes)
 
-<<<<<<< HEAD
 ## 2020.1.5
 
 * Venture Scien Fiction - en.wikipedia.org (at Wikipedia App)
-=======
+
 ## 2020.1.6
 
 * [When I'm Sixty-Four](https://simple.wikipedia.org/wiki/When_I%27m_Sixty-Four)
@@ -684,4 +683,15 @@
 * [Ron Joyce](https://simple.wikipedia.org/wiki/Ron_Joyce)
 * [Thanos Mikroutsikos](https://simple.wikipedia.org/wiki/Thanos_Mikroutsikos)
 * [Parts of a sail](https://simple.wikipedia.org/wiki/Parts_of_a_sail)
->>>>>>> e753d02e0695d71784fac18f02dc01c3036d5559
+
+## 2020.1.13
+
+* [Precious metal](https://simple.wikipedia.org/wiki/Precious_metal)
+* [Nelumbo](https://simple.wikipedia.org/wiki/Nelumbo)
+* [Covent Garden](https://simple.wikipedia.org/wiki/Covent_Garden)
+* [Orotelli](https://simple.wikipedia.org/wiki/Orotelli)
+* [Orange, New South Wales](https://simple.wikipedia.org/wiki/Orange,_New_South_Wales)
+* [Montardon](https://simple.wikipedia.org/wiki/Montardon)
+* [Black-necked crane](https://simple.wikipedia.org/wiki/Black-necked_crane)
+* [Israel Oliver Peña](https://simple.wikipedia.org/wiki/Israel_Oliver_Pe%C3%B1a)
+* [Lyrick Studios](https://simple.wikipedia.org/wiki/Lyrick_Studios)
