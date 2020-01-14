@@ -695,3 +695,9 @@
 * [Black-necked crane](https://simple.wikipedia.org/wiki/Black-necked_crane)
 * [Israel Oliver Peña](https://simple.wikipedia.org/wiki/Israel_Oliver_Pe%C3%B1a)
 * [Lyrick Studios](https://simple.wikipedia.org/wiki/Lyrick_Studios)
+
+## 2020.1.14
+
+* [Climacoceratidae](https://simple.wikipedia.org/wiki/Climacoceratidae)
+* [Andrzej Żuławski](https://simple.wikipedia.org/wiki/Andrzej_%C5%BBu%C5%82awski)
+* [Charan Singh](https://simple.wikipedia.org/wiki/Charan_Singh)

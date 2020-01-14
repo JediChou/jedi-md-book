@@ -720,3 +720,11 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * Nelumbo
 * water lilies
 * rehearsal
+
+## 2020.1.14
+
+* Therapy：治疗
+* harp：竖琴
+* dungeon：地牢
+* fang：牙齿
+* Distort：歪曲
