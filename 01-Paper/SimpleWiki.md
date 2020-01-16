@@ -701,3 +701,10 @@
 * [Climacoceratidae](https://simple.wikipedia.org/wiki/Climacoceratidae)
 * [Andrzej Żuławski](https://simple.wikipedia.org/wiki/Andrzej_%C5%BBu%C5%82awski)
 * [Charan Singh](https://simple.wikipedia.org/wiki/Charan_Singh)
+
+## 2020.1.16
+
+* [Church of Ireland](https://simple.wikipedia.org/wiki/Church_of_Ireland)
+* [Clear-cell sarcoma](https://simple.wikipedia.org/wiki/Clear-cell_sarcoma)
+* [Jose Cojuangco Jr.](https://simple.wikipedia.org/wiki/Jose_Cojuangco_Jr.)
+* [SS Nomadic](https://simple.wikipedia.org/wiki/SS_Nomadic)

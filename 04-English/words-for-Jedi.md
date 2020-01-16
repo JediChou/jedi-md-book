@@ -728,3 +728,7 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * dungeon：地牢
 * fang：牙齿
 * Distort：歪曲
+
+## 2020.1.16
+
+* ruffle
