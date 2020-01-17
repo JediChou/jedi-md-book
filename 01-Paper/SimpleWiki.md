@@ -708,3 +708,11 @@
 * [Clear-cell sarcoma](https://simple.wikipedia.org/wiki/Clear-cell_sarcoma)
 * [Jose Cojuangco Jr.](https://simple.wikipedia.org/wiki/Jose_Cojuangco_Jr.)
 * [SS Nomadic](https://simple.wikipedia.org/wiki/SS_Nomadic)
+
+## 2020.1.17
+
+* [Peasants with Cattle by a Ruin](https://en.wikipedia.org/wiki/Peasants_with_Cattle_by_a_Ruin)
+* [Arrondissement of Romorantin-Lanthenay](https://simple.wikipedia.org/wiki/Arrondissement_of_Romorantin-Lanthenay)
+* [85 (number)](https://simple.wikipedia.org/wiki/85_(number))
+* [Temptation of Wife (2012 TV series)](https://simple.wikipedia.org/wiki/Temptation_of_Wife_(2012_TV_series))
+* [Patrisse Cullors](https://simple.wikipedia.org/wiki/Patrisse_Cullors)
