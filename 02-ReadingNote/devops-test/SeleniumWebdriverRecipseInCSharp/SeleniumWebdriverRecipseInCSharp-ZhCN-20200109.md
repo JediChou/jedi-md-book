@@ -13,20 +13,20 @@ Book information:
   * Selenium Language Bindings
   * 环境配置
     * 前置条件
-	* 创建Visual Studio解决方案
-	* 创建测试并运行
+  * 创建Visual Studio解决方案
+  * 创建测试并运行
   * 跨浏览器测试
     * Firefox
-	* Chrome
-	* Internet Explorer
-	* IE Edge
+  * Chrome
+  * Internet Explorer
+  * IE Edge
   * Visual Studio单选测试框架
     * Visual Studio Unit Testing Framework Fixtures
-	* 其他可替代的方案：NUnit
+  * 其他可替代的方案：NUnit
   * 运行测试脚本
     * 在Visual Studio中运行测试
-	* 在命令行下运行测试
-	
+  * 在命令行下运行测试
+
 * 第2章：定位Web元素
   * 启动浏览器
   * 按ID查找元素
@@ -116,44 +116,45 @@ Book information:
   * 断言：页面Title判定
   * 断言：页面内容判定
   * 断言：页面HTML内容判定
-  * Assert checkbox selected
-  * Assert button enabled
-  * Assert label text
-  * Assert span text
-  * Assert div text or HTML
-  * Assert table text
-  * Assert text in a table cell
-  * Assert image present
+  * 断言：确定复选框是否被选中
+  * 断言：确定按钮是否可点击
+  * 断言：Label标签的内容判定
+  * 断言：Span标签的内容判断
+  * 断言：div或其他HTML标签的内容判定
+  * 断言：表格内容的判定
+  * 断言：表格单元格的内容判定
+  * 断言：图片的判定
   
-* Chapter 11: Framews
-  * Testing Frames
-  * Testing iframe
-  * Test mulitple iframes
+* 第11章：Frame
+  * Frame如何进行测试
+  * 测试执行：带iframe的页面测试
+  * 测试执行：多iframe的页面测试
   
-* Chapter 12: AJAX
-  * Wait within a time frame
-  * Explicit waits until time out
-  * Implicit waits until time out
-  * Wait AJAX call to complete using JQuery
+* 第12章：AJAX请求
+  * 页面请求等待
+  * 申明等待直到请求超时
+  * 不申明等待直到请求超时
+  * 用jQuery执行AJAX请求
 
-* Chapter 13: Pop-up
-  * File upload
-  * JavaScript pop-ups
-  * Modal style dialog boxes
-  * Timeout on a test
-  * Pop-up handler approach
-  * Basic or Proxy Authentication dialog box
-  * Internet Explorer modal dialog box
+* 第13章：弹出框
+  * 文件上传
+  * JavaScript弹出框
+  * 模态窗
+  * 测试中的超时处理
+  * 弹出框处理
+  * 代理设置弹出框的处理
+  * IE浏览器的模态窗处理
 
-* Chapter 14: Debugging Test Scripts
+* 第14章：测试脚本调试
   * Print text for debugging
+  * 
   * Write page source or element HTML into a file
   * Take a screenshot
   * Leave the browser open after test finishes
   * Debug test execution using Debugger
     * Enable breakpoints
-	* Execute one test case in debugging mode
-	* Step over test execution
+  * Execute one test case in debugging mode
+  * Step over test execution
 
 * Chapter 15: Test Data
   * Get data dynamically
@@ -205,7 +206,7 @@ Book information:
 * Chapter 20: Leverage Programming
   * Throw exceptions to fail test
     * Flag incomplete tests
-	* Stop test execution during debugging a test
+  * Stop test execution during debugging a test
   * Ignorable test statement error
   * Read external file
   * Data-driven tests with Excel
@@ -241,19 +242,19 @@ Book information:
   * Execute tests in the specified browser on another machine
   * Selenium Grid
     * Start the hub
-	* Start the nodes
-	* Using Grid to run tests
-	* Concerns with Selenium Grid
+  * Start the nodes
+  * Using Grid to run tests
+  * Concerns with Selenium Grid
 
 * Chapter 24: Afterword
   * Practice makes perfect
     * Write tests
-	* Improve programming skills
-  * Successful test automation
-    * Maintain test scripts to keep up with application changes
-	* Shorten test execution time to get quick feedback
+  * 提交编程技巧
+  * 成功的自动化测试
+    * 功能变更时进行测试脚本维护
+  * 快速响应的测试执行
 
-* Chapter 25: Resources
-  * Books
-  * Web sites
-  * Tools
+* Chapter 25: 资源
+  * 相关书籍
+  * 相关网站
+  * 相关工具
