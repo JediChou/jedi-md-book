@@ -18,7 +18,7 @@ Author: Jedi Chou, Create at 2020.1.18 18:15 AM
 
   * Reading
     * 163.com mail. 23:05
-    * Feedly RSS. 23:11
+    * Feedly RSS. 23:20
 
 * Weekly review
   * Read a thesis and don't record
