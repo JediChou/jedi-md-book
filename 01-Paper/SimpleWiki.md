@@ -716,3 +716,15 @@
 * [85 (number)](https://simple.wikipedia.org/wiki/85_(number))
 * [Temptation of Wife (2012 TV series)](https://simple.wikipedia.org/wiki/Temptation_of_Wife_(2012_TV_series))
 * [Patrisse Cullors](https://simple.wikipedia.org/wiki/Patrisse_Cullors)
+
+## 2020.1.20
+
+* [Tokusatsu](https://simple.wikipedia.org/wiki/Tokusatsu)
+* [SEAT Arosa](https://simple.wikipedia.org/wiki/SEAT_Arosa)
+* [River Tay](https://simple.wikipedia.org/wiki/River_Tay)
+* [1948 United States presidential election](https://simple.wikipedia.org/wiki/1948_United_States_presidential_election)
+* [63 (number)](https://simple.wikipedia.org/wiki/63_(number))
+* [Brendan O'Neill (journalist)](https://simple.wikipedia.org/wiki/Brendan_O%27Neill_(journalist))
+* [Vallermosa](https://simple.wikipedia.org/wiki/Vallermosa)
+* [Palmyra Atoll](https://simple.wikipedia.org/wiki/Palmyra_Atoll)
+* [Daniel Burley Woolfall](https://simple.wikipedia.org/wiki/Daniel_Burley_Woolfall)

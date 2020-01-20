@@ -741,3 +741,9 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 ## 2020.1.18
 
 * capsule
+
+## 2020.1.20
+
+* vibrate：震动
+* Tokusatsu：特摄区
+* SEAT Arosa
