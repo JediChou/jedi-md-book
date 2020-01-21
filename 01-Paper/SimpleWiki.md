@@ -728,3 +728,9 @@
 * [Vallermosa](https://simple.wikipedia.org/wiki/Vallermosa)
 * [Palmyra Atoll](https://simple.wikipedia.org/wiki/Palmyra_Atoll)
 * [Daniel Burley Woolfall](https://simple.wikipedia.org/wiki/Daniel_Burley_Woolfall)
+
+## 2020.1.21
+
+* [University of Utah](https://simple.wikipedia.org/wiki/University_of_Utah)
+* [From the Earth to the Moon](https://simple.wikipedia.org/wiki/From_the_Earth_to_the_Moon)
+* [Fall of Constantinople](https://simple.wikipedia.org/wiki/Fall_of_Constantinople)
