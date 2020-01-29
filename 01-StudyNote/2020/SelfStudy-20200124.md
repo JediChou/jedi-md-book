@@ -23,3 +23,7 @@ Author: Jedi Chou, Create at 2020.1.24 20:53 PM
 * Weekly review
   * Read a thesis and don't record
   * Open class APP by 163.com check-in
+
+## Other
+
+* [Design tips for developers](https://paul.copplest.one/blog/design.html)
