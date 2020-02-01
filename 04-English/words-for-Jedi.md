@@ -747,3 +747,11 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * vibrate：震动
 * Tokusatsu：特摄区
 * SEAT Arosa
+
+## 2020.1.30
+
+* plop it: 扑通一声
+* colonist: 殖民者
+* pan
+* phrase
+* enchilada
