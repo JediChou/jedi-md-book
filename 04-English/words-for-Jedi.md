@@ -755,3 +755,13 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * pan
 * phrase
 * enchilada
+
+## 2020.2.9
+
+* painless
+* Inclusion
+* royce: a name
+* poop: 便便
+* potty
+* colony
+* seniority
