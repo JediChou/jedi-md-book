@@ -23,6 +23,3 @@ Author: Jedi Chou, Create at 2020.2.1 15:47 PM
 * Weekly review
   * Read a thesis and don't record
   * Open class APP by 163.com check-in
-
-## Other
-
