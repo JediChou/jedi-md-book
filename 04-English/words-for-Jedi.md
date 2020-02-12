@@ -773,3 +773,12 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * quo: need an explain
 * obliquity: need an explain
 * Subscribing: 订阅
+
+## 2020.2.11
+
+* confine
+* drizzle
+* transcript
+* brandless
+* sparse
+* pentagon
