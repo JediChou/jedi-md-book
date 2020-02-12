@@ -35,6 +35,3 @@ Author: Jedi Chou, Create at 2020.2.12 9:15 AM
   * Leela Zero vs Leela Zero. 15:12
   * Leela Zero vs Leela Zero. 15:26
   * Leela Zero vs Leela Zero. 15:30
-* Rick and morty
-  * S2-02
-* Sina
