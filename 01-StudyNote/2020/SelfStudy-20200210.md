@@ -26,7 +26,12 @@ Author: Jedi Chou, Create at 2020.2.10 9:54 AM
 
 ## Other
 
-* 360 check. 9:58
-* msys2在家里没法更新，均提示速度很慢
 * Rick and morty
-  * S1-11
+  * S1-11. 13:40
+  * S2-01. 14:04
+* Sina
+  * [糖类影响大脑，导致不必要的过量摄入？](https://weibo.com/fav?page=60)
+  * [如何利用早晨开启高效的一天](http://t.cn/EfhaerI?m=4343867954484613&u=1389537561)
+  * [Mark Rober](http://t.cn/EVgrRpB?m=4342083344739148&u=3044746573)
+  * [185种意外的猪制品](http://t.cn/Ec1wlF3?m=4339181168267088&u=2541763545)
+  * [关于线性代数](http://blog.sina.cn/dpool/blog/s/blog_76abb1a601012syz.html)
