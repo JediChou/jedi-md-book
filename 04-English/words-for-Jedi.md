@@ -786,3 +786,9 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 ## 2020.2.12
 
 * groan
+
+## 2020.2.13
+
+* unsung: 被埋没的
+* drizzil: 小雨
+* semester: 学期
