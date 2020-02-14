@@ -792,3 +792,10 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * unsung: 被埋没的
 * drizzil: 小雨
 * semester: 学期
+
+## 2020.2.14
+
+* furious
+* Procrastinate, Procrastination
+* imprison, confine
+* stunned
