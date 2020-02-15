@@ -31,14 +31,14 @@ Author: Jedi Chou, Create at 2020.2.15 15:58 PM
   * PICARD S01-03. 14:00
 * 360 check. 15:58
 * Suduku
-  * Hard-00:00 mins
-  * Hard-00:00 mins
-  * Hard-00:00 mins
+  * Hard-07:50 mins. 18:43
+  * Hard-05:35 mins. 18:49
+  * Hard-08:34 mins. 18:58
 * Go Game check
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
+  * Leela Zero vs Leela Zero. 19:02
+  * Leela Zero vs Leela Zero. 19:10
+  * Leela Zero vs Leela Zero. 19:25
 * Rick and morty
-  * S2-09
-  * S2-10
-  * S2-11
+  * S2-09. 20:35
+  * S2-10. 20:58
+  * S3-01. 21:22
