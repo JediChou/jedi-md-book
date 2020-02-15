@@ -799,3 +799,10 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * Procrastinate, Procrastination
 * imprison, confine
 * stunned
+
+## 2020.2.15
+
+* safari, giraffe
+* artifact, relics
+* furious
+* illusion, trick
