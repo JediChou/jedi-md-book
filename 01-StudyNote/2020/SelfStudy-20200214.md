@@ -36,7 +36,9 @@ Author: Jedi Chou, Create at 2020.2.14 7:55 AM
   * Leela Zero vs Leela Zero. 9:51
   * Leela Zero vs Leela Zero. 10:16
 * Rick and morty
-  * S2-04
-  * S2-05
-  * S2-06
-* Sina
+  * S2-06. 12:42
+  * S2-07. 13:06
+  * S2-08. 13:37
+* Star Trek - PICARD
+  * PICARD S01-01. 16:22
+  * PICARD S01-02
