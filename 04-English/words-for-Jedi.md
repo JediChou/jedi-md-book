@@ -810,3 +810,13 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 ## 2020.2.16
 
 * creature
+* retweet: 转发
+* bylaws: 规章细则
+* literature: 文学
+
+## 2020.2.17
+
+* punt
+  * n. 方头平底船(用篙撑);赌博;打赌;(踢出的)凌空长球，脱手球
+  * v. 乘方头平底船航行(尤指游览);踢凌空长球;踢脱手球
+  * n. 爱尔兰镑(爱尔兰共和国以前的货币单位，于2002年为欧元所取代)
