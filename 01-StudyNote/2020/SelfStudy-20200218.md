@@ -36,8 +36,6 @@ Author: Jedi Chou, Create at 2020.2.18 7:53 AM
   * Leela Zero vs Leela Zero. 18:17
   * Leela Zero vs Leela Zero. 18:27
 * Rick and morty
-  * S3-07
-  * S3-08
-  * S3-09
-* 曼达诺人
-  * S1-04 SANCTUARY.
+  * S3-07. Done
+  * S3-08. Done
+  * S3-09. Done
