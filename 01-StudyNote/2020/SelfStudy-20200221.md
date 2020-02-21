@@ -27,6 +27,8 @@ Author: Jedi Chou, Create at 2020.2.21 18:08 PM
 ## Other
 
 * 360 check. 8:00
+* 曼达诺人
+  * S1-04 SANCTUARY. 23:04
 * Suduku
   * Hard-00:00 mins
   * Hard-00:00 mins
@@ -42,5 +44,3 @@ Author: Jedi Chou, Create at 2020.2.21 18:08 PM
   * S4-03
   * S4-04
   * S4-05
-* 曼达诺人
-  * S1-04 SANCTUARY
