@@ -31,13 +31,3 @@ Author: Jedi Chou, Create at 2020.2.19 8:41 AM
   * Hard-08:00 mins. 14:20
   * Hard-08:00 mins. 14:20
   * Hard-08:00 mins. 14:20
-* Go Game check
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-* Rick and morty
-  * S3-07
-  * S3-08
-  * S3-09
-* 曼达诺人
-  * S1-04 SANCTUARY.
