@@ -824,3 +824,27 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 ## 2020.2.18
 
 * trio
+
+## 2020.2.19
+
+* moisten
+* informative
+* therapist
+
+## 2020.2.20
+
+* Nutritious
+* influence: 影响
+* slurp: 诽谤
+* bionic: 生物
+* suave: 世故
+* frizzy: 卷毛
+* hollow: 空洞的
+
+## 2020.2.21
+
+* fame: 名声
+* beaks: 喙
+* reputation:
+* inquire into: reasearch, 调查、研究
+* ledger: 分类帐
