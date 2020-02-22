@@ -29,18 +29,3 @@ Author: Jedi Chou, Create at 2020.2.21 18:08 PM
 * 360 check. 8:00
 * 曼达诺人
   * S1-04 SANCTUARY. 23:04
-* Suduku
-  * Hard-00:00 mins
-  * Hard-00:00 mins
-  * Hard-00:00 mins
-* Go Game check
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-* Rick and morty
-  * S3-10
-  * S4-01
-  * S4-02
-  * S4-03
-  * S4-04
-  * S4-05
