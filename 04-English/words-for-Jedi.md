@@ -848,3 +848,36 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * reputation:
 * inquire into: reasearch, 调查、研究
 * ledger: 分类帐
+
+## 2020.2.22
+
+* undergo: 经历
+* downturn: 倒退
+* vapor: 水蒸气
+* compel: 强迫
+* spots: 斑点
+* delve: 深挖
+* tendency: 趋势（trend?)
+* machinery: 机械
+* elevation
+* exaltation: 激怒
+* gym: 健身房
+* envy
+* stamina
+* ragged jeans
+* seaworthy
+* horror, horriable, horrified
+* harshly: 狂怒
+* fearsome: adj. 可怕的；害怕的；极大的
+* merciless: adj. 残忍的；无慈悲心的
+* a ski slope: 滑雪坡
+* poisonous: 有毒的
+  * What do arsenic, cyanide, and bleach all have in common? 
+* toxic: 有毒
+* inhale: 吸入
+* Spreading lies: 散布谎言
+* betray: 泄漏
+* creatures: n. 生物（creature的复数）
+* rug: 地毯
+* celebrity: 名声
+* catastrophe: n. 大灾难；大祸；惨败
