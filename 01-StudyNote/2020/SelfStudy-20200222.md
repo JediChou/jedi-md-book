@@ -45,11 +45,11 @@ Author: Jedi Chou, Create at 2020.2.22 8:33 AM
   * Leela Zero vs Leela Zero. 12:47
   * Leela Zero vs Leela Zero. 13:03
 * Rick and morty
-  * S3-10
-  * S4-01
-  * S4-02
-  * S4-03
-  * S4-04
-  * S4-05
+  * S3-10. 17:00
+  * S4-01. 17:25
+  * S4-02. 17:47
+  * S4-03. 18:10
+  * S4-04. 18:32
+  * S4-05. 18:48, 19:31
 * 曼达诺人
-  * S1-05
+  * S1-05 GUNSLINGER. 20:10
