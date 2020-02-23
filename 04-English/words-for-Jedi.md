@@ -881,3 +881,17 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * rug: 地毯
 * celebrity: 名声
 * catastrophe: n. 大灾难；大祸；惨败
+
+## 2020.2.23
+
+* clumsy: 笨的
+* grouchy: 暴躁脾气
+* slippery: 光滑的、滑的
+* quirky: 古怪的
+* damp: 潮湿的, moist
+* stoop: 弯腰
+* dew: 露水
+* restrain: 抑制（尤其指武力）
+* cymbal: 钹
+* megaphone: 扩音器
+
