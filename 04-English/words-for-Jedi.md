@@ -898,3 +898,7 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 ## 2020.2.24
 
 * inqure into: 调查
+
+## 2020.2.25
+
+* uninjured, unscathed
