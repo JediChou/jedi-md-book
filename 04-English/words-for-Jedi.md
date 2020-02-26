@@ -902,3 +902,10 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 ## 2020.2.25
 
 * uninjured, unscathed
+
+## 2020.2.26
+
+* adore: 热爱
+* stiffen: 害怕
+* pedal: 踏板
+* freelancer: 自由工作者
