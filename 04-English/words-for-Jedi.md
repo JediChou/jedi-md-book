@@ -593,7 +593,7 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 
 * accelerate: 加速
 * misapprehension: 误解
-* drowsy: 昏昏欲睡
+* drowsy: 昏昏欲睡, moist
 * Abbreviate: 缩写
 * Bohemia: 波西米亚
 * handicraft: 手工艺品
@@ -909,3 +909,8 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * stiffen: 害怕
 * pedal: 踏板
 * freelancer: 自由工作者
+
+## 2020.2.27
+
+* mumbled: 喃喃自语
+* ashamed: 自责, mortified
