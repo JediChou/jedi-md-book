@@ -31,19 +31,19 @@ Author: Jedi Chou, Create at 2020.2.27 7:47 AM
   * 香信打开（集团要求-上班）. 7:49
   * 更新香信的“调查问卷列表”. 7:50
   * 更新香信的“个人14天内旅居史”. 7:51
-  * 钉钉打卡（部门要求-下班）
-  * 香信打开（集团要求-下班）
+  * 香信打开（集团要求-下班）. 17:46
+  * 钉钉打卡（部门要求-下班）. 17:47
 
 * 360 check
 * 360杀毒(全盘扫描)
 * 360杀毒(宏病毒扫描)
 
 * Suduku
-  * Professional-00:00 mins
-  * Professional-00:00 mins
-  * Professional-00:00 mins
+  * Professional-28:39 mins. 12:30
+  * Professional-18:23 mins. 13:00
+  * Professional-12:36 mins. 13.15
 
 * Go Game check
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
+  * Leela Zero vs Leela Zero. 13:43
+  * Leela Zero vs Leela Zero. 15:07
+  * Leela Zero vs Leela Zero. 15:13
