@@ -34,10 +34,6 @@ Author: Jedi Chou, Create at 2020.2.28 7:45 AM
   * 香信打开（集团要求-下班）. 17:38
   * 钉钉打卡（部门要求-下班）. 18:02
 
-* 360 check
-* 360杀毒(全盘扫描)
-* 360杀毒(宏病毒扫描)
-
 * Suduku
   * Professional-08:40-fail mins. 10:10
   * Professional-14:41 mins. 11:03
@@ -55,3 +51,7 @@ Author: Jedi Chou, Create at 2020.2.28 7:45 AM
 * [Open peeps](https://www.openpeeps.com/)
 * 孑孓: [jié jué], 蚊子的幼虫.
 * New Concept: GNU道德存储库规范(GNU ethical和epository)
+
+* 360杀毒(宏病毒扫描). 19:51
+* 360 check. 20:01
+* 360杀毒(全盘扫描). 21:36
