@@ -914,3 +914,7 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 
 * mumbled: 喃喃自语
 * ashamed: 自责, mortified
+
+## 2020.2.28
+
+* butchers: 屠夫
