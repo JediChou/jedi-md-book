@@ -29,8 +29,8 @@ Author: Jedi Chou, Create at 2020.2.28 7:45 AM
 * 打开
   * 钉钉打卡（部门要求-上班）. 8:05
   * 香信打开（集团要求-上班）. 8:05
-  * 更新香信的“调查问卷列表”
-  * 更新香信的“个人14天内旅居史”
+  * 更新香信的“调查问卷列表”. 13:35
+  * 更新香信的“个人14天内旅居史”. 13:35
   * 香信打开（集团要求-下班）
   * 钉钉打卡（部门要求-下班）
 
@@ -39,14 +39,15 @@ Author: Jedi Chou, Create at 2020.2.28 7:45 AM
 * 360杀毒(宏病毒扫描)
 
 * Suduku
-  * Professional-00:00 mins
-  * Professional-00:00 mins
-  * Professional-00:00 mins
+  * Professional-08:40-fail mins. 10:10
+  * Professional-14:41 mins. 11:03
+  * Professional-19:25 mins. 12:44
+  * Professional-16:23 mins. 13:02
 
 * Go Game check
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
+  * Leela Zero vs Leela Zero. 13:11
+  * Leela Zero vs Leela Zero. 13:22
+  * Leela Zero vs Leela Zero. 13:33
 
 * [TODO: timeit example 1](https://www.geeksforgeeks.org/timeit-python-examples/)
 * [TODO: timeit example 2](https://www.guru99.com/timeit-python-examples.html)
