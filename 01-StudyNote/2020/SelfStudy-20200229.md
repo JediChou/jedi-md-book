@@ -31,15 +31,15 @@ Author: Jedi Chou, Create at 2020.2.29 2:14 AM
   * 更新香信的“个人14天内旅居史”. Done
 
 * Suduku
-  * Hard-00:00 mins
-  * Hard-00:00 mins
-  * Hard-00:00 mins
+  * Hard-06:09 mins. 21:28
+  * Hard-05:44 mins. 21:34
+  * Hard-05:38 mins. 21:41
 
 * Go Game checkb
   * Jedi(2k)-Zen4(5k)-Black-Win-20200229-0304. 03:04
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
+  * Leela Zero vs Leela Zero. 21:49
+  * Leela Zero vs Leela Zero. 21:57
+  * Leela Zero vs Leela Zero. 22:08
 
 * [TODO: timeit example 1](https://www.geeksforgeeks.org/timeit-python-examples/)
 * [TODO: timeit example 2](https://www.guru99.com/timeit-python-examples.html)
