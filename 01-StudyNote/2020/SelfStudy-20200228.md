@@ -44,14 +44,12 @@ Author: Jedi Chou, Create at 2020.2.28 7:45 AM
   * Leela Zero vs Leela Zero. 13:11
   * Leela Zero vs Leela Zero. 13:22
   * Leela Zero vs Leela Zero. 13:33
-
-* [TODO: timeit example 1](https://www.geeksforgeeks.org/timeit-python-examples/)
-* [TODO: timeit example 2](https://www.guru99.com/timeit-python-examples.html)
-* [TODO: Review Tencent github repo list](https://github.com/Tencent)
-* [Open peeps](https://www.openpeeps.com/)
-* 孑孓: [jié jué], 蚊子的幼虫.
-* New Concept: GNU道德存储库规范(GNU ethical和epository)
+  * Jedi(2k) vs Zen4(6k). 22:48
 
 * 360杀毒(宏病毒扫描). 19:51
 * 360 check. 20:01
 * 360杀毒(全盘扫描). 21:36
+
+* 孑孓: [jié jué], 蚊子的幼虫.
+* New Concept: GNU道德存储库规范(GNU ethical和epository)
+* 星际迷航：皮卡德第一季04. 11:35
