@@ -918,3 +918,16 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 ## 2020.2.28
 
 * butchers: 屠夫
+
+## 2020.2.29
+
+* uphill: 上班
+* give me five: 击个掌
+* Phishing Attacks: 钓鱼攻击, It is mean fishing attack, isn't it?
+* biosciences: 生物学
+* bioscientist: 生物学家
+* Orangutan: 大猩猩, apes
+* coronavirus: 冠状病毒
+* lichens n. 地衣（lichen的复数）；
+* candidate: n. 候选人，候补者；应试者
+* veteran: n. 老兵；老手；富有经验的人；老运动员
