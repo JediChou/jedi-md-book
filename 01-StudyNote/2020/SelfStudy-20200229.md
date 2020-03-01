@@ -41,11 +41,6 @@ Author: Jedi Chou, Create at 2020.2.29 2:14 AM
   * Leela Zero vs Leela Zero. 21:57
   * Leela Zero vs Leela Zero. 22:08
 
-* [TODO: timeit example 1](https://www.geeksforgeeks.org/timeit-python-examples/)
-* [TODO: timeit example 2](https://www.guru99.com/timeit-python-examples.html)
-* [TODO: Review Tencent github repo list](https://github.com/Tencent)
-* [Open peeps](https://www.openpeeps.com/)
-
 * 360 check. 00:10
 * 360杀毒(全盘扫描) 3:30
 * 360杀毒(宏病毒扫描). 10:15
