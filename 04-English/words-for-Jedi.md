@@ -931,3 +931,9 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * lichens n. 地衣（lichen的复数）；
 * candidate: n. 候选人，候补者；应试者
 * veteran: n. 老兵；老手；富有经验的人；老运动员
+
+## 2020.3.1
+
+* horrid:
+  * 英 [ˈhɒrɪd]   美 [ˈhɔːrɪd]  
+  * adj. 非常讨厌的;很不友好的
