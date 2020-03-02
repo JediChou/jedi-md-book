@@ -937,3 +937,8 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * horrid:
   * 英 [ˈhɒrɪd]   美 [ˈhɔːrɪd]  
   * adj. 非常讨厌的;很不友好的
+
+## 2020.3.2
+
+* parachute
+* coupon
