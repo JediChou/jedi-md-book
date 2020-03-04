@@ -48,8 +48,8 @@ Author: Jedi Chou, Create at 2020.3.4 7:43 AM
   * Leela Zero vs Leela Zero. 8:14
   * Leela Zero vs Leela Zero. 8:24
 
-* 天才.爱因斯坦.Genius.S01E09
-* 天才.爱因斯坦.Genius.S01E10
+* 天才.爱因斯坦.Genius.S01E09. 14:06
+* 天才.爱因斯坦.Genius.S01E10. 14:06
 
 * 【EBS】托起人类文明的数学【中字-02】
   * 本章标题：计算文明
