@@ -942,3 +942,12 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 
 * parachute
 * coupon
+
+## 2020.3.4
+
+* confine 英 [kənˈfaɪn]   美 [kənˈfaɪn]  
+  * v. 限制;限定;监禁;禁闭;使离不开(或受困于床、轮椅等)
+* parachute
+  * 英 [ˈpærəʃuːt]   美 [ˈpærəʃuːt]  
+  * n.降落伞
+  * v.跳伞;伞降;空投
