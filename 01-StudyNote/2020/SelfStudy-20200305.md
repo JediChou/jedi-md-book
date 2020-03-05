@@ -35,9 +35,9 @@ Author: Jedi Chou, Create at 2020.3.5 7:43 AM
   * 香信打开（集团要求-下班）
 
 * Suduku
-  * Hard-00:00 mins
-  * Hard-00:00 mins
-  * Hard-00:00 mins
+  * Hard-04:32 mins. 10:11
+  * Hard-03:42 mins. 10:21
+  * Hard-06:10 mins. 10:27
 
 * Go Game checkb
   * Leela Zero vs Leela Zero
