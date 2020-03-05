@@ -40,9 +40,9 @@ Author: Jedi Chou, Create at 2020.3.5 7:43 AM
   * Hard-06:10 mins. 10:27
 
 * Go Game checkb
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
+  * Leela Zero vs Leela Zero. 11:58
+  * Leela Zero vs Leela Zero. 12:09
+  * Leela Zero vs Leela Zero. 12:35
 
 * 【EBS】托起人类文明的数学【中字-02】
   * 本章标题：计算文明
@@ -52,3 +52,13 @@ Author: Jedi Chou, Create at 2020.3.5 7:43 AM
   * Jedi: 07:36 mins. 有不严谨的地方，后面是玻璃
   * 毕达哥拉斯不明白变长怎么会导致形成直角三角形（因为埃及人掌握了比例）
   * 暂时看到12分钟左右. 2020.3.2 23:00
+  * 毕达哥拉斯(三边关系) -> c^2 = 2，希帕索斯 -> Euclid (幾何原本)
+  * 13:00
+
+* 【EBS】托起人类文明的数学【中字-03】
+  * Zero created.
+  * 没有中文字幕，很吃力.
+
+* 【EBS】托起人类文明的数学【中字-04】
+  * 最速降线. 牛顿 vs 莱布尼茨
+  * 笛卡尔
