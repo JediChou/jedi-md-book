@@ -951,3 +951,11 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
   * 英 [ˈpærəʃuːt]   美 [ˈpærəʃuːt]  
   * n.降落伞
   * v.跳伞;伞降;空投
+
+## 2020.3.6
+
+* parachute
+* 英 [ˈpærəʃuːt]  美 [ˈpærəʃuːt]
+  * n. 降落伞
+  * vi. 跳伞
+  * 空投
