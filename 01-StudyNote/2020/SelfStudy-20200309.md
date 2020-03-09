@@ -31,8 +31,8 @@ Author: Jedi Chou, Create at 2020.3.9 7:53 PM
   * 香信打开（集团要求-上班）. 7:55
   * 更新香信的“调查问卷列表”. 7:59
   * 更新香信的“个人14天内旅居史”. 7:59
-  * 钉钉打卡（部门要求-下班）
-  * 香信打开（集团要求-下班）
+  * 香信打开（集团要求-下班）. 18:12
+  * 钉钉打卡（部门要求-下班）. 18:12
 
 * [Mathematica家庭版](https://www.wolfram.com/mathematica-home-edition/). 8:41
 
@@ -78,6 +78,8 @@ Author: Jedi Chou, Create at 2020.3.9 7:53 PM
   * Jedi advices. 13:51
     * For my private repo, my choice is Travis or Circle CI.
     * For company repo, my choice is Jenkins or TeamCity.
+
+* 完成IDEA的企业版下载. 16:47
 
 * 尚硅谷2020最新版JavaWeb全套教程,java web零基础入门完整版
   * P11 11-尚硅谷-HTML和CSS-特殊字符. Done
