@@ -959,3 +959,15 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
   * n. 降落伞
   * vi. 跳伞
   * 空投
+
+## 2020.3.9
+
+* nibble
+  * 英 [ˈnɪbl]  美 [ˈnɪbl]
+  * vi. 细咬；一点一点地咬；吹毛求疵
+  * vt. 细咬；一点一点地咬；吹毛求疵
+  * n. 轻咬；啃；细咬
+
+* wreckage
+  * 英 [ˈrekɪdʒ]  美 [ˈrekɪdʒ]
+  * n. （失事船或飞机等的）残骸；（船只等的）失事
