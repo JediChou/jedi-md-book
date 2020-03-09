@@ -58,14 +58,14 @@ Author: Jedi Chou, Create at 2020.3.9 7:53 PM
   * Leela Zero vs Leela Zero. 13:15
   * Leela Zero vs Leela Zero. 13:23
   * Leela Zero vs Leela Zero. 13:31
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
+  * Leela Zero vs Leela Zero. 15:39
+  * Leela Zero vs Leela Zero. 15:45
+  * Leela Zero vs Leela Zero. 16:01
+  * Leela Zero vs Leela Zero. 16:10
+  * Leela Zero vs Leela Zero. 16:15
+  * Leela Zero vs Leela Zero. 16:22
+  * Leela Zero vs Leela Zero. 16:29
+  * Leela Zero vs Leela Zero. 16:37
 
 * Github CI Tools. 13:51
   * Travis CI. Verify at 13:44
