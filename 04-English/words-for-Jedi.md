@@ -971,3 +971,15 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * wreckage
   * 英 [ˈrekɪdʒ]  美 [ˈrekɪdʒ]
   * n. （失事船或飞机等的）残骸；（船只等的）失事
+
+## 2020.3.10
+
+* fortress
+  * 英 [ˈfɔːtrəs]  美 [ˈfɔːrtrəs]
+  * n. 堡垒；要塞
+  * vt. 筑要塞；以要塞防守
+
+* termite
+  * 英 [ˈtɜːmaɪt]  美 [ˈtɜːrmaɪt]
+  * n. [昆] 白蚁
+  * 复数 termites
