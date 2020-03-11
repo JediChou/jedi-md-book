@@ -983,3 +983,16 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
   * 英 [ˈtɜːmaɪt]  美 [ˈtɜːrmaɪt]
   * n. [昆] 白蚁
   * 复数 termites
+
+## 2020.3.11
+
+* transcription
+  * 英 [trænˈskrɪpʃn]  美 [trænˈskrɪpʃn]
+  * n. 抄写；抄本；誊写
+
+* wreckage
+  * Like: ruins
+  * 英 [ˈrekɪdʒ]  美 [ˈrekɪdʒ]
+  * n. （失事船或飞机等的）残骸；（船只等的）失事
+
+
