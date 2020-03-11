@@ -26,25 +26,26 @@ Author: Jedi Chou, Create at 2020.3.11 7:40 PM
 
 ## Other
 
-* 打开
+* Swagger for DotNet Core需要更多相关信息. 8:39
+* 打卡
   * 钉钉打卡（部门要求-上班）. 7:41
   * 香信打开（集团要求-上班）. 7:42
   * 更新香信的“调查问卷列表”. 7:42
   * 更新香信的“个人14天内旅居史”. 7:43
-  * 钉钉打卡（部门要求-下班）
-  * 香信打开（集团要求-下班）
 
 * Suduku
-  * Hard-00:00 mins
-  * Hard-00:00 mins
-  * Hard-00:00 mins
+  * Professional-18:00 mins. 10:39
+  * Professional-14:00 mins. 10:39
+  * Professional-08:27 mins. 10:39
 
 * Go Game checkb
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
+  * Leela Zero vs Leela Zero. 10:46
+  * Leela Zero vs Leela Zero. 11:01
+  * Leela Zero vs Leela Zero. 11:11
 
-* Swagger for DotNet Core需要更多相关信息. 8:39
+* 打卡
+  * 钉钉打卡（部门要求-下班）
+  * 香信打开（集团要求-下班）
 
 * 尚硅谷2020最新版JavaWeb全套教程,java web零基础入门完整版
   * P36 04-尚硅谷-JavaScript-JavaScript的变量和数据类型介绍
