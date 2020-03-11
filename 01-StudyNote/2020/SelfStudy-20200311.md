@@ -44,8 +44,34 @@ Author: Jedi Chou, Create at 2020.3.11 7:40 PM
   * Leela Zero vs Leela Zero. 11:11
 
 * 打卡
-  * 钉钉打卡（部门要求-下班）
-  * 香信打开（集团要求-下班）
+  * 钉钉打卡（部门要求-下班）. 18:43
+  * 香信打开（集团要求-下班）. 18:43
+
+* dotnet cmd output
+
+```bat
+dotnet --list-sdks
+2.1.701 [C:\Program Files\dotnet\sdk]
+2.2.301 [C:\Program Files\dotnet\sdk]
+3.1.100 [C:\Program Files\dotnet\sdk]
+
+dotnet --list-runtimes
+Microsoft.AspNetCore.All 2.1.12 [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All]
+Microsoft.AspNetCore.All 2.1.14 [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All]
+Microsoft.AspNetCore.All 2.2.6 [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All]
+Microsoft.AspNetCore.All 2.2.8 [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All]
+Microsoft.AspNetCore.App 2.1.12 [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App]
+Microsoft.AspNetCore.App 2.1.14 [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App]
+Microsoft.AspNetCore.App 2.2.6 [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App]
+Microsoft.AspNetCore.App 2.2.8 [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App]
+Microsoft.AspNetCore.App 3.1.0 [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App]
+Microsoft.NETCore.App 2.1.12 [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]
+Microsoft.NETCore.App 2.1.14 [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]
+Microsoft.NETCore.App 2.2.6 [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]
+Microsoft.NETCore.App 2.2.8 [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]
+Microsoft.NETCore.App 3.1.0 [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]
+Microsoft.WindowsDesktop.App 3.1.0 [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+```
 
 * 尚硅谷2020最新版JavaWeb全套教程,java web零基础入门完整版
   * P36 04-尚硅谷-JavaScript-JavaScript的变量和数据类型介绍
