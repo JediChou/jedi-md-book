@@ -36,14 +36,14 @@ Author: Jedi Chou, Create at 2020.3.12 7:40 PM
 * [Codecov](https://codecov.io/)
 
 * Suduku
-  * Hard-00:00 mins
-  * Hard-00:00 mins
-  * Hard-00:00 mins
+  * Pro-18:00 mins. 9:45
+  * Pro-fail mins. 10:36
+  * Pro-20:41 mins. 12:45
 
 * Go Game checkb
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
+  * Leela Zero vs Leela Zero. 12:50
+  * Leela Zero vs Leela Zero. 12:56
+  * Leela Zero vs Leela Zero. 13:06
 
 * 打卡
   * 钉钉打卡（部门要求-下班）
