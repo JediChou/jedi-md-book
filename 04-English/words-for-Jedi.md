@@ -995,4 +995,16 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
   * 英 [ˈrekɪdʒ]  美 [ˈrekɪdʒ]
   * n. （失事船或飞机等的）残骸；（船只等的）失事
 
+## 2020.3.12
 
+* impulse
+  * 英 [ˈɪmpʌls]   美 [ˈɪmpʌls]  
+  * n. 冲动;心血来潮;一时的念头;脉冲;冲击;冲量;推动力;刺激
+
+* amphitheater
+  * 英 [ˈæmfɪˌθɪətə]   美 [ˈæmfəˌθiətər]  
+  * 圆形剧场;竞技场;露天剧场;圆形竞技场;圆形露天剧场
+
+* paratrooper
+  * 英 [ˈpærətruːpə(r)]   美 [ˈpærətruːpər]  
+  * n. 伞兵;空降兵
