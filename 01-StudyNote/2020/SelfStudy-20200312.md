@@ -46,8 +46,8 @@ Author: Jedi Chou, Create at 2020.3.12 7:40 PM
   * Leela Zero vs Leela Zero. 13:06
 
 * 打卡
-  * 钉钉打卡（部门要求-下班）
-  * 香信打开（集团要求-下班）
+  * 香信打开（集团要求-下班）. 17:46
+  * 钉钉打卡（部门要求-下班）. 17:48
 
 * 尚硅谷2020最新版JavaWeb全套教程,java web零基础入门完整版
   * P36 04-尚硅谷-JavaScript-JavaScript的变量和数据类型介绍
