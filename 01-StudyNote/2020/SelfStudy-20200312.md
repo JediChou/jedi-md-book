@@ -48,10 +48,3 @@ Author: Jedi Chou, Create at 2020.3.12 7:40 PM
 * 打卡
   * 香信打开（集团要求-下班）. 17:46
   * 钉钉打卡（部门要求-下班）. 17:48
-
-* 尚硅谷2020最新版JavaWeb全套教程,java web零基础入门完整版
-  * P36 04-尚硅谷-JavaScript-JavaScript的变量和数据类型介绍
-  * P37 05-尚硅谷-JavaScript-JavaScript的关系运算
-  * P38 06-尚硅谷-JavaScript-JavaScript的逻辑运算
-  * P39 07-尚硅谷-JavaScript-JavaScript的数组
-  * P40 08-尚硅谷-JavaScript-函数的第一种定义方式
