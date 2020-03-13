@@ -1008,3 +1008,52 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * paratrooper
   * 英 [ˈpærətruːpə(r)]   美 [ˈpærətruːpər]  
   * n. 伞兵;空降兵
+
+## 2020.3.13
+
+* splinter
+  * 英 [ˈsplɪntə(r)]  美 [ˈsplɪntər]
+  * n. 碎片；微小的东西；极瘦的人
+  * vi. 分裂；裂成碎片
+  * vt. 使分裂；使裂成碎片
+  * n. (Splinter)人名；(瑞典)斯普林特
+
+* jug
+  * 英 [dʒʌɡ]  美 [dʒʌɡ]
+  * n. [轻] 水壶；监牢
+  * vt. 关押；放入壶中
+  * vi. 模仿夜莺叫
+  * n. (Jug)人名；(塞)尤格
+
+* pitcher
+  * 英 [ˈpɪtʃə(r)]  美 [ˈpɪtʃər]
+  * n. 投手；大水罐
+  * n. (Pitcher)人名；(英)皮彻
+
+* analog
+  * 英 ['ænəlɒɡ]  美 ['ænəlɔg]
+  * n. [自] 模拟；类似物
+  * adj. [自] 模拟的；有长短针的
+
+* gauge
+  * 英 [ɡeɪdʒ]  美 [ɡeɪdʒ]
+  * n. 计量器；标准尺寸；容量规格
+  * vt. 测量；估计；给…定规格
+
+* manipulate
+  * 英 [məˈnɪpjuleɪt]  美 [məˈnɪpjuleɪt]
+  * vt. 操纵；操作；巧妙地处理；篡改
+  * [ 过去式 manipulated 过去分词 manipulated 现在分词 manipulating 第三人称单数 manipulates ]
+
+* Malicious. 9:50
+  * [məˈlɪʃəs]
+  * 蛇蝎美人（电影名）
+  * 恶意软件（malware）这个词来自于恶意的（malicious）和软件（software）的组合，计算机专家用这个词来意指多种敌意..
+  * 短语
+    * malicious software 恶意软件 ; 流氓软件 ; 恶意程式
+    * Malicious Code 恶意代码 ; 歹意代码 ; 恶性程式
+    * malicious slander 恶意诋毁
+
+* Barebone. 9:54
+  * ['bɛə'bəun]
+  * n. 准系统；准系统电脑
