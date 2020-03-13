@@ -32,6 +32,10 @@ Author: Jedi Chou, Create at 2020.3.13 7:40 PM
   * 更新香信的“调查问卷列表”. 8:16
   * 更新香信的“个人14天内旅居史”. 8:17
 
+* 打卡
+  * 香信打开（集团要求-下班）. 17:45
+  * 钉钉打卡（部门要求-下班）. 17:46
+
 * [Codecov](https://codecov.io/)
 
 * Suduku
@@ -43,10 +47,6 @@ Author: Jedi Chou, Create at 2020.3.13 7:40 PM
   * Leela Zero vs Leela Zero
   * Leela Zero vs Leela Zero
   * Leela Zero vs Leela Zero
-
-* 打卡
-  * 香信打开（集团要求-下班）
-  * 钉钉打卡（部门要求-下班）
 
 * 尚硅谷2020最新版JavaWeb全套教程,java web零基础入门完整版
   * P36 04-尚硅谷-JavaScript-JavaScript的变量和数据类型介绍
