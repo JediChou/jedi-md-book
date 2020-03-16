@@ -1057,3 +1057,42 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * Barebone. 9:54
   * ['bɛə'bəun]
   * n. 准系统；准系统电脑
+
+## 2020.3.16
+
+* decorate
+  * 英 [ˈdekəreɪt]  美 [ˈdekəreɪt]
+  * vt. 装饰；布置；授勋给
+  * vi. 装饰；布置
+  * [ 过去式 decorated 过去分词 decorated 现在分词 decorating 第三人称单数 decorates ]
+
+* mop
+  * 英 [mɒp]  美 [mɑːp] 
+  * n. 拖把，墩布；蓬乱的头发；清扫；洗碗刷；（秋季雇佣农工的）雇工市场；鬼脸
+  * v. 用拖把拖洗；擦去（脸）上的汗水，拭去（眼）中的泪水；扮鬼脸
+  * [ 过去式 mopped 过去分词 mopped 现在分词 mopping ]
+
+* social butterfly: 交际花
+
+* gaze
+  * 英 [ɡeɪz]  美 [ɡeɪz]
+  * vi. 凝视；注视
+  * n. 凝视；注视
+  * n. (Gaze)人名；(俄、意)加泽；(德)加策
+  * [ 过去式 gazed 过去分词 gazed 现在分词 gazing 第三人称单数 gazes ]
+
+* scrutiny
+  * 英 [ˈskruːtəni]  美 [ˈskruːtəni]
+  * n. 详细审查；监视；细看；选票复查
+  * [ 复数 scrutinies ]
+
+* concluding
+  * 美 [kən'klʊdɪŋ]
+  * v. （使）结束；结束；缔结（协定）（conclude 的现在分词）
+  * adj. 最后的，结尾的
+
+* dungen 表演者
+
+* infect
+  * 英 [ɪnˈfekt]   美 [ɪnˈfekt]  
+  * v.传染;使感染;使携带病菌;使感染(计算机病毒)
