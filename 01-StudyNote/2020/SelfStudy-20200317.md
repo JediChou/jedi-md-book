@@ -43,13 +43,24 @@ Author: Jedi Chou, Create at 2020.3.17 7:32 AM
   * Leela Zero vs Leela Zero. 10:10
   * Leela Zero vs Leela Zero. 10:39
 
-* 尚硅谷2020最新版JavaWeb全套教程,java web零基础入门完整版
-  * P36 04-尚硅谷-JavaScript-JavaScript的变量和数据类型介绍
-  * P37 05-尚硅谷-JavaScript-JavaScript的关系运算
-  * P38 06-尚硅谷-JavaScript-JavaScript的逻辑运算
-  * P39 07-尚硅谷-JavaScript-JavaScript的数组
-  * P40 08-尚硅谷-JavaScript-函数的第一种定义方式
-
 * 打卡
-  * 香信打开（集团要求-下班）
-  * 钉钉打卡（部门要求-下班）
+  * 钉钉打卡（部门要求-下班）. 17:42
+  * 香信打卡（集团要求-下班）. 17:44
+  * 微信接龙. 17:44
+
+* 尚硅谷2020最新版JavaWeb全套教程,java web零基础入门完整版
+  * P36 04-尚硅谷-JavaScript-JavaScript的变量和数据类型介绍. 19:37
+  * P37 05-尚硅谷-JavaScript-JavaScript的关系运算. 19:48
+  * P38 06-尚硅谷-JavaScript-JavaScript的逻辑运算. 19:48
+  * P39 07-尚硅谷-JavaScript-JavaScript的数组. 20:20
+  * P40 08-尚硅谷-JavaScript-函数的第一种定义方式. 20:04
+  * P41 09-尚硅谷-JavaScript-函数的第二种定义方式. 20:06
+  * P42 10-尚硅谷-JavaScript-js中的函数不允许重载. 20:14
+  * P43 11-尚硅谷-JavaScript-隐形参数arguments. 20:14
+  * P44 12-尚硅谷-JavaScript-Object形式的自定义对象. 20:48
+  * P45 13-尚硅谷-JavaScript-花括号形式的自定义对象. 20:54
+  * P46 14-尚硅谷-JavaScript-事件介绍
+  * P47 15-尚硅谷-JavaScript-两种事件注册的介绍
+  * P48 16-尚硅谷-JavaScript-onload事件
+  * P49 17-尚硅谷-JavaScript-onclick事件
+  * P50 18-尚硅谷-JavaScript-onblur事件
