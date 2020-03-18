@@ -59,8 +59,3 @@ Author: Jedi Chou, Create at 2020.3.17 7:32 AM
   * P43 11-尚硅谷-JavaScript-隐形参数arguments. 20:14
   * P44 12-尚硅谷-JavaScript-Object形式的自定义对象. 20:48
   * P45 13-尚硅谷-JavaScript-花括号形式的自定义对象. 20:54
-  * P46 14-尚硅谷-JavaScript-事件介绍
-  * P47 15-尚硅谷-JavaScript-两种事件注册的介绍
-  * P48 16-尚硅谷-JavaScript-onload事件
-  * P49 17-尚硅谷-JavaScript-onclick事件
-  * P50 18-尚硅谷-JavaScript-onblur事件
