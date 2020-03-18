@@ -1096,3 +1096,13 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * infect
   * 英 [ɪnˈfekt]   美 [ɪnˈfekt]  
   * v.传染;使感染;使携带病菌;使感染(计算机病毒)
+
+## 2020.3.18
+
+* Respirator
+  * 英 [ˈrespəreɪtə(r)]   美 [ˈrespəreɪtər]  
+  * 呼吸器;呼吸机;口罩;呼吸防护具
+
+* invisibility
+  * 英 [ɪnˌvɪzəˈbɪlɪti]   美 [ɪnˌvɪzəˈbɪləti]  
+  * n.不可见（性），看不见（的东西）
