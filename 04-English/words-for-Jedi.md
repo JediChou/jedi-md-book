@@ -1106,3 +1106,21 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * invisibility
   * 英 [ɪnˌvɪzəˈbɪlɪti]   美 [ɪnˌvɪzəˈbɪləti]  
   * n.不可见（性），看不见（的东西）
+
+## 2020.3.19
+
+* hologram
+  * 英 [ˈhɒləɡræm]   美 [ˈhoʊləɡræm]  
+  * n. 全息图
+
+* Cannabis
+  * 英 [ˈkænəbɪs]   美 [ˈkænəbɪs]  
+  * 大麻;大麻属;印度大麻;大麻烟
+
+* Deprecate
+  * 英 [ˈdeprəkeɪt]   美 [ˈdeprəkeɪt]  
+  * 不赞成
+
+* permanently
+  * 英 [ˈpɜːmənəntli]   美 ['pɜːmənəntli]  
+  * adv. 永久地;永远;长期;一直
