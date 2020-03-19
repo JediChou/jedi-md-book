@@ -35,13 +35,18 @@ Author: Jedi Chou, Create at 2020.3.19 7:44 AM
 
 * Suduku
   * Pro-05:02 mins. 7:45
-  * Pro-00:00 mins
-  * Pro-00:00 mins
+  * Pro-04:41 mins. 10:00
+  * Pro-05:11 mins. 10:00
 
 * Go Game checkb
-  * Leela Zero vs Leela Zero. 12:35
-  * Leela Zero vs Leela Zero. 12:43
-  * Leela Zero vs Leela Zero. 12:49
+  * Leela Zero vs Leela Zero. 10:15
+  * Leela Zero vs Leela Zero. 12:05
+  * Leela Zero vs Leela Zero. 12:30
+
+* 打卡
+  * 钉钉打卡（部门要求-下班）. 18:00
+  * 香信打卡（集团要求-下班）. 18:00
+  * 微信接龙. 18:00
 
 * 尚硅谷2020最新版JavaWeb全套教程,java web零基础入门完整版
   * P51 19-尚硅谷-JavaScript-onchange事件
@@ -96,7 +101,3 @@ Author: Jedi Chou, Create at 2020.3.19 7:44 AM
   * P100 10-尚硅谷-Tomcat-Web资源的分类
   * P101 11-尚硅谷-Tomcat-常见Web服务器
 
-* 打卡
-  * 钉钉打卡（部门要求-下班）
-  * 香信打卡（集团要求-下班）
-  * 微信接龙
