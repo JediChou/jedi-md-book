@@ -1124,3 +1124,19 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * permanently
   * 英 [ˈpɜːmənəntli]   美 ['pɜːmənəntli]  
   * adv. 永久地;永远;长期;一直
+
+## 2020.4.20
+
+* stash
+  * 英 [stæʃ]  美 [stæʃ]
+  * n. 藏匿处；藏匿物
+  * vt. 存放；贮藏
+  * vi. 存放；藏起来
+  * 复数stashes, 过去式stashed, 过去分词stashed, 现在分词stashing, 第三人称单数stashes
+
+* ledger
+* emphasizes
+* survey
+* evolve
+* exemplify
+* rival
