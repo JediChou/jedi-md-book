@@ -1,6 +1,6 @@
 # Self Study
 
-Author: Jedi Chou, Create at 2020.3.20 7:53 AM
+Author: Jedi Chou, Create at 2020.3.21 3:04 AM
 
 * Daily study
   * Check-in
@@ -39,7 +39,7 @@ Author: Jedi Chou, Create at 2020.3.20 7:53 AM
   * Pro-05:11 mins
 
 * Go Game checkb
-  * Leela Zero vs Leela Zero. 12:06
+  * Leela Zero vs Leela Zero
   * Leela Zero vs Leela Zero
   * Leela Zero vs Leela Zero
 
