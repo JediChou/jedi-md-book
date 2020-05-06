@@ -1107,7 +1107,7 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
   * 英 [ɪnˌvɪzəˈbɪlɪti]   美 [ɪnˌvɪzəˈbɪləti]  
   * n.不可见（性），看不见（的东西）
 
-## 2020.3.19
+## 2020.4.20
 
 * hologram
   * 英 [ˈhɒləɡræm]   美 [ˈhoʊləɡræm]  
@@ -1125,8 +1125,6 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
   * 英 [ˈpɜːmənəntli]   美 ['pɜːmənəntli]  
   * adv. 永久地;永远;长期;一直
 
-## 2020.4.20
-
 * stash
   * 英 [stæʃ]  美 [stæʃ]
   * n. 藏匿处；藏匿物
@@ -1134,9 +1132,55 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
   * vi. 存放；藏起来
   * 复数stashes, 过去式stashed, 过去分词stashed, 现在分词stashing, 第三人称单数stashes
 
+## 2020.4.21
+
 * ledger
 * emphasizes
 * survey
 * evolve
 * exemplify
 * rival
+
+## 2020.5.5
+
+* vulnerabilities
+* endows
+* retains
+* profound
+* immense
+* partisan
+* mystical
+* ideally
+* estranged
+* crisis
+* transparency
+* constitutes
+* accountability
+* scrambling
+* sustainable
+* resilient
+* immense
+* exemplify
+* indulge
+* painless
+* leverage
+* fraud
+* assessment
+* forensics
+* mnemonics
+* Hailed
+* jargon
+* clue
+* medieval
+* moat
+* mass surveillance
+* a seat belt
+* raved
+* honed
+* post-test
+* gibberish
+* affine
+* brute-force
+* occur at
+* accommodate
+* cryptography
