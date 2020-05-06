@@ -1184,3 +1184,8 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * occur at
 * accommodate
 * cryptography
+
+## 2020.5.6
+
+* punctuation
+* shunned

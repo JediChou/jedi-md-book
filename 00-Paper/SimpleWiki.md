@@ -735,8 +735,8 @@
 * [From the Earth to the Moon](https://simple.wikipedia.org/wiki/From_the_Earth_to_the_Moon)
 * [Fall of Constantinople](https://simple.wikipedia.org/wiki/Fall_of_Constantinople)
 
-## 2020.1.30
+## 2020.5.6
 
-* []()
-* []()
-* []()
+* [Jury](https://simple.wikipedia.org/wiki/Jury)
+* [Dison](https://simple.wikipedia.org/wiki/Dison)
+* [Gríðr](https://simple.wikipedia.org/wiki/Gr%C3%AD%C3%B0r)
