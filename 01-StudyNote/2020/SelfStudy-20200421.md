@@ -1,6 +1,6 @@
 # Self Study
 
-Author: Jedi Chou, Create at 2020.4.20 11:50 AM
+Author: Jedi Chou, Create at 2020.4.21 7:38 AM
 
 * Daily study
   * Check-in
@@ -14,10 +14,10 @@ Author: Jedi Chou, Create at 2020.4.20 11:50 AM
 
   * Micro habit
     * Read Sina Blog
-    * Reading 1 minutes at SIMPL
+    * Reading 1 minutes at SIMPLE wiki
 
   * Reading
-    * 163.com mail
+    * 163.com mail. 17:37
 
 * Weekly review
   * Read a thesis and don't record
@@ -42,6 +42,7 @@ Author: Jedi Chou, Create at 2020.4.20 11:50 AM
   * Leela Zero vs Leela Zero
 
 * 打卡
-  * 钉钉打卡（部门要求-下班）. 17:32
-  * 香信打卡（集团要求-下班）. 17:32
-  * 微信接龙
+  * 钉钉打卡（部门要求-下班）. 17:44
+  * 香信打卡（集团要求-下班）. 17:45
+  * 微信接龙. 17:46
+  * 编写Ding’Ding的工作日报. 17:49
