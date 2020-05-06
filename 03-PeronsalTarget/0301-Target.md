@@ -16,3 +16,15 @@
   * [dnSpy](https://github.com/0xd4d/dnSpy)
   * [解決用戶名為簡體中文的問題](https://10.134.158.173/svn/esign/eSignCloud/CAUtility)
   * 孟菲斯他图案
+
+* Jedi's idea
+  * XML editor like oxygen XML editor.
+  * UML editor like Rational Rose 2003.
+  * Native RSS reader like feedly or google RSS reader.
+  * A mathe game for my daughter with a game editor.
+  * A exam paper creator base on Latex technique.
+  * A distuted workflow enginee, easy and simple.
+  * A MVC framework create by C# or Java.
+  * A MVVM framework create by JavaScript or TypeScript.
+  * A simple and powerful CSS framework like Bulma.
+  * A finace war game for big guys.
