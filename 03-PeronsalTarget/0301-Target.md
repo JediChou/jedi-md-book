@@ -28,3 +28,5 @@
   * A MVVM framework create by JavaScript or TypeScript.
   * A simple and powerful CSS framework like Bulma.
   * A finace war game for big guys.
+
+* Labs: Create a local nuget server for local developers.
