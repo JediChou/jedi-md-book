@@ -740,3 +740,9 @@
 * [Jury](https://simple.wikipedia.org/wiki/Jury)
 * [Dison](https://simple.wikipedia.org/wiki/Dison)
 * [Gríðr](https://simple.wikipedia.org/wiki/Gr%C3%AD%C3%B0r)
+
+## 2020.5.7
+
+* [2016 London mayoral election](https://simple.wikipedia.org/wiki/2016_London_mayoral_election)
+* [Mebane, North Carolina](https://simple.wikipedia.org/wiki/Mebane,_North_Carolina)
+* [Chordophone](https://simple.wikipedia.org/wiki/Chordophone)
