@@ -182,7 +182,6 @@
 * NETSpider
 * FastSocket.NET
 * Elixis
-* 9ƽ�׹�������
 * WP.NET
 * Gendarme
 * Report.NET
@@ -274,3 +273,15 @@
 * Logging
 * Apworks
 * FFMpeg.net
+
+## 2020.5.14
+
+* [APM Tools to Use While Writing Code](https://stackify.com/application-performance-management-tools/)
+  * Glimpse (.net)
+  * Miniprofiler (.net / ruby / go / node.js)
+  * XRebel (java, paid)
+  * Stackify Prefix (.net / java)
+  * Scout Devtrace (ruby)
+  * Rack trace (ruby)
+  * Zend Z-Ray (php, paid)
+  * New Relic developer mode (ruby)
