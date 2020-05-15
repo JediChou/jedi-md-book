@@ -1189,3 +1189,10 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 
 * punctuation
 * shunned
+
+## 2020.5.17
+
+* algae
+* nutrients
+* aluminium
+* 
