@@ -1195,4 +1195,17 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * algae
 * nutrients
 * aluminium
-* 
+
+## 2020.5.25
+
+* groan
+* crowd
+* celebrity
+* pitcher
+* tusks
+* prematurely
+
+## 2020.5.26
+
+* alchemy
+* vetern
