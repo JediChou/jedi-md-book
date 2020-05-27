@@ -31,7 +31,7 @@ Author: Jedi Chou, Create at 2020.5.27 8:19 AM
   * 更新香信的“个人14天内旅居史”. 9:26
   * 香信打卡（集团要求-上班）. 9:26
   * 微信接龙. 9:27
-  * 编写Ding’Ding的工作日报
+  * 编写Ding’Ding的工作日报. 17:40
 
 * Go Game checkb
   * Leela Zero vs Leela Zero. 12:28
