@@ -129,3 +129,20 @@ Author: Jedi Chou, Create at 2020.5.29 7:32 AM
   xykong.format-all-files
   yzhang.markdown-all-in-one
   ```
+
+* 阅读《SQL SERVER 2008 DBA入门经典》的部分笔记
+  * 表格格式数据流 (TDS)
+  * [SQL Server中的身份验证](https://docs.microsoft.com/zh-cn/sql/connect/ado-net/sql/authentication-sql-server?view=sql-server-ver15)
+    * Jedi: 建议用户使用Windows用户登录
+  * Windows用户登录SQL Server的连接字符串
+
+  ```config
+  /* SqlConnection.ConnectionString */
+  Server=MSSQL1;Database=AdventureWorks;Integrated Security=true;  
+  ```
+
+  * SQL常见威胁：SQL注入, 特权提升, 探测和智能观察, 身份验证, 密码
+  * TSQL编写的存储过程(SP)可以绑定证书？
+  * [SqlConnectionStringBuilder](https://docs.microsoft.com/zh-cn/dotnet/api/microsoft.data.sqlclient.sqlconnectionstringbuilder?view=sqlclient-dotnet-core-1.1)
+  * [SqlParameter Class](https://docs.microsoft.com/zh-cn/dotnet/api/microsoft.data.sqlclient.sqlparameter?view=sqlclient-dotnet-core-1.1)
+  * [Regex 类](https://docs.microsoft.com/zh-cn/dotnet/api/system.text.regularexpressions.regex?view=netcore-3.1)
