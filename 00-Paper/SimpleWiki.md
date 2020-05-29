@@ -752,3 +752,87 @@
 * [Hydroponics](https://simple.wikipedia.org/wiki/Hydroponics)
 * [479 BC](https://simple.wikipedia.org/wiki/479_BC)
 * [Agence France-Presse](https://simple.wikipedia.org/wiki/Agence_France-Presse)
+
+## 2020.5.16 (5.29补)
+
+* [Westmount, Quebec](https://simple.wikipedia.org/wiki/Westmount,_Quebec)
+* [Tribute in Light](https://simple.wikipedia.org/wiki/Tribute_in_Light)
+* [Deccani](https://simple.wikipedia.org/wiki/Deccani)
+
+## 2020.5.17 (5.29补)
+
+* [Petronas](https://simple.wikipedia.org/wiki/Petronas)
+* [Devinda Kalupahana](https://simple.wikipedia.org/wiki/Devinda_Kalupahana)
+* [Limburg an der Lahn](https://simple.wikipedia.org/wiki/Limburg_an_der_Lahn)
+
+## 2020.5.18 (5.29补)
+
+* [Spider-Man: Turn Off the Dark](https://simple.wikipedia.org/wiki/Spider-Man:_Turn_Off_the_Dark)
+* [Panch Pargana Kisan College](https://simple.wikipedia.org/wiki/Panch_Pargana_Kisan_College)
+* [Leonardo Villar](https://simple.wikipedia.org/wiki/Leonardo_Villar)
+
+## 2020.5.19 (5.29补)
+
+* [Arachne](https://simple.wikipedia.org/wiki/Arachne)
+* [Ryan Malgarini](https://simple.wikipedia.org/wiki/Ryan_Malgarini)
+* [Radu Gabrea](https://simple.wikipedia.org/wiki/Radu_Gabrea)
+
+## 2020.5.20 (5.29补)
+
+* [Thérèse of Lisieux](https://simple.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_of_Lisieux)
+* [Arrondissement of Pontarlier](https://simple.wikipedia.org/wiki/Arrondissement_of_Pontarlier)
+* [Warship (TV series)](https://simple.wikipedia.org/wiki/Warship_(TV_series))
+
+## 2020.5.21 (5.29补)
+
+* [Christiansburg, Virginia](https://simple.wikipedia.org/wiki/Christiansburg,_Virginia)
+* [Port Glasgow Athletic F.C.](https://simple.wikipedia.org/wiki/Port_Glasgow_Athletic_F.C.)
+* [Henry Campbell-Bannerman](https://simple.wikipedia.org/wiki/Henry_Campbell-Bannerman)
+
+## 2020.5.22 (5.29补)
+
+* [Dorothy Dandridge](https://simple.wikipedia.org/wiki/Dorothy_Dandridge)
+* [Mid-engine design](https://simple.wikipedia.org/wiki/Mid-engine_design)
+* [Hörbranz](https://simple.wikipedia.org/wiki/H%C3%B6rbranz)
+
+## 2020.5.23 (5.29补)
+
+* [Cimarron River](https://simple.wikipedia.org/wiki/Cimarron_River)
+* [Chogolisa](https://simple.wikipedia.org/wiki/Chogolisa)
+* [Pierre Seron](https://simple.wikipedia.org/wiki/Pierre_Seron)
+
+## 2020.5.24 (5.29补)
+
+* [Morbio Superiore](https://simple.wikipedia.org/wiki/Morbio_Superiore)
+* [Lieutenant governor](https://simple.wikipedia.org/wiki/Lieutenant_governor)
+* [Naki The Beatman](https://simple.wikipedia.org/wiki/Naki_The_Beatman)
+
+## 2020.5.25 (5.29补)
+
+* [Martin Luther Church](https://simple.wikipedia.org/wiki/Martin_Luther_Church)
+* [Shane Johnson](https://simple.wikipedia.org/wiki/Shane_Johnson)
+* [Leesburg, Florida](https://simple.wikipedia.org/wiki/Leesburg,_Florida)
+
+## 2020.5.26 (5.29补)
+
+* [IFK Sundsvall](https://simple.wikipedia.org/wiki/IFK_Sundsvall)
+* [Sundsvall](https://simple.wikipedia.org/wiki/Sundsvall)
+* [Red Norvo](https://simple.wikipedia.org/wiki/Red_Norvo)
+
+## 2020.5.27 (5.29补)
+
+* [Bataan (province)](https://simple.wikipedia.org/wiki/Bataan_(province))
+* [Edward Hargraves](https://simple.wikipedia.org/wiki/Edward_Hargraves)
+* [Liang Wudong](https://simple.wikipedia.org/wiki/Liang_Wudong)
+
+## 2020.5.28 (5.29补)
+
+* [Joseph Black](https://simple.wikipedia.org/wiki/Joseph_Black)
+* [Ruokolahti](https://simple.wikipedia.org/wiki/Ruokolahti)
+* [Wrongful death claim](https://simple.wikipedia.org/wiki/Wrongful_death_claim)
+
+## 2020.5.29
+
+* [Guam at the Olympics](https://simple.wikipedia.org/wiki/Guam_at_the_Olympics)
+* [Fortune (album)](https://simple.wikipedia.org/wiki/Fortune_(album))
+* [Bastanès](https://simple.wikipedia.org/wiki/Bastan%C3%A8s)
