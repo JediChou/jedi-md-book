@@ -1240,3 +1240,17 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * erotic-romantic
 * peculiarities
 * sanitized
+
+## 2020.6.1
+
+* pope
+
+## 2020.6.2
+
+* Typhoon
+* Micronesia
+* sustained
+* wutip
+* Tiyan
+* dissipating
+* damages

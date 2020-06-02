@@ -836,3 +836,27 @@
 * [Guam at the Olympics](https://simple.wikipedia.org/wiki/Guam_at_the_Olympics)
 * [Fortune (album)](https://simple.wikipedia.org/wiki/Fortune_(album))
 * [Bastanès](https://simple.wikipedia.org/wiki/Bastan%C3%A8s)
+
+## 2020.5.30 (2020.6.1补)
+
+* [Lumpkin, Georgia](https://simple.wikipedia.org/wiki/Lumpkin,_Georgia)
+* [Pope Benedict XI](https://simple.wikipedia.org/wiki/Pope_Benedict_XI)
+* [Antiviral drug](https://simple.wikipedia.org/wiki/Antiviral_drug)
+
+## 2020.5.31 (2020.6.1补)
+
+* [Kel](https://simple.wikipedia.org/wiki/Kel)
+* [Jacques De Decker](https://simple.wikipedia.org/wiki/Jacques_De_Decker)
+* [Raith Rovers F.C.](https://simple.wikipedia.org/wiki/Raith_Rovers_F.C.)
+
+## 2020.6.1
+
+* [Harelbeke](https://simple.wikipedia.org/wiki/Harelbeke)
+* [Samir Farid](https://simple.wikipedia.org/wiki/Samir_Farid)
+* [Gabe Newell](https://simple.wikipedia.org/wiki/Gabe_Newell)
+
+## 2020.6.2
+
+* [Zhao Zhongxiang](https://simple.wikipedia.org/wiki/Zhao_Zhongxiang)
+* [Bluejacket, Oklahoma](https://simple.wikipedia.org/wiki/Bluejacket,_Oklahoma)
+* [Typhoon Wutip](https://simple.wikipedia.org/wiki/Typhoon_Wutip_(2019))
