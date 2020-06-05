@@ -860,3 +860,21 @@
 * [Zhao Zhongxiang](https://simple.wikipedia.org/wiki/Zhao_Zhongxiang)
 * [Bluejacket, Oklahoma](https://simple.wikipedia.org/wiki/Bluejacket,_Oklahoma)
 * [Typhoon Wutip](https://simple.wikipedia.org/wiki/Typhoon_Wutip_(2019))
+
+## 2020.6.3 (2020.6.5补)
+
+* [Room on the 3rd Floor](https://simple.wikipedia.org/wiki/Room_on_the_3rd_Floor)
+* [National Ringette League](https://simple.wikipedia.org/wiki/National_Ringette_League)
+* [Terza rima](https://simple.wikipedia.org/wiki/Terza_rima)
+
+## 2020.6.4 (2020.6.5补)
+
+* [Vilanova i la Geltrú](https://simple.wikipedia.org/wiki/Vilanova_i_la_Geltr%C3%BA)
+* [Larry Csonka](https://simple.wikipedia.org/wiki/Larry_Csonka)
+* [Chalcopyrite](https://simple.wikipedia.org/wiki/Chalcopyrite)
+
+## 2020.6.5
+
+* [Cedars-Sinai Medical Center](https://simple.wikipedia.org/wiki/Cedars-Sinai_Medical_Center)
+* [Stanisław Stefanek](https://simple.wikipedia.org/wiki/Stanis%C5%82aw_Stefanek)
+* [Lublin](https://simple.wikipedia.org/wiki/Lublin)
