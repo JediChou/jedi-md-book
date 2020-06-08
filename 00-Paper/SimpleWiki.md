@@ -890,3 +890,9 @@
 * [俄罗斯方块](https://baike.baidu.com/item/%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97/535753)
 * [哥德巴赫猜想](https://baike.baidu.com/item/%E5%93%A5%E5%BE%B7%E5%B7%B4%E8%B5%AB%E7%8C%9C%E6%83%B3/72364)
 * [约瑟夫·冯·夫琅和费](https://baike.baidu.com/item/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E5%86%AF%C2%B7%E5%A4%AB%E7%90%85%E5%92%8C%E8%B4%B9)
+
+## 2020.6.8
+
+* [Washington County, Rhode Island](https://simple.wikipedia.org/wiki/Washington_County,_Rhode_Island)
+* [MTV Unplugged](https://simple.wikipedia.org/wiki/MTV_Unplugged_(Julieta_Venegas_album))
+* [Journeyman (TV series)](https://simple.wikipedia.org/wiki/Journeyman_(TV_series))
