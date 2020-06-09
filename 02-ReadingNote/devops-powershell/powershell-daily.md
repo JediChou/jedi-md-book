@@ -96,3 +96,11 @@ Function Get-TSFreeSpace {
 ```powershell
 $env:COMPUTER
 ```
+
+## 2020.6.10
+
+在powershell中可以用管道组合来代替touch命令创建空文件，以下示例（很实用）：
+
+```powershell
+echo $null >> filename.txt
+```
