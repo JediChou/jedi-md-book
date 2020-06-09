@@ -99,8 +99,31 @@ $env:COMPUTER
 
 ## 2020.6.10
 
-在powershell中可以用管道组合来代替touch命令创建空文件，以下示例（很实用）：
+* 在powershell中可以用管道组合来代替touch命令创建空文件，以下示例（很实用）：
 
 ```powershell
 echo $null >> filename.txt
+```
+
+* runas命令有些搞不懂，怎么样都无法正确执行
+* 控制面板的msc文件
+  * Internet Information Services (IIS) 6.0 管理器: %windir%\system32\inetsrv\InetMgr6.exe
+  * Internet Information Services (IIS)管理器: %windir%\system32\inetsrv\InetMgr.exe
+  * iSCSI 发起程序: %windir%\system32\iscsicpl.exe
+  * ODBC Data Sources (32-bit): %windir%\syswow64\odbcad32.exe
+  * ODBC 数据源(64 位): %windir%\system32\odbcad32.exe
+  * System Configuration: %windir%\system32\msconfig.exe
+  * Windows 内存诊断: %windir%\system32\MdSched.exe
+  * 本地安全策略: %windir%\system32\secpol.msc /s
+  * 磁盘清理: %windir%\system32\cleanmgr.exe
+  * 打印管理: %systemroot%\system32\printmanagement.msc
+  * 服务: %windir%\system32\services.msc
+
+* PowerShell的内置变量
+
+```powershell
+$env:windir
+$env:path
+$env:allusersprofile
+$env:appdata
 ```
