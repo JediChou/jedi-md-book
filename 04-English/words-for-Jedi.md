@@ -1265,3 +1265,8 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * instills: 灌输
 * bologna: 博洛尼亚
 * nibble: 小口咬
+
+## 2020.6.9
+
+* revamping: 改变
+* bench: 长凳
