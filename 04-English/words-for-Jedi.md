@@ -872,7 +872,7 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * merciless: adj. 残忍的；无慈悲心的
 * a ski slope: 滑雪坡
 * poisonous: 有毒的
-  * What do arsenic, cyanide, and bleach all have in common? 
+  * What do arsenic, cyanide, and bleach all have in common?
 * toxic: 有毒
 * inhale: 吸入
 * Spreading lies: 散布谎言
@@ -1067,7 +1067,7 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
   * [ 过去式 decorated 过去分词 decorated 现在分词 decorating 第三人称单数 decorates ]
 
 * mop
-  * 英 [mɒp]  美 [mɑːp] 
+  * 英 [mɒp]  美 [mɑːp]
   * n. 拖把，墩布；蓬乱的头发；清扫；洗碗刷；（秋季雇佣农工的）雇工市场；鬼脸
   * v. 用拖把拖洗；擦去（脸）上的汗水，拭去（眼）中的泪水；扮鬼脸
   * [ 过去式 mopped 过去分词 mopped 现在分词 mopping ]
@@ -1284,3 +1284,4 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * numerator: (数学)分数的分子
 * **Attendance** has to do with being present at something, like work or school. If you never miss a day, you have perfect attendance. The concept of attendance has to do with showing up: if you show up for school, then your attendance is not in question. When people miss school or work, they usually need a note from a doctor, explaining why they weren't in attendance. We can also say "The attendance was 100" if 100 people showed up to a meeting. If only three people out of 100 showed up though, you'd say, "Wow. Attendance was terrible."
 * hushed: 安静 (意义同silenced)
+* Revealed: 透漏、解密
