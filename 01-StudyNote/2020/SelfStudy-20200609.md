@@ -32,12 +32,12 @@ Author: Jedi Chou, Create at 2020.6.9 7:41 AM
   * 更新香信的“个人14天内旅居史”. 6:50
   * 香信打卡（集团要求-上班）. 6:50
   * 微信接龙. 7:52
-  * 编写Ding’Ding的工作日报
+  * 编写Ding’Ding的工作日报. 20:30
 
 * Go Game checkb
   * Leela Zero vs Leela Zero. 8:30
   * Leela Zero vs Leela Zero. 16:30
-  * Leela Zero vs Leela Zero
+  * Leela Zero vs Leela Zero. 20:30
 
 * VirtualENV要编写一份总结的markdown文件，并发布到git首页上
 * VirtualSVN需要一份安装文件
