@@ -35,7 +35,7 @@ Author: Jedi Chou, Create at 2020.6.10 7:19 AM
   * 编写Ding’Ding的工作日报
 
 * Go Game checkb
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
+  * Leela Zero vs Leela Zero. 11:30
+  * Leela Zero vs Leela Zero. 18:47
+  * Leela Zero vs Leela Zero. 18:52
+  * Leela Zero vs Leela Zero. 18:58
