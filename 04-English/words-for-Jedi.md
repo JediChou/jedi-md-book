@@ -1270,3 +1270,17 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 
 * revamping: 改变
 * bench: 长凳
+
+## 2020.6.10
+
+* unity is strength: 团结就是力量
+* knowledge is power: 知识就是力量
+* SuperH: 一种计算机指令集(RISC)
+* bundler: 捆绑机
+* tenant: 房客、佃户
+* debris: 残骸、碎片
+* Not sure why. (口语化)不知道为什么?
+* Unfortunately: 不幸的是
+* numerator: (数学)分数的分子
+* **Attendance** has to do with being present at something, like work or school. If you never miss a day, you have perfect attendance. The concept of attendance has to do with showing up: if you show up for school, then your attendance is not in question. When people miss school or work, they usually need a note from a doctor, explaining why they weren't in attendance. We can also say "The attendance was 100" if 100 people showed up to a meeting. If only three people out of 100 showed up though, you'd say, "Wow. Attendance was terrible."
+* hushed: 安静 (意义同silenced)
