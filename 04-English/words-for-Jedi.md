@@ -1285,3 +1285,8 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 * **Attendance** has to do with being present at something, like work or school. If you never miss a day, you have perfect attendance. The concept of attendance has to do with showing up: if you show up for school, then your attendance is not in question. When people miss school or work, they usually need a note from a doctor, explaining why they weren't in attendance. We can also say "The attendance was 100" if 100 people showed up to a meeting. If only three people out of 100 showed up though, you'd say, "Wow. Attendance was terrible."
 * hushed: 安静 (意义同silenced)
 * Revealed: 透漏、解密
+
+## 2020.6.11
+
+* bedrock: n. 牢固基础;基本事实;基本原则;基岩(松软的沙、土层下的岩石)
+* slender: adj. 苗条的;纤细的;细的;窄的;微薄的;不足的
