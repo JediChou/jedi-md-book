@@ -1290,3 +1290,54 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
 
 * bedrock: n. 牢固基础;基本事实;基本原则;基岩(松软的沙、土层下的岩石)
 * slender: adj. 苗条的;纤细的;细的;窄的;微薄的;不足的
+
+## 2020.6.16
+
+* arbitrary
+  * 英 [ˈɑːbɪtrəri]   美 [ˈɑːrbɪtreri]  
+  * adj.
+  * 任意的;武断的;随心所欲的;专横的;专制的
+  * 派生词： arbitrarily adv. arbitrariness n.
+
+* polymath
+  * 英 [ˈpɒlimæθ]  美 [ˈpɑːlimæθ]
+  * n. 博学的人
+  * adj. 博学的
+
+* wrestler
+  * 英 [ˈreslə(r)]  美 [ˈreslər]
+  * n. 摔跤选手，搏斗者
+
+* lawsuit
+英 [ˈlɔːsuːt; ˈlɔːsjuːt]  美 [ˈlɔːsuːt] 
+n. 诉讼（尤指非刑事案件）；诉讼案件
+
+* Assassination
+英 [əˌsæsɪ'neɪʃ(ə)n]   美 [əˌsæsɪ'neɪʃ(ə)n]  
+刺殺;暗杀;刺杀;行刺;暗杀第一夫人
+
+veterans
+英 [ˈvetərənz]   美 [ˈvetərənz]  
+n.经验丰富的人;老手;退伍军人;老兵;老战士;老水兵
+veteran的复数
+
+denounced
+英 [dɪˈnaʊnst]   美 [dɪˈnaʊnst]  
+v.谴责;指责;斥责;告发(某人从事非法政治活动)
+denounce的过去分词和过去式
+
+imperium主权；统治权；绝对统治权；司法行政管辖权；执法权；帝权
+commanding指挥的; 统帅的; 居领先位置的; 遥遥领先的; 权威的; 威严的; 命令; 指挥，
+
+stereotype
+英 [ˈsteriətaɪp]   美 [ˈsteriətaɪp]  
+n. 模式化观念(或形象);老一套;刻板印象
+v. 对…形成模式化(或类型化)的看法
+
+Slang
+英 [slæŋ]   美 [slæŋ]  
+俚语;俗语;俚語;英语俚语;美国俚语
+
+pretender
+英 [prɪˈtendə(r)]   美 [prɪˈtendər]  
+n. (头衔的)觊觎者，冒充者

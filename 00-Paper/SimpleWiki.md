@@ -896,3 +896,44 @@
 * [Washington County, Rhode Island](https://simple.wikipedia.org/wiki/Washington_County,_Rhode_Island)
 * [MTV Unplugged](https://simple.wikipedia.org/wiki/MTV_Unplugged_(Julieta_Venegas_album))
 * [Journeyman (TV series)](https://simple.wikipedia.org/wiki/Journeyman_(TV_series))
+
+## 2020.6.16
+
+* 2020.6.9
+  * [The Great Khali](https://simple.wikipedia.org/wiki/The_Great_Khali)
+  * [Escondido, California](https://simple.wikipedia.org/wiki/Escondido,_California)
+  * [August 1](https://simple.wikipedia.org/wiki/August_1)
+
+* 2020.6.10
+  * [Jakarta](https://simple.wikipedia.org/wiki/Jakarta)
+  * [Mark Antony](https://simple.wikipedia.org/wiki/Mark_Antony)
+  * [Homelessness](https://simple.wikipedia.org/wiki/Homelessness)
+
+* 2020.6.11
+  * [Stereotype](https://simple.wikipedia.org/wiki/Stereotype)
+  * [Slang](https://simple.wikipedia.org/wiki/Slang)
+  * [Ognes, Aisne](https://simple.wikipedia.org/wiki/Ognes,_Aisne)
+
+* 2020.6.12
+  * [Pretender](https://simple.wikipedia.org/wiki/Pretender)
+  * []()
+  * []()
+
+* 2020.6.13
+  * []()
+  * []()
+  * []()
+
+* 2020.6.14
+  * []()
+  * []()
+  * []()
+
+* 2020.6.15
+  * []()
+  * []()
+  * []()
+
+* []()
+* []()
+* []()
