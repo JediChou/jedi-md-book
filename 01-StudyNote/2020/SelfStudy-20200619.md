@@ -29,5 +29,4 @@ Author: Jedi Chou, Create at 2020.6.19 10:49 AM
 
 * Go Game checkb
   * Leela Zero vs Leela Zero. 8:35
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
+
