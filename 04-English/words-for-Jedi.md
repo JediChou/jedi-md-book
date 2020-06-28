@@ -1341,3 +1341,9 @@ Slang
 pretender
 英 [prɪˈtendə(r)]   美 [prɪˈtendər]  
 n. (头衔的)觊觎者，冒充者
+
+## 2020.6.28
+
+* denominator
+* demangler
+* unsure
