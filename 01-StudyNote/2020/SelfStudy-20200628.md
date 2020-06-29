@@ -26,18 +26,9 @@ Author: Jedi Chou, Create at 2020.6.28 7:32 AM
   * 更新香信的“个人14天内旅居史”. 9:04
   * 香信打卡（集团要求-上班）. 9:04
   * 微信接龙. 9:04
-  * 编写Ding’Ding的工作日报. NULL
+  * 编写Ding’Ding的工作日报. 18:00
 
 * Go Game checkb
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
+  * Leela Zero vs Leela Zero. 9:37
+  * Leela Zero vs Leela Zero. 12:30
+  * Leela Zero vs Leela Zero. 10:00
