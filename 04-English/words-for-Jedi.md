@@ -1347,3 +1347,33 @@ n. (头衔的)觊觎者，冒充者
 * denominator
 * demangler
 * unsure
+
+## 2020.6.29
+
+* irrepressible
+  * 英 [ˌɪrɪˈpresəbl]  美 [ˌɪrɪˈpresəbl]
+  * adj. 抑制不住的；压服不了的
+  * Irrepressible anger 无名业火
+  * Irrepressible thoughts 阻挡的思考 ; 抑制不住的想法 ; 无法压制思想
+  * irrepressible resilience 挫折复原力
+
+* ranch
+  * 英 [rɑːntʃ]  美 [ræntʃ]
+  * n. 大农场；大牧场
+  * vi. 经营牧场；在牧场工作
+  * vt. 经营牧场；在牧场饲养…
+  * Neverland Ranch 梦幻乐园 ; 梦幻庄园 ; 梦幻岛大牧场 ; 梦境庄园
+  * Paradise Ranch 天堂牧场 ; 天堂牧场剧情介绍 ; 天堂牧场专辑
+  * Skywalker Ranch 天行者农场 ; 天行者牧场 ; 或天行者录音室 ; 至天行者录音室
+
+* polished
+  * 英 [ˈpɒlɪʃt]  美 [ˈpɑːlɪʃt]
+  * adj. 擦亮的；优美的；圆滑的
+  * v. 擦亮（polish的过去式和过去分词）
+
+* maneuver
+  * 英 [mə'nʊvə]  美 [mə'nʊvɚ; mə'njʊvɚ]
+  * n. [军] 机动；演习；策略；调遣
+  * vi. [军] 机动；演习；调遣；用计谋
+  * vt. [军] 机动；演习；用计；调遣
+
