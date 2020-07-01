@@ -1377,3 +1377,10 @@ n. (头衔的)觊觎者，冒充者
   * vi. [军] 机动；演习；调遣；用计谋
   * vt. [军] 机动；演习；用计；调遣
 
+## 2020.7.1
+
+decorate
+funeral
+beams
+porch
+shipped
