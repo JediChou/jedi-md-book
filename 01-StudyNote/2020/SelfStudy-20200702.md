@@ -12,8 +12,8 @@ Author: Jedi Chou, Create at 2020.7.2 7:13 AM
   * Read Sina Blog. 8:06
   * Exercise of Vocabulary (vocabulary.com). 8:12
 
-  * 163.com mail
-  * Reading 1 minutes at SIMPLE wiki
+  * 163.com mail. 8:40
+  * Reading 1 minutes at SIMPLE wiki. NULL
 
 * Weekly review
   * 360 tasks excute at home. NULL
