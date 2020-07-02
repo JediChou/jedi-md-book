@@ -27,13 +27,13 @@ Author: Jedi Chou, Create at 2020.7.2 7:13 AM
   * 香信打卡（集团要求-上班）. 7:50
   * Ding’Ding上班卡. 7:51
   * 微信接龙. 7:51
-  * 编写Ding’Ding的工作日报
-  * Ding’Ding下班卡
+  * Ding’Ding下班卡. 18:05
+  * 编写Ding’Ding的工作日报. 18:10
 
 * Go Game checkb
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
+  * Leela Zero vs Leela Zero. 11:51
+  * Leela Zero vs Leela Zero. 12:30
+  * Leela Zero vs Leela Zero. 17:01
 
 * [Global sign](https://www.ssl.com.tw/Products/other-certificate-products/PersonalDigitalIDs_Certificates.asp)
 * [WebTrust1](https://www.sslbuyer.com/index.php?option=com_content&view=article&id=125:web-trust-for-ca-seal&catid=25&Itemid=2595 )
