@@ -32,6 +32,3 @@ Author: Jedi Chou, Create at 2020.7.1 7:15 AM
   * Leela Zero vs Leela Zero. 15:30
   * Leela Zero vs Leela Zero. 16:30
   * Leela Zero vs Leela Zero. 16:34
-
-* [Global sign](https://www.ssl.com.tw/Products/other-certificate-products/PersonalDigitalIDs_Certificates.asp)
-* [WebTrust1](https://www.sslbuyer.com/index.php?option=com_content&view=article&id=125:web-trust-for-ca-seal&catid=25&Itemid=2595 )
