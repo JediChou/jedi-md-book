@@ -189,3 +189,62 @@ $appPools_namelist = Get-ChildItem
 Write-Host $env:COMPUTERNAME, "AppPool number:", $appPools_list.Count
 $appPools_namelist | Format-Table Name, @{expression={$_.queueLength};label="Queue Length"}  -AutoSize
 ```
+
+## 2020.7.3
+
+* [创建新guid](https://devblogs.microsoft.com/scripting/powertip-create-a-new-guid-by-using-powershell/)
+
+```powershell
+[guid]::NewGuid()
+```
+
+* 在Windows Terminal中配置新的shell
+
+```json
+{
+    "acrylicOpacity": 0.75,
+    "closeOnExit": true,
+    "colorScheme": "Campbell",
+    "commandline": "cmd.exe /k \"C://Program Files (x86)//Microsoft Visual Studio//2019//Enterprise//Common7//Tools//VsDevCmd.bat\"",
+    "cursorColor": "#FFFFFF",
+    "cursorShape": "bar",
+    "fontFace": "Consolas",
+    "fontSize": 10,
+    "guid": "{26b30263-74e9-4146-b80e-11632e86d42c}",
+    "historySize": 9001,
+    "icon": "ms-appdata:///roaming/vs2019-32.png",
+    "name": "Developer Command Prompt for VS2019",
+    "padding": "0, 0, 0, 0",
+    "snapOnInput": true,
+    "startingDirectory": "%USERPROFILE%",
+    "useAcrylic": true
+},
+```
+
+我配置了vsts2019的命令行
+
+```json
+{
+  "guid": "{b650d979-fc73-461b-b55b-c6264a3bb158}",
+  "hidden": false,
+  "name": "Visual studio 2019 community Command line",
+  "commandline": "cmd.exe /k \"C://Program Files (x86)//Microsoft Visual Studio//2019//Community//Common7//Tools//VsDevCmd.bat\"",
+  "startingDirectory": "%USERPROFILE%",
+  "fontFace": "Consolas",
+  "icon": "C:\\ca-util\\icon\\activity-icon.png"
+}
+```
+
+同时配置了vsts2010的命令行
+
+```json
+{
+  "guid": "{2e3a9d4b-7520-4e50-8313-a1fc5d2e18b4}",
+  "hidden": false,
+  "name": "Visual studio 2010",
+  "commandline": "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\vcvarsall.bat",
+  "startingDirectory": "%USERPROFILE%",
+  "fontFace": "Consolas",
+  "icon": "C:\\ca-util\\icon\\activity-icon.png"
+}
+```
