@@ -34,12 +34,3 @@ Author: Jedi Chou, Create at 2020.7.2 7:13 AM
   * Leela Zero vs Leela Zero. 11:51
   * Leela Zero vs Leela Zero. 12:30
   * Leela Zero vs Leela Zero. 17:01
-
-* [Global sign](https://www.ssl.com.tw/Products/other-certificate-products/PersonalDigitalIDs_Certificates.asp)
-* [WebTrust1](https://www.sslbuyer.com/index.php?option=com_content&view=article&id=125:web-trust-for-ca-seal&catid=25&Itemid=2595 )
-
-* Security
-  * Postman, Post woman, [Apifox](https://www.apifox.cn/)
-  * Security tools: sqlmap, BurpSuite, AppScan, NetCat, Metasploit, Nmap, BackTrack5
-  * Scanner: AWVS, Nessus, Dirbuster, Owasp, Vega
-  * High performance web framework: Drogon(C++), Actix(Rust)
