@@ -23,8 +23,8 @@ Author: Jedi Chou, Create at 2020.7.7 7:29 AM
   * 香信打卡（集团要求-上班）. 7:35
   * Ding’Ding上班卡. 7:35
   * 微信接龙. 7:36
-  * Ding’Ding下班卡
-  * 编写Ding’Ding的工作日报
+  * Ding’Ding下班卡. 17:30
+  * 编写Ding’Ding的工作日报. 18:10
 
 * Go Game check
   * Leela Zero vs Leela Zero. 9:02
