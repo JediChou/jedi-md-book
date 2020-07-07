@@ -1387,9 +1387,46 @@ shipped
 
 ## 2020.7.2
 
-antlers
+* antler
+  * 英 [ˈæntlə(r)]  美 [ˈæntlər]
+  * n. 鹿角，茸角；多叉鹿角
+  * n. (Antler)人名；(法)安特莱；(英)安特勒
+
 swirl
 
 ## 2020.7.3
 
-recap
+* recap
+  * 英 [ˈriːkæp]  美 [ˈriːkæp]
+  * n. 翻新的轮胎
+  * vt. 翻新胎面；扼要重述
+
+## 2020.7.6
+
+* mandatory
+  * 英 [ˈmændətəri]   美 [ˈmændətɔːri]
+  * adj. 强制的;法定的;义务的
+  * n. 受托者
+
+## 2020.7.7
+
+* pessimism
+  * 英 [ˈpesɪmɪzəm]  美 [ˈpesɪmɪzəm]
+  * n. 悲观，悲观情绪；厌世主义
+
+* horns
+  * 英 [hɔːnz]  美 [hɔːrnz]
+  * n. 喇叭；号；角制品；警报器（horn的复数）
+  * v. 截锯…的角；用角抵撞；给…装角（horn的三单形式）
+  * n. (Horns)人名；(瑞典、英)霍恩斯
+
+* sheen
+  * 英 [ʃiːn]  美 [ʃiːn]
+  * n. 光辉，光泽，光彩
+  * adj. 光辉的；有光泽的；华丽的
+  * vi. 闪耀；发光
+  * n. (Sheen)人名；(英)希恩
+
+* overseer
+英 [ˈəʊvəsɪə(r)]  美 [ˈoʊvərsɪr]
+n. 监督；工头
