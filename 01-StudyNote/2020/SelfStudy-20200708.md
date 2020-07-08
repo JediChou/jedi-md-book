@@ -23,10 +23,13 @@ Author: Jedi Chou, Create at 2020.7.8 6:55 AM
   * 香信打卡（集团要求-上班）. 7:01
   * Ding’Ding上班卡. 7:02
   * 微信接龙. 7:03
-  * Ding’Ding下班卡
-  * 编写Ding’Ding的工作日报
+  * Ding’Ding下班卡. 17:30
+  * 编写Ding’Ding的工作日报. 20:10
 
 * Go Game check
   * Leela Zero vs Leela Zero. 7:39
   * Leela Zero vs Leela Zero. 7:58
   * Leela Zero vs Leela Zero. 8:13
+
+* Idea: 智能数据库托管系统
+  * DBA Script + DB + AI + Controller BUS
