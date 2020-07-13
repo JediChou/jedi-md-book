@@ -26,10 +26,5 @@ Author: Jedi Chou, Create at 2020.7.9 7:50 AM
   * Ding’Ding下班卡
   * 编写Ding’Ding的工作日报
 
-* Go Game check
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-
 * [Apache Avro™ is a data serialization system.](https://avro.apache.org/)
 * PowerShell: Invoke-WebRequest
