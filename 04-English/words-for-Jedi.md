@@ -1510,3 +1510,7 @@ n. 监督；工头
 ## 2020.7.13
 
 * that's the anarchy that is argument-passing on Windows
+
+## 2020.7.14
+
+* declutter
