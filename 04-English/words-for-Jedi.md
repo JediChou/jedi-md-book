@@ -1514,3 +1514,9 @@ n. 监督；工头
 ## 2020.7.14
 
 * declutter
+
+## 2020.7.16
+
+* denture
+* blackout
+* rattle
