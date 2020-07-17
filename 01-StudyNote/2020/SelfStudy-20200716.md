@@ -25,31 +25,3 @@ Author: Jedi Chou, Create at 2020.7.16 7:42 AM
   * 微信接龙. NULL
   * 编写Ding’Ding的工作日报. 7:30
   * Ding’Ding下班卡. 20:22
-
-* Go Game check
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
