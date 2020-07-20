@@ -1520,3 +1520,37 @@ n. 监督；工头
 * denture
 * blackout
 * rattle
+
+## 2020.7.20
+
+* tie
+  * 英 [taɪ]   美 [taɪ]  
+  * v.(用线、绳等)系，拴，绑，捆，束;将…系在…上;束紧;系牢;捆绑;(在线、绳上)打结，系扣
+  * n.领带;绳子;金属丝;线;联系;关系;纽带
+  * 第三人称单数：ties 复数：ties 现在分词：tying 过去式：tied 过去分词： tied
+
+* reinforce
+  * 英 [ˌriːɪnˈfɔːs]   美 [ˌriːɪnˈfɔːrs]  
+  * v.加强;充实;使更强烈;加固;使更结实;给…加强力量(或装备);使更强大
+  * 第三人称单数：reinforces  现在分词：reinforcing  过去式：reinforced  过去分词：reinforced
+
+* molecule
+  * 英 [ˈmɒlɪkjuːl]   美 [ˈmɑːlɪkjuːl]  
+  * n.分子
+  * 复数： molecules
+  * 派生词： molecular adj.
+  
+* bounce
+  * 英 [baʊns]   美 [baʊns]  
+  * v.(使)弹起，弹跳;反射;(在…上)跳动，蹦;把小孩放在膝上颠着玩
+  * n.弹跳;跳动;弹性;反弹力;活力;精力
+  * 第三人称单数： bounces  现在分词： bouncing  过去式： bounced  过去分词： bounced
+
+* pollinate
+  * 英 [ˈpɒləneɪt]   美 [ˈpɑːləneɪt]  
+  * v.授粉;传粉
+  * 第三人称单数： pollinates
+  * 现在分词： pollinating
+  * 过去式： pollinated
+  * 过去分词： pollinated
+  * 派生词： pollination n.
