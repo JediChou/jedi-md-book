@@ -1554,3 +1554,21 @@ n. 监督；工头
   * 过去式： pollinated
   * 过去分词： pollinated
   * 派生词： pollination n.
+
+## 2020.8.10
+
+* canonical
+  * 英 [kəˈnɒnɪkl]
+  * 美 [kəˈnɑːnɪkl]  
+  * adj.被收入真经篇目的;经典的;按照基督教会教规的;(数学表达式)最简洁的
+
+* artifacts
+* inclined
+* priority
+* That make sense to me.
+* havoc
+* feat
+* tenant
+* spray
+* perfume
+* antler
