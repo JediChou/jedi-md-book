@@ -923,3 +923,9 @@
 * [火烈鸟](https://baike.baidu.com/item/%E7%81%AB%E7%83%88%E9%B8%9F/)
 * [馬王爺](https://baike.baidu.com/item/%E9%A9%AC%E7%8E%8B%E7%88%B7)
 * [科学百科数理科学分类](https://baike.baidu.com/wikitag/taglist?tagId=76604)
+
+## 2020.8.14
+
+* [标准差](https://baike.baidu.com/item/标准差)
+* [ADOBE](https://baike.baidu.com/item/ADOBE)
+* [薛定谔的猫](https://baike.baidu.com/item/薛定谔的猫)
