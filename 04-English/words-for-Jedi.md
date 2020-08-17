@@ -1572,3 +1572,9 @@ n. 监督；工头
 * spray
 * perfume
 * antler
+
+## 2020.8.17
+
+* gangster
+* nursery
+* Spectacular

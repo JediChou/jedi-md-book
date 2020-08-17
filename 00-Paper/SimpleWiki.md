@@ -929,3 +929,9 @@
 * [标准差](https://baike.baidu.com/item/标准差)
 * [ADOBE](https://baike.baidu.com/item/ADOBE)
 * [薛定谔的猫](https://baike.baidu.com/item/薛定谔的猫)
+
+## 2020.8:17
+
+* [相对论](https://baike.baidu.com/item/%E7%9B%B8%E5%AF%B9%E8%AE%BA/48750)
+* [方差](https://baike.baidu.com/item/%E6%96%B9%E5%B7%AE/3108412)
+* [正态分布](https://baike.baidu.com/item/%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/829892)
