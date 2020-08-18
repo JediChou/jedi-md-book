@@ -935,3 +935,10 @@
 * [相对论](https://baike.baidu.com/item/%E7%9B%B8%E5%AF%B9%E8%AE%BA/48750)
 * [方差](https://baike.baidu.com/item/%E6%96%B9%E5%B7%AE/3108412)
 * [正态分布](https://baike.baidu.com/item/%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/829892)
+
+## 2020.8.18
+
+* [函数](https://baike.baidu.com/item/%E5%87%BD%E6%95%B0/301912)
+  * 李善兰
+* [余弦定理](https://baike.baidu.com/item/%E4%BD%99%E5%BC%A6%E5%AE%9A%E7%90%86/957460)
+* [微积分](https://baike.baidu.com/item/%E5%BE%AE%E7%A7%AF%E5%88%86/6065)

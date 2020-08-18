@@ -1578,3 +1578,9 @@ n. 监督；工头
 * gangster
 * nursery
 * Spectacular
+
+## 2020.8.18
+
+* bump
+* which lacked a clear proposal.
+* Compilation
