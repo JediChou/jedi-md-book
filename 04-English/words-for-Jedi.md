@@ -1584,3 +1584,7 @@ n. 监督；工头
 * bump
 * which lacked a clear proposal.
 * Compilation
+* evolve
+* Relentless automation
+* fall into the pit of success
+* curate

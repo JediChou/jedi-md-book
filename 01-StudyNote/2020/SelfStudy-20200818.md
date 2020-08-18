@@ -27,3 +27,7 @@ Author: Jedi Chou, Create at 2020.8.18 7:40 AM
   * Leela Zero vs Leela Zero. 9:53
   * Leela Zero vs Leela Zero. 13:10
   * Leela Zero vs Leela Zero. 15:10
+
+* 如何在asp.net core项目中自定义HTML标签?
+* Global.asax的作用要做个深入了解!
+* IIS Lunch的第4章(抄写学习完成). 16:26
