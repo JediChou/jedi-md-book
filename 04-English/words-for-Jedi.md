@@ -1588,3 +1588,8 @@ n. 监督；工头
 * Relentless automation
 * fall into the pit of success
 * curate
+
+## 2020.8.49
+
+* postpone
+* FYI: 仅供参考
