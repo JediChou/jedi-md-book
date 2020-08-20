@@ -942,3 +942,9 @@
   * 李善兰
 * [余弦定理](https://baike.baidu.com/item/%E4%BD%99%E5%BC%A6%E5%AE%9A%E7%90%86/957460)
 * [微积分](https://baike.baidu.com/item/%E5%BE%AE%E7%A7%AF%E5%88%86/6065)
+
+## 2020.8.20
+
+* [量比](https://baike.baidu.com/item/%E9%87%8F%E6%AF%94/1847747)
+* [庞氏骗局](https://baike.baidu.com/item/%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80/7099082)
+* [二次函数](https://baike.baidu.com/item/%E4%BA%8C%E6%AC%A1%E5%87%BD%E6%95%B0/7406948)
