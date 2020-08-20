@@ -1599,3 +1599,4 @@ n. 监督；工头
 * I was intrigued.
 * implications
 * sink
+* descriptive
