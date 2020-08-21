@@ -948,3 +948,9 @@
 * [量比](https://baike.baidu.com/item/%E9%87%8F%E6%AF%94/1847747)
 * [庞氏骗局](https://baike.baidu.com/item/%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80/7099082)
 * [二次函数](https://baike.baidu.com/item/%E4%BA%8C%E6%AC%A1%E5%87%BD%E6%95%B0/7406948)
+
+## 2020.8.21
+
+* [电容](https://baike.baidu.com/item/%E7%94%B5%E5%AE%B9/146658)
+* [博弈论](https://baike.baidu.com/item/%E5%8D%9A%E5%BC%88%E8%AE%BA/81545)
+* [环比](https://baike.baidu.com/item/%E7%8E%AF%E6%AF%94/3207054)

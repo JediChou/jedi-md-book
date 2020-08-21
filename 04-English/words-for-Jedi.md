@@ -1600,3 +1600,14 @@ n. 监督；工头
 * implications
 * sink
 * descriptive
+
+## 2020.8.21
+
+* bizarre
+* mangler
+* bunk
+* mentality
+* sectionalism
+* organ
+* cupboard
+* unparalleled
