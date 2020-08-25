@@ -954,3 +954,12 @@
 * [电容](https://baike.baidu.com/item/%E7%94%B5%E5%AE%B9/146658)
 * [博弈论](https://baike.baidu.com/item/%E5%8D%9A%E5%BC%88%E8%AE%BA/81545)
 * [环比](https://baike.baidu.com/item/%E7%8E%AF%E6%AF%94/3207054)
+
+## 2020.8.25
+
+* [导数](https://baike.baidu.com/item/导数)
+* [对数函数](https://baike.baidu.com/item/对数函数/)
+* [熵](https://baike.baidu.com/item/熵)
+* [功率](https://baike.baidu.com/item/功率)
+* [二极管](https://baike.baidu.com/item/二极管)
+* [做空](https://baike.baidu.com/item/做空)
