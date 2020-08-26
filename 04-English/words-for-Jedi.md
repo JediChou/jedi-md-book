@@ -1611,3 +1611,10 @@ n. 监督；工头
 * organ
 * cupboard
 * unparalleled
+
+## 2020.8.26
+
+* It really threw me for a loop
+* vigor
+* Librarianship
+* haul
