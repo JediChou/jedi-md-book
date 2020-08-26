@@ -963,3 +963,9 @@
 * [功率](https://baike.baidu.com/item/功率)
 * [二极管](https://baike.baidu.com/item/二极管)
 * [做空](https://baike.baidu.com/item/做空)
+
+## 2020.8.26
+
+* [密度](https://baike.baidu.com/item/密度)
+* [抛物线](https://baike.baidu.com/item/抛物线)
+* [三原色](https://baike.baidu.com/item/三原色)
