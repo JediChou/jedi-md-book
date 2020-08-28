@@ -969,3 +969,38 @@
 * [密度](https://baike.baidu.com/item/密度)
 * [抛物线](https://baike.baidu.com/item/抛物线)
 * [三原色](https://baike.baidu.com/item/三原色)
+
+## 2020.8.27
+
+* [恩格尔系数](https://baike.baidu.com/item/恩格尔系数)
+  * Engel's Coefficient
+  * 恩格尔系数是根据恩格尔定律而得出的比例数。
+  * 恩格尔系数是国际上通用的衡量"居民生活水平"高低的一项重要指标
+* [风险投资](https://baike.baidu.com/item/风险投资)
+  * 美国的红杉资本（Sequoia Capital）
+  * 日本的软银投资公司
+* [克莱因瓶](https://baike.baidu.com/item/克莱因瓶)
+
+## 2020.8.28
+
+* [投资回报率](https://baike.baidu.com/item/投资回报率)
+  * 投资回报率（ROI）是指通过投资而应返回的价值
+  * Return on Investment
+  * 投资回报率（ROI）= （税前年利润/投资总额）*100%
+  * 计算购入再出租的投资回报率=月租金×12(个月)/售价
+  * 计算购入再售出的投资回报率=(售出价－购入价)/购入价
+  * 租金回报率法, 回报率分析法, 内部收益率法, 简易评估法
+* [弧长计算公式](https://baike.baidu.com/item/弧长计算公式)
+  * L=n× π× r/180，L=α× r。其中n是圆心角度数（角度制），r是半径，L是圆心角弧长，α是圆心角度数（弧度制）
+* [有理数](https://baike.baidu.com/item/有理数)
+  * 有理数是整数（正整数、0、负整数）和分数的统称，是整数和分数的集合。
+  * rational number
+  * 整数和分数的统称
+  * 提出时间约公元前580年至公元前500年间
+  * 有理数一词是从西方传来，在英语中是rational number，而rational通常的意义是“理性的”。
+  * **相关问题**的论述很有意思！
+  * 除以零的谬误(0不可以作为除数，证明之一)
+    * a!=b, 例：a=3, b=4
+    * 若0可以作为除数则有, 0.a = 0.b = 0
+    * 0.a = 0.b，那么可以推出 a=b
+    * 显然与a!=b矛盾

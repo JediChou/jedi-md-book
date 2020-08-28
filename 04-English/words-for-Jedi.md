@@ -1618,3 +1618,13 @@ n. 监督；工头
 * vigor
 * Librarianship
 * haul
+
+## 2020.8.27
+
+* peep
+* chapel
+
+## 2020.8.28
+
+* tormentor, persecutor
+* shine oppsite -> dullness
