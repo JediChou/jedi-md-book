@@ -1628,3 +1628,28 @@ n. 监督；工头
 
 * tormentor, persecutor
 * shine oppsite -> dullness
+
+## 2020.8.31
+
+* midterm
+* concerned
+* shine means gleam. Right?
+* porch light
+* play it by ear: 随机应变
+* breathtaking
+* accidental, 意外的
+* trepidation, 惶恐不安
+* relevant, 有关的
+* In words, 用文字表述
+* foreleg, 前腿
+* horns -> antler
+* chisels
+* sanding blocks, 打磨石
+* bartering, 已物换物
+* offences
+* curious, 好奇的
+* convoluted
+  * 英 [ˈkɒnvəluːtɪd]   美 [ˈkɑːnvəluːtɪd]  
+  * adj. 错综复杂的;晦涩难懂的;盘绕的;弯曲的
+  * v. 旋；卷绕；盘旋
+  * convolute的过去分词和过去式convoluted
