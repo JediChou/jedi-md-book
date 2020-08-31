@@ -1008,5 +1008,14 @@
 ## 2020.8.31
 
 * [中国古代四大才女](https://baike.baidu.com/item/中国古代四大才女)
-* [](https://baike.baidu.com/item/)
-* [](https://baike.baidu.com/item/)
+* [体积公式](https://baike.baidu.com/item/体积公式)
+  * 基本直角平面坐标上点的面积公式(要自己能够推出来)
+  * 基于直角立体三维坐标上点的体积公式
+  * 还有求弧长的公式
+    * 角度a对应上班经为r的弧长
+    * 基本函数曲线上的弧长(也分同侧、异侧、不过拐点、过拐点、长弧、短弧)
+    * 尤其是椭圆、双曲线、正态分布曲线
+    * 再加上坐标变换
+  * 同理还有表面积的问题
+* [指数函数](https://baike.baidu.com/item/指数函数)
+* [比特币挖矿机](https://baike.baidu.com/item/比特币挖矿机)

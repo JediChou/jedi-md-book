@@ -31,3 +31,13 @@ Author: Jedi Chou, Create at 2020.8.31 7:58 AM
   * OpenVZ,Rancher,Nanobox,Podman,RKT,Singularity
   * Kubernetes(K8s), Red Hat OpenShift Container Platform,Apache Mesos
   * Vagrant, LXC
+* DB如何在不宕机的情况做迁移？
+  * [ref1](https://cloud.tencent.com/developer/article/1483526)
+  * [ref2](https://my.oschina.net/u/4592859/blog/4417636)
+* [Spring Boot集成Redis实现数据缓存](https://mp.weixin.qq.com/s/8iwID5CjxT1PsV16qe3KTg)
+* react文档的字体(source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace)
+* P2P, peer to peer
+  * [bittorrent](http://www.bittorrent.org/)
+  * BitTorrent Enhancement Proposals (BEPs)
+* 人机交互包含了 7 个阶段，分别为：目标、计划、确认、执行、感知、认知、对比。
+* 

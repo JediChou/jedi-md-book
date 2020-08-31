@@ -1653,3 +1653,20 @@ n. 监督；工头
   * adj. 错综复杂的;晦涩难懂的;盘绕的;弯曲的
   * v. 旋；卷绕；盘旋
   * convolute的过去分词和过去式convoluted
+* Deferred
+* boilerplate
+  * 英 [ˈbɔɪləpleɪt]   美 [ˈbɔɪlərpleɪt]  
+  * n.(可供模仿的)样板文件，文件范例
+* Rationale
+  * 英 [ˌræʃəˈnɑːl]   美 [ˌræʃəˈnæl]  
+  * 理由;基本原理;原理;理论基础;逻辑依据
+* adhering
+  * 英 [ədˈhɪərɪŋ]   美 [ədˈhɪrɪŋ]  
+  * v.黏附;附着
+  * adhere的现在分词
+* gobbledygook, 官腔英语;官样文章;官话;高拔的固格;官方语言
+* caret
+  * 英 [ˈkærət]   美 [ˈkærət]  
+  * n. 脱字号;补注号
+* the sake of,  缘故，理由，目的; 利益; 日本清酒
+* brevity
