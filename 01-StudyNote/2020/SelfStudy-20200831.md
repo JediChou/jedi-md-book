@@ -40,4 +40,3 @@ Author: Jedi Chou, Create at 2020.8.31 7:58 AM
   * [bittorrent](http://www.bittorrent.org/)
   * BitTorrent Enhancement Proposals (BEPs)
 * 人机交互包含了 7 个阶段，分别为：目标、计划、确认、执行、感知、认知、对比。
-* 
