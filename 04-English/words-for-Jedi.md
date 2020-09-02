@@ -1309,7 +1309,7 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
   * n. 摔跤选手，搏斗者
 
 * lawsuit
-英 [ˈlɔːsuːt; ˈlɔːsjuːt]  美 [ˈlɔːsuːt] 
+英 [ˈlɔːsuːt; ˈlɔːsjuːt]  美 [ˈlɔːsuːt]
 n. 诉讼（尤指非刑事案件）；诉讼案件
 
 * Assassination
@@ -1685,3 +1685,30 @@ n. 监督；工头
   * 英 [ɡrəˈneɪd]   美 [ɡrəˈneɪd]  
   * n.榴弹;手榴弹;枪榴弹
   * 复数： grenades
+
+## 2020.9.2
+
+* stereotype
+  * 英 [ˈsteriətaɪp]   美 [ˈsteriətaɪp]  
+  * n.模式化观念(或形象);老一套;刻板印象
+  * v.对…形成模式化(或类型化)的看法
+
+* karate
+  * 英 [kəˈrɑːti]   美 [kəˈrɑːti]  
+  * n.空手道
+
+* martial art
+  * 英 [ˌmɑːʃl ˈɑːt]   美 [ˌmɑːrʃl ˈɑːrt]  
+  * n.武术
+
+* classy
+  * 英 [ˈklɑːsi]   美 [ˈklæsi]  
+  * adj.上等的;豪华的;时髦的
+
+* heal
+  * 英 [hiːl]   美 [hiːl]  
+  * v.(使)康复，复原;治愈(病人);使又愉快起来;(使)结束，较容易忍受
+  * 第三人称单数： heals
+  * 现在分词： healing
+  * 过去式： healed
+  * 过去分词： healed
