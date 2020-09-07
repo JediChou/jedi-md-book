@@ -17,9 +17,9 @@ Author: Jedi Chou, Create at 2020.9.2 7:44 AM
 ## Other
 
 * 打卡
-  * 更新香信的“调查问卷列表”
-  * 更新香信的“个人14天内旅居史”
-  * 编写Ding’Ding的工作日报
+  * 更新香信的“调查问卷列表”. 19:30
+  * 更新香信的“个人14天内旅居史”. 19:30
+  * 编写Ding’Ding的工作日报. 19:30
 
 * Go Game check
   * Leela Zero vs Leela Zero. 10:17
