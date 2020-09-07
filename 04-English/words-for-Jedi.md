@@ -1712,3 +1712,79 @@ n. 监督；工头
   * 现在分词： healing
   * 过去式： healed
   * 过去分词： healed
+
+## 2020.9.3
+
+* lotions
+  * 英 [ˈləʊʃənz]   美 [ˈloʊʃənz]  
+  * n.洁肤液;护肤液;润肤乳
+  * lotion的复数
+
+* yelling
+  * 英 [ˈjelɪŋ]   美 [ˈjelɪŋ]  
+  * v.叫喊;大喊;吼叫
+  * yell的现在分词
+
+Jersey
+英 [ˈdʒɜːzi]   美 [ˈdʒɜːrzi]  
+n.泽西牛(一种产优质奶的浅棕色乳牛)
+复数： Jerseys
+
+attorneys
+英 [əˈtɜːniz]   美 [əˈtɜrniz]  
+n.律师(尤指代表当事人出庭者);(业务或法律事务上的)代理人
+attorney的复数
+
+menacing
+英 [ˈmenəsɪŋ]   美 [ˈmenəsɪŋ]  
+adj.威胁的;恐吓的;危险的
+v.对…构成危险;危及;威胁到
+menace的现在分词
+派生词： menacingly adv.
+
+bludgeon
+英 [ˈblʌdʒən]   美 [ˈblʌdʒən]  
+v.用重器连击(某人);(尤指通过争辩)迫使…
+第三人称单数： bludgeons
+现在分词： bludgeoning
+过去式： bludgeoned
+过去分词： bludgeoned
+
+longbow
+英 [ˈlɒŋbəʊ]   美 [ˈlɔːŋboʊ]  
+n.(旧时用于射箭的)长弓，大弓
+
+catapult
+英 [ˈkætəpʌlt]   美 [ˈkætəpʌlt]  
+n.弹弓;(旧时的)石弩，弩炮;弹射器(用以从舰船上弹射飞机升空)
+v.(被)猛掷，猛扔
+第三人称单数： catapults
+复数： catapults
+现在分词： catapulting
+过去式： catapulted
+过去分词： catapulted
+
+raccoon
+英 [rəˈkuːn]   美 [ræˈkuːn]  
+n.浣熊;北美浣熊;浣熊的毛皮
+复数： raccoons raccoon
+
+## 2020.9.4
+
+reconstruction
+英 [ˌriːkənˈstrʌkʃn]   美 [ˌriːkənˈstrʌkʃn]  
+n.重建;改造;复原;修复;修理;重现
+复数： reconstructions
+
+shaky
+英 [ˈʃeɪki]   美 [ˈʃeɪki]  
+adj.颤抖的;颤巍巍的;不稳固的;不牢靠的;摇晃的;不确切的;不大出色的;成问题的;可能失败的
+比较级： shakier最高级： shakiest
+派生词： shakily adv.
+
+proper
+英 [ˈprɒpə(r)]   美 [ˈprɑːpər]  
+adj.正确的;恰当的;符合规则的;真正的;像样的;名副其实的;符合习俗(或体统)的;正当的;规矩的
+n.[宗教][常用P-]特定节日等用的仪式;弥撒（祈祷、礼仪等）书的章节;特赞
+复数： propers
+记忆技巧：prop 恰当的 + er → 自己拿自己的当然是适当的 → 适当的

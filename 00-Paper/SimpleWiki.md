@@ -1068,3 +1068,15 @@
   * p1V1=p2V2（波义耳定律）. 11:04
   * Memo: 还是要深入了解才行. 11:06
 * [统计学](https://baike.baidu.com/item/统计学). 11:10
+
+## 2020.9.3
+
+* [核辐射](https://baike.baidu.com/item/核辐射)
+* [天使投资](https://baike.baidu.com/item/天使投资)
+* [光速](https://baike.baidu.com/item/光速)
+
+## 2020.9.4
+
+* [自然数](https://baike.baidu.com/item/自然数)
+* [实数](https://baike.baidu.com/item/实数)
+* [复数](https://baike.baidu.com/item/复数)
