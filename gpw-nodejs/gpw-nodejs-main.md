@@ -240,3 +240,7 @@ exports.addNums = (x, y) => {
 ## 4.2 Initializing the application with npm
 
 ## 4.3 Coding the application
+
+* Listing 4.1 Simple web application code in main.js
+* 尤其注意：文中的http-status-codes要执行npm install。
+  * 显然http-status-codes不是内置包
