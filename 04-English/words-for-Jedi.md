@@ -1801,3 +1801,49 @@ n.[宗教][常用P-]特定节日等用的仪式;弥撒（祈祷、礼仪等）�
   * v.阻碍，阻止(发展或进步)
   * cramp的过去分词和过去式
 
+## 2020.9.8
+
+cantaloupe
+lotions
+blends
+medication
+curd
+upcoming
+
+## 2020.9.9
+
+assassination
+英 [əˌsæsɪ'neɪʃ(ə)n]   美 [əˌsæsɪ'neɪʃ(ə)n]  
+n.暗杀；刺杀，行刺
+复数： assassinations
+
+annoyed
+英 [əˈnɔɪd]   美 [əˈnɔɪd]  
+adj.恼怒;生气;烦恼
+v.使恼怒;使生气;打扰;骚扰
+annoy的过去分词和过去式
+
+nutritious
+英 [njuˈtrɪʃəs]   美 [nuˈtrɪʃəs]  
+adj.有营养的;营养丰富的
+记忆技巧：nutri 滋养 + tious 有…性质的 → 有营养的，滋养的
+
+pour
+英 [pɔː(r)]   美 [pɔːr]  
+v.使(液体)连续流出;倾倒;倒出;涌流;倾泻;喷发;倒，斟(饮料)
+第三人称单数： pours现在分词： pouring过去式： poured过去分词： poured
+
+pluming
+英 [ˈpluːmɪŋ]   美 [ˈplumɪŋ]  
+羽饰;用羽毛装饰;羽状物
+
+seized
+英 [siːzd]   美 [siːzd]  
+v.抓住;捉住;夺;(常指通过暴力突然)夺取，攻占，控制;逮捕;捉拿;俘获
+seize的过去分词和过去式
+
+smuggled
+英 [ˈsmʌɡld]   美 [ˈsmʌɡld]  
+v.走私;私运;偷运
+smuggle的过去分词和过去式
+
