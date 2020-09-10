@@ -12,7 +12,7 @@ Author: Jedi Chou, Create at 2020.9.10 8:10 AM
   * Read Sina Blog. 18:40
   * Exercise of Vocabulary (vocabulary.com). 18:51
   * Reading 1 minutes at SIMPLE wiki. 18:59
-  * 163.com mail. 19:00
+  * 163.com mail. 19:51
 
 ## Other
 
@@ -25,3 +25,16 @@ Author: Jedi Chou, Create at 2020.9.10 8:10 AM
   * Leela Zero vs Leela Zero. 13:20
   * Leela Zero vs Leela Zero. 16:30
   * Leela Zero vs Leela Zero. 18:55
+
+* dotnet core sub project
+  * CLI
+  * CoreCLR
+  * Core-Setup
+  * ASP
+  * Extensions
+  * ASPNETCORE-Tooling
+  * Toolset
+  * SDK
+  * EF Core
+  * WPF
+  *Winforms
