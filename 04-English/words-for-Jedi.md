@@ -1847,3 +1847,15 @@ smuggled
 v.走私;私运;偷运
 smuggle的过去分词和过去式
 
+## 2020.9.10
+
+antagonist
+英 [ænˈtæɡənɪst]   美 [ænˈtæɡənɪst]  
+n.对立者;对抗者;对手;敌人
+复数： antagonists
+记忆技巧：ant 反对 + agon 挣扎，斗争 + ist 表人 → 对手
+
+banishment
+英 [ˈbænɪʃmənt]   美 [ˈbænɪʃmənt]  
+n.放逐;流放;驱逐出境
+
