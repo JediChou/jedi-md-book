@@ -19,110 +19,113 @@
   * Task0208: Configure SSH (**SSH设置**)
 
 * Jobs and services (**排程与服务**)
-  * Task0301: List all services (列出所有服务)
-  * Task0302: List running services (列出运行中的服务)
-  * Task0303: Start/stop service (启动/停止服务)
-  * Task0304: Enable/disable service (启动/禁用服务)
-  * Task0305: View service status (查看服务状态)
-  * Task0306: Check if service enabled
-  * Task0307: Create new service file or modify configuration (创建或修改服务的配置文件)
-  * Task0308: View run level/target (查看运行级别和target)
-  * Task: change run level/target
-  * Task: Configure logging
-  * Task: view logs
-  * Task: config system aduit
-  * Task: view audit output
-  * Task: schedule/batch task
-  * Task: find file by name
-  * Task: find file by characteristic
-  * Task: crreate archive
+  * Task0301: List all services (**列出所有服务**)
+  * Task0302: List running services (**列出运行中的服务**)
+  * Task0303: Start/stop service (**启动/停止服务**)
+  * Task0304: Enable/disable service (**启动/禁用服务**)
+  * Task0305: View service status (**查看服务状态**)
+  * Task0306: Check if service enabled (**查看服务是否启用**)
+  * Task0307: Create new service file or modify configuration (**创建或修改服务的配置文件**)
+  * Task0308: View run level/target (**查看运行级别和target**)
+  * Task0309: change run level/target (**改变运行级别和目标**)
+  * Task0310: Configure logging (**设置日志**)
+  * Task0311: view logs (**查看日志**)
+  * Task0312: config system aduit (**设置审计**)
+  * Task0313: view audit output (**查看审计**)
+  * Task0314: schedule/batch task (**计划任务、批量任务**)
+  * Task0315: find file by name (**按名字查文件**)
+  * Task0316: find file by characteristic (**按字母查文件**)
+  * Task0317: create archive (**创建压缩档**)
 
-* kernel, boot, and hardware
-  * Task: single user/rescue mode
-  * Task: shut down system
-  * Task: power off system
-  * Task: halt system
-  * Task: reboot system
-  * Task: config default run level/target
-  * Task: config GRUB bootloader
-  * Task: configue kernel module
-  * Task: view hardware configured
-  * Task: view kernel parameters
-  * Task: load kernel module
-  * Task: remove kernel module
-  * Task: view kernel version
+* Kernel, Boot, and Hardware (**内核、引导和硬件**)
+  * Task0401: single user/rescue mode (**单用户/多用户模式**)
+  * Task0402: shut down system (**停机**)
+  * Task0403: power off system (**关机**)
+  * Task0404: halt system (**挂起**)
+  * Task0405: reboot system (**重启**)
+  * Task0406: config default run level/target (**缺省运行级和目标**)
+  * Task0407: config GRUB bootloader (**设置GRUB引导**)
+  * Task0408: configue kernel module (**设置内核模块**)
+  * Task0409: view hardware configured (**查看硬件配置**)
+  * Task0410: view kernel parameters (**查看内核参数**)
+  * Task0411: load kernel module (**加载内核模块**)
+  * Task0412: remove kernel module (**删除内核模块**)
+  * Task0413: view kernel version (**查看内核版本**)
 
-* software management
-  * Task: install software
-  * Task: view software info
-  * Task: update software
-  * Task: upgrade software
-  * Task: configure software repository
-  * Task: find package owning file
-  * Task: view software version
-  * Task: view installed software
-  * Task: install a module
-  * Task: view info on a module
-  * Task: view a module's streams
-  * Task: change module streams
-  * Task: list available modules
+* Software management (**软件管理**)
+  * Task0501: install software  (**安装软件**)
+  * Task0502: view software info  (**查看软件信息**)
+  * Task0503: update software  (**更新软件**)
+  * Task0504: upgrade software  (**升级软件**)
+  * Task0505: configure software repository  (**配置软件仓库**)
+  * Task0506: find package owning file  (**查找包文件**)
+  * Task0507: view software version  (**查看软件版本**)
+  * Task0508: view installed software  (**查看已安装文件**)
+  * Task0509: install a module  (**安装模块**)
+  * Task0510: view info on a module  (**查看模块信息**)
+  * Task0511: view a module's streams  (**view a module's streams**)
+  * Task0512: change module streams  (**change module streams**)
+  * Task0512: list available modules  (**列举可用模块**)
 
-* user management
-  * Task: graphical user management
-  * Task: create user account
-  * Task: delete user account
-  * Task: view/change user account details
-  * Task: create user group
-  * Task: delete user group
-  * Task: change group details
-  * Task: change user password
-  * Task: change user permissions
-  * Task: change group permissions
-  * Task: change password policy
-  * Task: view user sessions
+* User Management  (**管理**)
+  * Task: graphical user management  (**图形界面设置**)
+  * Task: create user account  (**创建用户**)
+  * Task: delete user account  (**删除用户**)
+  * Task: view/change user account details  (**查看/变更用户信息**)
+  * Task: create user group  (**创建用户组**)
+  * Task: delete user group  (**删除用户组**)
+  * Task: change group details  (**变更用户组信息**)
+  * Task: change user password  (**变更用户密码**)
+  * Task: change user permissions  (**变更用户权限**)
+  * Task: change group permissions  (**变更组权限**)
+  * Task: change password policy  (**变更密码策略**)
+  * Task: view user sessions  (**查看用户session**)
 
-* file system, volumes, and disks
-  * create/modify disk partitions
-  * Task: format disk partition
-  * Task: defragment disk space
-  * Task: mount storage
-  * Task: mount and active swap
-  * Task: configure static mounts
-  * Task: view free disk space
-  * Task: view logical volume info
-  * Task: create physical volume
-  * Task: create volume group
-  * Task: create logical volume
-  * Task: enlarge volumes formatted with default file system
-  * Task: check/repair file system
-  * Task: view NDF share
-  * Task: configure NFS share
-  * Task: configure on-demand auto-mounts
-  * Task: change file permissions
-  * Task: change file attributes
-  * Task: change access control list
+* File system, Volumes, and Disks  (**文件、卷、磁盘**)
+  * create/modify disk partitions  (**创建/修改磁盘分区**)
+  * Task: format disk partition  (**磁盘格式化和分区**)
+  * Task: defragment disk space  (**磁盘整理**)
+  * Task: mount storage (**挂载存储**)
+  * Task: mount and active swap  (**挂载并启用交换分区**)
+  * Task: configure static mounts  (****)
+  * Task: view free disk space  (****)
+  * Task: view logical volume info  (****)
+  * Task: create physical volume  (****)
+  * Task: create volume group  (****)
+  * Task: create logical volume  (****)
+  * Task: enlarge volumes formatted with default file system  (****)
+  * Task: check/repair file system  (****)
+  * Task: view NDF share  (****)
+  * Task: configure NFS share  (****)
+  * Task: configure on-demand auto-mounts  (****)
+  * Task: change file permissions  (****)
+  * Task: change file attributes  (****)
+  * Task: change access control list  (****)
 
-* networking
-  * Task: configure name resolution
-  * Task: configure hostname
-  * Task: view network interface info
-  * Task: configure network interface
-  * Task: view routes
-  * Task: configure routes
-  * Task: configure firewall
-  * Task: view ports/sockets
+* Networking  (****)
+  * Task: configure name resolution  (****)
+  * Task: configure hostname  (****)
+  * Task: view network interface info  (****)
+  * Task: configure network interface  (****)
+  * Task: view routes  (****)
+  * Task: configure routes  (****)
+  * Task: configure firewall  (****)
+  * Task: view ports/sockets  (****)
 
-* Security and identify
-  * Task: configure system security
-  * Task: report on system security
-  * Task: LADP, SSSD, Kerberos
-  * Task: network users
+* Security and identify  (****)
+  * Task: configure system security  (****)
+  * Task: report on system security  (****)
+  * Task: LADP, SSSD, Kerberos  (****)
+  * Task: network users  (****)
 
-* Resource management (资源管理)
-  * Task: trace system calls (跟踪系统调用)
-  * Task: trace library calls (跟踪库调用)
-  * Task: change process priority (变更进程优先级)
-  * Task: change process run location (变更当前运行的进程)
-  * Task: kill a process (终止一个进程)
-  * Task: view system usage (查看系统可用信息)
-  * Task: view disk usage (查看磁盘可用信息)
+* Resource management (**资源管理**)
+  * Task: trace system calls (**跟踪系统调用**)
+  * Task: trace library calls (**跟踪库调用**)
+  * Task: change process priority (**变更进程优先级**)
+  * Task: change process run location (**变更当前运行的进程**)
+  * Task: kill a process (**终止一个进程**)
+  * Task: view system usage (**查看系统可用信息**)
+  * Task: view disk usage (**查看磁盘可用信息**)
+
+* Question
+  * What is DNF technology?
