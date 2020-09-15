@@ -1859,3 +1859,20 @@ banishment
 英 [ˈbænɪʃmənt]   美 [ˈbænɪʃmənt]  
 n.放逐;流放;驱逐出境
 
+## 2020.9.11
+
+arrest
+英 [əˈrest]   美 [əˈrest]  
+v.逮捕;拘留;阻止;中止;吸引(注意)
+n.逮捕;拘捕;停止;中止
+第三人称单数： arrests现在分词： arresting过去式： arrested过去分词： arrested
+记忆技巧：ar 表加强 + rest 休息 → 强制休息 → 逮捕
+
+preparatory
+
+## 2020.9.14
+
+Proposed
+Awareness
+
+## 2020.9.15
