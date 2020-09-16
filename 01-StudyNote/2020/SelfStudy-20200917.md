@@ -25,3 +25,15 @@ Author: Jedi Chou, Create at 2020.9.17 00:00 AM
   * Leela Zero vs Leela Zero
   * Leela Zero vs Leela Zero
   * Leela Zero vs Leela Zero
+
+* docker commands
+
+```bash
+## 其他备注信息
+
+docker build -t binarythistle/simpleapi .
+docker image ls
+docker run -p 8080:80 binarythistle/simpleapi
+# https://dotnetplaybook.com/deploy-a-net-core-api-with-docker/
+http://localhost:5000/WeatherForecast
+```
