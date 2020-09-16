@@ -1879,3 +1879,11 @@ Awareness
 
 audition
 trio, triplet
+
+## 2020.9.16
+
+recapture
+aggravated
+contest
+skeptical
+glitch: A glitch is a problem or malfunction, usually a temporary one, in a system or machine. Your science fair team might experience a major glitch in your plans if you lose your data tables as the result of a computer glitch.

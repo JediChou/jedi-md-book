@@ -1144,7 +1144,7 @@
 
 * [彩虹](https://baike.baidu.com/item/彩虹)
 * [转动惯量](https://baike.baidu.com/item/转动惯量)
-  * 挺复杂. 13:21 
+  * 挺复杂. 13:21
 * [空间](https://baike.baidu.com/item/空间)
 
 ## 2020.9.15
@@ -1152,3 +1152,10 @@
 * [因式分解](https://baike.baidu.com/item/因式分解)
 * [电压](https://baike.baidu.com/item/电压)
 * [方差计算公式](https://baike.baidu.com/item/方差计算公式)
+
+## 2020.9.16
+
+* [希格斯玻色子](https://baike.baidu.com/item/希格斯玻色子)
+* [数学公式](https://baike.baidu.com/item/数学公式)
+  * 这篇很垃圾
+* [层次分析法](https://baike.baidu.com/item/层次分析法)
