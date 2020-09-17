@@ -1887,3 +1887,12 @@ aggravated
 contest
 skeptical
 glitch: A glitch is a problem or malfunction, usually a temporary one, in a system or machine. Your science fair team might experience a major glitch in your plans if you lose your data tables as the result of a computer glitch.
+
+## 2020.9.17
+
+in light of that
+
+inquires
+英 [ɪnˈkwaɪəz]   美 [ɪnˈkwaɪərz]  
+v.调查；查究；审查;询问；查问
+inquire的第三人称单数
