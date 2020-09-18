@@ -1896,3 +1896,7 @@ inquires
 英 [ɪnˈkwaɪəz]   美 [ɪnˈkwaɪərz]  
 v.调查；查究；审查;询问；查问
 inquire的第三人称单数
+
+## 2020.9.18
+
+* sleigh

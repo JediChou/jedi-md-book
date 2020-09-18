@@ -1165,3 +1165,9 @@
 * [钢化玻璃](https://baike.baidu.com/item/钢化玻璃)
 * [焦距](https://baike.baidu.com/item/焦距)
 * [五维空间](https://baike.baidu.com/item/五维空间)
+
+## 2020.9.18
+
+* [t检验](https://baike.baidu.com/item/t检验)
+* [电阻率](https://baike.baidu.com/item/电阻率)
+* [数据透视表](https://baike.baidu.com/item/数据透视表)
