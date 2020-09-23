@@ -1171,3 +1171,9 @@
 * [t检验](https://baike.baidu.com/item/t检验)
 * [电阻率](https://baike.baidu.com/item/电阻率)
 * [数据透视表](https://baike.baidu.com/item/数据透视表)
+
+## 2020.9.23
+
+* [长度单位](https://baike.baidu.com/item/长度单位)
+* [特斯拉](https://baike.baidu.com/item/特斯拉)
+* [泊松分布](https://baike.baidu.com/item/泊松分布)
