@@ -1900,3 +1900,25 @@ inquire的第三人称单数
 ## 2020.9.18
 
 * sleigh
+
+## 2020.9.24
+
+* Bubble Tea：奶茶
+* Boba Tea：波霸奶茶
+
+* dissipated
+  * 英 [ˈdɪsɪpeɪtɪd]   美 [ˈdɪsɪpeɪtɪd]  
+  * adj.放荡的;耽于享乐的
+  * v.(使)消散，消失;驱散;挥霍，浪费，消磨(时间、金钱等)
+  * dissipate的过去分词和过去式
+
+* caught on
+  * 英 [kɔːt ɒn]   美 [kɔːt ɑːn]  
+  * 明白;投合人心
+
+* metropolitan
+  * 英 [ˌmetrəˈpɒlɪtən]   美 [ˌmetrəˈpɑːlɪtən]  
+  * adj.大城市的;大都会的;本土的
+  * n.大城市人;大主教;宗主国的公民;有大城市气派的人
+
+* and as far as i understand, 据我所知

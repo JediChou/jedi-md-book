@@ -1177,3 +1177,9 @@
 * [长度单位](https://baike.baidu.com/item/长度单位)
 * [特斯拉](https://baike.baidu.com/item/特斯拉)
 * [泊松分布](https://baike.baidu.com/item/泊松分布)
+
+## 2020.9.24
+
+* [中位数](https://baike.baidu.com/item/中位数)
+* [卡方检验](https://baike.baidu.com/item/卡方检验)
+* [万有引力定律](https://baike.baidu.com/item/万有引力定律)
