@@ -28,3 +28,4 @@ Author: Jedi Chou, Create at 2020.9.24 7:38 AM
 
 * 服务网格: Istio、Linkerd、Dubbo Mesh
 * Lucene.net的书似乎很少
+* 如何快速查看centos当前的磁盘格式?
