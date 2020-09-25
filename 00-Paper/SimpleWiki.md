@@ -1183,3 +1183,11 @@
 * [中位数](https://baike.baidu.com/item/中位数)
 * [卡方检验](https://baike.baidu.com/item/卡方检验)
 * [万有引力定律](https://baike.baidu.com/item/万有引力定律)
+
+## 2020.9.25
+
+* [特斯拉线圈](https://baike.baidu.com/item/特斯拉线圈)
+  * 原来有这么多分类. 9:14
+* [向量](https://baike.baidu.com/item/向量)
+* [硬度](https://baike.baidu.com/item/硬度)
+  * 这概念居然这么复杂，也是醉了！ 9:23
