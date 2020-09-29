@@ -1922,3 +1922,16 @@ inquire的第三人称单数
   * n.大城市人;大主教;宗主国的公民;有大城市气派的人
 
 * and as far as i understand, 据我所知
+
+## 2020.9.29
+
+* ointments
+  * 英 [ˈɔɪntmənts]   美 [ˈɔɪntmənts]  
+  * n.药膏;软膏;油膏
+  * ointment的复数
+
+* hibernate
+  * 英 [ˈhaɪbəneɪt]   美 [ˈhaɪbərneɪt]  
+  * v.冬眠;蛰伏
+  * 第三人称单数： hibernates现在分词： hibernating过去式： hibernated过去分词： hibernated
+  * 派生词： hibernation n.
