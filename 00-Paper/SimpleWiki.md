@@ -1225,3 +1225,9 @@
   * Jedi: 值得探讨. 10:07
   * Renatus Cartesius（瑞那图斯·卡提修斯）. 10:09
   * [欧拉-笛卡尔公式](https://baike.baidu.com/item/%E6%AC%A7%E6%8B%89%E5%85%AC%E5%BC%8F/92066?fr=aladdin). 10:22
+
+## 2020.10.7
+
+* [特斯拉](https://baike.baidu.com/item/特斯拉)
+* [超声波](https://baike.baidu.com/item/超声波)
+* [力矩](https://baike.baidu.com/item/力矩)
