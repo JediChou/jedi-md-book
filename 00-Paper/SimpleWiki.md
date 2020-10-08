@@ -1231,3 +1231,10 @@
 * [特斯拉](https://baike.baidu.com/item/特斯拉)
 * [超声波](https://baike.baidu.com/item/超声波)
 * [力矩](https://baike.baidu.com/item/力矩)
+
+## 2020.10.8
+
+* [无线充电技术](https://baike.baidu.com/item/无线充电技术)
+* [全画幅](https://baike.baidu.com/item/全画幅)
+* [方差分析](https://baike.baidu.com/item/方差分析)
+  * 有统计学意义? 9:29

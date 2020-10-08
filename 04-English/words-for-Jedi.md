@@ -1935,3 +1935,7 @@ inquire的第三人称单数
   * v.冬眠;蛰伏
   * 第三人称单数： hibernates现在分词： hibernating过去式： hibernated过去分词： hibernated
   * 派生词： hibernation n.
+
+## 2020.10.8
+
+* parade
