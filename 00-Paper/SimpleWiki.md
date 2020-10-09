@@ -1238,3 +1238,16 @@
 * [全画幅](https://baike.baidu.com/item/全画幅)
 * [方差分析](https://baike.baidu.com/item/方差分析)
   * 有统计学意义? 9:29
+
+## 2020.10.9
+
+* [移动电源](https://baike.baidu.com/item/移动电源)
+  * 大部分的行动电源使用的电池为锂离子电池（Li-ion）或锂离子聚合物电池（Li-PO）
+  * 有少部分的行动电源使用镍氢电池（Ni-MH）
+* [混沌](https://baike.baidu.com/item/混沌)
+  * 混沌（chaos）是指确定性动力学系统因对初值敏感而表现出的不可预测的、类似随机性的运动。
+  * KAM定理
+  * 马尔萨斯虫口论
+* [马赫](https://baike.baidu.com/item/马赫)
+  * 马赫主义
+  * 马赫锥

@@ -10,9 +10,9 @@ Author: Jedi Chou, Create at 2020.10.9 17:48 AM
   * NowCoder check-in. 19:55
   * Tencent cartoon APP check-in. 19:55
   * Read Sina Blog. 19:55
-  * Exercise of Vocabulary (vocabulary.com)
-  * 163.com mail
-  * Reading 1 minutes at SIMPLE wiki
+  * Exercise of Vocabulary (vocabulary.com). 22:14
+  * 163.com mail. 22:20
+  * Reading 1 minutes at SIMPLE wiki. 22:29
 
 ## Other
 
@@ -22,6 +22,12 @@ Author: Jedi Chou, Create at 2020.10.9 17:48 AM
   * 编写Ding’Ding的工作日报. 17:48
 
 * Go Game check
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
+  * Leela Zero vs Leela Zero. 21:28
+  * Leela Zero vs Leela Zero. 21:33
+  * Leela Zero vs Leela Zero. 21:37
+
+* npm clean cache
+
+```bash
+sudo npm cache clean -f
+```
