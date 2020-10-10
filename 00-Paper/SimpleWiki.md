@@ -1251,3 +1251,21 @@
 * [马赫](https://baike.baidu.com/item/马赫)
   * 马赫主义
   * 马赫锥
+
+## 2020.10.10
+
+* [开关电源](https://baike.baidu.com/item/开关电源)
+  * Switching Mode Power Supply （缩写：SMPS)
+  * 性质：利用现代电力电子技术
+  * 方法：脉冲宽度调制
+  * 特点：小型、轻量和高效率
+  * Jedi: 线性电源? 9:17
+* [场效应管](https://baike.baidu.com/item/场效应管)
+  * Field Effect Transistor
+  * 别称：场效应晶体管或者mos管
+  * 表达式：FET
+  * 应用学科：物理
+  * 适用领域范围：电学
+* [质量](https://baike.baidu.com/item/质量)
+* [加速度](https://baike.baidu.com/item/加速度)
+  * 向心加速度? 9:46

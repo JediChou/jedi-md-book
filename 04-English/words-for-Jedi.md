@@ -1946,3 +1946,61 @@ inquire的第三人称单数
   * 英 [ˈreɡjuleɪts]   美 [ˈreɡjuleɪts]  
   * v.(用规则条例)约束，控制，管理;调节，控制(速度、压力、温度等)
   * regulate的第三人称单数
+
+## 2020.10.10
+
+* unicorn
+  * 英 [ˈjuːnɪkɔːn]   美 [ˈjuːnɪkɔːrn]  
+  * n.(传说中的)独角兽
+  * 复数： unicorns
+  * 记忆技巧：uni 一个 + corn 角 → 一个角 → 独角兽
+
+* nanotube
+  * 碳纳米管;纳米管;奈米微管;奈米管;奈米碳管
+
+* ignited
+  * 英 [ɪɡˈnaɪtɪd]   美 [ɪɡˈnaɪtɪd]  
+  * v.(使)燃烧，着火;点燃
+  * ignite的过去分词和过去式
+
+* laser beam
+  * 英 [ˈleɪzə(r) biːm]   美 [ˈleɪzər biːm]  
+  * 激光束
+
+* thermal wave
+  * 英 [ˈθɜːml weɪv]   美 [ˈθɜːrml weɪv]  
+  * 热波;红外热波;热波理论;出热波
+
+* On the Internet, flame has a different meaning: to post or send aggressive, negative, or insulting messages in a public electronic forum. "Flame wars" are exchanges of such messages between individuals or parties and often occur behind a veil of anonymity. It's an appropriate term, given that inflammatory, which takes flame as its root, describes speech or action that tends to incite a heightened and negative response.
+
+* craggy
+  * 英 [ˈkræɡi]   美 [ˈkræɡi]  
+  * adj.多峭壁的;峻峭的;轮廓分明有皱纹的
+  * Something is craggy when it's uneven, rough, and jagged, like the craggy cliffs along a rocky beach.
+  * The adjective craggy is most often used to describe a landscape or natural feature like a hill or outcrop, and occasionally a scarred or pitted face, like your uncle's craggy cheeks. The word comes from crag, "rugged cliff or rock." Most crags are found in northern Scotland and England, and the roots of crag go back to a Celtic source.
+
+* upstream
+  * 英 [ˌʌpˈstriːm]   美 [ˌʌpˈstriːm]  
+  * adv.向(或在)上游;逆流
+  * Example: The nearest town is about ten miles upstream.
+  * Example: The water rose high enough for them to continue upstream.
+
+* overly
+  * 英 [ˈəʊvəli]   美 [ˈoʊvərli]  
+  * adv.很;十分;过于
+  * Example: Employers may become overly cautious about taking on new staff.
+  * Example: Overuse fear as a motivator by being overly demanding.
+
+* 你太过分了
+  * You have crossed the line!
+  * You are going to far.
+  * You've going to far.
+  * You are too much.
+  * You've gone too far.
+
+* 5倍速
+  * five times speed.
+
+* Estonian
+  * 英 [ɛˈstəʊnɪən]   美 [ɛˈstoʊniən]  
+  * 爱沙尼亚;爱沙尼亚语;愛沙尼亞語;爱沙尼亚文;爱莎尼亚语
