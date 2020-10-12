@@ -2004,3 +2004,15 @@ inquire的第三人称单数
 * Estonian
   * 英 [ɛˈstəʊnɪən]   美 [ɛˈstoʊniən]  
   * 爱沙尼亚;爱沙尼亚语;愛沙尼亞語;爱沙尼亚文;爱莎尼亚语
+
+## 2020.10.12
+
+* neglect
+  * [nɪˈɡlekt]   美 [nɪˈɡlekt]  
+  * v.疏于照顾;未予看管;忽略;忽视;不予重视;疏忽;疏漏
+  * n.忽略;忽视;未被重视
+  * 第三人称单数： neglects现在分词： neglecting过去式： neglected过去分词： neglected
+  * 记忆技巧：neg 否认，拒绝 + lect 选择 → 拒绝选择 → 忽视
+
+pity, dread, regret
+orphanage

@@ -1269,3 +1269,14 @@
 * [质量](https://baike.baidu.com/item/质量)
 * [加速度](https://baike.baidu.com/item/加速度)
   * 向心加速度? 9:46
+
+## 2020.10.12
+
+* [电磁感应](https://baike.baidu.com/item/电磁感应)
+  * Jedi: 我中学时的弱项. 9:08
+* [应力](https://baike.baidu.com/item/应力)
+  * Jedi: 只是粗浅的了解了概念，但对公式完全不懂。 9:13
+* [广角镜头](https://baike.baidu.com/item/广角镜头)
+* [卷积](https://baike.baidu.com/item/卷积)
+* [合数](https://baike.baidu.com/item/合数)
+* [热电偶](https://baike.baidu.com/item/热电偶)
