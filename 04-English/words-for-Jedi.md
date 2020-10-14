@@ -2016,3 +2016,13 @@ inquire的第三人称单数
 
 pity, dread, regret
 orphanage
+
+## 2020.10.14
+
+* strand
+英 [strænd]   美 [strænd]  
+n. (线、绳、金属线、毛发等的)股，缕;(观点、计划、故事等的)部分，方面;(海洋、湖或河的)岸，滨
+v. 使滞留;使搁浅
+第三人称单数： strands复数： strands现在分词： stranding过去式： stranded过去分词： stranded
+
+* maraca
