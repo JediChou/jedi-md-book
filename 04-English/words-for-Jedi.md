@@ -2026,3 +2026,27 @@ v. 使滞留;使搁浅
 第三人称单数： strands复数： strands现在分词： stranding过去式： stranded过去分词： stranded
 
 * maraca
+
+## 2020.10.15
+
+* out of problem，没有问题
+* twaeak
+* footage
+  * Footage is a section of film or video that's been shot or recorded. A TV news station might play dramatic footage of a tornado's aftermath.
+  * A film clip or a scene from a movie in production are both footage. Part of a film editor's job is combining all the best footage into a longer piece. Another kind of footage is a way to measure space — when you're selling a house, you'll need to advertise its size, or square footage. The film meaning dates from 1916, from foot as a unit of measurement, in this case of a length of film.
+* marriage
+  * Marriage is when two people join together through a legal contract, a religious ceremony, or both.
+  * In some cultures, marriage is arranged by families, and in others people choose their own husbands or wives if they decide to marry. There are some places where marriage is limited to unions between a man and a woman, while more and more states and countries recognize marriage between same-sex couples too. You can also use the noun marriage to talk about a more figurative link between two things: “The song was a strange marriage of Bavarian polka and punk rock.”
+* figurative
+* polka
+* due to: 由于
+* sleigh
+* puny
+* you can take my word, 你可以相信我的话
+* convinced
+  * If you're convinced that the moon is made of cheese, then you completely believe the moon is made of cheese. Let's hope you're not easily convinced of such silly things!
+  * When we are convinced of something, we really, sincerely believe it. We think it's true. For example, if someone told you the President used to live underground as a mole person, I hope you wouldn't be convinced too easily. Unfortunately, even when someone has convinced us of something, that doesn't mean it's true. Someone who can be convinced of absolutely anything, no matter how untrue, is called gullible.
+* court to
+* attorney
+  * An attorney is a lawyer. Attorneys sue people, defend people, and serve as experts on the law.
+  * When there's any kind of legal issue, attorneys will be involved. They're the legal experts with law degrees who are also known as "lawyers." You'll often find them in court, defending clients or trying to put criminals in jail. Attorneys work for businesses, schools, the government, and individuals. So if you get arrested, need to write a will, or have to hash out a binding contract, an attorney is the person to call.
