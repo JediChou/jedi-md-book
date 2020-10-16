@@ -2050,3 +2050,24 @@ v. 使滞留;使搁浅
 * attorney
   * An attorney is a lawyer. Attorneys sue people, defend people, and serve as experts on the law.
   * When there's any kind of legal issue, attorneys will be involved. They're the legal experts with law degrees who are also known as "lawyers." You'll often find them in court, defending clients or trying to put criminals in jail. Attorneys work for businesses, schools, the government, and individuals. So if you get arrested, need to write a will, or have to hash out a binding contract, an attorney is the person to call.
+
+## 2020.10.16
+
+* auditorium
+
+  * Whenever you check out a concert or a play, you sit in an auditorium — that is, the section of a theater or concert hall reserved for the audience. You can try sitting on the stage, but you'll probably be thrown out.
+
+  * Sometimes auditorium refers to the whole building where performances take place, not just the area for the audience. As the spelling of the word suggests, it's related to the word auditory, meaning "something related to hearing." In fact, auditorium is a Latin term meaning "a place where something is heard," — and of course, as high school and college students know all too well, that can mean lectures as well as concerts or plays.
+
+* suffer
+
+  * The verb suffer means to feel pain or something equally unpleasant. You'd probably do anything you could to be sure your beloved cat didn't suffer when she got old and sick.
+
+  * You can suffer from the pain of a broken leg, but you can also suffer from shyness, regret, poverty, or any number of unpleasant things. You can even describe something that becomes worse using the word suffer, like when someone's grades suffer during soccer season. The root of suffer is the Latin word sufferre, to bear, undergo, or endure. That's why someone who doesn't suffer fools gladly won't put up with nonsense.
+
+* screech
+
+  * To screech is to make a piercing, high-pitched sound. It can also be the sound itself. Want to hear a screech? Take a little kid’s lollipop away.
+
+  * A screech is another word for a scream, shriek, or cry. It’s not fun to listen to. If a woman in a horror movie finds a bad guy in her closet, she’ll probably screech. If you surprise someone in the middle of the night, expect a screech. Things can also screech, like when a car screeches to a sudden stop at a red light.
+

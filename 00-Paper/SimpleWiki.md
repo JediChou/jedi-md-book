@@ -1281,8 +1281,17 @@
 * [合数](https://baike.baidu.com/item/合数)
 * [热电偶](https://baike.baidu.com/item/热电偶)
 
-## 2020.10.13
+## 2020.10.16
 
+* [](https://baike.baidu.com/item/)
+* [](https://baike.baidu.com/item/)
+* [](https://baike.baidu.com/item/)
+* [](https://baike.baidu.com/item/)
+* [](https://baike.baidu.com/item/)
+* [](https://baike.baidu.com/item/)
+* [](https://baike.baidu.com/item/)
+* [](https://baike.baidu.com/item/)
+* [](https://baike.baidu.com/item/)
 * [](https://baike.baidu.com/item/)
 * [](https://baike.baidu.com/item/)
 * [](https://baike.baidu.com/item/)
