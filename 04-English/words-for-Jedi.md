@@ -2071,3 +2071,33 @@ v. 使滞留;使搁浅
 
   * A screech is another word for a scream, shriek, or cry. It’s not fun to listen to. If a woman in a horror movie finds a bad guy in her closet, she’ll probably screech. If you surprise someone in the middle of the night, expect a screech. Things can also screech, like when a car screeches to a sudden stop at a red light.
 
+## 2020.10.21
+
+* enthusiastic
+英 [ɪnˌθjuːziˈæstɪk]   美 [ɪnˌθuːziˈæstɪk]  
+adj.热情的;热心的;热烈的;满腔热忱的
+派生词： enthusiastically adv.
+
+pursued
+英 [pəˈsjuːd]   美 [pərˈsuːd]  
+v.追求;致力于;执行;贯彻;继续探讨(或追究、从事);追逐;跟踪;追赶
+pursue的过去分词和过去式
+
+intricacies
+英 [ˈɪntrɪkəsiz]   美 [ˈɪntrəkəsiz]  
+n.错综复杂的事物(或细节);错综复杂
+intricacy的复数
+
+* kelp
+英 [kelp]   美 [kelp]  
+n.巨藻;大型褐藻
+
+* auditorium
+英 [ˌɔːdɪˈtɔːriəm]   美 [ˌɔːdɪˈtɔːriəm]  
+n.(剧院、音乐厅等的)听众席，观众席;礼堂;会堂
+复数： auditoriums auditoria
+记忆技巧：audit 听 + orium 地点，场所 → 听宣讲的地方 → 礼堂
+
+* co-worker
+英 [ˈkəʊ wɜːkə(r)]   美 [ˈkoʊ wɜːrkər]  
+n.共同工作者;合作者;同事;同僚

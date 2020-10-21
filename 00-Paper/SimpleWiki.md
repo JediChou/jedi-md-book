@@ -1283,15 +1283,43 @@
 
 ## 2020.10.16
 
+* [澳大利亚皇家空军第90联队](https://zh.wikipedia.org/wiki/澳大利亚皇家空军第90联队)
+* [罗彻斯特大学](https://zh.wikipedia.org/wiki/罗彻斯特大学)
+* [杰辛达·阿德恩](https://zh.wikipedia.org/wiki/杰辛达·阿德恩)
+* [2020年巴黎教师斩首案](https://zh.wikipedia.org/wiki/2020年巴黎教师斩首案)
+  * Samuel Paty
+* [愚民政策(https://zh.wikipedia.org/wiki/愚民政策)
+  * 民可，使由之；不可，使知之。
+  * 民可使由之，不可使知之。
+  * 文字狱是一种消灭社会知识分子，巩固政权的经典的愚民手段。
+  * 王阳明主张“格物致知”是属于人要以探求真实的态度最终得到良知，与愚民政策相左。
+* [2020年泰国示威](https://zh.wikipedia.org/wiki/2020年泰国示威)
+* [未来前进党](https://zh.wikipedia.org/wiki/未来前进党)
+* [丁太升](https://zh.wikipedia.org/wiki/丁太升)
+* [1867年堪萨斯州曼哈顿地震](https://zh.wikipedia.org/wiki/1867年堪萨斯州曼哈顿地震)
+* [穆罕默德](https://zh.wikipedia.org/wiki/穆罕默德)
+* [能量守恒定律](https://baike.baidu.com/item/能量守恒定律)
+  * law of conservation of energy
+  * 罗伯特·迈尔
+  * 诺特定理
+  * 英国物理学家J.焦耳
+  * 1847年德意志科学家H.亥姆霍兹对热力学第一定律进行了严格的数学描述
+  * 其能量（时间的共轭物理量）守恒
+  * [萨迪·卡诺](https://baike.baidu.com/item/萨迪·卡诺)
+* [费马大定理](https://baike.baidu.com/item/费马大定理)
+* [集合](https://baike.baidu.com/item/集合/2908117)
+  * 反演律（德·摩根律）
+  * 容斥原理
+* [虚数](https://baike.baidu.com/item/虚数 )
+* [阿拉伯数字](https://baike.baidu.com/item/阿拉伯数字)
+  * “0”的起源-瓜廖尔石碑876年
+  * 阿拉伯数字在中国最早使用是在清光绪元年（1875年），原始版本《笔算数学》对引进的阿拉伯数字作了介绍以及使用。
+* [音障](https://baike.baidu.com/item/音障)
+* [洛必达法则](https://baike.baidu.com/item/洛必达法则)
+* [流明](https://baike.baidu.com/item/流明)
+* [相似三角形](https://baike.baidu.com/item/相似三角形)
 * [](https://baike.baidu.com/item/)
 * [](https://baike.baidu.com/item/)
 * [](https://baike.baidu.com/item/)
-* [](https://baike.baidu.com/item/)
-* [](https://baike.baidu.com/item/)
-* [](https://baike.baidu.com/item/)
-* [](https://baike.baidu.com/item/)
-* [](https://baike.baidu.com/item/)
-* [](https://baike.baidu.com/item/)
-* [](https://baike.baidu.com/item/)
-* [](https://baike.baidu.com/item/)
-* [](https://baike.baidu.com/item/)
+
+* [南京事件](https://zh.wikipedia.org/wiki/南京事件_(1927年))
