@@ -1318,8 +1318,32 @@
 * [洛必达法则](https://baike.baidu.com/item/洛必达法则)
 * [流明](https://baike.baidu.com/item/流明)
 * [相似三角形](https://baike.baidu.com/item/相似三角形)
-* [](https://baike.baidu.com/item/)
-* [](https://baike.baidu.com/item/)
-* [](https://baike.baidu.com/item/)
-
 * [南京事件](https://zh.wikipedia.org/wiki/南京事件_(1927年))
+
+## 2020.10.22
+
+* [萨迪·卡诺](https://baike.baidu.com/item/萨迪·卡诺)
+* [杨辉三角](https://baike.baidu.com/item/杨辉三角)
+  * 几段代码很有意思. 14:21 PM
+* [向量积](https://baike.baidu.com/item/向量积)
+* [牛顿运动定律](https://baike.baidu.com/item/牛顿运动定律)
+  * 三个矢量公式真是棒！ 14:25 PM
+  * 可见现在中国非重点高中的物理教师是多么菜. 14:25 PM
+  * Jedi: 越读越有意思. 14:28 PM
+* [光纤宽带](https://baike.baidu.com/item/光纤宽带)
+  * Jedi: 并不需要深入了解，有时间再看看. 14:31
+* [狗币](https://baike.baidu.com/item/)
+  * Dogecoin，有人称作“狗狗币/狗币”，诞生于2013年12月8日，基于Scrypt算法. 14:32 PM
+  * Jedi: 这种货币太容易薅羊毛了. 14:34
+* [反函数](https://baike.baidu.com/item/反函数)
+  * 函数f若要是一明确的反函数，它必须是一双射函数，即： 14:36 PM
+    *（单射）陪域上的每一元素都必须只被f映射到一次：不然其反函数必将元素映射到超过一个的值上去
+    *（满射）陪域上的每一元素都必须被f映射到：不然将没有办法对某些元素定义f的反函数
+* [电感](https://baike.baidu.com/item/电感)
+  * Jedi: 过于书面了. 14:45
+
+## 2020.10.23
+
+* [](https://baike.baidu.com/item/)
+* [](https://baike.baidu.com/item/)
+* [](https://baike.baidu.com/item/)

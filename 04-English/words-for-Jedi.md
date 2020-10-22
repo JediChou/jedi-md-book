@@ -2101,3 +2101,25 @@ n.(剧院、音乐厅等的)听众席，观众席;礼堂;会堂
 * co-worker
 英 [ˈkəʊ wɜːkə(r)]   美 [ˈkoʊ wɜːrkər]  
 n.共同工作者;合作者;同事;同僚
+
+## 2020.10.22
+
+* Belleving is seeing, 亮了
+* once in a blue moon, 千载难逢;百年不遇
+* be distinguished or eminent
+  * Jedi: 让我迷惑的词和句子
+  * Jedi: This sentence can explains **shine**, I have no idea.
+
+* pardon
+英 [ˈpɑːdn]   美 [ˈpɑːrdn]  
+int.(用于请求别人重复某事)什么，请再说一遍;抱歉;对不起
+n.赦免;特赦;原谅;宽恕
+v.赦免;特赦;原谅(表示礼貌时常用的词语)
+第三人称单数： pardons现在分词： pardoning过去式： pardoned过去分词： pardoned
+记忆技巧：par 平等 + don 给予 → 原谅，宽恕
+
+* gleam
+英 [ɡliːm]   美 [ɡliːm]  
+v.发微光;隐约闪光;闪烁;显得光洁明亮;(眼睛)表露出，流露出;(在眼中)闪现
+n.微光(常指反光);少量;一丝;一线;(感情的)表露，闪现
+第三人称单数： gleams复数： gleams现在分词： gleaming过去式： gleamed过去分词： gleamed
