@@ -27,13 +27,3 @@ Author: Jedi Chou, Create at 2020.10.21 13:14 PM
   * Leela Zero vs Leela Zero. 20:36
   * Leela Zero vs Leela Zero. 20:42
   * Leela Zero vs Leela Zero. 20:47
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
