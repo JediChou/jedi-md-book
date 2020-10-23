@@ -2123,3 +2123,12 @@ v.赦免;特赦;原谅(表示礼貌时常用的词语)
 v.发微光;隐约闪光;闪烁;显得光洁明亮;(眼睛)表露出，流露出;(在眼中)闪现
 n.微光(常指反光);少量;一丝;一线;(感情的)表露，闪现
 第三人称单数： gleams复数： gleams现在分词： gleaming过去式： gleamed过去分词： gleamed
+
+## 2020.10.23
+
+* What do you do for a living? 你是做什么的！
+* It is our hope that let us survive. 希望让我们存活下来.
+* You have my word. 我保证
+* bundled 捆绑的
+* housekeeping 家务的
+* suppress 抑制
