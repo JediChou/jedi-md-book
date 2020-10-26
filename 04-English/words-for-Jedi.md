@@ -2132,3 +2132,37 @@ n.微光(常指反光);少量;一丝;一线;(感情的)表露，闪现
 * bundled 捆绑的
 * housekeeping 家务的
 * suppress 抑制
+
+## 2020.10.26
+
+* paddled
+  * 英 [ˈpædld]   美 [ˈpædld]  
+  * v.用桨划船;蹚水;赤足涉水;狗趴式游泳
+  * paddle的过去分词和过去式
+  * If you regularly ride around in a canoe, you’re undoubtedly already familiar with a paddle, a pole with a broad, flat end that is used to propel a boat forward.
+  * Nautical types will already know that the noun form of the word paddle refers to an implement with a flat blade used to move a boat through the water. The word can also be used to describe items with a similar look, such as a paddle used in table tennis or certain kinds of video games. The verb form of paddle refers to the action of navigating through the water, either in a boat using a paddle or as a swimmer who used the hands and feet to move around in shallow water.
+
+* upon something, 在某件事上
+* heuristic
+
+* sedimentary
+  * Anything sedimentary is formed by or resembles sediment, which consists of little particles of earth that collect in natural bodies of water.
+  * If you ever walked in a lake barefoot and felt the grainy, rocky bottom of the lake, you know how sedimentary things feel. Sedimentary is also a type of rock that’s made from substances left from wind, water, or ice and have been pressed together over time. The other types of rock are igneous (made from lava) and metamorphic (changed from intense heat and pressure). Sedimentary things generally hang out at the bottom of lakes and ponds.
+
+snipe 
+
+A long-beaked bird that lives in marshes and swamps is called a snipe. As a verb, to snipe is to attack someone in a snide way — something a snipe would never do, because birds aren't that petty.
+
+You can find the well-camouflaged shorebird known as the snipe just about everywhere in the world. These birds are famously difficult for hunters to shoot, as they blend in well with their surroundings and have an erratic flight pattern. This is where the word sniper, or sharpshooter, comes from, in addition to the definition of snipe that means "shoot from a hiding place." The figurative sense of "attack someone verbally" followed.
+
+Advertising 
+
+Advertising is the act of drawing the public’s attention to something, usually to sell it. Whatever is written on the sandwich board you're wearing is what you're advertising.
+
+Advertising is getting the word out — whether it’s on a billboard, in a magazine ad, on a commercial, on the side of a blimp, or by singing it from the highest mountaintop. If you want to let people know about a product, service, or candidate, you run an advertising campaign. The word advertising may also be used for the advertisements themselves or the business of creating advertisements.
+
+mindset
+
+A person's usual attitude or mental state is his or her mindset. If you have an environmentalist mindset, you probably bring your own bags to the grocery store.
+
+Some examples of mindsets include an optimist's sunny perspective on life, a business owner's entrepreneurial way of thinking, or an Army general's military focus. Sometimes, a mindset spreads between people in a group and colors the entire group's outlook — psychologists call this groupthink. The noun mindset was first used in the 1930s to mean "habits of mind formed by previous experience."
