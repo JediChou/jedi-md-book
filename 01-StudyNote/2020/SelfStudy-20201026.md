@@ -19,7 +19,7 @@ Author: Jedi Chou, Create at 2020.10.26 8:18 AM
 * 打卡
   * 更新香信的“调查问卷列表”. 9:38
   * 更新香信的“个人14天内旅居史”. 9:38
-  * 编写Ding’Ding的工作日报
+  * 编写Ding’Ding的工作日报. 19:40
 
 * Go Game check
   * Leela Zero vs Leela Zero. 13:10
@@ -59,6 +59,10 @@ Author: Jedi Chou, Create at 2020.10.26 8:18 AM
   * [美团BERT的探索和实践-没看懂](https://www.infoq.cn/article/4NBUrufq060VRagU3XoE?utm_source=feedly&utm_medium=article)
   * [蘑菇街内容信息流排序实践-没看懂](https://www.infoq.cn/article/fP0f4yeWqlRdURb1rkEE?utm_source=feedly&utm_medium=article)
   * [某黑客组织针对越南的一次攻击](https://www.anquanke.com/post/id/189711)
+  * [WebAssembly在性能及加密场景的深度探索](https://www.infoq.cn/article/uVgfDeHQI1KkDL94hg9e?utm_source=feedly&utm_medium=article)
+  * [WebAssembly完全入门：了解wasm的前世今身](https://www.infoq.cn/article/lwlcldGJyC7lye95EWl8?utm_source=feedly&utm_medium=article)
+  * [Vue.js 3：面向未来的编程](https://www.infoq.cn/article/3Bmj5eAmaWfbkpagUu5l?utm_source=feedly&utm_medium=article)
+  * [VPGAME的Kubernetes迁移实践](https://www.infoq.cn/article/xdgdPbzJHAxAoOK0p9lv?utm_source=feedly&utm_medium=article)
 
 * New words or concepts
   * 普渡大学
@@ -71,12 +75,11 @@ Author: Jedi Chou, Create at 2020.10.26 8:18 AM
   * NLP 任务（分类、序列标注、句间关系判断和机器阅读理解等）
   * 《中世纪数学泰斗：秦九韶》
   * 《趣味古算诗题集》、《数学趣话》、《白话九章算术》、《女数学家传奇》、《数学诗歌题解》、《笛卡尔》、《定理多证，定义多解》，合著《数学符号史》、《中国古算家的成就与治学思想》、《中学数学简史》
-
-C# syntax
-Object oriented paradigm
-Interfaces
-Arrays, lists, dictionaries
-Generics
-Events, delegates, and lambdas
-LINQ
-Asynchronous programming
+  * 雷格蒙塔努斯的主要著作是1464年完成的《论各种三角形》．这是欧洲第一部独立于天文学的三角学著作．
+  * 三角学一词的英文是trigonometry，来自拉丁文tuigonometuia．最先使用该词的是文艺复兴时期的德国数学家皮蒂斯楚斯（Ｂ．Ｐitiscus，1561～1613），他在1595年出版的《三角学：解三角形的简明处理》中创造这个词．
+  * 文艺复兴后期，法国数学家韦达（Ｆ．Ｖieta）成为三角公式的集大成者．他的《应用于三角形的数学定律》（1579）是较早系统论述平面和球面三角学的专著之一．
+  * 韦达仿效古人的方法化为直角三角形来解决．对球面直角三角形，给出计算的完整公式及其记忆法则，如余弦定理，1591年韦达又得到多倍角关系式，1593年又用三角方法推导出余弦定理．
+  * 近代三角学是从欧拉的《无穷分析引论》开始的．他定义了单位圆，并以函数线与半径的比值定义三角函数，他还创用小写拉丁字母a、b、c表示三角形三条边，大写拉丁字母Ａ、Ｂ、Ｃ表示三角形三个角，从而简化了三角公式．
+  * 《Spring Boot技术内幕-架构设计与实现原理》
+  * 螺线,蚌线和圆锥曲线
+  * GitLab-CI
