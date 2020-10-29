@@ -2166,3 +2166,47 @@ mindset
 A person's usual attitude or mental state is his or her mindset. If you have an environmentalist mindset, you probably bring your own bags to the grocery store.
 
 Some examples of mindsets include an optimist's sunny perspective on life, a business owner's entrepreneurial way of thinking, or an Army general's military focus. Sometimes, a mindset spreads between people in a group and colors the entire group's outlook — psychologists call this groupthink. The noun mindset was first used in the 1930s to mean "habits of mind formed by previous experience."
+
+## 2020.10.29
+
+* moldy
+
+Things that have gotten damp and started to smell musty can be described as moldy. You can also use this word for things that are actually growing a fungus on them, like your bag of moldy bread.
+
+Mold is a particular type of fungus, often greenish or gray in color. Things become moldy from being stored in dark, damp places or in the case of some food, from not being refrigerated. If you wait months to clean out your locker and throw away your old lunch bags, you might find mold growing on bread crusts, yogurt, or containers of leftover ravioli. Ditch those moldy remnants!
+
+* demolish
+
+Demolish means “completely destroy,” as a wrecking ball might demolish a building, or as hanging out with one’s parents might, supposedly, demolish a teenager’s reputation.
+
+In casual speech, demolish can also mean “devour,” as a group of hungry teenagers might demolish a pizza. The noun form of demolish is demolition, which often implies destruction by means of explosives. Demolish combines the prefix de-, which can mean “undo,” with the Latin verb moliri, meaning “to build" — which makes sense if you are thinking of 'undoing a building' with explosives!
+
+* disturb
+
+To disturb is to bother. If you hang a "Do not disturb" sign on the outside of your hotel room door, you want to be left alone.
+
+Disturb comes from the Latin prefix dis-, meaning "completely" and turbare, meaning "to disorder." To disturb is, in a sense, to completely disorder. When you disturb something, you interfere with its normal function. Along those lines, it's also a word used to describe the interruption of sleep or relaxation. Your alarm disturbs you from sleep every morning. When something disturbs you, it can also cause you emotional anxiety. A horror movie might disturb you with its goriness.
+
+* imprison
+
+To imprison is to hold someone in a prison or jail. It can also mean to confine them elsewhere. You might imprison a classmate in a locker, for example.
+
+Cops imprison suspects who can't make bail, and someone could be imprisoned for a long time if convicted of a serious crime. Government agencies like the CIA and FBI also imprison people. However, you don't need a prison to imprison someone: a kidnapper holding people captive in the basement has imprisoned them.
+
+* gangster
+
+A gangster is a member of a criminal gang. Gangsters are sometimes called mobsters.
+
+A gang is a criminal organization, and a member of such a group is a gangster. Gangsters work together to commit robberies and break the law in other ways. Many famous movies, such as The Godfather, are about gangsters. This word often refers specifically to members of criminal gangs of the 1920s and 30s, when organized crime frequently involved the smuggling of alcohol.
+
+other strange words for me: cruel, oppressive, unconstrained, betray, defendant
+
+* lagoon
+
+If you are snorkeling off the coast of Florida in water cut off from the main ocean, you are likely in a lagoon — a body of water separated from the main ocean.
+
+If you’re familiar with the 60s TV show “Gilligan’s Island,” you probably already know what a lagoon is. Much of the show’s action took place at the lagoon, where the lovable castaways spent their time hanging around and planning how to be rescued. A lagoon is a good place for castaways to congregate because it’s shallow and separated from the ocean by a natural barrier, which means it’s protected from the rough waters of the ocean and offers easier access for swimming and fishing. If you’re ever stranded on a deserted island, you too would probably choose to spend your time at the lagoon, staring into the distance and watching for approaching ships.
+
+* other starnge words for me: merchandise: recurred, effectiveness, abnormally
+
+* 
