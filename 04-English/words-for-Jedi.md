@@ -2209,4 +2209,24 @@ If you’re familiar with the 60s TV show “Gilligan’s Island,” you probabl
 
 * other starnge words for me: merchandise: recurred, effectiveness, abnormally
 
-* 
+## 2020.11.2
+
+* have a fit, 勃然大怒
+* telemetry
+* relevant
+* suppress
+* emteere
+* relevant
+* fixup, 修正
+* as an side
+* plural
+  * 英 [ˈplʊərəl]   美 [ˈplʊrəl]  
+  * n.(名词或动词的)复数，复数形式
+  * adj.复数的;复数形式的;多样的;多元的
+  * 复数： plurals
+  * plurel -> plurals
+* Acquisitions, immense, conducted
+* locker, bail, convicted
+* surveillance, courteous
+* mobsters, **involved**, smuggling of alcohol
+* stressful, famines, starvation

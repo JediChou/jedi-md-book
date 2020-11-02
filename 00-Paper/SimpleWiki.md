@@ -1427,3 +1427,39 @@
 * [理查德·费曼](https://baike.baidu.com/item/理查德·费曼)
 * [补数](https://baike.baidu.com/item/补数)
   * 条目解释我部分疑惑
+
+## 2020.11.2
+
+* [Maryse Ouellet](https://simple.wikipedia.org/wiki/Maryse_Ouellet)
+  * glamour model
+  * professional wrestler
+  * underwent
+  * surgery
+  * abdominal hernia
+  * Hawaiian
+  * Tropic
+* [Riley Perrin](https://simple.wikipedia.org/wiki/Riley_Perrin)
+  * portray
+  * ice hockey
+  * prom
+  * softball
+  * obsess
+  * flirting with
+  * overweight, unattractive
+  * I Told You So
+  * jealous
+* [Denzil Minnan-Wong](https://simple.wikipedia.org/wiki/Denzil_Minnan-Wong)
+  * deputy
+  * lanes, bike lanes
+  * debt
+* [Approximation theory](https://simple.wikipedia.org/wiki/Approximation_theory)
+  * polynomials
+* [Numerical analysis](https://simple.wikipedia.org/wiki/Numerical_analysis)
+  * impractical, diagonal
+  * Navier–Stokes equations
+* [Simulation](https://simple.wikipedia.org/wiki/Simulation)
+* [Probability](https://simple.wikipedia.org/wiki/Probability)
+* [Statistics](https://simple.wikipedia.org/wiki/Statistics)
+  * Descriptive, inferential
+* [Mathematical optimization](https://simple.wikipedia.org/wiki/Mathematical_optimization)
+* [Ecology](https://simple.wikipedia.org/wiki/Ecology)
