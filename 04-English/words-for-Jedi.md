@@ -2230,3 +2230,10 @@ If you’re familiar with the 60s TV show “Gilligan’s Island,” you probabl
 * surveillance, courteous
 * mobsters, **involved**, smuggling of alcohol
 * stressful, famines, starvation
+
+## 2020.11.3
+
+* icing on the cake
+* mimic
+* entertainer
+* synonym
