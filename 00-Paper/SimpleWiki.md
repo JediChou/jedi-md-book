@@ -1481,6 +1481,14 @@
 * [消元法](https://baike.baidu.com/item/消元法)
   * 代入消元法、加减消元法、整体消元法、换元消元法、构造消元法、因式分解消元法、常数消元法、利用比例性质消元法
 
+## 2020.11.4
+
+* [All-India Muslim League](https://simple.wikipedia.org/wiki/All-India_Muslim_League)
+* [900](https://simple.wikipedia.org/wiki/900)
+* [First Minister of Wales](https://simple.wikipedia.org/wiki/First_Minister_of_Wales)
+* [Mental calculation](https://simple.wikipedia.org/wiki/Mental_calculation)
+* [Computer Algebra System](https://simple.wikipedia.org/wiki/Computer_Algebra_System)
+
 ## Math
 
 ### A-F

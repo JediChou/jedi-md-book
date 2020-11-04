@@ -2237,3 +2237,11 @@ If you’re familiar with the 60s TV show “Gilligan’s Island,” you probabl
 * mimic
 * entertainer
 * synonym
+
+## 2020.11.4
+
+* collide
+* undersized
+* heartless, caring
+* bounce
+* Secretaries
