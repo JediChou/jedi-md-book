@@ -2245,3 +2245,8 @@ If you’re familiar with the 60s TV show “Gilligan’s Island,” you probabl
 * heartless, caring
 * bounce
 * Secretaries
+
+## 2020.11.5
+
+* colonist
+* tripod

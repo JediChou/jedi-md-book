@@ -1489,6 +1489,12 @@
 * [Mental calculation](https://simple.wikipedia.org/wiki/Mental_calculation)
 * [Computer Algebra System](https://simple.wikipedia.org/wiki/Computer_Algebra_System)
 
+## 2020.11.5
+
+* [Austin City Limits](https://simple.wikipedia.org/wiki/Austin_City_Limits)
+* [Shirley Mitchell](https://simple.wikipedia.org/wiki/Shirley_Mitchell)
+* [Lucena City](https://simple.wikipedia.org/wiki/Lucena_City)
+
 ## Math
 
 ### A-F
