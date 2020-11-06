@@ -2250,3 +2250,12 @@ If you’re familiar with the 60s TV show “Gilligan’s Island,” you probabl
 
 * colonist
 * tripod
+
+## 2020.11.6
+
+* thud
+* orthodontist
+* bounce
+* poisonous, vicious
+* sheepdog
+* fluffy

@@ -1495,6 +1495,12 @@
 * [Shirley Mitchell](https://simple.wikipedia.org/wiki/Shirley_Mitchell)
 * [Lucena City](https://simple.wikipedia.org/wiki/Lucena_City)
 
+## 2020.11.6
+
+* [Uhart-Cize](https://simple.wikipedia.org/wiki/Uhart-Cize)
+* [Hedwig Village, Texas](https://simple.wikipedia.org/wiki/Hedwig_Village,_Texas)
+* [Seven Sundays (2017 movie)](https://simple.wikipedia.org/wiki/Seven_Sundays_(2017_movie))
+
 ## Math
 
 ### A-F

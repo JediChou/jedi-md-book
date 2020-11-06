@@ -1,30 +1,30 @@
 # Self Study
 
-Author: Jedi Chou, Create at 2020.11.5 10;06 AM
+Author: Jedi Chou, Create at 2020.11.6 7:50 AM
 
 * Daily study
-  * 101WeiQi daily exercise check-in. 10:11, 10:11
-  * 163 music APP check-in. 10:12
-  * Read articles and check interview invitation (MaiMai APP). 10:37
-  * Don't memorize words APP check-in. 10:37
-  * NowCoder check-in. 10:38
-  * Tencent cartoon APP check-in. 10:38
-  * Read Sina Blog. 11:50
-  * Exercise of Vocabulary (vocabulary.com). 12:26
-  * Reading 1 minutes at SIMPLE wiki. 12:29
-  * 163.com mail. 12:48
+  * 101WeiQi daily exercise check-in. 7:34, 7:34
+  * 163 music APP check-in. 7:52
+  * Read articles and check interview invitation (MaiMai APP). 7:55
+  * Don't memorize words APP check-in. 7;55
+  * NowCoder check-in. 7:56
+  * Tencent cartoon APP check-in. 7:56
+  * Read Sina Blog. 8:40
+  * Exercise of Vocabulary (vocabulary.com). 8:50
+  * Reading 1 minutes at SIMPLE wiki. 8:53
+  * 163.com mail. 11:46
 
 ## Other
 
 * 打卡
-  * 更新香信的“调查问卷列表”. 10:09
-  * 更新香信的“个人14天内旅居史”. 10:09
-  * 编写Ding’Ding的工作日报. 18:07
+  * 更新香信的“调查问卷列表”. 7:52
+  * 更新香信的“个人14天内旅居史”. 7:52
+  * 编写Ding’Ding的工作日报
 
 * Go Game check
-  * Leela Zero vs Leela Zero. 12:08
-  * Leela Zero vs Leela Zero. 12:15
-  * Leela Zero vs Leela Zero. 12:21
+  * Leela Zero vs Leela Zero. 13:25
+  * Leela Zero vs Leela Zero. 13:36
+  * Leela Zero vs Leela Zero
 
 * Rules
   * understand
