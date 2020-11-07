@@ -1501,6 +1501,14 @@
 * [Hedwig Village, Texas](https://simple.wikipedia.org/wiki/Hedwig_Village,_Texas)
 * [Seven Sundays (2017 movie)](https://simple.wikipedia.org/wiki/Seven_Sundays_(2017_movie))
 
+## 2020.11.7
+
+* [Pythagorean theorem](https://simple.wikipedia.org/wiki/Pythagorean_theorem)
+  * Vasudha Arora
+  * Eudoxus of Cnidus
+* [Goldbach's conjecture](https://simple.wikipedia.org/wiki/Goldbach%27s_conjecture)
+* [Fermat's Last Theorem](https://simple.wikipedia.org/wiki/Fermat%27s_Last_Theorem)
+
 ## Math
 
 ### A-F

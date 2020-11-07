@@ -2259,3 +2259,12 @@ If you’re familiar with the 60s TV show “Gilligan’s Island,” you probabl
 * poisonous, vicious
 * sheepdog
 * fluffy
+
+## 2020.11.7
+
+* one for all, all for one
+* Keep the faith!
+* Are you being a sore loser?
+* deluxe, 豪华
+* conjecture 猜想
+* Theorem
