@@ -1509,6 +1509,16 @@
 * [Goldbach's conjecture](https://simple.wikipedia.org/wiki/Goldbach%27s_conjecture)
 * [Fermat's Last Theorem](https://simple.wikipedia.org/wiki/Fermat%27s_Last_Theorem)
 
+## 2020.11.9
+
+* [Gigablast](https://simple.wikipedia.org/wiki/Gigablast)
+* [Apache License](https://simple.wikipedia.org/wiki/Apache_License)
+* [A.F.C. Bournemouth](https://simple.wikipedia.org/wiki/A.F.C._Bournemouth)
+* [Pervis Ellison](https://simple.wikipedia.org/wiki/Pervis_Ellison)
+* [List of American Civil War Medal of Honor recipients: Q–S](https://simple.wikipedia.org/wiki/List_of_American_Civil_War_Medal_of_Honor_recipients:_Q%E2%80%93S)
+* [Zion](https://simple.wikipedia.org/wiki/Zion)
+* Treaty of Seville
+
 ## Math
 
 ### A-F

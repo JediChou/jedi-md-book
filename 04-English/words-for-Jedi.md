@@ -2268,3 +2268,37 @@ If you’re familiar with the 60s TV show “Gilligan’s Island,” you probabl
 * deluxe, 豪华
 * conjecture 猜想
 * Theorem
+
+## 2020.11.9
+
+* bestowed
+* trailer
+* posthumously
+* incumbent
+* secured
+* sob, grief
+* She might find mud wrestling more enjoyable.
+* Terror
+* havoc
+* footsteps
+* tremors
+* nationwide, epicenter, seismographs
+* delight
+* gram
+* skyscraper, thumbtack
+* vicious
+  * What do arsenic, cyanide, and bleach all have in common? They're poisonous. In other words, if you ingest these poisonous chemicals, you will most likely die or become very ill.
+  * If something is poisonous, you'd better not eat, drink, inhale, or touch it: it will make you sick. Some poisonous materials can even kill you. Of course, this adjective is derived from the noun poison, which is a toxic substance. You can also calls things poisonous if they're harmful in less physical ways. Spreading lies about someone is poisonous. Betraying a friend is poisonous. What both kinds of poisonous things have in common is that they do damage.
+* dehydrated
+  * When moisture has been removed from something, it's dehydrated. Among the nuts and bits of chocolate in your favorite trail mix are dehydrated cherries and apricots.
+  * Food is dehydrated as a way of preserving it — dehydrated apples last much longer than fresh ones. When a person becomes dehydrated however, they've been deprived of water for too long, or been so ill that they've suddenly lost a large amount of water. You can become dehydrated by exercising in extreme heat without drinking enough, or from vomiting when you're sick. This word stems from the Greek root hydor, or "water."
+* annoyed
+  * Have you ever suddenly walked into a cloud of small bugs that buzz and poke at you? If so, you were probably annoyed. You might also know humans who make you feel this way.
+  * In the time of Middle English, if you were annoyed by something it was hateful to you. Today, annoyed usually describes a less intense feeling than that, but it's never pleasant. If someone has annoyed you, he or she is on your nerves. If I've annoyed you with this explanation, I apologize.
+* trampoline
+* disturb
+  * To disturb is to bother. If you hang a "Do not disturb" sign on the outside of your hotel room door, you want to be left alone.
+  * Disturb comes from the Latin prefix dis-, meaning "completely" and turbare, meaning "to disorder." To disturb is, in a sense, to completely disorder. When you disturb something, you interfere with its normal function. Along those lines, it's also a word used to describe the interruption of sleep or relaxation. Your alarm disturbs you from sleep every morning. When something disturbs you, it can also cause you emotional anxiety. A horror movie might disturb you with its goriness.
+* landfall
+* hurricane
+* ongoing
