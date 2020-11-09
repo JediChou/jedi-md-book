@@ -19,7 +19,7 @@ Author: Jedi Chou, Create at 2020.11.9 8:15 AM
 * 打卡
   * 更新香信的“调查问卷列表”. 9:24
   * 更新香信的“个人14天内旅居史”. 9:24
-  * 编写Ding’Ding的工作日报
+  * 编写Ding’Ding的工作日报. 19:29
 
 * Go Game check
   * Leela Zero vs Leela Zero. 12:42
@@ -49,6 +49,7 @@ Author: Jedi Chou, Create at 2020.11.9 8:15 AM
 * Security
 * Reading
 * New words or concepts
+  * 凪 zhǐ
 
 * [高中数学解题技巧合集，冲刺140+，必不可少的解题技巧！](https://www.bilibili.com/video/BV1E7411S7Zj?from=search&seid=10119785838133684638)
 * [顶级数学思维1 如果你这么做题，你不可能不提分!](https://www.bilibili.com/video/BV1p7411f7yA?from=search&seid=10119785838133684638)
