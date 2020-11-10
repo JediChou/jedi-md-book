@@ -1519,6 +1519,13 @@
 * [Zion](https://simple.wikipedia.org/wiki/Zion)
 * Treaty of Seville
 
+## 2020.11.10
+
+* [Tamaha, Oklahoma](https://simple.wikipedia.org/wiki/Tamaha,_Oklahoma)
+* [E. M. Forster](https://simple.wikipedia.org/wiki/E._M._Forster)
+* [West Park, Florida](https://simple.wikipedia.org/wiki/West_Park,_Florida)
+* [Vaccine](https://simple.wikipedia.org/wiki/Vaccine)
+
 ## Math
 
 ### A-F
