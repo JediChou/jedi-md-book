@@ -19,7 +19,7 @@ Author: Jedi Chou, Create at 2020.11.12 7:52 AM
 * 打卡
   * 更新香信的“调查问卷列表”. 14:30
   * 更新香信的“个人14天内旅居史”. 14:30
-  * 编写Ding’Ding的工作日报
+  * 编写Ding’Ding的工作日报. 19:17
 
 * Go Game check
   * Leela Zero vs Leela Zero. 14:37
@@ -53,3 +53,5 @@ Author: Jedi Chou, Create at 2020.11.12 7:52 AM
   * 基于区块链的数字票据交易平台
   * FinTech（金融科技）、BigTech（大型科技公司）
   * **todo**: 图灵社区的Math索引的第5页开始收藏link. 13:55
+  * localdb: f3216338-samsung1s
+  * [jedi's codewar invite url](www.codewars.com/r/50RKtw)

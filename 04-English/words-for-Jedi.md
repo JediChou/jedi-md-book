@@ -2356,3 +2356,6 @@ If you’re familiar with the 60s TV show “Gilligan’s Island,” you probabl
   * [ 复数 species ]
 * glitch, burrow, cyst, quietus
 * turquoise, necklace
+* scaffold, 脚手架
+* red-squiggly, 红色的波浪线
+* greenfield
