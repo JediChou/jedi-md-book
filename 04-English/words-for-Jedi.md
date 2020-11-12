@@ -2324,3 +2324,35 @@ If you’re familiar with the 60s TV show “Gilligan’s Island,” you probabl
 
 * 据知情人士透露, According to people familiar with the matter
   * Tencent once tried to acquire WhatsApp, according to people familiar with the matter, but the venture failed.
+
+* concern
+* conflict, 冲突
+* holler, 牢骚
+* imperative, 必要的
+* Revised, 改进的
+* brown out, （为节电等原因）把灯火弄暗；灯火管制, 一般出大错就会这么用！
+* reconcile, vt. 使一致；使和解；调停，调解；使顺从
+* transparency
+* mood
+  * n. 情绪，语气；心境；气氛
+  * n. (Mood)人名；(英)穆德；(瑞典)莫德
+* breaking changes, 突发的变化
+* linting
+  * n. 软麻布；线头；棉绒
+  * vi. 飞散出棉线
+* impact on, 影响；对…冲击，碰撞
+* fetch
+  * vt. 取来；接来；到达；吸引
+  * vi. 拿；取物；卖得
+  * n. 取得；诡计
+* ramification, 衍生物；分枝，分叉；支流；（衍生的）结果、影响
+* admit
+  * vt. 承认；准许进入；可容纳
+  * vi. 承认；容许
+* Prospering Virtue, 繁荣的美德
+* species
+  * n. [生物] 物种；种类
+  * adj. 物种上的
+  * [ 复数 species ]
+* glitch, burrow, cyst, quietus
+* turquoise, necklace

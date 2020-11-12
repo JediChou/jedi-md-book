@@ -1549,7 +1549,12 @@
   * Structural engineers
   * Software engineers
   * Systems engineers
-  * 
+
+## 2020.11.12
+
+* [Changdeokgung](https://simple.wikipedia.org/wiki/Changdeokgung)
+* [Bottlenose dolphin](https://simple.wikipedia.org/wiki/Bottlenose_dolphin)
+* [Arctiidae](https://simple.wikipedia.org/wiki/Arctiidae)
 
 ## Math
 
