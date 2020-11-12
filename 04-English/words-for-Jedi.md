@@ -2309,3 +2309,18 @@ If you’re familiar with the 60s TV show “Gilligan’s Island,” you probabl
 * boardwalk
   * A boardwalk is a wooden path along a beach. In some places, it’s just a walkway over the marshes, but in others, it’s where all the action is, like in the song from the 1960’s “Under the Boardwalk.”
   * Some boardwalks are simply wooden walkways, built so pedestrians can stroll near the water without damaging seaside plants or getting sand in their shoes. Other boardwalks are much larger commercial areas, often even built with concrete rather than wood. One famous boardwalk, in Atlantic City, New Jersey, gives tourists a place to gamble, eat, drink, and buy souvenirs. This boardwalk is, in fact, considered the first in the US and is credited with inspiring the word itself.
+
+## 2020.11.11
+
+* bachelor's
+* dissertation
+* Etymology
+* collide
+* inattentive
+* Demography
+* ingest
+
+## 2020.11.12
+
+* 据知情人士透露, According to people familiar with the matter
+  * Tencent once tried to acquire WhatsApp, according to people familiar with the matter, but the venture failed.

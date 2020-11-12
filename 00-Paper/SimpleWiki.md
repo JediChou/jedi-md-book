@@ -1526,6 +1526,31 @@
 * [West Park, Florida](https://simple.wikipedia.org/wiki/West_Park,_Florida)
 * [Vaccine](https://simple.wikipedia.org/wiki/Vaccine)
 
+## 2020.11.11
+
+* [Gabriela de la Garza](https://simple.wikipedia.org/wiki/Gabriela_de_la_Garza)
+* [Kshetri](https://simple.wikipedia.org/wiki/Kshetri)
+* [Joe Kennedy III](https://simple.wikipedia.org/wiki/Joe_Kennedy_III)
+* [Engineering](https://simple.wikipedia.org/wiki/Engineering)
+  * Aerospace engineers
+  * Biomedical engineers
+  * Chemical engineers
+  * Civil engineers
+  * Computer engineers
+  * Electrical engineers
+  * Electronic engineers
+  * Environmental engineers
+  * Manufacturing engineers
+  * Mechanical engineers
+  * Mechatronics engineers
+  * Marine Engineers
+  * Nanotechnology engineers
+  * Nuclear engineers
+  * Structural engineers
+  * Software engineers
+  * Systems engineers
+  * 
+
 ## Math
 
 ### A-F
