@@ -2359,3 +2359,13 @@ If you’re familiar with the 60s TV show “Gilligan’s Island,” you probabl
 * scaffold, 脚手架
 * red-squiggly, 红色的波浪线
 * greenfield
+
+## 2020.11.16
+
+* Collider, 对撞机
+* decay, 衰退
+* hiss
+* thud, thump
+* gutter
+* appearance
+* 

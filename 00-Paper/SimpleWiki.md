@@ -1556,6 +1556,15 @@
 * [Bottlenose dolphin](https://simple.wikipedia.org/wiki/Bottlenose_dolphin)
 * [Arctiidae](https://simple.wikipedia.org/wiki/Arctiidae)
 
+## 2020.11.16
+
+* [RCEP](https://baike.baidu.com/item/%E5%8C%BA%E5%9F%9F%E5%85%A8%E9%9D%A2%E7%BB%8F%E6%B5%8E%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB%E5%8D%8F%E5%AE%9A?fromtitle=RCEP&fromid=7500405)
+* [Raft算法](https://baike.baidu.com/item/Raft%E7%AE%97%E6%B3%95)
+* [CERN](https://simple.wikipedia.org/wiki/CERN)
+* [Photo booth](https://simple.wikipedia.org/wiki/Photo_booth)
+* [Particle physics](https://simple.wikipedia.org/wiki/Particle_physics)
+* [Greater London](https://simple.wikipedia.org/wiki/Greater_London)
+
 ## Math
 
 ### A-F
