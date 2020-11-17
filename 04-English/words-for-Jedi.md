@@ -2368,3 +2368,39 @@ If you’re familiar with the 60s TV show “Gilligan’s Island,” you probabl
 * thud, thump
 * gutter
 * appearance
+
+## 2020.11.17
+
+* sting: burn
+* worship
+* garage
+* overlaps
+* hut
+* Etruscans, 伊特鲁里亚人;伊特鲁斯坎人;伊特鲁里亚;斯坎;伊楚利亚人
+  * Where are they come from?
+* domes
+* renaissance
+  * 英 [rɪˈneɪsns]   美 [ˈrenəsɑːns]  
+  * n.文艺复兴(欧洲14、15和16世纪时，人们以古希腊罗马的思想文化来繁荣文学艺术);(某一学科或艺术形式等衰落后的)复兴
+  * 记忆技巧：re 一再 + nai 出生 + ss + ance 表情况 → 一再出生 → 复兴，新生
+* upon this time, 在这个时候
+* upon this point, 在这个点上
+* Skyscraper, 摩天大厦
+* gestures
+  * 英 [ˈdʒestʃəz]   美 [ˈdʒestʃərz]  
+  * n.手势;姿势;示意动作;(表明感情或意图的)姿态，表示
+  * v.做手势;用手势表示;用动作示意
+  * gesture的第三人称单数和复数
+* liquid crystals
+  * 英 [ˈlɪkwɪd ˈkrɪstlz*]   美 [ˈlɪkwɪd ˈkrɪstəlz]  
+  * n.液晶*
+  * liquid crystal的复数
+* Construction
+* Artificial (man-made) 
+* phosphor
+  * 英 [ˈfɒsfə]   美 [ˈfɑˌsfɔr]  
+  * n.磷光体，磷光剂；磷光质涂层；启明星
+* cathode
+  * 英 [ˈkæθəʊd]   美 [ˈkæθoʊd]  
+  * n.阴极;负极
+  *复数： cathodes

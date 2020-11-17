@@ -1564,3 +1564,18 @@
 * [Photo booth](https://simple.wikipedia.org/wiki/Photo_booth)
 * [Particle physics](https://simple.wikipedia.org/wiki/Particle_physics)
 * [Greater London](https://simple.wikipedia.org/wiki/Greater_London)
+
+## 2020.11.17
+
+* [Electronics](https://simple.wikipedia.org/wiki/Electronics)
+  * Processing and distribution of information. These are called communications systems.
+  * Conversion and distribution of energy. These are called control systems.
+* [Galerius](https://simple.wikipedia.org/wiki/Galerius)
+* [Architecture](https://simple.wikipedia.org/wiki/Architecture)
+* [Communication](https://simple.wikipedia.org/wiki/Communication)
+* [Bobby Robson](https://simple.wikipedia.org/wiki/Bobby_Robson)
+* [John Ehrlichman](https://simple.wikipedia.org/wiki/John_Ehrlichman)
+* [Villanova University](https://simple.wikipedia.org/wiki/Villanova_University)
+* [Liquid crystal display](https://simple.wikipedia.org/wiki/Liquid_crystal_display)
+* [Plasma (physics)](https://simple.wikipedia.org/wiki/Plasma_(physics))
+* [Cathode ray tube](https://simple.wikipedia.org/wiki/Cathode_ray_tube)
