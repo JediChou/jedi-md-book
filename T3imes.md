@@ -5,7 +5,6 @@
 * ca-task: CA签章无法使用的问题（V0001050, V0901493）
 * ca-task: 完成FII的劳动合同(师级员工)
 * ca-task: 修复FII劳动合同无法并行测试的问题
-* ca-task: 修订电子采购的某个PDF模板（加Barcode）
 * ca-task: check sql server mirror when master database crash.
 * ca-task: 用Bulma重写现在的CA网站.
 * ca-task: 探讨下易签网可提供哪些接口给富源平台
@@ -75,3 +74,44 @@
   * task: Heating lunch.
   * task: Create new template project and copy source code from current (ASB2020110010).
   * task: Verify PDF output keep same.
+
+* PR: 08ebf8a3-6927-49ef-9dc9-24193cb780a0
+  * user: jedi
+  * start: 14:24
+  * end: 15:27
+  * task: Process BS2020110817.
+  * task: Process BS2020110926.
+  * task: Process BS2020111188.
+  * task: Process BS2020111222.
+  * task: Communicate with Eitan.
+  * task: Reply to Eitan(Eitan F.Y. Lin/CES/FOXCONN).
+  * task: Solve Eitan's CA issue by VNC.
+  * task: Process BS2020111235.
+
+* PR: 9e8f4b34-8545-4d72-8a0e-266e8a1d92a9
+  * user: jedi
+  * start: 15:27
+  * end: 15:53
+  * task: Implement request (ASB2020110010).
+  * task: The current template without pagenation (ASB2020110010).
+  * task: Already told this issue to QingFeng.
+
+* PR: c3b83d6d-e639-4b73-9bdb-c9d5ee0582d8
+  * user: jedi
+  * start: 15:27
+  * end: 16:35
+  * task: Complete test (1-5 items, ASB2020110010).
+  * task: Backup new template source code (ASB2020110010).
+  * task: Backup new template binary file (ASB2020110010).
+  * task: Deploy binary to AP and restart IIS (ASB2020110010).
+  * task: Execute verify test for deploy (ASB2020110010).
+  * task: Send deploy success mail (ASB2020110010).
+  * task: Backup deploy file and source code (ASB2020110010).
+  * task: Process BS2020111136.
+  * task: Process BS2020111143.
+
+* PR: 40718d1b-8dea-4206-92c7-24f700cd378e
+  * user: jedi
+  * start: 16:42
+  * end: 17:09
+  * task: Continue FII shanghai engineer contract template.
