@@ -1579,3 +1579,26 @@
 * [Liquid crystal display](https://simple.wikipedia.org/wiki/Liquid_crystal_display)
 * [Plasma (physics)](https://simple.wikipedia.org/wiki/Plasma_(physics))
 * [Cathode ray tube](https://simple.wikipedia.org/wiki/Cathode_ray_tube)
+
+## 2020.11.18
+
+* [Wadi Halfa](https://simple.wikipedia.org/wiki/Wadi_Halfa)
+* [Martinique](https://simple.wikipedia.org/wiki/Martinique)
+* [LP record](https://simple.wikipedia.org/wiki/LP_record)
+* [Alan Cox](https://en.wikipedia.org/wiki/Alan_Cox)
+* [Miguel de Icaza](https://en.wikipedia.org/wiki/Miguel_de_Icaza)
+  * [Midnight Commander](https://en.wikipedia.org/wiki/Midnight_Commander)
+  * [Wine project](https://en.wikipedia.org/wiki/Wine_(software))
+* [Robert Love](https://en.wikipedia.org/wiki/Robert_Love)
+  * Talking Directly to the Kernel and C Library
+  * Linux Kernel Development (1 ed.). SAMS Publishing. ISBN 0-672-32512-8.
+  * Linux Kernel Development (2 ed.). Novell Press. ISBN 978-0-672-32720-9.
+  * Linux Kernel Development (3 ed.). Addison–Wesley. ISBN 978-0-672-32946-3.
+  * Linux in a Nutshell (5 ed.). O'Reilly Media. ISBN 978-0-596-00930-4.
+  * Linux in a Nutshell (6 ed.). O'Reilly Media. ISBN 978-0-596-15448-6.
+  * Linux System Programming (1 ed.). O'Reilly Media. ISBN 978-0-596-00958-8.
+  * Linux System Programming (2 ed.). O'Reilly Media. ISBN 978-1-449-33953-1.
+* [Hans Reiser](https://en.wikipedia.org/wiki/Hans_Reiser)
+* [Greg Kroah-Hartman](https://en.wikipedia.org/wiki/Greg_Kroah-Hartman)
+  * Linux Device Drivers (3rd ed.). Sebastopol, CA: O'Reilly. ISBN 0-596-00590-3.
+  * Linux Kernel in a Nutshell (1st ed.). Sebastopol, CA: O'Reilly. ISBN 978-0-596-10079-7.

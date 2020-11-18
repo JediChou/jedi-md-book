@@ -2404,3 +2404,79 @@ If you’re familiar with the 60s TV show “Gilligan’s Island,” you probabl
   * 英 [ˈkæθəʊd]   美 [ˈkæθoʊd]  
   * n.阴极;负极
   *复数： cathodes
+
+## 2020.11.18
+
+* spiteful
+英 [ˈspaɪtfl]   美 [ˈspaɪtfl]  
+adj.恶意的;居心不良的;故意使人苦恼的
+派生词： spitefully adv. spitefulness n.
+
+* intermission
+英 [ˌɪntəˈmɪʃn]   美 [ˌɪntərˈmɪʃn]  
+n.(戏剧、电影等的)幕间休息，中间休息;间歇;暂停
+复数： intermissions
+
+* occurred
+英 [əˈkɜːd]   美 [əˈkɜːrd]  
+v.发生;出现;存在于;出现在
+occur的过去分词和过去式
+
+* involvement
+英 [ɪnˈvɒlvmənt]   美 [ɪnˈvɑːlvmənt]  
+n.参与;加入;插手;耗费时间;投入;沉迷;恋爱;性爱
+复数： involvements
+
+* revealed
+英 [rɪˈviːld]   美 [rɪˈviːld]  
+v.揭示;显示;透露;显出;露出;展示
+reveal的过去分词和过去式
+
+* retirement
+英 [rɪˈtaɪəmənt]   美 [rɪˈtaɪərmənt]  
+n.退休;退职;退休年龄;退休生活;(尤指从体育、政治等方面的)退出，引退
+复数： retirements
+
+* whilst
+英 [waɪlst]   美 [waɪlst]  
+conj.同 while(连词)
+
+ardent
+英 [ˈɑːdnt]   美 [ˈɑːrdnt]  
+adj.热烈的;激情的
+派生词： ardently adv.
+
+outspoken
+英 [aʊtˈspəʊkən]   美 [aʊtˈspoʊkən]  
+adj.直率;坦诚
+v.公开宣布；在讲话方面胜过；大胆、直率地说
+outspeak的过去分词
+派生词： outspokenly adv. outspokenness n.
+
+recipient
+英 [rɪˈsɪpiənt]   美 [rɪˈsɪpiənt]  
+n.受方;接受者
+
+Advocacy
+英 [ˈædvəkəsi]   美 [ˈædvəkəsi]  
+辩论技巧;倡导;辩护;过度推介;拥护
+
+endorsed
+英 [ɪnˈdɔːst]   美 [ɪnˈdɔːrst]  
+v.(公开)赞同，支持，认可;(在广告中)宣传，代言(某一产品);(在支票背面)签名，背书
+endorse的过去分词和过去式
+
+preemptive美 [priˈɛmptɪv]  
+adj.先发制人的;先买的，有先买权的
+
+disdain
+英 [dɪsˈdeɪn]   美 [dɪsˈdeɪn]  
+n.鄙视;蔑视;鄙弃
+v.鄙视;蔑视;鄙弃;不屑(做某事)
+第三人称单数： disdains复数： disdains现在分词： disdaining过去式： disdained过去分词： disdained
+
+rigid
+英 [ˈrɪdʒɪd]   美 [ˈrɪdʒɪd]  
+adj.死板的;僵硬的;固执的;僵化的;一成不变的;坚硬的;不弯曲的;僵直的
+比较级： more rigid最高级： most rigid
+派生词： rigidity n. rigidly adv.
