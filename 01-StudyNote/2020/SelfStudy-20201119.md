@@ -40,8 +40,3 @@ Author: Jedi Chou, Create at 2020.11.19 7:58 PM
     * 古德哈特定律 (Goodhart's Law) Jedi: nice!
     * 汉隆的剃刀 (Hanlon's Razor)
     * 席克定律 (Hick's Law or Hick-Hyman Law)
-* Other
-* 好词好句
-* Security
-* Reading
-* New words or concepts
