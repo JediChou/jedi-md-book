@@ -1602,3 +1602,9 @@
 * [Greg Kroah-Hartman](https://en.wikipedia.org/wiki/Greg_Kroah-Hartman)
   * Linux Device Drivers (3rd ed.). Sebastopol, CA: O'Reilly. ISBN 0-596-00590-3.
   * Linux Kernel in a Nutshell (1st ed.). Sebastopol, CA: O'Reilly. ISBN 978-0-596-10079-7.
+
+## 2020.11.19
+
+* [Carcano](https://simple.wikipedia.org/wiki/Carcano)
+* [Basic Instinct](https://simple.wikipedia.org/wiki/Basic_Instinct)
+* [Teresa Perales](https://simple.wikipedia.org/wiki/Teresa_Perales)

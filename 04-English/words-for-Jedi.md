@@ -2480,3 +2480,17 @@ rigid
 adj.死板的;僵硬的;固执的;僵化的;一成不变的;坚硬的;不弯曲的;僵直的
 比较级： more rigid最高级： most rigid
 派生词： rigidity n. rigidly adv.
+
+## 2020.11.19
+
+controversy
+英 [ˈkɒntrəvɜːsi]   美 [ˈkɑːntrəvɜːrsi]  
+n.(公开的)争论，辩论，论战
+复数： controversies
+
+Paralympics
+英 [ˌpærə'lɪmpɪks]   美 [ˌpærə'lɪmpɪks]  
+n.残疾人奥运会;残奥会
+
+co-write，合著
+Jedi: co is mean coporation with.
