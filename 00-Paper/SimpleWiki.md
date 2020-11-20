@@ -1608,3 +1608,9 @@
 * [Carcano](https://simple.wikipedia.org/wiki/Carcano)
 * [Basic Instinct](https://simple.wikipedia.org/wiki/Basic_Instinct)
 * [Teresa Perales](https://simple.wikipedia.org/wiki/Teresa_Perales)
+
+## 2020.11.20
+
+* [Assassination of Robert F. Kennedy](https://simple.wikipedia.org/wiki/Assassination_of_Robert_F._Kennedy)
+* [Diffuse axonal injury](https://simple.wikipedia.org/wiki/Diffuse_axonal_injury)
+* [Mosseruds GF](https://simple.wikipedia.org/wiki/Mosseruds_GF)

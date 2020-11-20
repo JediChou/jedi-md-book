@@ -2494,3 +2494,9 @@ n.残疾人奥运会;残奥会
 
 co-write，合著
 Jedi: co is mean coporation with.
+
+## 2020.11.20
+
+* orthodontist
+* Lullabies
+* giant killing
