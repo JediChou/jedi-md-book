@@ -1,6 +1,5 @@
 # Todo list
 
-* docker developer: 10.134.180.249 (cfag account)
 * ca-task: 完成FII的劳动合同(师级员工)
 * ca-task: 修复FII劳动合同无法并行测试的问题
 * ca-task: check sql server mirror when master database crash.
@@ -55,9 +54,9 @@
 * self: Create a local nuget server for local developers.
 * self: Create a Webstorm project to study [Metro-UI-CSS](https://metroui.org.ua/).
 * self: Create a Webstorm project to study [mini.css](https://minicss.org/).
-  * [fluid css](https://github.com/fluid-framework/Fluid/)
-  * [element](https://element.eleme.cn/#/zh-CN)
-  * [Fulma](https://github.com/Fulma/Fulma)
+* self: Create a WebStorm project to study [fluid css](https://github.com/fluid-framework/Fluid/).
+* self: Create a WebStorm project to study [element](https://element.eleme.cn/#/zh-CN).
+* self: Create a WebStorm project to study [Fulma](https://github.com/Fulma/Fulma).
   * [BulmaTemplates](https://github.com/BulmaTemplates/bulma-templates)
   * [buefy](https://buefy.org/)
   * [Visual Studio 教程 | JavaScript 和 TypeScript](https://docs.microsoft.com/zh-cn/visualstudio/javascript/?view=vs-2019)
