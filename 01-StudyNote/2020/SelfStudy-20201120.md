@@ -19,7 +19,7 @@ Author: Jedi Chou, Create at 2020.11.20 9:06 AM
 * 打卡
   * 更新香信的“调查问卷列表”. 9:08
   * 更新香信的“个人14天内旅居史”. 9:08
-  * 编写Ding’Ding的工作日报.
+  * 编写Ding’Ding的工作日报. 17:50
 
 * Go Game check
   * Leela Zero vs Leela Zero. 10:09
@@ -38,9 +38,3 @@ Author: Jedi Chou, Create at 2020.11.20 9:06 AM
     * 古德哈特定律 (Goodhart's Law) Jedi: nice!
     * 汉隆的剃刀 (Hanlon's Razor)
     * 席克定律 (Hick's Law or Hick-Hyman Law)
-
-* Funning
-  * y=kx+b的垂线方程
-  * 同理, y=kx+b旋转n度角度方程，配合三角函数
-  * 同理, y=kx+b, x在[a,b]取值时的中垂线方程
-  * y=kx+b的参数方程
