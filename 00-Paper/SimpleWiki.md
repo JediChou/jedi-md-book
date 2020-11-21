@@ -1614,3 +1614,9 @@
 * [Assassination of Robert F. Kennedy](https://simple.wikipedia.org/wiki/Assassination_of_Robert_F._Kennedy)
 * [Diffuse axonal injury](https://simple.wikipedia.org/wiki/Diffuse_axonal_injury)
 * [Mosseruds GF](https://simple.wikipedia.org/wiki/Mosseruds_GF)
+
+## 2020.11.21
+
+* [Isotope](https://simple.wikipedia.org/wiki/Isotope)
+* [Seventeenth Amendment to the United States Constitution](https://simple.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution)
+* [Nundle, New South Wales](https://simple.wikipedia.org/wiki/Nundle,_New_South_Wales)

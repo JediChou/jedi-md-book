@@ -2500,3 +2500,25 @@ Jedi: co is mean coporation with.
 * orthodontist
 * Lullabies
 * giant killing
+
+## 2020.11.21
+
+* unsuspecting
+英 [ˌʌnsəˈspektɪŋ]   美 [ˌʌnsəˈspektɪŋ]  
+adj.毫不怀疑的;无危险意识的;无戒备心的
+
+If you're unsuspecting, you are innocent and trusting. An unsuspecting tourist will be blissfully unaware that the smiling old lady on the subway has stolen his wallet.
+
+If you lack a sense of suspicion or distrust, especially in the face of some kind of danger, you're unsuspecting. A criminal's unsuspecting victims find themselves utterly surprised that they've been robbed, and an unsuspecting hiker wanders right into a bear's den. In both cases, a little bit of suspicion would have served them well.
+
+* disturb
+
+英 [dɪˈstɜːb]   美 [dɪˈstɜːrb]  
+v.打扰;干扰;妨碍;搅乱;弄乱;搞乱;使焦虑;使不安;使烦恼
+第三人称单数： disturbs现在分词： disturbing过去式： disturbed过去分词： disturbed
+记忆技巧：dis 分散 + turb 搅动 → 搅动开 → 扰乱
+高考CET4考研IELTSTOEFLTEM4
+
+To disturb is to bother. If you hang a "Do not disturb" sign on the outside of your hotel room door, you want to be left alone.
+
+Disturb comes from the Latin prefix dis-, meaning "completely" and turbare, meaning "to disorder." To disturb is, in a sense, to completely disorder. When you disturb something, you interfere with its normal function. Along those lines, it's also a word used to describe the interruption of sleep or relaxation. Your alarm disturbs you from sleep every morning. When something disturbs you, it can also cause you emotional anxiety. A horror movie might disturb you with its goriness.
