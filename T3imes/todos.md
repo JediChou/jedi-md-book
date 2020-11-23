@@ -1,11 +1,7 @@
 # Todo list
 
-* ca-task: 完成FII的劳动合同(师级员工)
 * ca-task: 修复FII劳动合同无法并行测试的问题
 * ca-task: check sql server mirror when master database crash.
-* ca-task: Fii杭州員級勞動合同模板
-* ca-task: Fii杭州保密協議模板
-* ca-task: Fii杭州師級勞動合同模板
 * ca-task: 現有CA網站接入人臉識別(從常大波處獲取對接接口)
 * ca-task: 現有CA網站接入人臉識別(集成進入CA登錄)
 * ca-task: Esign年歷史數據遷移(ESign2007年歷史數據遷移)
