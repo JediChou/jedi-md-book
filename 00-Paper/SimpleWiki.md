@@ -1620,3 +1620,9 @@
 * [Isotope](https://simple.wikipedia.org/wiki/Isotope)
 * [Seventeenth Amendment to the United States Constitution](https://simple.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution)
 * [Nundle, New South Wales](https://simple.wikipedia.org/wiki/Nundle,_New_South_Wales)
+
+## 2020.11.23
+
+* [Christine Psiwa](https://simple.wikipedia.org/wiki/Christine_Psiwa)
+* [Fargo (movie)](https://simple.wikipedia.org/wiki/Fargo_(movie))
+* [Orange (fruit)](https://simple.wikipedia.org/wiki/Orange_(fruit))
