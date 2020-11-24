@@ -1626,3 +1626,13 @@
 * [Christine Psiwa](https://simple.wikipedia.org/wiki/Christine_Psiwa)
 * [Fargo (movie)](https://simple.wikipedia.org/wiki/Fargo_(movie))
 * [Orange (fruit)](https://simple.wikipedia.org/wiki/Orange_(fruit))
+
+## 2020.11.24
+
+* [D·B·库珀](https://zh.wikipedia.org/wiki/D%C2%B7B%C2%B7%E5%BA%AB%E6%9F%8F)
+* [物种起源](https://zh.wikipedia.org/wiki/%E7%89%A9%E7%A7%8D%E8%B5%B7%E6%BA%90)
+* [Flag of the Netherlands](https://simple.wikipedia.org/wiki/Flag_of_the_Netherlands)
+* [Chazey-sur-Ain](https://simple.wikipedia.org/wiki/Chazey-sur-Ain)
+* [La Gioconda (opera)](https://en.wikipedia.org/wiki/La_Gioconda_(opera))
+* [Women's Barracks](https://en.wikipedia.org/wiki/Women%27s_Barracks)
+* [Jonathan Blackburn](https://simple.wikipedia.org/wiki/Jonathan_Blackburn)
