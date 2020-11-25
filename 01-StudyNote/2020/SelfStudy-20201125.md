@@ -12,7 +12,7 @@ Author: Jedi Chou, Create at 2020.11.5 08:29 AM
   * Read Sina Blog. 17:00
   * Reading 1 minutes at SIMPLE wiki. 17:07
   * Exercise of Vocabulary (vocabulary.com). 17:11
-  * reading 163.com mails. 17:14
+  * reading 163.com mails. 17:45
 
 ## Other
 
