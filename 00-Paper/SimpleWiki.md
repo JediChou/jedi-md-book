@@ -1636,3 +1636,9 @@
 * [La Gioconda (opera)](https://en.wikipedia.org/wiki/La_Gioconda_(opera))
 * [Women's Barracks](https://en.wikipedia.org/wiki/Women%27s_Barracks)
 * [Jonathan Blackburn](https://simple.wikipedia.org/wiki/Jonathan_Blackburn)
+
+## 2020.11.25
+
+* [Altoona, Alabama](https://simple.wikipedia.org/wiki/Altoona,_Alabama)
+* [Sikhae](https://simple.wikipedia.org/wiki/Sikhae)
+* [Chi Cheng](https://simple.wikipedia.org/wiki/Chi_Cheng)

@@ -2522,3 +2522,7 @@ v.打扰;干扰;妨碍;搅乱;弄乱;搞乱;使焦虑;使不安;使烦恼
 To disturb is to bother. If you hang a "Do not disturb" sign on the outside of your hotel room door, you want to be left alone.
 
 Disturb comes from the Latin prefix dis-, meaning "completely" and turbare, meaning "to disorder." To disturb is, in a sense, to completely disorder. When you disturb something, you interfere with its normal function. Along those lines, it's also a word used to describe the interruption of sleep or relaxation. Your alarm disturbs you from sleep every morning. When something disturbs you, it can also cause you emotional anxiety. A horror movie might disturb you with its goriness.
+
+## 2020.11.25
+
+* Leather
