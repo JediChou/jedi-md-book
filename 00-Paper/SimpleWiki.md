@@ -1642,3 +1642,9 @@
 * [Altoona, Alabama](https://simple.wikipedia.org/wiki/Altoona,_Alabama)
 * [Sikhae](https://simple.wikipedia.org/wiki/Sikhae)
 * [Chi Cheng](https://simple.wikipedia.org/wiki/Chi_Cheng)
+
+## 2020.11.26
+
+* [Great Observatories program](https://simple.wikipedia.org/wiki/Great_Observatories_program)
+* [Dan Kelly](https://simple.wikipedia.org/wiki/Dan_Kelly)
+* [Chinese New Year](https://simple.wikipedia.org/wiki/Chinese_New_Year)

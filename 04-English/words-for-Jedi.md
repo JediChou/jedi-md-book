@@ -2526,3 +2526,16 @@ Disturb comes from the Latin prefix dis-, meaning "completely" and turbare, mean
 ## 2020.11.25
 
 * Leather
+
+## 2020.11.26
+
+* saddle
+英 [ˈsædl]   美 [ˈsædl]  
+n.马鞍;(自行车或摩托车的)车座;(动物的)脊肉
+v.给(马)备鞍
+第三人称单数： saddles复数： saddles现在分词： saddling过去式： saddled过去分词： saddled
+
+* burglary
+英 [ˈbɜːɡləri]   美 [ˈbɜːrɡləri]  
+n.入室偷盗罪
+复数： burglaries
