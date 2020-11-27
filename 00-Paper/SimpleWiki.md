@@ -1648,3 +1648,9 @@
 * [Great Observatories program](https://simple.wikipedia.org/wiki/Great_Observatories_program)
 * [Dan Kelly](https://simple.wikipedia.org/wiki/Dan_Kelly)
 * [Chinese New Year](https://simple.wikipedia.org/wiki/Chinese_New_Year)
+
+## 2020.11.27
+
+* [Ginger beer](https://simple.wikipedia.org/wiki/Ginger_beer)
+* [Old Believers](https://simple.wikipedia.org/wiki/Old_Believers)
+* [Koichi Kidera](https://simple.wikipedia.org/wiki/Koichi_Kidera)
