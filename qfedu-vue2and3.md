@@ -43,4 +43,3 @@ Object.defineProperty(obj, "myname", {
   * var vm = new Vue({})就是view-model
 
 ## 005-语法
-
