@@ -25,3 +25,17 @@ Author: Jedi Chou, Create at 2020.11.30 8:04 AM
   * Leela Zero vs Leela Zero. 9:24
   * Leela Zero vs Leela Zero. 9:28
   * Leela Zero vs Leela Zero. 9:33
+
+* “纳雍高山茶”和“台湾高山茶”有什么不一样？
+* 航空测量任务（完全没概念）
+* C# Basic
+  * C# syntax
+  * Object oriented paradigm
+  * Interfaces
+  * Arrays, lists, dictionaries
+  * Generics
+  * Events, delegates, and lambdas
+  * LINQ
+  * Asynchronous programming
+* 调整words记录中的责任. 17:07
+* TODO: 回家后在电脑上安装HBuilder并继续学习Vue的开发(qfedu-vue2and3). 17:07
