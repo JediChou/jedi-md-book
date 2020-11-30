@@ -1654,3 +1654,15 @@
 * [Ginger beer](https://simple.wikipedia.org/wiki/Ginger_beer)
 * [Old Believers](https://simple.wikipedia.org/wiki/Old_Believers)
 * [Koichi Kidera](https://simple.wikipedia.org/wiki/Koichi_Kidera)
+
+## 2020.11.30
+
+* [Hermosa Beach, California](https://simple.wikipedia.org/wiki/Hermosa_Beach,_California)
+* [Payette, Idaho](https://simple.wikipedia.org/wiki/Payette,_Idaho)
+* [Saint-Plaisir](https://simple.wikipedia.org/wiki/Saint-Plaisir)
+* [Promise City, Iowa](https://simple.wikipedia.org/wiki/Promise_City,_Iowa)
+* [Purr by Katy Perry](https://simple.wikipedia.org/wiki/Purr_by_Katy_Perry)
+* [Alain Cacheux](https://simple.wikipedia.org/wiki/Alain_Cacheux)
+* [Colin Clark (soccer)](https://simple.wikipedia.org/wiki/Colin_Clark_(soccer))
+* [Perverse incentive](https://simple.wikipedia.org/wiki/Perverse_incentive)
+* [Jeon Mi-seon](https://simple.wikipedia.org/wiki/Jeon_Mi-seon)

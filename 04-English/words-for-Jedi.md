@@ -2539,3 +2539,8 @@ v.给(马)备鞍
 英 [ˈbɜːɡləri]   美 [ˈbɜːrɡləri]  
 n.入室偷盗罪
 复数： burglaries
+
+## 2020.11.30
+
+* fortress
+* viola
