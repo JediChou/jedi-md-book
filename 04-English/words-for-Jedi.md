@@ -69,9 +69,7 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
 * petrified: who stood stockstill, lava, minerals
 * creation: existence, cutting-edge
 
-```txt
-But a bipartisan group in the Senate says a higher ceiling should be tied to creation of a task force on deficit reduction, and House Democratic moderates say their votes could depend on winning a "pay-as-you-go" law requiring that new tax cuts or spending programs don't add to the deficit.
-```
+* But a bipartisan group in the Senate says a higher ceiling should be tied to creation of a task force on deficit reduction, and House Democratic moderates say their votes could depend on winning a "pay-as-you-go" law requiring that new tax cuts or spending programs don't add to the deficit.
 
 * shrink, scrolling
 * to reduce something
@@ -168,7 +166,7 @@ But a bipartisan group in the Senate says a higher ceiling should be tied to cre
 * jurisdiction
 * recital
 * dismantling
-* coffin, 坟墓
+* coffin
 * cavemen
 * granola
 
@@ -269,24 +267,17 @@ But a bipartisan group in the Senate says a higher ceiling should be tied to cre
 
 * vinegar
 
-```text
-Vinegar is a liquid that's commonly used in cooking for its tart, acidic flavor. You're probably familiar with the taste of vinegar from things like salad dressing and pickles.
+  * Vinegar is a liquid that's commonly used in cooking for its tart, acidic flavor. You're probably familiar with the taste of vinegar from things like salad dressing and pickles.
 
-While you might not want to drink a glass of vinegar, it's a useful ingredient in many recipes, both for its flavor, which varies depending on how it's made, and its tenderizing properties. Vinegar can also be used for cleaning, freshening laundry, killing pests, and taking the sting off a bite from a jellyfish or wasp, among many other uses. Vinegar means "sour wine," and that's exactly what it is— juice that's fermented way beyond wine.
-```
+  * While you might not want to drink a glass of vinegar, it's a useful ingredient in many recipes, both for its flavor, which varies depending on how it's made, and its tenderizing properties. Vinegar can also be used for cleaning, freshening laundry, killing pests, and taking the sting off a bite from a jellyfish or wasp, among many other uses. Vinegar means "sour wine," and that's exactly what it is— juice that's fermented way beyond wine.
 
 * ingredient
 * convey in a hollow cylinder
 * psychologist
 
-```text
-A psychologist is a scientist who studies the mind. Unless specified, you should assume the psychologist studies the human mind — as opposed to, for example, a pet psychologist.
+  * A psychologist is a scientist who studies the mind. Unless specified, you should assume the psychologist studies the human mind — as opposed to, for example, a pet psychologist.
 
-A psychologist can be a researcher, who makes abstract studies of mental disorders and their treatments. Or, a psychologist can be licensed to see and treat patients, offering therapy for mental conditions or behavioral issues. The word comes from two Latin root, psyche, meaning "soul, mind, and spirit," and logia, meaning "the study of." Unlike a psychiatrist, a psychologist does not have a medical degree, and therefore cannot prescribe medication.
-```
-
-psychologist
-psychologist
+  * A psychologist can be a researcher, who makes abstract studies of mental disorders and their treatments. Or, a psychologist can be licensed to see and treat patients, offering therapy for mental conditions or behavioral issues. The word comes from two Latin root, psyche, meaning "soul, mind, and spirit," and logia, meaning "the study of." Unlike a psychiatrist, a psychologist does not have a medical degree, and therefore cannot prescribe medication.
 
 * toss -> discard
 * pointless?
@@ -294,11 +285,9 @@ psychologist
 
 * tortilla
 
-```text
-A tortilla is a Central American and Mexican type of flatbread. A burrito is a mix of delicious fillings — like seasoned rice, chicken, beans, guacamole, and salsa — wrapped in a warm tortilla. Yum!
+  * A tortilla is a Central American and Mexican type of flatbread. A burrito is a mix of delicious fillings — like seasoned rice, chicken, beans, guacamole, and salsa — wrapped in a warm tortilla. Yum!
 
-Traditional tortillas are sort of like very flat pancakes made from cornmeal. Tortillas made of wheat flour are a newer variation. Corn tortillas have been a staple food in North and Central America for hundreds of years, long before Europeans began settling in the area. In Spanish, tortilla means "a tart" or "a little cake," from the Late Latin torta, or "flat cake."
-```
+  * Traditional tortillas are sort of like very flat pancakes made from cornmeal. Tortillas made of wheat flour are a newer variation. Corn tortillas have been a staple food in North and Central America for hundreds of years, long before Europeans began settling in the area. In Spanish, tortilla means "a tart" or "a little cake," from the Late Latin torta, or "flat cake."
 
 ## 2019-3-15
 
@@ -1309,38 +1298,39 @@ Traditional tortillas are sort of like very flat pancakes made from cornmeal. To
   * n. 摔跤选手，搏斗者
 
 * lawsuit
-英 [ˈlɔːsuːt; ˈlɔːsjuːt]  美 [ˈlɔːsuːt]
-n. 诉讼（尤指非刑事案件）；诉讼案件
+  * 英 [ˈlɔːsuːt; ˈlɔːsjuːt]  美 [ˈlɔːsuːt]
+  * n. 诉讼（尤指非刑事案件）；诉讼案件
 
 * Assassination
-英 [əˌsæsɪ'neɪʃ(ə)n]   美 [əˌsæsɪ'neɪʃ(ə)n]  
-刺殺;暗杀;刺杀;行刺;暗杀第一夫人
+  * 英 [əˌsæsɪ'neɪʃ(ə)n]   美 [əˌsæsɪ'neɪʃ(ə)n]  
+  * 刺殺;暗杀;刺杀;行刺;暗杀第一夫人
 
-veterans
-英 [ˈvetərənz]   美 [ˈvetərənz]  
-n.经验丰富的人;老手;退伍军人;老兵;老战士;老水兵
-veteran的复数
+* veterans
+  * 英 [ˈvetərənz]   美 [ˈvetərənz]  
+  * n.经验丰富的人;老手;退伍军人;老兵;老战士;老水兵
+  * veteran的复数
 
-denounced
-英 [dɪˈnaʊnst]   美 [dɪˈnaʊnst]  
-v.谴责;指责;斥责;告发(某人从事非法政治活动)
-denounce的过去分词和过去式
+* denounced
+  * 英 [dɪˈnaʊnst]   美 [dɪˈnaʊnst]  
+  * v.谴责;指责;斥责;告发(某人从事非法政治活动)
+  * denounce的过去分词和过去式
 
-imperium主权；统治权；绝对统治权；司法行政管辖权；执法权；帝权
-commanding指挥的; 统帅的; 居领先位置的; 遥遥领先的; 权威的; 威严的; 命令; 指挥，
+* imperium：主权；统治权；绝对统治权；司法行政管辖权；执法权；帝权
 
-stereotype
-英 [ˈsteriətaɪp]   美 [ˈsteriətaɪp]  
-n. 模式化观念(或形象);老一套;刻板印象
-v. 对…形成模式化(或类型化)的看法
+* commanding：指挥的; 统帅的; 居领先位置的; 遥遥领先的; 权威的; 威严的; 命令; 指挥，
 
-Slang
-英 [slæŋ]   美 [slæŋ]  
-俚语;俗语;俚語;英语俚语;美国俚语
+* stereotype
+  * 英 [ˈsteriətaɪp]   美 [ˈsteriətaɪp]  
+  * n. 模式化观念(或形象);老一套;刻板印象
+  * v. 对…形成模式化(或类型化)的看法
 
-pretender
-英 [prɪˈtendə(r)]   美 [prɪˈtendər]  
-n. (头衔的)觊觎者，冒充者
+* Slang
+  * 英 [slæŋ]   美 [slæŋ]  
+  * 俚语;俗语;俚語;英语俚语;美国俚语
+
+* pretender
+  * 英 [prɪˈtendə(r)]   美 [prɪˈtendər]  
+  * n. (头衔的)觊觎者，冒充者
 
 ## 2020.6.28
 
@@ -1379,11 +1369,11 @@ n. (头衔的)觊觎者，冒充者
 
 ## 2020.7.1
 
-decorate
-funeral
-beams
-porch
-shipped
+* decorate
+* funeral
+* beams
+* porch
+* shipped
 
 ## 2020.7.2
 
@@ -1392,7 +1382,7 @@ shipped
   * n. 鹿角，茸角；多叉鹿角
   * n. (Antler)人名；(法)安特莱；(英)安特勒
 
-swirl
+* swirl
 
 ## 2020.7.3
 
@@ -1428,8 +1418,8 @@ swirl
   * n. (Sheen)人名；(英)希恩
 
 * overseer
-英 [ˈəʊvəsɪə(r)]  美 [ˈoʊvərsɪr]
-n. 监督；工头
+  * 英 [ˈəʊvəsɪə(r)]  美 [ˈoʊvərsɪr]
+  * n. 监督；工头
 
 ## 2020.7.8
 
@@ -1725,69 +1715,69 @@ n. 监督；工头
   * v.叫喊;大喊;吼叫
   * yell的现在分词
 
-Jersey
-英 [ˈdʒɜːzi]   美 [ˈdʒɜːrzi]  
-n.泽西牛(一种产优质奶的浅棕色乳牛)
-复数： Jerseys
+* Jersey
+  * 英 [ˈdʒɜːzi]   美 [ˈdʒɜːrzi]  
+  * n.泽西牛(一种产优质奶的浅棕色乳牛)
+  * 复数： Jerseys
 
-attorneys
-英 [əˈtɜːniz]   美 [əˈtɜrniz]  
-n.律师(尤指代表当事人出庭者);(业务或法律事务上的)代理人
-attorney的复数
+* attorneys
+  * 英 [əˈtɜːniz]   美 [əˈtɜrniz]  
+  * n.律师(尤指代表当事人出庭者);(业务或法律事务上的)代理人
+  * attorney的复数
 
-menacing
-英 [ˈmenəsɪŋ]   美 [ˈmenəsɪŋ]  
-adj.威胁的;恐吓的;危险的
-v.对…构成危险;危及;威胁到
-menace的现在分词
-派生词： menacingly adv.
+* menacing
+  * 英 [ˈmenəsɪŋ]   美 [ˈmenəsɪŋ]  
+  * adj.威胁的;恐吓的;危险的
+  * v.对…构成危险;危及;威胁到
+  * menace的现在分词
+  * 派生词： menacingly adv.
 
-bludgeon
-英 [ˈblʌdʒən]   美 [ˈblʌdʒən]  
-v.用重器连击(某人);(尤指通过争辩)迫使…
-第三人称单数： bludgeons
-现在分词： bludgeoning
-过去式： bludgeoned
-过去分词： bludgeoned
+* bludgeon
+  * 英 [ˈblʌdʒən]   美 [ˈblʌdʒən]  
+  * v.用重器连击(某人);(尤指通过争辩)迫使…
+  * 第三人称单数： bludgeons
+  * 现在分词： bludgeoning
+  * 过去式： bludgeoned
+  * 过去分词： bludgeoned
 
-longbow
-英 [ˈlɒŋbəʊ]   美 [ˈlɔːŋboʊ]  
-n.(旧时用于射箭的)长弓，大弓
+* longbow
+  * 英 [ˈlɒŋbəʊ]   美 [ˈlɔːŋboʊ]  
+  * n.(旧时用于射箭的)长弓，大弓
 
-catapult
-英 [ˈkætəpʌlt]   美 [ˈkætəpʌlt]  
-n.弹弓;(旧时的)石弩，弩炮;弹射器(用以从舰船上弹射飞机升空)
-v.(被)猛掷，猛扔
-第三人称单数： catapults
-复数： catapults
-现在分词： catapulting
-过去式： catapulted
-过去分词： catapulted
+* catapult
+  * 英 [ˈkætəpʌlt]   美 [ˈkætəpʌlt]  
+  * n.弹弓;(旧时的)石弩，弩炮;弹射器(用以从舰船上弹射飞机升空)
+  * v.(被)猛掷，猛扔
+  * 第三人称单数： catapults
+  * 复数： catapults
+  * 现在分词： catapulting
+  * 过去式： catapulted
+  * 过去分词： catapulted
 
-raccoon
-英 [rəˈkuːn]   美 [ræˈkuːn]  
-n.浣熊;北美浣熊;浣熊的毛皮
-复数： raccoons raccoon
+* raccoon
+  * 英 [rəˈkuːn]   美 [ræˈkuːn]  
+  * n.浣熊;北美浣熊;浣熊的毛皮
+  * 复数： raccoons raccoon
 
 ## 2020.9.4
 
-reconstruction
-英 [ˌriːkənˈstrʌkʃn]   美 [ˌriːkənˈstrʌkʃn]  
-n.重建;改造;复原;修复;修理;重现
-复数： reconstructions
+* reconstruction
+  * 英 [ˌriːkənˈstrʌkʃn]   美 [ˌriːkənˈstrʌkʃn]  
+  * n.重建;改造;复原;修复;修理;重现
+  * 复数： reconstructions
 
-shaky
-英 [ˈʃeɪki]   美 [ˈʃeɪki]  
-adj.颤抖的;颤巍巍的;不稳固的;不牢靠的;摇晃的;不确切的;不大出色的;成问题的;可能失败的
-比较级： shakier最高级： shakiest
-派生词： shakily adv.
+* shaky
+  * 英 [ˈʃeɪki]   美 [ˈʃeɪki]  
+  * adj.颤抖的;颤巍巍的;不稳固的;不牢靠的;摇晃的;不确切的;不大出色的;成问题的;可能失败的
+  * 比较级： shakier最高级： shakiest
+  * 派生词： shakily adv.
 
-proper
-英 [ˈprɒpə(r)]   美 [ˈprɑːpər]  
-adj.正确的;恰当的;符合规则的;真正的;像样的;名副其实的;符合习俗(或体统)的;正当的;规矩的
-n.[宗教][常用P-]特定节日等用的仪式;弥撒（祈祷、礼仪等）书的章节;特赞
-复数： propers
-记忆技巧：prop 恰当的 + er → 自己拿自己的当然是适当的 → 适当的
+* proper
+  * 英 [ˈprɒpə(r)]   美 [ˈprɑːpər]  
+  * adj.正确的;恰当的;符合规则的;真正的;像样的;名副其实的;符合习俗(或体统)的;正当的;规矩的
+  * n.[宗教][常用P-]特定节日等用的仪式;弥撒（祈祷、礼仪等）书的章节;特赞
+  * 复数： propers
+  * 记忆技巧：prop 恰当的 + er → 自己拿自己的当然是适当的 → 适当的
 
 ## 2020.9.7
 
@@ -1803,99 +1793,100 @@ n.[宗教][常用P-]特定节日等用的仪式;弥撒（祈祷、礼仪等）�
 
 ## 2020.9.8
 
-cantaloupe
-lotions
-blends
-medication
-curd
-upcoming
+* cantaloupe
+* lotions
+* blends
+* medication
+* curd
+* upcoming
 
 ## 2020.9.9
 
-assassination
-英 [əˌsæsɪ'neɪʃ(ə)n]   美 [əˌsæsɪ'neɪʃ(ə)n]  
-n.暗杀；刺杀，行刺
-复数： assassinations
+* assassination
+  * 英 [əˌsæsɪ'neɪʃ(ə)n]   美 [əˌsæsɪ'neɪʃ(ə)n]  
+  * n.暗杀；刺杀，行刺
+  * 复数： assassinations
 
-annoyed
-英 [əˈnɔɪd]   美 [əˈnɔɪd]  
-adj.恼怒;生气;烦恼
-v.使恼怒;使生气;打扰;骚扰
-annoy的过去分词和过去式
+* annoyed
+  * 英 [əˈnɔɪd]   美 [əˈnɔɪd]  
+  * adj.恼怒;生气;烦恼
+  * v.使恼怒;使生气;打扰;骚扰
+  * annoy的过去分词和过去式
 
-nutritious
-英 [njuˈtrɪʃəs]   美 [nuˈtrɪʃəs]  
-adj.有营养的;营养丰富的
-记忆技巧：nutri 滋养 + tious 有…性质的 → 有营养的，滋养的
+* nutritious
+  * 英 [njuˈtrɪʃəs]   美 [nuˈtrɪʃəs]  
+  * adj.有营养的;营养丰富的
+  * 记忆技巧：nutri 滋养 + tious 有…性质的 → 有营养的，滋养的
 
-pour
-英 [pɔː(r)]   美 [pɔːr]  
-v.使(液体)连续流出;倾倒;倒出;涌流;倾泻;喷发;倒，斟(饮料)
-第三人称单数： pours现在分词： pouring过去式： poured过去分词： poured
+* pour
+  * 英 [pɔː(r)]   美 [pɔːr]  
+  * v.使(液体)连续流出;倾倒;倒出;涌流;倾泻;喷发;倒，斟(饮料)
+  * 第三人称单数： pours现在分词： pouring过去式： poured过去分词： poured
 
-pluming
-英 [ˈpluːmɪŋ]   美 [ˈplumɪŋ]  
-羽饰;用羽毛装饰;羽状物
+* pluming
+  * 英 [ˈpluːmɪŋ]   美 [ˈplumɪŋ]  
+  * 羽饰;用羽毛装饰;羽状物
 
-seized
-英 [siːzd]   美 [siːzd]  
-v.抓住;捉住;夺;(常指通过暴力突然)夺取，攻占，控制;逮捕;捉拿;俘获
-seize的过去分词和过去式
+* seized
+  * 英 [siːzd]   美 [siːzd]  
+  * v.抓住;捉住;夺;(常指通过暴力突然)夺取，攻占，控制;逮捕;捉拿;俘获
+  * seize的过去分词和过去式
 
-smuggled
-英 [ˈsmʌɡld]   美 [ˈsmʌɡld]  
-v.走私;私运;偷运
-smuggle的过去分词和过去式
+* smuggled
+  * 英 [ˈsmʌɡld]   美 [ˈsmʌɡld]  
+  * v.走私;私运;偷运
+  * smuggle的过去分词和过去式
 
 ## 2020.9.10
 
-antagonist
-英 [ænˈtæɡənɪst]   美 [ænˈtæɡənɪst]  
-n.对立者;对抗者;对手;敌人
-复数： antagonists
-记忆技巧：ant 反对 + agon 挣扎，斗争 + ist 表人 → 对手
+* antagonist
+  * [ænˈtæɡənɪst]   美 [ænˈtæɡənɪst]  
+  * 对立者;对抗者;对手;敌人
+  * 数： antagonists
+  * 忆技巧：ant 反对 + agon 挣扎，斗争 + ist 表人 → 对手
 
-banishment
-英 [ˈbænɪʃmənt]   美 [ˈbænɪʃmənt]  
-n.放逐;流放;驱逐出境
+* banishment
+  * 英 [ˈbænɪʃmənt]   美 [ˈbænɪʃmənt]  
+  * n.放逐;流放;驱逐出境
 
 ## 2020.9.11
 
-arrest
-英 [əˈrest]   美 [əˈrest]  
-v.逮捕;拘留;阻止;中止;吸引(注意)
-n.逮捕;拘捕;停止;中止
-第三人称单数： arrests现在分词： arresting过去式： arrested过去分词： arrested
-记忆技巧：ar 表加强 + rest 休息 → 强制休息 → 逮捕
+* arrest
+  * 英 [əˈrest]   美 [əˈrest]  
+  * v.逮捕;拘留;阻止;中止;吸引(注意)
+  * n.逮捕;拘捕;停止;中止
+  * 第三人称单数： arrests现在分词： arresting过去式： arrested过去分词： arrested
+  * 记忆技巧：ar 表加强 + rest 休息 → 强制休息 → 逮捕
 
-preparatory
+* preparatory
 
 ## 2020.9.14
 
-Proposed
-Awareness
+* Proposed
+* Awareness
 
 ## 2020.9.15
 
-audition
-trio, triplet
+* audition
+* trio, triplet
 
 ## 2020.9.16
 
-recapture
-aggravated
-contest
-skeptical
-glitch: A glitch is a problem or malfunction, usually a temporary one, in a system or machine. Your science fair team might experience a major glitch in your plans if you lose your data tables as the result of a computer glitch.
+* recapture
+* aggravated
+* contest
+* skeptical
+
+* glitch: A glitch is a problem or malfunction, usually a temporary one, in a system or machine. Your science fair team might experience a major glitch in your plans if you lose your data tables as the result of a computer glitch.
 
 ## 2020.9.17
 
-in light of that
+* in light of that
 
-inquires
-英 [ɪnˈkwaɪəz]   美 [ɪnˈkwaɪərz]  
-v.调查；查究；审查;询问；查问
-inquire的第三人称单数
+* inquires
+  * 英 [ɪnˈkwaɪəz]   美 [ɪnˈkwaɪərz]  
+  * v.调查；查究；审查;询问；查问
+  * inquire的第三人称单数
 
 ## 2020.9.18
 
@@ -2014,16 +2005,18 @@ inquire的第三人称单数
   * 第三人称单数： neglects现在分词： neglecting过去式： neglected过去分词： neglected
   * 记忆技巧：neg 否认，拒绝 + lect 选择 → 拒绝选择 → 忽视
 
-pity, dread, regret
-orphanage
+* pity
+* dread
+* regret
+* orphanage
 
 ## 2020.10.14
 
 * strand
-英 [strænd]   美 [strænd]  
-n. (线、绳、金属线、毛发等的)股，缕;(观点、计划、故事等的)部分，方面;(海洋、湖或河的)岸，滨
-v. 使滞留;使搁浅
-第三人称单数： strands复数： strands现在分词： stranding过去式： stranded过去分词： stranded
+  * 英 [strænd]   美 [strænd]  
+  * n. (线、绳、金属线、毛发等的)股，缕;(观点、计划、故事等的)部分，方面;(海洋、湖或河的)岸，滨
+  * v. 使滞留;使搁浅
+  * 第三人称单数： strands复数： strands现在分词： stranding过去式： stranded过去分词： stranded
 
 * maraca
 
@@ -2074,33 +2067,33 @@ v. 使滞留;使搁浅
 ## 2020.10.21
 
 * enthusiastic
-英 [ɪnˌθjuːziˈæstɪk]   美 [ɪnˌθuːziˈæstɪk]  
-adj.热情的;热心的;热烈的;满腔热忱的
-派生词： enthusiastically adv.
+  * 英 [ɪnˌθjuːziˈæstɪk]   美 [ɪnˌθuːziˈæstɪk]  
+  * adj.热情的;热心的;热烈的;满腔热忱的
+  * 派生词： enthusiastically adv.
 
-pursued
-英 [pəˈsjuːd]   美 [pərˈsuːd]  
-v.追求;致力于;执行;贯彻;继续探讨(或追究、从事);追逐;跟踪;追赶
-pursue的过去分词和过去式
+* pursued
+  * 英 [pəˈsjuːd]   美 [pərˈsuːd]  
+  * v.追求;致力于;执行;贯彻;继续探讨(或追究、从事);追逐;跟踪;追赶
+  * pursue的过去分词和过去式
 
-intricacies
-英 [ˈɪntrɪkəsiz]   美 [ˈɪntrəkəsiz]  
-n.错综复杂的事物(或细节);错综复杂
-intricacy的复数
+* intricacies
+  * 英 [ˈɪntrɪkəsiz]   美 [ˈɪntrəkəsiz]  
+  * n.错综复杂的事物(或细节);错综复杂
+  * intricacy的复数
 
 * kelp
-英 [kelp]   美 [kelp]  
-n.巨藻;大型褐藻
+  * 英 [kelp]   美 [kelp]  
+  * n.巨藻;大型褐藻
 
 * auditorium
-英 [ˌɔːdɪˈtɔːriəm]   美 [ˌɔːdɪˈtɔːriəm]  
-n.(剧院、音乐厅等的)听众席，观众席;礼堂;会堂
-复数： auditoriums auditoria
-记忆技巧：audit 听 + orium 地点，场所 → 听宣讲的地方 → 礼堂
+  * 英 [ˌɔːdɪˈtɔːriəm]   美 [ˌɔːdɪˈtɔːriəm]  
+  * n.(剧院、音乐厅等的)听众席，观众席;礼堂;会堂
+  * 复数： auditoriums auditoria
+  * 记忆技巧：audit 听 + orium 地点，场所 → 听宣讲的地方 → 礼堂
 
 * co-worker
-英 [ˈkəʊ wɜːkə(r)]   美 [ˈkoʊ wɜːrkər]  
-n.共同工作者;合作者;同事;同僚
+  * 英 [ˈkəʊ wɜːkə(r)]   美 [ˈkoʊ wɜːrkər]  
+  * n.共同工作者;合作者;同事;同僚
 
 ## 2020.10.22
 
@@ -2111,18 +2104,18 @@ n.共同工作者;合作者;同事;同僚
   * Jedi: This sentence can explains **shine**, I have no idea.
 
 * pardon
-英 [ˈpɑːdn]   美 [ˈpɑːrdn]  
-int.(用于请求别人重复某事)什么，请再说一遍;抱歉;对不起
-n.赦免;特赦;原谅;宽恕
-v.赦免;特赦;原谅(表示礼貌时常用的词语)
-第三人称单数： pardons现在分词： pardoning过去式： pardoned过去分词： pardoned
-记忆技巧：par 平等 + don 给予 → 原谅，宽恕
+  * 英 [ˈpɑːdn]   美 [ˈpɑːrdn]  
+  * int.(用于请求别人重复某事)什么，请再说一遍;抱歉;对不起
+  * n.赦免;特赦;原谅;宽恕
+  * v.赦免;特赦;原谅(表示礼貌时常用的词语)
+  * 第三人称单数： pardons现在分词： pardoning过去式： pardoned过去分词： pardoned
+  * 记忆技巧：par 平等 + don 给予 → 原谅，宽恕
 
 * gleam
-英 [ɡliːm]   美 [ɡliːm]  
-v.发微光;隐约闪光;闪烁;显得光洁明亮;(眼睛)表露出，流露出;(在眼中)闪现
-n.微光(常指反光);少量;一丝;一线;(感情的)表露，闪现
-第三人称单数： gleams复数： gleams现在分词： gleaming过去式： gleamed过去分词： gleamed
+  * 英 [ɡliːm]   美 [ɡliːm]  
+  * v.发微光;隐约闪光;闪烁;显得光洁明亮;(眼睛)表露出，流露出;(在眼中)闪现
+  * n.微光(常指反光);少量;一丝;一线;(感情的)表露，闪现
+  * 第三人称单数： gleams复数： gleams现在分词： gleaming过去式： gleamed过去分词： gleamed
 
 ## 2020.10.23
 
@@ -2149,63 +2142,59 @@ n.微光(常指反光);少量;一丝;一线;(感情的)表露，闪现
   * Anything sedimentary is formed by or resembles sediment, which consists of little particles of earth that collect in natural bodies of water.
   * If you ever walked in a lake barefoot and felt the grainy, rocky bottom of the lake, you know how sedimentary things feel. Sedimentary is also a type of rock that’s made from substances left from wind, water, or ice and have been pressed together over time. The other types of rock are igneous (made from lava) and metamorphic (changed from intense heat and pressure). Sedimentary things generally hang out at the bottom of lakes and ponds.
 
-snipe 
+* snipe
+  * A long-beaked bird that lives in marshes and swamps is called a snipe. As a verb, to snipe is to attack someone in a snide way — something a snipe would never do, because birds aren't that petty.
+  * You can find the well-camouflaged shorebird known as the snipe just about everywhere in the world. These birds are famously difficult for hunters to shoot, as they blend in well with their surroundings and have an erratic flight pattern. This is where the word sniper, or sharpshooter, comes from, in addition to the definition of snipe that means "shoot from a hiding place." The figurative sense of "attack someone verbally" followed.
 
-A long-beaked bird that lives in marshes and swamps is called a snipe. As a verb, to snipe is to attack someone in a snide way — something a snipe would never do, because birds aren't that petty.
+* Advertising
+  * Advertising is the act of drawing the public’s attention to something, usually to sell it. Whatever is written on the sandwich board you're wearing is what you're advertising.
+  * Advertising is getting the word out — whether it’s on a billboard, in a magazine ad, on a commercial, on the side of a blimp, or by singing it from the highest mountaintop. If you want to let people know about a product, service, or candidate, you run an advertising campaign. The word advertising may also be used for the advertisements themselves or the business of creating advertisements.
 
-You can find the well-camouflaged shorebird known as the snipe just about everywhere in the world. These birds are famously difficult for hunters to shoot, as they blend in well with their surroundings and have an erratic flight pattern. This is where the word sniper, or sharpshooter, comes from, in addition to the definition of snipe that means "shoot from a hiding place." The figurative sense of "attack someone verbally" followed.
+* mindset
 
-Advertising 
+  * A person's usual attitude or mental state is his or her mindset. If you have an environmentalist mindset, you probably bring your own bags to the grocery store.
 
-Advertising is the act of drawing the public’s attention to something, usually to sell it. Whatever is written on the sandwich board you're wearing is what you're advertising.
-
-Advertising is getting the word out — whether it’s on a billboard, in a magazine ad, on a commercial, on the side of a blimp, or by singing it from the highest mountaintop. If you want to let people know about a product, service, or candidate, you run an advertising campaign. The word advertising may also be used for the advertisements themselves or the business of creating advertisements.
-
-mindset
-
-A person's usual attitude or mental state is his or her mindset. If you have an environmentalist mindset, you probably bring your own bags to the grocery store.
-
-Some examples of mindsets include an optimist's sunny perspective on life, a business owner's entrepreneurial way of thinking, or an Army general's military focus. Sometimes, a mindset spreads between people in a group and colors the entire group's outlook — psychologists call this groupthink. The noun mindset was first used in the 1930s to mean "habits of mind formed by previous experience."
+  * Some examples of mindsets include an optimist's sunny perspective on life, a business owner's entrepreneurial way of thinking, or an Army general's military focus. Sometimes, a mindset spreads between people in a group and colors the entire group's outlook — psychologists call this groupthink. The noun mindset was first used in the 1930s to mean "habits of mind formed by previous experience."
 
 ## 2020.10.29
 
 * moldy
 
-Things that have gotten damp and started to smell musty can be described as moldy. You can also use this word for things that are actually growing a fungus on them, like your bag of moldy bread.
+  * Things that have gotten damp and started to smell musty can be described as moldy. You can also use this word for things that are actually growing a fungus on them, like your bag of moldy bread.
 
-Mold is a particular type of fungus, often greenish or gray in color. Things become moldy from being stored in dark, damp places or in the case of some food, from not being refrigerated. If you wait months to clean out your locker and throw away your old lunch bags, you might find mold growing on bread crusts, yogurt, or containers of leftover ravioli. Ditch those moldy remnants!
+  * Mold is a particular type of fungus, often greenish or gray in color. Things become moldy from being stored in dark, damp places or in the case of some food, from not being refrigerated. If you wait months to clean out your locker and throw away your old lunch bags, you might find mold growing on bread crusts, yogurt, or containers of leftover ravioli. Ditch those moldy remnants!
 
 * demolish
 
-Demolish means “completely destroy,” as a wrecking ball might demolish a building, or as hanging out with one’s parents might, supposedly, demolish a teenager’s reputation.
+  * Demolish means “completely destroy,” as a wrecking ball might demolish a building, or as hanging out with one’s parents might, supposedly, demolish a teenager’s reputation.
 
-In casual speech, demolish can also mean “devour,” as a group of hungry teenagers might demolish a pizza. The noun form of demolish is demolition, which often implies destruction by means of explosives. Demolish combines the prefix de-, which can mean “undo,” with the Latin verb moliri, meaning “to build" — which makes sense if you are thinking of 'undoing a building' with explosives!
+  * In casual speech, demolish can also mean “devour,” as a group of hungry teenagers might demolish a pizza. The noun form of demolish is demolition, which often implies destruction by means of explosives. Demolish combines the prefix de-, which can mean “undo,” with the Latin verb moliri, meaning “to build" — which makes sense if you are thinking of 'undoing a building' with explosives!
 
 * disturb
 
-To disturb is to bother. If you hang a "Do not disturb" sign on the outside of your hotel room door, you want to be left alone.
+  * To disturb is to bother. If you hang a "Do not disturb" sign on the outside of your hotel room door, you want to be left alone.
 
-Disturb comes from the Latin prefix dis-, meaning "completely" and turbare, meaning "to disorder." To disturb is, in a sense, to completely disorder. When you disturb something, you interfere with its normal function. Along those lines, it's also a word used to describe the interruption of sleep or relaxation. Your alarm disturbs you from sleep every morning. When something disturbs you, it can also cause you emotional anxiety. A horror movie might disturb you with its goriness.
+  * Disturb comes from the Latin prefix dis-, meaning "completely" and turbare, meaning "to disorder." To disturb is, in a sense, to completely disorder. When you disturb something, you interfere with its normal function. Along those lines, it's also a word used to describe the interruption of sleep or relaxation. Your alarm disturbs you from sleep every morning. When something disturbs you, it can also cause you emotional anxiety. A horror movie might disturb you with its goriness.
 
 * imprison
 
-To imprison is to hold someone in a prison or jail. It can also mean to confine them elsewhere. You might imprison a classmate in a locker, for example.
+  * To imprison is to hold someone in a prison or jail. It can also mean to confine them elsewhere. You might imprison a classmate in a locker, for example.
 
-Cops imprison suspects who can't make bail, and someone could be imprisoned for a long time if convicted of a serious crime. Government agencies like the CIA and FBI also imprison people. However, you don't need a prison to imprison someone: a kidnapper holding people captive in the basement has imprisoned them.
+  * Cops imprison suspects who can't make bail, and someone could be imprisoned for a long time if convicted of a serious crime. Government agencies like the CIA and FBI also imprison people. However, you don't need a prison to imprison someone: a kidnapper holding people captive in the basement has imprisoned them.
 
 * gangster
 
-A gangster is a member of a criminal gang. Gangsters are sometimes called mobsters.
+  * A gangster is a member of a criminal gang. Gangsters are sometimes called mobsters.
 
-A gang is a criminal organization, and a member of such a group is a gangster. Gangsters work together to commit robberies and break the law in other ways. Many famous movies, such as The Godfather, are about gangsters. This word often refers specifically to members of criminal gangs of the 1920s and 30s, when organized crime frequently involved the smuggling of alcohol.
+  * A gang is a criminal organization, and a member of such a group is a gangster. Gangsters work together to commit robberies and break the law in other ways. Many famous movies, such as The Godfather, are about gangsters. This word often refers specifically to members of criminal gangs of the 1920s and 30s, when organized crime frequently involved the smuggling of alcohol.
 
-other strange words for me: cruel, oppressive, unconstrained, betray, defendant
+  * other strange words for me: cruel, oppressive, unconstrained, betray, defendant
 
 * lagoon
 
-If you are snorkeling off the coast of Florida in water cut off from the main ocean, you are likely in a lagoon — a body of water separated from the main ocean.
+  * If you are snorkeling off the coast of Florida in water cut off from the main ocean, you are likely in a lagoon — a body of water separated from the main ocean.
 
-If you’re familiar with the 60s TV show “Gilligan’s Island,” you probably already know what a lagoon is. Much of the show’s action took place at the lagoon, where the lovable castaways spent their time hanging around and planning how to be rescued. A lagoon is a good place for castaways to congregate because it’s shallow and separated from the ocean by a natural barrier, which means it’s protected from the rough waters of the ocean and offers easier access for swimming and fishing. If you’re ever stranded on a deserted island, you too would probably choose to spend your time at the lagoon, staring into the distance and watching for approaching ships.
+  * If you’re familiar with the 60s TV show “Gilligan’s Island,” you probably already know what a lagoon is. Much of the show’s action took place at the lagoon, where the lovable castaways spent their time hanging around and planning how to be rescued. A lagoon is a good place for castaways to congregate because it’s shallow and separated from the ocean by a natural barrier, which means it’s protected from the rough waters of the ocean and offers easier access for swimming and fishing. If you’re ever stranded on a deserted island, you too would probably choose to spend your time at the lagoon, staring into the distance and watching for approaching ships.
 
 * other starnge words for me: merchandise: recurred, effectiveness, abnormally
 
@@ -2286,19 +2275,25 @@ If you’re familiar with the 60s TV show “Gilligan’s Island,” you probabl
 * delight
 * gram
 * skyscraper, thumbtack
+
 * vicious
   * What do arsenic, cyanide, and bleach all have in common? They're poisonous. In other words, if you ingest these poisonous chemicals, you will most likely die or become very ill.
   * If something is poisonous, you'd better not eat, drink, inhale, or touch it: it will make you sick. Some poisonous materials can even kill you. Of course, this adjective is derived from the noun poison, which is a toxic substance. You can also calls things poisonous if they're harmful in less physical ways. Spreading lies about someone is poisonous. Betraying a friend is poisonous. What both kinds of poisonous things have in common is that they do damage.
+
 * dehydrated
   * When moisture has been removed from something, it's dehydrated. Among the nuts and bits of chocolate in your favorite trail mix are dehydrated cherries and apricots.
   * Food is dehydrated as a way of preserving it — dehydrated apples last much longer than fresh ones. When a person becomes dehydrated however, they've been deprived of water for too long, or been so ill that they've suddenly lost a large amount of water. You can become dehydrated by exercising in extreme heat without drinking enough, or from vomiting when you're sick. This word stems from the Greek root hydor, or "water."
+
 * annoyed
   * Have you ever suddenly walked into a cloud of small bugs that buzz and poke at you? If so, you were probably annoyed. You might also know humans who make you feel this way.
   * In the time of Middle English, if you were annoyed by something it was hateful to you. Today, annoyed usually describes a less intense feeling than that, but it's never pleasant. If someone has annoyed you, he or she is on your nerves. If I've annoyed you with this explanation, I apologize.
+
 * trampoline
+
 * disturb
   * To disturb is to bother. If you hang a "Do not disturb" sign on the outside of your hotel room door, you want to be left alone.
   * Disturb comes from the Latin prefix dis-, meaning "completely" and turbare, meaning "to disorder." To disturb is, in a sense, to completely disorder. When you disturb something, you interfere with its normal function. Along those lines, it's also a word used to describe the interruption of sleep or relaxation. Your alarm disturbs you from sleep every morning. When something disturbs you, it can also cause you emotional anxiety. A horror movie might disturb you with its goriness.
+
 * landfall
 * hurricane
 * ongoing
@@ -2306,8 +2301,11 @@ If you’re familiar with the 60s TV show “Gilligan’s Island,” you probabl
 ## 2020.11.10
 
 * attended, 出席、参加
+
 * boardwalk
+  
   * A boardwalk is a wooden path along a beach. In some places, it’s just a walkway over the marshes, but in others, it’s where all the action is, like in the song from the 1960’s “Under the Boardwalk.”
+  
   * Some boardwalks are simply wooden walkways, built so pedestrians can stroll near the water without damaging seaside plants or getting sand in their shoes. Other boardwalks are much larger commercial areas, often even built with concrete rather than wood. One famous boardwalk, in Atlantic City, New Jersey, gives tourists a place to gamble, eat, drink, and buy souvenirs. This boardwalk is, in fact, considered the first in the US and is credited with inspiring the word itself.
 
 ## 2020.11.11
@@ -2333,27 +2331,37 @@ If you’re familiar with the 60s TV show “Gilligan’s Island,” you probabl
 * brown out, （为节电等原因）把灯火弄暗；灯火管制, 一般出大错就会这么用！
 * reconcile, vt. 使一致；使和解；调停，调解；使顺从
 * transparency
+
 * mood
   * n. 情绪，语气；心境；气氛
   * n. (Mood)人名；(英)穆德；(瑞典)莫德
+
 * breaking changes, 突发的变化
+
 * linting
   * n. 软麻布；线头；棉绒
   * vi. 飞散出棉线
+
 * impact on, 影响；对…冲击，碰撞
+
 * fetch
   * vt. 取来；接来；到达；吸引
   * vi. 拿；取物；卖得
   * n. 取得；诡计
+
 * ramification, 衍生物；分枝，分叉；支流；（衍生的）结果、影响
+
 * admit
   * vt. 承认；准许进入；可容纳
   * vi. 承认；容许
+
 * Prospering Virtue, 繁荣的美德
+
 * species
   * n. [生物] 物种；种类
   * adj. 物种上的
   * [ 复数 species ]
+
 * glitch, burrow, cyst, quietus
 * turquoise, necklace
 * scaffold, 脚手架
@@ -2376,27 +2384,33 @@ If you’re familiar with the 60s TV show “Gilligan’s Island,” you probabl
 * garage
 * overlaps
 * hut
+
 * Etruscans, 伊特鲁里亚人;伊特鲁斯坎人;伊特鲁里亚;斯坎;伊楚利亚人
   * Where are they come from?
+
 * domes
+
 * renaissance
   * 英 [rɪˈneɪsns]   美 [ˈrenəsɑːns]  
   * n.文艺复兴(欧洲14、15和16世纪时，人们以古希腊罗马的思想文化来繁荣文学艺术);(某一学科或艺术形式等衰落后的)复兴
   * 记忆技巧：re 一再 + nai 出生 + ss + ance 表情况 → 一再出生 → 复兴，新生
+
 * upon this time, 在这个时候
 * upon this point, 在这个点上
 * Skyscraper, 摩天大厦
+
 * gestures
   * 英 [ˈdʒestʃəz]   美 [ˈdʒestʃərz]  
   * n.手势;姿势;示意动作;(表明感情或意图的)姿态，表示
   * v.做手势;用手势表示;用动作示意
   * gesture的第三人称单数和复数
+
 * liquid crystals
   * 英 [ˈlɪkwɪd ˈkrɪstlz*]   美 [ˈlɪkwɪd ˈkrɪstəlz]  
   * n.液晶*
   * liquid crystal的复数
 * Construction
-* Artificial (man-made) 
+* Artificial (man-made)
 * phosphor
   * 英 [ˈfɒsfə]   美 [ˈfɑˌsfɔr]  
   * n.磷光体，磷光剂；磷光质涂层；启明星
@@ -2408,92 +2422,92 @@ If you’re familiar with the 60s TV show “Gilligan’s Island,” you probabl
 ## 2020.11.18
 
 * spiteful
-英 [ˈspaɪtfl]   美 [ˈspaɪtfl]  
-adj.恶意的;居心不良的;故意使人苦恼的
-派生词： spitefully adv. spitefulness n.
+  * 英 [ˈspaɪtfl]   美 [ˈspaɪtfl]  
+  * adj.恶意的;居心不良的;故意使人苦恼的
+  * 派生词： spitefully adv. spitefulness n.
 
 * intermission
-英 [ˌɪntəˈmɪʃn]   美 [ˌɪntərˈmɪʃn]  
-n.(戏剧、电影等的)幕间休息，中间休息;间歇;暂停
-复数： intermissions
+  * 英 [ˌɪntəˈmɪʃn]   美 [ˌɪntərˈmɪʃn]  
+  * n.(戏剧、电影等的)幕间休息，中间休息;间歇;暂停
+  * 复数： intermissions
 
 * occurred
-英 [əˈkɜːd]   美 [əˈkɜːrd]  
-v.发生;出现;存在于;出现在
-occur的过去分词和过去式
+  * 英 [əˈkɜːd]   美 [əˈkɜːrd]  
+  * v.发生;出现;存在于;出现在
+  * occur的过去分词和过去式
 
 * involvement
-英 [ɪnˈvɒlvmənt]   美 [ɪnˈvɑːlvmənt]  
-n.参与;加入;插手;耗费时间;投入;沉迷;恋爱;性爱
-复数： involvements
+  * 英 [ɪnˈvɒlvmənt]   美 [ɪnˈvɑːlvmənt]  
+  * n.参与;加入;插手;耗费时间;投入;沉迷;恋爱;性爱
+  * 复数： involvements
 
 * revealed
-英 [rɪˈviːld]   美 [rɪˈviːld]  
-v.揭示;显示;透露;显出;露出;展示
-reveal的过去分词和过去式
+  * 英 [rɪˈviːld]   美 [rɪˈviːld]  
+  * v.揭示;显示;透露;显出;露出;展示
+  * reveal的过去分词和过去式
 
 * retirement
-英 [rɪˈtaɪəmənt]   美 [rɪˈtaɪərmənt]  
-n.退休;退职;退休年龄;退休生活;(尤指从体育、政治等方面的)退出，引退
-复数： retirements
+  * 英 [rɪˈtaɪəmənt]   美 [rɪˈtaɪərmənt]  
+  * n.退休;退职;退休年龄;退休生活;(尤指从体育、政治等方面的)退出，引退
+  * 复数： retirements
 
 * whilst
-英 [waɪlst]   美 [waɪlst]  
-conj.同 while(连词)
+  * 英 [waɪlst]   美 [waɪlst]  
+  * conj.同 while(连词)
 
-ardent
-英 [ˈɑːdnt]   美 [ˈɑːrdnt]  
-adj.热烈的;激情的
-派生词： ardently adv.
+* ardent
+  * 英 [ˈɑːdnt]   美 [ˈɑːrdnt]  
+  * adj.热烈的;激情的
+  * 派生词： ardently adv.
 
-outspoken
-英 [aʊtˈspəʊkən]   美 [aʊtˈspoʊkən]  
-adj.直率;坦诚
-v.公开宣布；在讲话方面胜过；大胆、直率地说
-outspeak的过去分词
-派生词： outspokenly adv. outspokenness n.
+* outspoken
+  * 英 [aʊtˈspəʊkən]   美 [aʊtˈspoʊkən]  
+  * adj.直率;坦诚
+  * v.公开宣布；在讲话方面胜过；大胆、直率地说
+  * outspeak的过去分词
+  * 派生词： outspokenly adv. outspokenness n.
 
-recipient
-英 [rɪˈsɪpiənt]   美 [rɪˈsɪpiənt]  
-n.受方;接受者
+* recipient
+  * 英 [rɪˈsɪpiənt]   美 [rɪˈsɪpiənt]  
+  * n.受方;接受者
 
-Advocacy
-英 [ˈædvəkəsi]   美 [ˈædvəkəsi]  
-辩论技巧;倡导;辩护;过度推介;拥护
+* Advocacy
+  * 英 [ˈædvəkəsi]   美 [ˈædvəkəsi]  
+  * 辩论技巧;倡导;辩护;过度推介;拥护
 
-endorsed
-英 [ɪnˈdɔːst]   美 [ɪnˈdɔːrst]  
-v.(公开)赞同，支持，认可;(在广告中)宣传，代言(某一产品);(在支票背面)签名，背书
-endorse的过去分词和过去式
+* endorsed
+  * 英 [ɪnˈdɔːst]   美 [ɪnˈdɔːrst]  
+  * v.(公开)赞同，支持，认可;(在广告中)宣传，代言(某一产品);(在支票背面)签名，背书
+  * endorse的过去分词和过去式
 
-preemptive美 [priˈɛmptɪv]  
-adj.先发制人的;先买的，有先买权的
+* preemptive美 [priˈɛmptɪv]  
+  * adj.先发制人的;先买的，有先买权的
 
-disdain
-英 [dɪsˈdeɪn]   美 [dɪsˈdeɪn]  
-n.鄙视;蔑视;鄙弃
-v.鄙视;蔑视;鄙弃;不屑(做某事)
-第三人称单数： disdains复数： disdains现在分词： disdaining过去式： disdained过去分词： disdained
+* disdain
+  * 英 [dɪsˈdeɪn]   美 [dɪsˈdeɪn]  
+  * n.鄙视;蔑视;鄙弃
+  * v.鄙视;蔑视;鄙弃;不屑(做某事)
+  * 第三人称单数： disdains复数： disdains现在分词： disdaining过去式： disdained过去分词： disdained
 
-rigid
-英 [ˈrɪdʒɪd]   美 [ˈrɪdʒɪd]  
-adj.死板的;僵硬的;固执的;僵化的;一成不变的;坚硬的;不弯曲的;僵直的
-比较级： more rigid最高级： most rigid
-派生词： rigidity n. rigidly adv.
+* rigid
+  * 英 [ˈrɪdʒɪd]   美 [ˈrɪdʒɪd]  
+  * adj.死板的;僵硬的;固执的;僵化的;一成不变的;坚硬的;不弯曲的;僵直的
+  * 比较级： more rigid最高级： most rigid
+  * 派生词： rigidity n. rigidly adv.
 
 ## 2020.11.19
 
-controversy
-英 [ˈkɒntrəvɜːsi]   美 [ˈkɑːntrəvɜːrsi]  
-n.(公开的)争论，辩论，论战
-复数： controversies
+* controversy
+  * 英 [ˈkɒntrəvɜːsi]   美 [ˈkɑːntrəvɜːrsi]  
+  * n.(公开的)争论，辩论，论战
+  * 复数： controversies
 
-Paralympics
-英 [ˌpærə'lɪmpɪks]   美 [ˌpærə'lɪmpɪks]  
-n.残疾人奥运会;残奥会
+* Paralympics
+  * 英 [ˌpærə'lɪmpɪks]   美 [ˌpærə'lɪmpɪks]  
+  * n.残疾人奥运会;残奥会
 
-co-write，合著
-Jedi: co is mean coporation with.
+* co-write，合著
+  * Jedi: co is mean coporation with.
 
 ## 2020.11.20
 
@@ -2504,24 +2518,19 @@ Jedi: co is mean coporation with.
 ## 2020.11.21
 
 * unsuspecting
-英 [ˌʌnsəˈspektɪŋ]   美 [ˌʌnsəˈspektɪŋ]  
-adj.毫不怀疑的;无危险意识的;无戒备心的
-
-If you're unsuspecting, you are innocent and trusting. An unsuspecting tourist will be blissfully unaware that the smiling old lady on the subway has stolen his wallet.
-
-If you lack a sense of suspicion or distrust, especially in the face of some kind of danger, you're unsuspecting. A criminal's unsuspecting victims find themselves utterly surprised that they've been robbed, and an unsuspecting hiker wanders right into a bear's den. In both cases, a little bit of suspicion would have served them well.
+  * 英 [ˌʌnsəˈspektɪŋ]   美 [ˌʌnsəˈspektɪŋ]  
+  * adj.毫不怀疑的;无危险意识的;无戒备心的
+  * If you're unsuspecting, you are innocent and trusting. An unsuspecting tourist will be blissfully unaware that the smiling old lady on the subway has stolen his wallet.
+  * If you lack a sense of suspicion or distrust, especially in the face of some kind of danger, you're unsuspecting. A criminal's unsuspecting victims find themselves utterly surprised that they've been robbed, and an unsuspecting hiker wanders right into a bear's den. In both cases, a little bit of suspicion would have served them well.
 
 * disturb
-
-英 [dɪˈstɜːb]   美 [dɪˈstɜːrb]  
-v.打扰;干扰;妨碍;搅乱;弄乱;搞乱;使焦虑;使不安;使烦恼
-第三人称单数： disturbs现在分词： disturbing过去式： disturbed过去分词： disturbed
-记忆技巧：dis 分散 + turb 搅动 → 搅动开 → 扰乱
-高考CET4考研IELTSTOEFLTEM4
-
-To disturb is to bother. If you hang a "Do not disturb" sign on the outside of your hotel room door, you want to be left alone.
-
-Disturb comes from the Latin prefix dis-, meaning "completely" and turbare, meaning "to disorder." To disturb is, in a sense, to completely disorder. When you disturb something, you interfere with its normal function. Along those lines, it's also a word used to describe the interruption of sleep or relaxation. Your alarm disturbs you from sleep every morning. When something disturbs you, it can also cause you emotional anxiety. A horror movie might disturb you with its goriness.
+  * 英 [dɪˈstɜːb]   美 [dɪˈstɜːrb]  
+  * v.打扰;干扰;妨碍;搅乱;弄乱;搞乱;使焦虑;使不安;使烦恼
+  * 第三人称单数： disturbs现在分词： disturbing过去式： disturbed过去分词： disturbed
+  * 记忆技巧：dis 分散 + turb 搅动 → 搅动开 → 扰乱
+  * 高考CET4考研IELTSTOEFLTEM4
+  * To disturb is to bother. If you hang a "Do not disturb" sign on the outside of your hotel room door, you want to be left alone.
+  * Disturb comes from the Latin prefix dis-, meaning "completely" and turbare, meaning "to disorder." To disturb is, in a sense, to completely disorder. When you disturb something, you interfere with its normal function. Along those lines, it's also a word used to describe the interruption of sleep or relaxation. Your alarm disturbs you from sleep every morning. When something disturbs you, it can also cause you emotional anxiety. A horror movie might disturb you with its goriness.
 
 ## 2020.11.25
 
@@ -2530,17 +2539,38 @@ Disturb comes from the Latin prefix dis-, meaning "completely" and turbare, mean
 ## 2020.11.26
 
 * saddle
-英 [ˈsædl]   美 [ˈsædl]  
-n.马鞍;(自行车或摩托车的)车座;(动物的)脊肉
-v.给(马)备鞍
-第三人称单数： saddles复数： saddles现在分词： saddling过去式： saddled过去分词： saddled
+  * 英 [ˈsædl]   美 [ˈsædl]  
+  * n.马鞍;(自行车或摩托车的)车座;(动物的)脊肉
+  * v.给(马)备鞍
+  * 第三人称单数： saddles复数： saddles现在分词： saddling过去式： saddled过去分词： saddled
 
 * burglary
-英 [ˈbɜːɡləri]   美 [ˈbɜːrɡləri]  
-n.入室偷盗罪
-复数： burglaries
+  * 英 [ˈbɜːɡləri]   美 [ˈbɜːrɡləri]  
+  * n.入室偷盗罪
+  * 复数： burglaries
 
 ## 2020.11.30
 
 * fortress
 * viola
+* “没听懂”用英语怎么讲？
+  * I don't follow
+  * You lost me
+  * I didn't catch that
+* Can you manager it?
+  * I need to learn first. (不够地方)
+  * I will bursh up on it.
+* hydrate
+* relevant (高頻)
+* A brief note about sth
+* it makes its debut
+* In tandem
+* if it was a slightly painful transition
+* A new vision requires a new path
+* arguably
+* lucrative
+* Adoption
+* foreseeable
+* outperforming
+* efficient
+* there is a planned path to bring all the horses back into the same barn
