@@ -1666,3 +1666,15 @@
 * [Colin Clark (soccer)](https://simple.wikipedia.org/wiki/Colin_Clark_(soccer))
 * [Perverse incentive](https://simple.wikipedia.org/wiki/Perverse_incentive)
 * [Jeon Mi-seon](https://simple.wikipedia.org/wiki/Jeon_Mi-seon)
+
+## 2020.12.1
+
+* [Delaware, Oklahoma](https://simple.wikipedia.org/wiki/Delaware,_Oklahoma)
+* [Neillsville, Wisconsin](https://simple.wikipedia.org/wiki/Neillsville,_Wisconsin)
+* [Palenquero](https://simple.wikipedia.org/wiki/Palenquero)
+
+## 2020.12.2
+
+* [Frank Bowling](https://simple.wikipedia.org/wiki/Frank_Bowling)
+* [Bryn Mawr, Pennsylvania](https://simple.wikipedia.org/wiki/Bryn_Mawr,_Pennsylvania)
+* [Hames-Boucres](https://simple.wikipedia.org/wiki/Hames-Boucres)

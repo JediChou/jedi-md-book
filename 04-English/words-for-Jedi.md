@@ -2574,3 +2574,25 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
 * outperforming
 * efficient
 * there is a planned path to bring all the horses back into the same barn
+
+## 2020.12.1
+
+* Sawmill, 锯木场
+* Creole
+  * 英 [ˈkriːəʊl]   美 [ˈkriːoʊl]  
+  * n.克里奥尔人(尤指居住在西印度群岛的欧洲人和非洲人的混血儿);克里奥尔人(指首批定居在西印度群岛或南美的欧洲人的后裔，或定居在美国南部诸州的法国人和西班牙人的后裔);克里奥尔语(欧洲语言混和当地语言，尤指与西印度群岛奴隶讲的非洲语言的混合语)
+* Caribbean
+  * 英 [ˌkærɪˈbiːən]   美 [ˌkærɪˈbiːən]  
+  * n.加勒比海地区(指加勒比海及其岛屿，包括西印度群岛及其周围海岸)
+  * adj.加勒比海地区的;加勒比海诸岛的
+  * 复数： Caribbeans
+* diasporas, 流散
+* medieval period, 中世纪
+* royalties
+  * 英 [ˈrɔɪəltiz]   美 [ˈrɔɪəltiz]  
+  * n.王室成员;版税;矿区土地使用费(由采矿或石油公司等付给土地所有人)
+  * royalty的复数
+* ubiquity
+  * 英 [juːˈbɪkwəti]   美 [juːˈbɪkwəti]  
+  * n.无所不在;随处可见
+* monoliths
