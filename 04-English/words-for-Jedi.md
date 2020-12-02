@@ -2596,3 +2596,12 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
   * 英 [juːˈbɪkwəti]   美 [juːˈbɪkwəti]  
   * n.无所不在;随处可见
 * monoliths
+
+## 2020.12.2
+
+* reclaimable, 回收
+* rigorous
+  * 英 [ˈrɪɡərəs]   美 [ˈrɪɡərəs]  
+  * adj.谨慎的;细致的;彻底的;严格的;严厉的
+  * 派生词： rigorously adv.
+  * 记忆技巧：rigor 严格 + ous 有…性质的，关于…的 → 严密的；严格的

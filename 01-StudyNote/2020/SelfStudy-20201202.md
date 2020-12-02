@@ -19,7 +19,7 @@ Author: Jedi Chou, Create at 2020.12.2 8:35 AM
 * 打卡
   * 更新香信的“调查问卷列表”. 8:54
   * 更新香信的“个人14天内旅居史”. 8:54
-  * 编写Ding’Ding的工作日报
+  * 编写Ding’Ding的工作日报. 20:30
 
 * Go Game check
   * Leela Zero vs Leela Zero. 9:00
@@ -40,3 +40,7 @@ Author: Jedi Chou, Create at 2020.12.2 8:35 AM
 * 烫金字
   * [冷烫印刷](https://baike.baidu.com/item/%E5%86%B7%E7%83%AB%E5%8D%B0%E5%88%B7?fromtitle=%E7%83%AB%E9%87%91&fromid=1437383)
 * 发布两条IT残酷物语
+* Atari2600, Atari800 XL, [www.8dot8.org](http://www.8dot8.org/), Nmap, Kali Linux, Spiderfoot
+  * [elladodelmal](http://www.elladodelmal.com/)
+  * [dragonjar.org](http://www.dragonjar.org/)
+  * [securitybydefault](http://www.securitybydefault.com/)
