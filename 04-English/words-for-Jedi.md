@@ -2605,3 +2605,88 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
   * adj.谨慎的;细致的;彻底的;严格的;严厉的
   * 派生词： rigorously adv.
   * 记忆技巧：rigor 严格 + ous 有…性质的，关于…的 → 严密的；严格的
+
+## 2020.12.3
+
+* telemetry, 遥测
+* vipers, 蝰蛇
+* Breaking changes,重大变更
+
+* endure
+  * 英 [ɪnˈdjʊə(r)]   美 [ɪnˈdʊr]  
+  * v.忍耐;忍受;持续;持久
+  * 第三人称单数： endures现在分词： enduring过去式： endured过去分词： endured
+  * 派生词： endurable adj.
+  * 记忆技巧：en 使… + dur 持久；坚硬的 + e → 持久，耐久
+
+* fort
+  * 英 [fɔːt]  美 [fɔːrt] 
+  * n. 堡垒；要塞；（美）边界贸易站
+  * vt. 设要塞保卫
+  * vi. 构筑要塞
+  * n. (Fort)人名；(法)福尔；(德、英、西、葡、匈)福特
+  * [ 复数 forts ]
+
+* crumple
+  * 英 [ˈkrʌmpl]  美 [ˈkrʌmpl] 
+  * vt. 弄皱；使一蹶不振
+  * vi. 起皱；倒坍；一蹶不振
+  * n. 皱纹；褶皱
+  * [ 过去式 crumpled 过去分词 crumpled 现在分词 crumpling 第三人称单数 crumples ]
+
+* 有毒的
+  * wrong: poisonious
+  * right: poisonous
+
+* 牙医
+  * wrong: orthendortist
+  * right: orthodontist
+
+* violator
+  * 英 [ˈvaɪəleɪtər]  美 [ˈvaɪəleɪtər]
+  * n. 违背者；违反者；妨碍者
+  * [ 复数 violators ]
+
+* treaty
+  * 英 [ˈtriːti]  美 [ˈtriːti]
+  * n. 条约，协议；谈判
+  * [ 复数 treaties ]
+
+* principal
+  * 英 [ˈprɪnsəpl]   美 [ˈprɪnsəpl]  
+  * adj.最重要的;主要的
+  * n.大学校长;学院院长;本金;资本;主要演员;主角
+  * 复数： principals
+  * 记忆技巧：prin 第一 + cip 抓 + al 表人 → 作为第一〔要务〕来抓 → 最重要的
+
+* interviewer, interviewee
+
+* diploma
+  * 英 [dɪˈpləʊmə]   美 [dɪˈploʊmə]  
+  * n.文凭课程;毕业文凭
+
+* enthusiastic
+  * 英 [ɪnˌθjuːziˈæstɪk]   美 [ɪnˌθuːziˈæstɪk]  
+  * adj.热情的;热心的;热烈的;满腔热忱的
+  * 派生词： enthusiastically adv.
+  * 记忆技巧：enthusi〔= enthuse热心〕+ astic …的 → 热心的
+
+* convergent
+  * 英 [kənˈvɜːdʒənt]   美 [kənˈvɜːrdʒənt]  
+  * adj.收敛的；会聚性的；包围集中的
+
+* gratis
+* correspondence
+* crossword
+
+* concentrate
+  * 英 [ˈkɒnsntreɪt]   美 [ˈkɑːnsntreɪt]  
+  * v.集中(注意力);聚精会神;使…集中(或集合、聚集);(使)浓缩
+  * n.浓缩物
+  * 第三人称单数： concentrates现在分词： concentrating过去式： concentrated过去分词： concentrated
+  * 记忆技巧：con 加强 + centr 中心；中间 + ate 使… → 使…成为中心 → 集中
+
+* phase-out,逐渐过时
+* That was unthinkable. 那是不可想象的
+
+* Motto, 座右铭

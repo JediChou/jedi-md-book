@@ -1678,3 +1678,10 @@
 * [Frank Bowling](https://simple.wikipedia.org/wiki/Frank_Bowling)
 * [Bryn Mawr, Pennsylvania](https://simple.wikipedia.org/wiki/Bryn_Mawr,_Pennsylvania)
 * [Hames-Boucres](https://simple.wikipedia.org/wiki/Hames-Boucres)
+
+## 2020.12.3
+
+* [Thomas Pfyl](https://simple.wikipedia.org/wiki/Thomas_Pfyl)
+* [Asuwa River](https://simple.wikipedia.org/wiki/Asuwa_River)
+* [Prague Spring](https://simple.wikipedia.org/wiki/Prague_Spring)
+* [Warsaw Pact](https://simple.wikipedia.org/wiki/Warsaw_Pact)

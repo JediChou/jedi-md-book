@@ -25,22 +25,3 @@ Author: Jedi Chou, Create at 2020.12.2 8:35 AM
   * Leela Zero vs Leela Zero. 9:00
   * Leela Zero vs Leela Zero. 9:04
   * Leela Zero vs Leela Zero. 9:09
-
-* C# Basic
-  * C# syntax
-  * Object oriented paradigm
-  * Interfaces
-  * Arrays, lists, dictionaries
-  * Generics
-  * Events, delegates, and lambdas
-  * LINQ
-  * Asynchronous programming
-* TODO: 回家后在电脑上安装HBuilder并继续学习Vue的开发(qfedu-vue2and3)
-* [悬车之年](https://baike.baidu.com/item/%E6%82%AC%E8%BD%A6%E4%B9%8B%E5%B9%B4/1049281?fr=aladdin)
-* 烫金字
-  * [冷烫印刷](https://baike.baidu.com/item/%E5%86%B7%E7%83%AB%E5%8D%B0%E5%88%B7?fromtitle=%E7%83%AB%E9%87%91&fromid=1437383)
-* 发布两条IT残酷物语
-* Atari2600, Atari800 XL, [www.8dot8.org](http://www.8dot8.org/), Nmap, Kali Linux, Spiderfoot
-  * [elladodelmal](http://www.elladodelmal.com/)
-  * [dragonjar.org](http://www.dragonjar.org/)
-  * [securitybydefault](http://www.securitybydefault.com/)
