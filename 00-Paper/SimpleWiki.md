@@ -1685,3 +1685,9 @@
 * [Asuwa River](https://simple.wikipedia.org/wiki/Asuwa_River)
 * [Prague Spring](https://simple.wikipedia.org/wiki/Prague_Spring)
 * [Warsaw Pact](https://simple.wikipedia.org/wiki/Warsaw_Pact)
+
+## 2020.12.4
+
+* [Palaeocene](https://simple.wikipedia.org/wiki/Palaeocene)
+* [Seljuk Sultanate of Rûm](https://simple.wikipedia.org/wiki/Seljuk_Sultanate_of_R%C3%BBm)
+* [Spechbach-le-Bas](https://simple.wikipedia.org/wiki/Spechbach-le-Bas)

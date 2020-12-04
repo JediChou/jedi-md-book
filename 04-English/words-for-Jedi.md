@@ -2690,3 +2690,9 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
 * That was unthinkable. 那是不可想象的
 
 * Motto, 座右铭
+
+## 2020.12.4
+
+* maniac
+  * A maniac is a crazy person. Screaming like a maniac is never a good way to get your point across.
+  * Long ago, the word maniac was an official psychiatric term that meant "a patient suffering from mania," or manic disorder, involving a euphoric mood and extreme energy. Maniac isn't used in a clinical way anymore, but only informally to mean "lunatic." You might describe yourself running around the house like a maniac looking for your car keys, or dismiss your sports-obsessed brother as "a football maniac." The Greek root is mania, or "madness."
