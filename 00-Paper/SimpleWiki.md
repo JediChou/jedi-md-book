@@ -1691,3 +1691,15 @@
 * [Palaeocene](https://simple.wikipedia.org/wiki/Palaeocene)
 * [Seljuk Sultanate of Rûm](https://simple.wikipedia.org/wiki/Seljuk_Sultanate_of_R%C3%BBm)
 * [Spechbach-le-Bas](https://simple.wikipedia.org/wiki/Spechbach-le-Bas)
+
+## 2020.12.7
+
+* [Raje](https://simple.wikipedia.org/wiki/Raje)
+* [Silent stroke](https://simple.wikipedia.org/wiki/Silent_stroke)
+* [Bradford, Tennessee](https://simple.wikipedia.org/wiki/Bradford,_Tennessee)
+* [La Rivière-de-Corps](https://simple.wikipedia.org/wiki/La_Rivi%C3%A8re-de-Corps)
+* [Afghan National Anthem](https://simple.wikipedia.org/wiki/Afghan_National_Anthem)
+* [Blue Slide Park](https://simple.wikipedia.org/wiki/Blue_Slide_Park)
+* [Rover 800 Series](https://simple.wikipedia.org/wiki/Rover)
+* [Data Center Cooling](https://simple.wikipedia.org/wiki/Data_Center_Cooling)
+* [Beowulf (2007 movie)](https://simple.wikipedia.org/wiki/Beowulf_(2007_movie))

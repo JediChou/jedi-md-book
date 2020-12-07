@@ -2696,3 +2696,65 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
 * maniac
   * A maniac is a crazy person. Screaming like a maniac is never a good way to get your point across.
   * Long ago, the word maniac was an official psychiatric term that meant "a patient suffering from mania," or manic disorder, involving a euphoric mood and extreme energy. Maniac isn't used in a clinical way anymore, but only informally to mean "lunatic." You might describe yourself running around the house like a maniac looking for your car keys, or dismiss your sports-obsessed brother as "a football maniac." The Greek root is mania, or "madness."
+
+## 2020.12.7
+
+* polytechnic
+  * n. 工艺学校
+  * adj. 工艺的
+
+* 农家书屋, farmers' library
+* 农村集体产权, the rural collective property rights system
+
+* bubbly
+  * 英 [ˈbʌbli]   美 [ˈbʌbli]  
+  * adj. 充满气泡的;多泡沫的;快活热情的
+  * n. 香槟酒
+  * 比较级： bubblier最高级： bubbliest
+
+* obtain
+  * 英 [əbˈteɪn]   美 [əbˈteɪn]  
+  * v.(尤指经努力)获得，赢得;存在;流行;沿袭
+  * 第三人称单数： obtains现在分词： obtaining过去式： obtained过去分词： obtained
+  * 记忆技巧：ob 表加强 + tain 拿住 → 稳稳拿住 → 获得
+
+* Dramaturgy
+  * 英 [ˈdræmətɜːdʒi]   美 [ˈdræmətɜːrdʒi]  
+  * 拟剧论;戲劇構成學
+
+* sag
+  * 英 [sæɡ , sɑːɡ]   美 [sæɡ , sɑːɡ]  
+  * v.(尤指由于承重或受压)中间下垂，下凹;减弱;减少
+  * n.下陷或松弛的程度;下陷或松弛;（顺风的）漂流;经济萧条
+  * 第三人称单数： sags现在分词： sagging过去式： sagged过去分词： sagged
+  * 派生词： sag n.
+
+* psychopathic
+  * 英 [ˌsaɪkəˈpæθɪk]   美 [ˌsaɪkəˈpæθɪk]  
+  * adj.精神变态的;变态人格的
+
+* En route
+  * 英 [en ruːt]   美 [en ruːt]  
+  * 在途中;途中;在途
+
+* Gossip
+
+* honorary
+  * 英 [ˈɒnərəri]   美 [ˈɑːnəreri]  
+  * adj.荣誉的;无报酬的;义务的;被待作…成员的
+  * 记忆技巧：honor 荣誉 + ary …的，有…性质的 → 荣誉的
+
+* nobleman
+  * 英 [ˈnəʊblmən]   美 [ˈnoʊblmən]  
+  * ns.出身高贵的人;贵族成员
+
+* Anthem
+  * 英 [ˈænθəm]   美 [ˈænθəm]  
+  * 頌歌;义勇军进行曲;讚美詩;足球圣歌;圣歌
+
+* provoke
+* apparatus
+* refrigerating
+* fraction
+* Aisle
+* Humidity
