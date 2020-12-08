@@ -1703,3 +1703,9 @@
 * [Rover 800 Series](https://simple.wikipedia.org/wiki/Rover)
 * [Data Center Cooling](https://simple.wikipedia.org/wiki/Data_Center_Cooling)
 * [Beowulf (2007 movie)](https://simple.wikipedia.org/wiki/Beowulf_(2007_movie))
+
+## 2020.12.8
+
+* [Pallastunturi](https://simple.wikipedia.org/wiki/Pallastunturi)
+* [José Folgado](https://simple.wikipedia.org/wiki/Jos%C3%A9_Folgado)
+* [John Hermansader](https://simple.wikipedia.org/wiki/John_Hermansader)
