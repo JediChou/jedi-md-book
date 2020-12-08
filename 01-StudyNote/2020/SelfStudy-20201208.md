@@ -11,7 +11,7 @@ Author: Jedi Chou, Create at 2020.12.8 8:23 AM
   * Tencent cartoon APP check-in. 9:07
   * Exercise of Vocabulary (vocabulary.com). 9:12
   * Don't memorize words APP check-in. 10:18
-  * reading 163.com mails. 10:30
+  * reading 163.com mails. 10:30, 20:01
   * Reading 1 minutes at SIMPLE wiki. 10:35
 
 ## Other
@@ -19,7 +19,7 @@ Author: Jedi Chou, Create at 2020.12.8 8:23 AM
 * 打卡
   * 更新香信的“调查问卷列表”. 9:14
   * 更新香信的“个人14天内旅居史”. 9:14
-  * 编写Ding’Ding的工作日报
+  * 编写Ding’Ding的工作日报. 20:05
 
 * Go Game check
   * Leela Zero vs Leela Zero. 8:41
