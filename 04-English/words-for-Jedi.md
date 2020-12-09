@@ -2758,3 +2758,12 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
 * fraction
 * Aisle
 * Humidity
+
+## 2020.12.9
+
+* paleontologist. 古生物学家
+* sth has been reserved. 某事被保留
+* controversial, 有争议的
+* alleging, 受指控的
+* underwent, 经历
+* Censorship, 审查制度

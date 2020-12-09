@@ -1709,3 +1709,9 @@
 * [Pallastunturi](https://simple.wikipedia.org/wiki/Pallastunturi)
 * [José Folgado](https://simple.wikipedia.org/wiki/Jos%C3%A9_Folgado)
 * [John Hermansader](https://simple.wikipedia.org/wiki/John_Hermansader)
+
+## 2020.12.9
+
+* [Sushant Singh Rajput](https://simple.wikipedia.org/wiki/Sushant_Singh_Rajput)
+* [Kira Muratova](https://simple.wikipedia.org/wiki/Kira_Muratova)
+* [Harald Ringstorff](https://simple.wikipedia.org/wiki/Harald_Ringstorff)
