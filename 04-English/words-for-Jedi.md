@@ -2767,3 +2767,19 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
 * alleging, 受指控的
 * underwent, 经历
 * Censorship, 审查制度
+
+## 2020.12.10
+
+* rob Peter to pay Paul, 拆东墙补西墙
+* hush
+  * 英 [hʌʃ]  美 [hʌʃ]
+  * v. 安静；（使）安静，停止说话；用水清洗矿石
+  * n. 寂静，安静；（人造的）喷水
+  * int. 嘘；别作声
+  * [ 复数 hushes 过去式 hushed 现在分词 hushing 第三人称单数 hushes ]
+
+* cozy
+  * 英 [ˈkəʊzi]  美 [ˈkoʊzi]
+  * adj. 舒适的，温暖的；友好的，亲密无间的；密切的，互相勾结的；轻易得到的（但不一定是恰当的）；不提出（或不接受）挑战的
+  * n. （茶壶的）保温罩；（角落里的）带蓬双人座
+  * v. （非正式）使感到舒适，使得意

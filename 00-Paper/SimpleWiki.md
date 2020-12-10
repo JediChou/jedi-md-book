@@ -1715,3 +1715,9 @@
 * [Sushant Singh Rajput](https://simple.wikipedia.org/wiki/Sushant_Singh_Rajput)
 * [Kira Muratova](https://simple.wikipedia.org/wiki/Kira_Muratova)
 * [Harald Ringstorff](https://simple.wikipedia.org/wiki/Harald_Ringstorff)
+
+## 2020.12.10
+
+* [吴敬梓](https://baike.baidu.com/item/吴敬梓/278668)
+* [车臣非法武装](https://baike.baidu.com/item/车臣非法武装)
+* [居斯塔夫·福楼拜](https://baike.baidu.com/item/居斯塔夫·福楼拜)
