@@ -2797,3 +2797,17 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
   * v.发嘶嘶声;发嘘声(表示不满，尤指对演员或演讲人);带怒气地低声说出(某事)
   * n.嘶嘶声;嘘声
   * 第三人称单数： hisses现在分词： hissing过去式： hissed过去分词： hissed
+
+* crucial
+* exquisite
+* Epigrams, 警句
+* a great deal of, 大量的、很多的
+  * a great deal of insight, 极有洞察力
+* associated with, 与..有关
+* arbitrary
+  * 英 [ˈɑːbɪtrəri]   美 [ˈɑːrbɪtreri]  
+  * adj.任意的;武断的;随心所欲的;专横的;专制的
+  * 派生词： arbitrarily adv. arbitrariness n.
+
+* foci, 焦点
+
