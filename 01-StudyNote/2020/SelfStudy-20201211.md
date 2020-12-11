@@ -3,28 +3,28 @@
 Author: Jedi Chou, Create at 2020.12.11 8:00 AM
 
 * Daily study
-  * 101WeiQi daily exercise check-in
-  * 163 music APP check-in
-  * Read articles and check interview invitation (MaiMai APP)
-  * Tencent cartoon APP check-in
-  * Don't memorize words APP check-in
-  * Read Sina Blog
-  * Exercise of Vocabulary (vocabulary.com)
-  * NowCoder check-in
-  * reading 163.com mails
-  * Reading 1 minutes at SIMPLE wiki
+  * 101WeiQi daily exercise check-in. 8:31, 8:33
+  * 163 music APP check-in. 8:33
+  * Read articles and check interview invitation (MaiMai APP). 8:35
+  * Tencent cartoon APP check-in. 8:36
+  * Don't memorize words APP check-in. 8:36
+  * NowCoder check-in. 8:37
+  * Read Sina Blog. 9:18
+  * Exercise of Vocabulary (vocabulary.com). 9:35
+  * reading 163.com mails. 9:40
+  * Reading 1 minutes at SIMPLE wiki. 10:03
 
 ## Other
 
 * 打卡
-  * 更新香信的“调查问卷列表”
-  * 更新香信的“个人14天内旅居史”
+  * 更新香信的“调查问卷列表”. 8:38
+  * 更新香信的“个人14天内旅居史”. 8:38
   * 编写Ding’Ding的工作日报
 
 * Go Game check
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
-  * Leela Zero vs Leela Zero
+  * Leela Zero vs Leela Zero. 8:43
+  * Leela Zero vs Leela Zero. 8:47
+  * Leela Zero vs Leela Zero. 8:53
 
 * C# Basic
   * C# syntax
@@ -52,3 +52,5 @@ Author: Jedi Chou, Create at 2020.12.11 8:00 AM
   * apache/skywalking-ui, Apache SkyWalking Web UI
   * apache/skywalking-base, Apache SkyWalking Base
   * Jedi: 但这个结构就有点看不懂了！
+
+* Seldom (selenium+unittest+web ui)

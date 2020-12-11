@@ -1721,3 +1721,13 @@
 * [吴敬梓](https://baike.baidu.com/item/吴敬梓/278668)
 * [车臣非法武装](https://baike.baidu.com/item/车臣非法武装)
 * [居斯塔夫·福楼拜](https://baike.baidu.com/item/居斯塔夫·福楼拜)
+
+## 2020.12.11
+
+* [Vanuatu](https://simple.wikipedia.org/wiki/Vanuatu)
+* [NHL 2K10](https://simple.wikipedia.org/wiki/NHL_2K10)
+* [Mobility as a service](https://simple.wikipedia.org/wiki/Mobility_as_a_service)
+* [ITT Corporation](https://simple.wikipedia.org/wiki/ITT_Corporation)
+* [David Wallace (The Office)](https://simple.wikipedia.org/wiki/David_Wallace_(The_Office))
+* [Fiesch](https://simple.wikipedia.org/wiki/Fiesch)
+* [The Office (American TV series)](https://simple.wikipedia.org/wiki/The_Office_(American_TV_series))

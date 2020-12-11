@@ -2783,3 +2783,17 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
   * adj. 舒适的，温暖的；友好的，亲密无间的；密切的，互相勾结的；轻易得到的（但不一定是恰当的）；不提出（或不接受）挑战的
   * n. （茶壶的）保温罩；（角落里的）带蓬双人座
   * v. （非正式）使感到舒适，使得意
+
+## 2020.12.11
+
+* bleach
+  * 英 [bliːtʃ]   美 [bliːtʃ]  
+  * v.(使)变白，漂白，晒白，退色
+  * n.漂白剂
+  * 第三人称单数： bleaches现在分词： bleaching过去式： bleached过去分词： bleached
+
+* hiss
+  * 英 [hɪs]   美 [hɪs]  
+  * v.发嘶嘶声;发嘘声(表示不满，尤指对演员或演讲人);带怒气地低声说出(某事)
+  * n.嘶嘶声;嘘声
+  * 第三人称单数： hisses现在分词： hissing过去式： hissed过去分词： hissed
