@@ -2811,3 +2811,13 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
 
 * foci, 焦点
 
+## 2020.12.12
+
+* hrough with
+* filaments
+* evergreen
+* calcium
+* potassium
+* phosphorus
+* eruptions
+* unsettle

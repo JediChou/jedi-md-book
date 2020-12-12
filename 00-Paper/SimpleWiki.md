@@ -1731,3 +1731,9 @@
 * [David Wallace (The Office)](https://simple.wikipedia.org/wiki/David_Wallace_(The_Office))
 * [Fiesch](https://simple.wikipedia.org/wiki/Fiesch)
 * [The Office (American TV series)](https://simple.wikipedia.org/wiki/The_Office_(American_TV_series))
+
+## 2020.12.12
+
+* [Void (astronomy)](https://simple.wikipedia.org/wiki/Void_(astronomy))
+* [Chico fruit](https://simple.wikipedia.org/wiki/Chico_fruit)
+* [Circle of Life](https://simple.wikipedia.org/wiki/Circle_of_Life)
