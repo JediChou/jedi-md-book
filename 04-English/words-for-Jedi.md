@@ -2821,3 +2821,16 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
 * phosphorus
 * eruptions
 * unsettle
+
+## 2020.12.14
+
+* "D.C." stands for "District of Columbia".
+* Mecca
+  * 英 [ˈmekə]   美 [ˈmekə]  
+  * n.麦加(沙特阿拉伯城市，伊斯兰教圣地，先知穆罕默德出生地);热门地方
+* Powhatan
+  * n.波瓦坦
+* compromise
+  * 英 [ˈkɒmprəmaɪz]   美 [ˈkɑːmprəmaɪz]  
+  * n.妥协;折中;互让;和解;妥协(或折中)方案;达成妥协(或和解)
+  * v.(为达成协议而)妥协，折中，让步;违背(原则);达不到(标准);(尤指因行为不很明智)使陷入危险，使受到怀疑

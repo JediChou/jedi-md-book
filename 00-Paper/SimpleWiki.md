@@ -1737,3 +1737,9 @@
 * [Void (astronomy)](https://simple.wikipedia.org/wiki/Void_(astronomy))
 * [Chico fruit](https://simple.wikipedia.org/wiki/Chico_fruit)
 * [Circle of Life](https://simple.wikipedia.org/wiki/Circle_of_Life)
+
+## 2020.12.14
+
+* [Free agent](https://simple.wikipedia.org/wiki/Free_agent)
+* [Rilly-Sainte-Syre](https://simple.wikipedia.org/wiki/Rilly-Sainte-Syre)
+* [Washington, D.C.](https://simple.wikipedia.org/wiki/Washington,_D.C.)
