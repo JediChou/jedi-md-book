@@ -2834,3 +2834,19 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
   * 英 [ˈkɒmprəmaɪz]   美 [ˈkɑːmprəmaɪz]  
   * n.妥协;折中;互让;和解;妥协(或折中)方案;达成妥协(或和解)
   * v.(为达成协议而)妥协，折中，让步;违背(原则);达不到(标准);(尤指因行为不很明智)使陷入危险，使受到怀疑
+
+## 2020.12.15
+
+* stony
+  * 英 [ˈstəʊni]   美 [ˈstoʊni]  
+  * adj.多石的;石头的;冷漠的;无情的;铁石心肠的
+  * 比较级：stonier
+  * 最高级：stoniest
+
+* prosper
+  * 英 [ˈprɒspə(r)]   美 [ˈprɑːspər]  
+  * v.繁荣;兴旺;成功;发达
+  * 第三人称单数： prospers
+  * 现在分词： prospering
+  * 过去式： prospered
+  * 过去分词： prospered

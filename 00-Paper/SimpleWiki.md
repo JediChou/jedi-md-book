@@ -1743,3 +1743,9 @@
 * [Free agent](https://simple.wikipedia.org/wiki/Free_agent)
 * [Rilly-Sainte-Syre](https://simple.wikipedia.org/wiki/Rilly-Sainte-Syre)
 * [Washington, D.C.](https://simple.wikipedia.org/wiki/Washington,_D.C.)
+
+## 2020.12.15
+
+* [Maxcanú Municipality](https://simple.wikipedia.org/wiki/Maxcan%C3%BA_Municipality)
+* [Ganga Prasad](https://simple.wikipedia.org/wiki/Ganga_Prasad)
+* [Gavin de Beer](https://simple.wikipedia.org/wiki/Gavin_de_Beer)
