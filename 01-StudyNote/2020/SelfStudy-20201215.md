@@ -19,7 +19,7 @@ Author: Jedi Chou, Create at 2020.12.14 12:09 AM
 * 打卡
   * 更新香信的“调查问卷列表”. 15:04
   * 更新香信的“个人14天内旅居史”. 15:04
-  * 编写Ding’Ding的工作日报
+  * 编写Ding’Ding的工作日报. 20:47
 
 * Go Game check
   * Leela Zero vs Leela Zero. 15:10
@@ -35,6 +35,7 @@ Author: Jedi Chou, Create at 2020.12.14 12:09 AM
   * Events, delegates, and lambdas
   * LINQ
   * Asynchronous programming
+
 * TODO: 回家后在电脑上安装HBuilder并继续学习Vue的开发(qfedu-vue2and3)
 * Atari2600, Atari800 XL, [www.8dot8.org](http://www.8dot8.org/), Nmap, Kali Linux, Spiderfoot
   * [elladodelmal](http://www.elladodelmal.com/)
