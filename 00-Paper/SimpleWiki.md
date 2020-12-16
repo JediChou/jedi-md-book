@@ -1749,3 +1749,9 @@
 * [Maxcanú Municipality](https://simple.wikipedia.org/wiki/Maxcan%C3%BA_Municipality)
 * [Ganga Prasad](https://simple.wikipedia.org/wiki/Ganga_Prasad)
 * [Gavin de Beer](https://simple.wikipedia.org/wiki/Gavin_de_Beer)
+
+## 2020.12.16
+
+* [The Children's Blizzard](https://simple.wikipedia.org/wiki/The_Children%27s_Blizzard)
+* [Jusztin Nándor Takács](https://simple.wikipedia.org/wiki/Jusztin_N%C3%A1ndor_Tak%C3%A1cs)
+* [Ula Tirso](https://simple.wikipedia.org/wiki/Ula_Tirso)

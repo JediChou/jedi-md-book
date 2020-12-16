@@ -2850,3 +2850,24 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
   * 现在分词： prospering
   * 过去式： prospered
   * 过去分词： prospered
+
+## 2020.12.16
+
+* weasel
+  * 英 [ˈwiːzl]   美 [ˈwiːzl]  
+  * n.鼬;黄鼠狼
+  * v.逃避;含糊其辞
+
+* apparel
+  * 英 [əˈpærəl]   美 [əˈpærəl]  
+  * n.(商店出售的)衣服，服装;(尤指正式场合穿的)衣服
+  * vt.给…穿衣服（尤指华丽或特殊的服装）
+  * 第三人称单数： apparels
+  * 现在分词： appareling apparelling
+  * 过去式： appareled apparelled
+  * 过去分词： appareled apparelled
+  * 记忆技巧：ap 加强 + par 出现，看见 + el 表物 → 穿出来的东西 → 衣服
+
+* molten
+  * 英 [ˈməʊltən]   美 [ˈmoʊltən]  
+  * adj.熔化的;熔融的
