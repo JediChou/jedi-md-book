@@ -2871,3 +2871,33 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
 * molten
   * 英 [ˈməʊltən]   美 [ˈmoʊltən]  
   * adj.熔化的;熔融的
+
+## 2020.12.17
+
+* gleeful
+  * 英 [ˈɡliːfl]   美 [ˈɡliːfl]  
+  * adj.欢喜的;高兴的;幸灾乐祸的
+  * 派生词： gleefully adv.
+
+* whiff
+  * 英 [wɪf]   美 [wɪf]  
+  * n.一点儿气味;一股气味;轻微的迹象(或感觉);一点点;些许;挥空(击球未中)
+  * v.有臭味;发臭;挥空棒(击球未中)
+  * 第三人称单数： whiffs
+  * 复数： whiffs
+  * 现在分词： whiffing
+  * 过去式： whiffed
+  * 过去分词： whiffed
+
+* vaporize
+  * 英 [ˈveɪpəraɪz]   美 [ˈveɪpəraɪz]  
+  * v.(使)汽化，蒸发
+  * 第三人称单数： vaporizes
+  * 现在分词： vaporizing
+  * 过去式： vaporized
+  * 过去分词： vaporized
+  * 派生词： vaporization-isation n.
+
+* lactose
+  * 英 [ˈlæktəʊs]   美 [ˈlæktoʊs]  
+  * n.乳糖

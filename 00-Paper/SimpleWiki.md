@@ -1755,3 +1755,9 @@
 * [The Children's Blizzard](https://simple.wikipedia.org/wiki/The_Children%27s_Blizzard)
 * [Jusztin Nándor Takács](https://simple.wikipedia.org/wiki/Jusztin_N%C3%A1ndor_Tak%C3%A1cs)
 * [Ula Tirso](https://simple.wikipedia.org/wiki/Ula_Tirso)
+
+## 2020.12.17
+
+* [Keith Jobling](https://simple.wikipedia.org/wiki/Keith_Jobling)
+* [Charles the Bald](https://simple.wikipedia.org/wiki/Charles_the_Bald)
+* [Polymorphic code](https://simple.wikipedia.org/wiki/Polymorphic_code)
