@@ -2901,3 +2901,28 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
 * lactose
   * 英 [ˈlæktəʊs]   美 [ˈlæktoʊs]  
   * n.乳糖
+
+## 2020.12.18
+
+* pomegranate
+  * 英 [ˈpɒmɪɡrænɪt]   美 [ˈpɑːmɪɡrænɪt]  
+  * n.石榴
+  * 复数： pomegranates
+
+* yacht
+  * 英 [jɒt]   美 [jɑːt]  
+  * n.帆船;游艇;快艇
+  * 复数： yachts
+
+* rogue
+  * 英 [rəʊɡ]   美 [roʊɡ]  
+  * n.无赖;捣蛋鬼;骗子;恶棍;流氓
+  * adj.离群的;行为失常的;暴戾的
+  * vi.欺骗;[农]去劣[农]淘汰劣种;流浪
+  * 第三人称单数： rogues复数： rogues现在分词： roguing过去式： rogued过去分词： rogued
+  * 记忆技巧：rog 要求 + ue → 提出过分要求的人 → 无赖
+
+* diagnosed
+  * 英 [ˈdaɪəɡnəʊzd]   美 [ˌdaɪəɡˈnoʊst]  
+  * v.诊断(疾病);判断(问题的原因)
+  * diagnose的过去分词和过去式

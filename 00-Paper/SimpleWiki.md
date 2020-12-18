@@ -1761,3 +1761,10 @@
 * [Keith Jobling](https://simple.wikipedia.org/wiki/Keith_Jobling)
 * [Charles the Bald](https://simple.wikipedia.org/wiki/Charles_the_Bald)
 * [Polymorphic code](https://simple.wikipedia.org/wiki/Polymorphic_code)
+
+## 2020.12.18
+
+* [Granville, Iowa](https://simple.wikipedia.org/wiki/Granville,_Iowa)
+* [Molsheim](https://simple.wikipedia.org/wiki/Molsheim)
+* [David A. Granger](https://simple.wikipedia.org/wiki/David_A._Granger)
+* [Guyana](https://simple.wikipedia.org/wiki/Guyana)
