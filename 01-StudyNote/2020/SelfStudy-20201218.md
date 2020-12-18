@@ -61,3 +61,27 @@ Author: Jedi Chou, Create at 2020.12.18 8:11 AM
 * [C++/CLI 任务](https://docs.microsoft.com/zh-cn/cpp/dotnet/cpp-cli-tasks?view=msvc-160)
 * [开源项目：高级SQL Server监控、性能图、分析与优化、版本控制](https://www.cnblogs.com/unruledboy/archive/2011/12/05/SQLMon2.html)
 * [Advanced SQL Server Monitor with Performance Graph, Analysis and Version Control](https://www.codeproject.com/Articles/293658/Advanced-SQL-Server-Monitor-with-Performance-Graph)
+
+* 走读《The.Rust.Programming.Language.(Covers.Rust.2018).2019.8》. 10:35
+* 走读《Pro Visual C++ CLI and the .Net 3.5 Platform》. 13:35
+  * Question: 如何手动编译il代码? 11:38
+  * Question: ngen.exe到底是做什么的?其中的image是什么意思? 11:38
+  * ToBeSure: 在vsts2010中.net3.5和.net4.0都没有C++/CLI的Windows Service模板. 11:40
+  * il代码的编译环境或ide还真不好找. 16:22
+* 走读《Learning Redis》. 14:15
+  * Resource: Building Databases with Redis(Video)
+  * Rapid Redis(Video)
+  * Instant Redis Optimization How-to
+  * Building Scalable Apps with Redis and Node.js
+* 走读《Redis in Action》. 14:46
+  * Question: 如何监控Redis的性能. 14:21
+* 走读《Redis入门指南》
+  * 先走读一次. 16:19
+  * Jedi: 这本书还算是比较浅显的. 16:20
+  * 然后重昨日的实验处开始 **current**
+  * Notice: 注意比较Windows、Linux的区别
+
+* 走读《RabbitMQ实战》 **current**
+* 走读《Learning RabbitMQ-Packt Publishing(2015)》
+* 走读《RabbitMQ Essentials》
+* 走读《RabbitMQ in Action》
