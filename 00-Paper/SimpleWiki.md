@@ -1768,3 +1768,15 @@
 * [Molsheim](https://simple.wikipedia.org/wiki/Molsheim)
 * [David A. Granger](https://simple.wikipedia.org/wiki/David_A._Granger)
 * [Guyana](https://simple.wikipedia.org/wiki/Guyana)
+
+## 2020.12.21
+
+* [Rod Serling](https://simple.wikipedia.org/wiki/Rod_Serling)
+* [Sister Jean](https://simple.wikipedia.org/wiki/Sister_Jean)
+* [Graz-Umgebung](https://simple.wikipedia.org/wiki/Graz-Umgebung)
+* [Cupronickel](https://simple.wikipedia.org/wiki/Cupronickel)
+* [Zielebach](https://simple.wikipedia.org/wiki/Zielebach)
+* [Israel Museum](https://simple.wikipedia.org/wiki/Israel_Museum)
+* [Leszek Kołakowski](https://simple.wikipedia.org/wiki/Leszek_Ko%C5%82akowski)
+* [Jules Feiffer](https://simple.wikipedia.org/wiki/Jules_Feiffer)
+* [Metamorphism](https://simple.wikipedia.org/wiki/Metamorphism)

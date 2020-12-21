@@ -2926,3 +2926,24 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
   * 英 [ˈdaɪəɡnəʊzd]   美 [ˌdaɪəɡˈnoʊst]  
   * v.诊断(疾病);判断(问题的原因)
   * diagnose的过去分词和过去式
+
+## 2020.12.21
+
+* narrator
+  * 英 [nəˈreɪtə(r)]   美 [ˈnæreɪtər]  
+  * n.(书、戏剧或电影中的)叙述者，讲述者;(电视节目中的)幕后解说员;旁白员
+  * 复数： narrators
+
+* syndicated
+  * 英 [ˈsɪndɪkeɪtɪd]   美 [ˈsɪndɪkeɪtɪd]  
+  * v.把(文章、图片、电视节目等)出售给多个媒体
+  * syndicate的过去分词和过去式
+
+* Chaplain
+  * 英 [ˈtʃæplɪn]   美 [ˈtʃæplɪn]  
+  * 牧师;军中牧师;沙普兰;专职教士;随军牧师
+
+* brutal
+  * 英 [ˈbruːtl]   美 [ˈbruːtl]  
+  * adj.残暴的;兽性的;直截了当的;冷酷的
+  * 派生词： brutality n. brutally adv.
