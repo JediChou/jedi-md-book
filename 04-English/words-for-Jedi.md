@@ -2947,3 +2947,8 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
   * 英 [ˈbruːtl]   美 [ˈbruːtl]  
   * adj.残暴的;兽性的;直截了当的;冷酷的
   * 派生词： brutality n. brutally adv.
+
+* badge
+  * 英 [bædʒ]   美 [bædʒ]  
+  * n.徽章;奖章;(制服上的)标记，标识;证章;警徽
+  * 复数： badges

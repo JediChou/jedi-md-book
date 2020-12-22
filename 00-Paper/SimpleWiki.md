@@ -1780,3 +1780,9 @@
 * [Leszek Kołakowski](https://simple.wikipedia.org/wiki/Leszek_Ko%C5%82akowski)
 * [Jules Feiffer](https://simple.wikipedia.org/wiki/Jules_Feiffer)
 * [Metamorphism](https://simple.wikipedia.org/wiki/Metamorphism)
+
+## 2020.12.22
+
+* [Michael Curry (bishop)](https://simple.wikipedia.org/wiki/Michael_Curry_(bishop))
+* [Frédéric Joliot-Curie](https://simple.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Joliot-Curie)
+* [The Breach (1970 film)](https://simple.wikipedia.org/wiki/The_Breach_(1970_film))
