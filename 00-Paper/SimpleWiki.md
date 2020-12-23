@@ -1786,3 +1786,9 @@
 * [Michael Curry (bishop)](https://simple.wikipedia.org/wiki/Michael_Curry_(bishop))
 * [Frédéric Joliot-Curie](https://simple.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Joliot-Curie)
 * [The Breach (1970 film)](https://simple.wikipedia.org/wiki/The_Breach_(1970_film))
+
+## 2020.12.23
+
+* [Gun dog](https://simple.wikipedia.org/wiki/Gun_dog)
+* [Ice Ice Baby](https://simple.wikipedia.org/wiki/Ice_Ice_Baby)
+* [STS-122](https://simple.wikipedia.org/wiki/STS-122)
