@@ -2952,3 +2952,22 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
   * 英 [bædʒ]   美 [bædʒ]  
   * n.徽章;奖章;(制服上的)标记，标识;证章;警徽
   * 复数： badges
+
+## 2020.12.24
+
+* cat got your tongue, 无言以对
+
+* bozo
+  * 英 [ˈbəʊzəʊ]   美 [ˈboʊzoʊ]  
+  * n.傻瓜;笨蛋
+
+* eliminate: get rid of or do away with
+* sardine
+  * 英 [ˌsɑːˈdiːn]   美 [ˌsɑːrˈdiːn]  
+  * n.沙丁鱼
+  * vt.紧紧地裹起来;塞满
+  * 第三人称单数： sardines
+  * 复数： sardines
+  * 现在分词： sardining
+  * 过去式： sardined
+  * 过去分词： sardined

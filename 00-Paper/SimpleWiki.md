@@ -1792,3 +1792,9 @@
 * [Gun dog](https://simple.wikipedia.org/wiki/Gun_dog)
 * [Ice Ice Baby](https://simple.wikipedia.org/wiki/Ice_Ice_Baby)
 * [STS-122](https://simple.wikipedia.org/wiki/STS-122)
+
+## 2020.12.24
+
+* [Pi](https://simple.wikipedia.org/wiki/Pi)
+* [Sericulture](https://simple.wikipedia.org/wiki/Sericulture)
+* [El Paso, Texas](https://simple.wikipedia.org/wiki/El_Paso,_Texas)
