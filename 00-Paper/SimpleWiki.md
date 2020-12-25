@@ -1798,3 +1798,9 @@
 * [Pi](https://simple.wikipedia.org/wiki/Pi)
 * [Sericulture](https://simple.wikipedia.org/wiki/Sericulture)
 * [El Paso, Texas](https://simple.wikipedia.org/wiki/El_Paso,_Texas)
+
+## 2020.12.25
+
+* [David Pizarro](https://simple.wikipedia.org/wiki/David_Pizarro)
+* [Florianópolis](https://simple.wikipedia.org/wiki/Florian%C3%B3polis)
+* [AS-Val](https://simple.wikipedia.org/wiki/AS-Val)
