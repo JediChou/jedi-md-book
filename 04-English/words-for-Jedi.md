@@ -2971,3 +2971,91 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
   * 现在分词： sardining
   * 过去式： sardined
   * 过去分词： sardined
+
+## 2020.12.26
+
+* intent
+  * 英 [ɪnˈtent]   美 [ɪnˈtent]  
+  * adj.热切的;专注的;决心做(尤指伤害他人的事);专心;专注
+  * n.意图;意向;目的
+  * 复数： intents比较级： more intent最高级： most intent
+  * 派生词： intently adv.
+  * 记忆技巧：in 不 + tent 伸展 → 意图
+
+* verbose
+  * 英 [vɜːˈbəʊs]   美 [vɜːrˈboʊs]  
+  * adj.冗长的;啰唆的;唠叨的
+  * 派生词： verbosity n.
+  * 记忆技巧：verb 词语 + ose 多…的，有…性质的，如…的 → 啰嗦的
+
+* over there
+  * 英 [ˈəʊvə(r) ðeə(r)]   美 [ˈoʊvər ðer]  
+  * 在那边;到那边;在另一国
+
+* otherwise
+  * 英 [ˈʌðəwaɪz]   美 [ˈʌðərwaɪz]  
+  * adv.否则;不然;除此以外;在其他方面;另;亦
+  * 记忆技巧：other 另外的 + wise 方向，方式，状态 → 否则
+
+* occasional
+
+* whether or not
+  * 英 [ˈweðə(r) ɔː(r) nɒt]   美 [ˈweðər ɔːr nɑːt]  
+  * conj.是否
+
+* Featured Activities
+  * 英 [ˈfiːtʃəd ækˈtɪvɪtiz]   美 [ˈfiːtʃərd ækˈtɪvətiz]  
+  * 活动特色;特色活动
+
+* grab
+  * 英 [ɡræb]   美 [ɡræb]  
+  * v.抓住;攫取;(试图)抓住，夺得;利用，抓住(机会)
+  * n.猛然的抓取;突然的抢夺;抓取(或截取、采集)的图像;抓具;抓斗
+  * 第三人称单数： grabs复数： grabs现在分词： grabbing过去式： grabbed过去分词： grabbed
+
+* you clutch at it.
+* etymologist
+  * 词源学家;语源学;文字学家;语源学家
+
+* armor
+  * 英 [ˈɑːmə]   美 [ˈɑrmər]  
+  * n.装甲；盔甲
+  * v.为…装甲
+  * 第三人称单数： armors
+  * 现在分词： armoring
+  * 过去式： armored
+  * 过去分词： armored
+  * 记忆技巧：arm 武器 + or 表器物 → 盔甲
+
+* meteorite
+  * 英 [ˈmiːtiəraɪt]   美 [ˈmiːtiəraɪt]  
+  * n.陨石
+  * 复数： meteorites
+  * 记忆技巧：meteor 流星 + ite 物 → 陨星
+
+* Polaris
+  * 英 [pəˈlɑːrɪs]   美 [poʊˈlɛrəs]  
+  * n.北极星
+
+* tragic
+  * 英 [ˈtrædʒɪk]   美 [ˈtrædʒɪk]  
+  * adj.悲惨的;悲痛的;可悲的;悲剧的
+  * 派生词： tragically adv.
+
+* intimate
+  * 英 [ˈɪntɪmət , ˈɪntɪmeɪt]   美 [ˈɪntɪmət , ˈɪntɪmeɪt]  
+  * adj.亲密的;密切的;个人隐私的(常指性方面的);宜于密切关系的;温馨的;便于有性关系的
+  * v.透露;(间接)表示;暗示
+  * n.密友;至交;知己
+  * 第三人称单数： intimates
+  * 复数： intimates
+  * 现在分词： intimating
+  * 过去式： intimated
+  * 过去分词： intimated
+  * 比较级： more intimate
+  * 最高级： most intimate
+  * 派生词： intimately adv.
+  * 记忆技巧：intim 内心的 + ate 有…性质的 → 亲密的
+
+* Hydrogen
+* alkali

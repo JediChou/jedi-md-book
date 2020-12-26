@@ -1804,3 +1804,9 @@
 * [David Pizarro](https://simple.wikipedia.org/wiki/David_Pizarro)
 * [Florianópolis](https://simple.wikipedia.org/wiki/Florian%C3%B3polis)
 * [AS-Val](https://simple.wikipedia.org/wiki/AS-Val)
+
+## 2020.12.26
+
+* [The Eagle](https://simple.wikipedia.org/wiki/The_Eagle)
+* [s-block](https://simple.wikipedia.org/wiki/S-block)
+* [Antiknock agent](https://simple.wikipedia.org/wiki/Antiknock_agent)
