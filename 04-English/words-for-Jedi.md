@@ -3059,3 +3059,35 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
 
 * Hydrogen
 * alkali
+
+## 2020.12.28
+
+* alcoholic poison, 酒精中毒
+* AIDS (Acquired Immune Deficiency Syndrome)
+  * 艾滋病（获得性免疫缺陷综合症）
+
+* denture
+  * 英 [ˈdentʃə(r)]   美 [ˈdentʃər]  
+  * n.（一副）假牙
+  * 记忆技巧：dent 牙齿 + ure 表物 → 假牙
+
+* slid
+  * 英 [slɪd]   美 [slɪd]  
+  * v.(使)滑行，滑动;(使)快捷而悄声地移动;逐渐降低;贬值
+  * slide的过去分词和过去式
+
+* florist
+  * 英 [ˈflɒrɪst]   美 [ˈflɔːrɪst]  
+  * n.花商;花店
+  * 复数： florists
+
+* creep
+  * 英 [kriːp]   美 [kriːp]  
+  * v.悄悄地缓慢行进;蹑手蹑脚地移动;匍匐;爬行;非常缓慢地行进;不知不觉产生;渐渐出现
+  * n.讨厌鬼;讨好卖乖的人;谄媚奉承的人;马屁精
+  * 第三人称单数： creeps
+  * 现在分词： creeping
+  * 过去式： crept
+  * 过去分词： crept
+
+* first mentioned, 首先提到的

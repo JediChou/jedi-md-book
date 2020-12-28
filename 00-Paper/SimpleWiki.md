@@ -1810,3 +1810,9 @@
 * [The Eagle](https://simple.wikipedia.org/wiki/The_Eagle)
 * [s-block](https://simple.wikipedia.org/wiki/S-block)
 * [Antiknock agent](https://simple.wikipedia.org/wiki/Antiknock_agent)
+
+## 2020.12.28
+
+* [1983 Cricket World Cup](https://simple.wikipedia.org/wiki/1983_Cricket_World_Cup)
+* [Trnava](https://simple.wikipedia.org/wiki/Trnava)
+* [ProtonMail](https://simple.wikipedia.org/wiki/ProtonMail)
