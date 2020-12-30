@@ -1816,3 +1816,12 @@
 * [1983 Cricket World Cup](https://simple.wikipedia.org/wiki/1983_Cricket_World_Cup)
 * [Trnava](https://simple.wikipedia.org/wiki/Trnava)
 * [ProtonMail](https://simple.wikipedia.org/wiki/ProtonMail)
+
+## 2020.12.30
+
+* [Battlefield 3](https://simple.wikipedia.org/wiki/Battlefield_3)
+* [Anton Chigurh](https://simple.wikipedia.org/wiki/Anton_Chigurh)
+* [Rhine River](https://simple.wikipedia.org/wiki/Rhine_River)
+* [Cicero, Indiana](https://simple.wikipedia.org/wiki/Cicero,_Indiana)
+* [Video game publisher](https://simple.wikipedia.org/wiki/Video_game_publisher)
+* [Hendrick Chin A Sen](https://simple.wikipedia.org/wiki/Hendrick_Chin_A_Sen)
