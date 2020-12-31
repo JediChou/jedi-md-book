@@ -1825,3 +1825,18 @@
 * [Cicero, Indiana](https://simple.wikipedia.org/wiki/Cicero,_Indiana)
 * [Video game publisher](https://simple.wikipedia.org/wiki/Video_game_publisher)
 * [Hendrick Chin A Sen](https://simple.wikipedia.org/wiki/Hendrick_Chin_A_Sen)
+
+## 2020.12.31
+
+* [West Texas Intermediate](https://simple.wikipedia.org/wiki/West_Texas_Intermediate)
+* [Alan Sugar](https://simple.wikipedia.org/wiki/Alan_Sugar)
+* [Acoustics](https://simple.wikipedia.org/wiki/Acoustics)
+* [Birds of Prey](https://simple.wikipedia.org/wiki/Birds_of_Prey_(2020_movie))
+* [Tonbridge](https://simple.wikipedia.org/wiki/Tonbridge)
+* [Flywheel](https://simple.wikipedia.org/wiki/Flywheel)
+* [Bibb Falk](https://simple.wikipedia.org/wiki/Bibb_Falk)
+* [Caspian Airlines Flight 7908](https://simple.wikipedia.org/wiki/Caspian_Airlines_Flight_7908)
+* [Bill Blair (politician)](https://simple.wikipedia.org/wiki/Bill_Blair_(politician))
+* [John Wooden](https://simple.wikipedia.org/wiki/John_Wooden)
+* [Purdue University](https://simple.wikipedia.org/wiki/Purdue_University)
+* [Thallium(I) fluoride](https://simple.wikipedia.org/wiki/Thallium(I)_fluoride)

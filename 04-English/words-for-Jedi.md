@@ -3091,3 +3091,24 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
   * 过去分词： crept
 
 * first mentioned, 首先提到的
+
+## 2020.12.31
+
+* astonishing
+  * 英 [əˈstɒnɪʃɪŋ]   美 [əˈstɑːnɪʃɪŋ]  
+  * adj.令人十分惊讶的;使人大为惊奇的;难以置信的
+  * v.使十分惊讶;使大为惊奇;使吃惊
+  * astonish的现在分词
+  * 派生词： astonishingly adv.
+
+* fierce
+  * 英 [fɪəs]   美 [fɪrs]  
+  * adj.凶猛的;凶狠的;凶残的;狂热的;强烈的;猛烈的;狂暴的;恶劣的
+  * 比较级： fiercer
+  * 最高级： fiercest
+  * 派生词： fiercely adv. fierceness n.
+
+* acoustics
+  * 英 [əˈkuːstɪks]   美 [əˈkuːstɪks]  
+  * n.(房间、戏院的)传声效果，音响效果;声学
+  * acoustic的复数
