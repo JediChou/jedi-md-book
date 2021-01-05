@@ -1840,3 +1840,9 @@
 * [John Wooden](https://simple.wikipedia.org/wiki/John_Wooden)
 * [Purdue University](https://simple.wikipedia.org/wiki/Purdue_University)
 * [Thallium(I) fluoride](https://simple.wikipedia.org/wiki/Thallium(I)_fluoride)
+
+## 2021.1.4
+
+* [Down and Out in Beverly Hills](https://simple.wikipedia.org/wiki/Down_and_Out_in_Beverly_Hills)
+* [Students for a Democratic Society](https://simple.wikipedia.org/wiki/Students_for_a_Democratic_Society)
+* [Barn](https://simple.wikipedia.org/wiki/Barn)
