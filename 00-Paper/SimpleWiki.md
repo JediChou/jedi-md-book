@@ -1846,3 +1846,15 @@
 * [Down and Out in Beverly Hills](https://simple.wikipedia.org/wiki/Down_and_Out_in_Beverly_Hills)
 * [Students for a Democratic Society](https://simple.wikipedia.org/wiki/Students_for_a_Democratic_Society)
 * [Barn](https://simple.wikipedia.org/wiki/Barn)
+
+## 2021.1.5
+
+* [Smiths Ferry, Idaho](https://simple.wikipedia.org/wiki/Smiths_Ferry,_Idaho)
+* [St Davids Cathedral](https://simple.wikipedia.org/wiki/St_Davids_Cathedral)
+* [Special Olympics](https://simple.wikipedia.org/wiki/Special_Olympics)
+
+## 2021.1.6
+
+* [Herne, North Rhine-Westphalia](https://simple.wikipedia.org/wiki/Herne,_North_Rhine-Westphalia)
+* [S/2004 N 1](https://simple.wikipedia.org/wiki/S/2004_N_1)
+* [Royal Australian Navy](https://simple.wikipedia.org/wiki/Royal_Australian_Navy)

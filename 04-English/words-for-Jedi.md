@@ -3112,3 +3112,29 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
   * 英 [əˈkuːstɪks]   美 [əˈkuːstɪks]  
   * n.(房间、戏院的)传声效果，音响效果;声学
   * acoustic的复数
+
+## 2021.1.5
+
+* further
+* existent
+* ploy
+* asthma
+* burrow
+* piecewise
+* fractures, 骨折
+* nudge, 推一下
+* Liberty, 自由
+* attract, 吸引
+* gust, 突然
+
+## 2021.1.6
+
+* bird flu, 禽流感
+* sunk in thought：thinking deeply 沉思；深思
+* 政策稳定性, stability of the policy
+* diagonalize
+  * v.循对角线方向移动，斜向移动；使对角线化，与…斜向地成一行
+* sprout
+* shaggy
+* hoofed
+* revening, 報復
