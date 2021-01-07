@@ -3138,3 +3138,13 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
 * shaggy
 * hoofed
 * revening, 報復
+
+## 2021.1.7
+
+* volcanic
+  * 英 [vɒlˈkænɪk]   美 [vɑːlˈkænɪk]  
+  * adj.火山的;火山引起的;火山产生的
+
+* duo 一对表演者 ; 搭档
+* hit songs, 热门歌曲;劲歌金曲;畅销歌曲
+* solo, 独奏

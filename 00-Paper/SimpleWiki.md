@@ -1858,3 +1858,9 @@
 * [Herne, North Rhine-Westphalia](https://simple.wikipedia.org/wiki/Herne,_North_Rhine-Westphalia)
 * [S/2004 N 1](https://simple.wikipedia.org/wiki/S/2004_N_1)
 * [Royal Australian Navy](https://simple.wikipedia.org/wiki/Royal_Australian_Navy)
+
+## 2021.1.7
+
+* [Elspeth Howe](https://simple.wikipedia.org/wiki/Elspeth_Howe)
+* [Audi 80](https://simple.wikipedia.org/wiki/Audi_80)
+* [Indigo Girls](https://simple.wikipedia.org/wiki/Indigo_Girls)
