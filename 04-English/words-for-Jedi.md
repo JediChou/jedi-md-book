@@ -3148,3 +3148,74 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
 * duo 一对表演者 ; 搭档
 * hit songs, 热门歌曲;劲歌金曲;畅销歌曲
 * solo, 独奏
+
+## 2021.1.8
+
+* superb, 棒极了
+
+## 2021.1.16
+
+* words: any pointer?
+* islet, 冰島
+* inhabitants, 居民
+* sculptors, 雕塑家
+* franchise, 特許經營權，投票權
+* car rental, 租車
+
+* clench
+  * When you clench something, you grip, press, or squeeze it. You might clench your fists when you're angry or clench your teeth when you're worried, for example.
+
+* acid
+  * In technical terms, acid is a substance that can react with a base to make a salt. In practical terms, acid is the stuff you want to keep off your hands, or any part of you, because it will eat away your skin.
+  * Not all acids will eat skin away. The citric acid in oranges and other citrus fruits gives them their tasty tang. There is a hallucinogenic street drug called acid that eats away at the user’s sense of reality. Words sometimes have the qualities of acid. In acidic speech, words feel corrosive to the listener’s sensibilities. This one’s perhaps the most frequent and most destructive of all.
+
+* abducted
+  * To abduct someone is to commit the crime of kidnapping person and holding them for ransom.
+  * Being abducted is one of the worst things that can happen to you. Fortunately, it's very rare. To abduct is to kidnap — to take someone against their will and imprison them. After an abduction, the abductors (kidnappers) may send a ransom note, asking for money.
+
+* recoverable
+* mariner
+  * A mariner is someone who works on a boat or ship. A lobsterman who works alone on a small boat is a mariner, and so is the captain of an enormous cargo ship.
+  * Mariner is a somewhat old-fashioned word for a sailor or seafarer, a person who spends most of their working life on some kind of ocean vessel. Today, you're more likely to read about mariners in an old book than to meet people who describes themselves this way. Mariner comes from the Latin word marinus, "of the sea," and its root, mare, "the sea."
+
+* migraine, 偏頭痛
+  * A migraine is a severe headache. When you get a migraine, you'll probably want to stay in bed, in a dark room, until it passes.
+  * When you get a headache that's so painful that you can't work or function, you've probably got a migraine. It's usually women who get migraines, and you are either a person who gets migraines throughout your life, or you never get one at all. Migraines often come with side effects like nausea and blurred vision, and they often affect just one side of the head. The word comes from the Greek hemi-, "half" and kranion, "skull."
+
+* countless
+  * Countless means more than you could possibly count. If you have countless reasons why you love living in New York, there are so many reasons that you can't list them all.
+  * Countless is a good adjective to use when you want to emphasize how endless, huge, or immeasurable something is. Your could say that smoke detectors save countless lives each year, or that your principal has tried countless times to ban soda at school, only to be outvoted by the student council over and over. The word dates from the 16th century, from the verb count, with its Old French root, conter, "add up."
+
+* accurate, 精確的
+  * Something that is accurate is exact and true. It's important to be accurate in the kitchen with your measurements and in the courtroom with your testimony.
+  * The adjective accurate comes from the Latin roots ad curare, meaning "to take care," and that is precisely what you do when you make sure something is accurate. You take care to make sure it is perfectly correct: an accurate answer, an accurate headcount, an accurate assessment of the problem. By adding the Latin root in, meaning not, you can make the antonym inaccurate (not accurate).
+
+* individuality, 個性
+
+Whether it’s eating breakfast for lunch, learning Celtic step dancing, building birdhouses from popsicle sticks, showing off your shark tattoo, or speaking with an Australian accent on Tuesdays, all of these things can express your individuality, meaning what makes you unique.
+
+Use the noun individuality to refer to the sum total of characteristics that make up a particular individual. Individuality consists of the good, the bad — and even the crazy — that make a person distinct. The word can be describe the state or value of being unique, like the members of a group whose individuality makes for lively discussions, or a having your car painted a special color — neon green, perhaps? — to express the owner's individuality.
+
+* origami, 摺紙
+
+Have you ever folded a square sheet of paper into the shape of a crane? That's origami, the Japanese art of paper folding.
+
+Some origami is incredibly complicated and takes a long time to learn, while even small children can easily create simpler origami designs. Every piece of finished origami, whether it's a dog or an umbrella or a box, begins with a sheet of paper and specific folding techniques. Origami comes from two Japanese words, ori, "fold," and kami, "paper."
+
+* duet, 二重奏
+
+A duet is two people singing or playing musical instruments together. You and your brother might be a popular sidewalk duet with your fiddle-accordion combo.
+
+If you have tickets for a musical duet, you'll be watching and listening to two performers. You can also call the composition that's written for the two of them a duet, since it has parts for two instruments. Two dancers can also perform a duet, a dance especially choreographed for a couple. Duet stems from the Italian duetto, "musical composition for two voices," from duo, or "two."
+
+* volts
+
+A volt is one of the units of electricity, a way to measure the force that makes an electrical current flow. A car battery typically measures between 12 and 14 volts.
+
+Measuring electricity is complicated, but you can think of volts as the units of pressure a battery or generator exerts on a current of electricity to get it moving so it can produce power (for the electricity in your house, for example). Voltage is the overall term for this force. Both words come from the name of Alessandro Volta, the scientist who is considered by many to be the inventor of the electric battery.
+
+* Thought
+
+Thought is the process of using your mind to consider something. It can also be the product of that process: an idea or just the thing you're thinking about.
+
+Thought can also refer to the organized beliefs of a period, individual, or group. If you're writing an essay about the Reformation, you'll probably want to summarize early Catholic thought regarding free will and predestination. This word can also be used to describe a personal belief or judgment you can't prove or be entirely certain of.
