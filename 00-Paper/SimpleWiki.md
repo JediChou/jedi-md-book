@@ -1886,3 +1886,12 @@
 * [Social liberalism](https://simple.wikipedia.org/wiki/Social_liberalism)
 * [Hilton Hotels](https://simple.wikipedia.org/wiki/Hilton_Hotels)
 * [This is Me (Demi Lovato song)](https://simple.wikipedia.org/wiki/This_is_Me_(Demi_Lovato_song))
+
+## 2021.1.18
+
+* [Seljuk Sultanate of Rûm](https://simple.wikipedia.org/wiki/Seljuk_Sultanate_of_R%C3%BBm)
+* [Lovefool](https://simple.wikipedia.org/wiki/Lovefool)
+* [Bashkurdistan](https://simple.wikipedia.org/wiki/Bashkurdistan)
+* [Ben Kingsley](https://simple.wikipedia.org/wiki/Ben_Kingsley)
+* [Maisoncelles-la-Jourdan](https://simple.wikipedia.org/wiki/Maisoncelles-la-Jourdan)
+* [Administrator of the Northern Territory](https://simple.wikipedia.org/wiki/Administrator_of_the_Northern_Territory)

@@ -3219,3 +3219,44 @@ Measuring electricity is complicated, but you can think of volts as the units of
 Thought is the process of using your mind to consider something. It can also be the product of that process: an idea or just the thing you're thinking about.
 
 Thought can also refer to the organized beliefs of a period, individual, or group. If you're writing an essay about the Reformation, you'll probably want to summarize early Catholic thought regarding free will and predestination. This word can also be used to describe a personal belief or judgment you can't prove or be entirely certain of.
+
+## 2021.1.18
+
+* Graffiti
+
+Graffiti is a word, phrase, or image painted or drawn somewhere in public, like on the side of a building or on the walls in a restroom.
+
+Art or vandalism? That’s the debate about graffiti. For some people, graffiti looks ugly and damages the property where it’s left. Others consider graffiti a form of self-expression and a celebration of public spaces. The word comes from the Italian graffito, which means “a scratch,” and like a deep scratch, graffiti can be difficult to remove. It’s also difficult to spell, but remember that there are two fs and only one t and you’ll get it right every time.
+
+* acidic
+
+Something that's acidic has a sour or sharp taste. Lemonade, especially if it's light on the sugar, tastes very acidic.
+
+Citrus fruits have a typically acidic flavor, and they qualify as acidic in the scientific definition of the word as well. In chemistry, something that's acidic has a low pH, as opposed to a base, which has a higher pH. Various kinds of acids and vinegar are also acidic. The word comes from acid, which originally meant "of the taste of vinegar," from the Latin word acidus, "sour or sharp."
+
+* iguana, 大蜥蜴
+
+An iguana is a big lizard with distinctive spines running down its back. If you keep an iguana as a pet, you'll want to feed it a lot of fresh vegetables.
+
+Iguanas look a little intimidating, since they grow as large as six feet long to the tip of the tail and have a head that resembles a dinosaur. While pet iguanas can sometimes be somewhat aggressive, they can be tamed with enough handling. The word iguana is Spanish, and it comes from a West Indies language, Arawak, and its word for this particular kind of lizard, iwana.
+
+* clutch
+  * 英 [klʌtʃ]   美 [klʌtʃ]  
+  * v.紧握;抱紧;抓紧;(因害怕或痛苦)突然抓住
+  * n.(汽车等起换挡功能的)离合器踏板;(尤指发动机和排挡的)离合器;一群(人或动物);一批(物品)
+  * 第三人称单数： clutches
+  * 现在分词： clutching
+  * 过去式： clutched
+  * 过去分词： clutched
+
+* convincing
+
+When something is convincing, it makes people agree with what it claims to be true. Describe an argument as convincing if it wins you over and makes you believe in its rightness.
+
+To figure out what convincing means, remember that vincere is the Latin word for "to conquer." Add on the prefix con-, meaning "with," and you get something that has the ability to conquer — whether it's doubts, disbelief, or hostility. The suffix -ing tells you that the word describes the action or result of something. The result of a convincing argument is more people who have joined your side or cause.
+
+* Timber
+
+Timber! That's the call of warning you hear before a tree falls. That's because those lumberjacks are going to use the tree to make timber, otherwise known as "lumber" or the wood used for construction.
+
+Timber can actually be the trees used to make or build something, or the wood that comes from those trees, which you could also call "lumber." You might think that when a pirate yells "shiver me timbers!" he's referring to his wooden peg leg. But the timbers he's talking about are actually the boards and planks used to build the frame of a ship.
