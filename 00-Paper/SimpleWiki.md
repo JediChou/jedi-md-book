@@ -1895,3 +1895,9 @@
 * [Ben Kingsley](https://simple.wikipedia.org/wiki/Ben_Kingsley)
 * [Maisoncelles-la-Jourdan](https://simple.wikipedia.org/wiki/Maisoncelles-la-Jourdan)
 * [Administrator of the Northern Territory](https://simple.wikipedia.org/wiki/Administrator_of_the_Northern_Territory)
+
+## 2021.1.19
+
+* [Western pattern diet](https://simple.wikipedia.org/wiki/Western_pattern_diet)
+* [Wake Up to Wogan](https://simple.wikipedia.org/wiki/Wake_Up_to_Wogan)
+* [Oude IJsselstreek](https://simple.wikipedia.org/wiki/Oude_IJsselstreek)

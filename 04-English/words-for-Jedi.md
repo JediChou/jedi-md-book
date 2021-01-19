@@ -3260,3 +3260,11 @@ To figure out what convincing means, remember that vincere is the Latin word for
 Timber! That's the call of warning you hear before a tree falls. That's because those lumberjacks are going to use the tree to make timber, otherwise known as "lumber" or the wood used for construction.
 
 Timber can actually be the trees used to make or build something, or the wood that comes from those trees, which you could also call "lumber." You might think that when a pirate yells "shiver me timbers!" he's referring to his wooden peg leg. But the timbers he's talking about are actually the boards and planks used to build the frame of a ship.
+
+## 2021.1.19
+
+* triangle
+
+A triangle is a flat shape with three sides and three angles, like a slice of pizza, a yield sign, or the Greek letter delta. If you look carefully, you'll notice triangles all around you!
+
+A triangle is a polygon, which is a closed shape like a square or a hexagon, but a triangle has only three sides. Wedges of pie and some tortilla chips are shaped like triangles. If you invite your crush to a movie and they bring a date, you have yourself a love triangle. Triangle comes from the Latin word triangulus, "three-cornered" or "having three angles," from the roots tri-, "three," and angulus, "angle or corner."
