@@ -1288,7 +1288,7 @@
 * [杰辛达·阿德恩](https://zh.wikipedia.org/wiki/杰辛达·阿德恩)
 * [2020年巴黎教师斩首案](https://zh.wikipedia.org/wiki/2020年巴黎教师斩首案)
   * Samuel Paty
-* [愚民政策(https://zh.wikipedia.org/wiki/愚民政策)
+* [愚民政策](https://zh.wikipedia.org/wiki/愚民政策)
   * 民可，使由之；不可，使知之。
   * 民可使由之，不可使知之。
   * 文字狱是一种消灭社会知识分子，巩固政权的经典的愚民手段。
@@ -1901,3 +1901,10 @@
 * [Western pattern diet](https://simple.wikipedia.org/wiki/Western_pattern_diet)
 * [Wake Up to Wogan](https://simple.wikipedia.org/wiki/Wake_Up_to_Wogan)
 * [Oude IJsselstreek](https://simple.wikipedia.org/wiki/Oude_IJsselstreek)
+
+## 2021.1.20
+
+* [Kaldi (software)](https://en.wikipedia.org/wiki/Kaldi_(software))
+* [G0 phase](https://simple.wikipedia.org/wiki/G0_phase)
+* [Zonia Baber](https://simple.wikipedia.org/wiki/Zonia_Baber)
+* [Conway Springs, Kansas](https://simple.wikipedia.org/wiki/Conway_Springs,_Kansas)

@@ -2620,7 +2620,7 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
   * 记忆技巧：en 使… + dur 持久；坚硬的 + e → 持久，耐久
 
 * fort
-  * 英 [fɔːt]  美 [fɔːrt] 
+  * 英 [fɔːt]  美 [fɔːrt]
   * n. 堡垒；要塞；（美）边界贸易站
   * vt. 设要塞保卫
   * vi. 构筑要塞
@@ -2628,7 +2628,7 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
   * [ 复数 forts ]
 
 * crumple
-  * 英 [ˈkrʌmpl]  美 [ˈkrʌmpl] 
+  * 英 [ˈkrʌmpl]  美 [ˈkrʌmpl]
   * vt. 弄皱；使一蹶不振
   * vi. 起皱；倒坍；一蹶不振
   * n. 皱纹；褶皱
@@ -3174,6 +3174,7 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
   * Being abducted is one of the worst things that can happen to you. Fortunately, it's very rare. To abduct is to kidnap — to take someone against their will and imprison them. After an abduction, the abductors (kidnappers) may send a ransom note, asking for money.
 
 * recoverable
+
 * mariner
   * A mariner is someone who works on a boat or ship. A lobsterman who works alone on a small boat is a mariner, and so is the captain of an enormous cargo ship.
   * Mariner is a somewhat old-fashioned word for a sailor or seafarer, a person who spends most of their working life on some kind of ocean vessel. Today, you're more likely to read about mariners in an old book than to meet people who describes themselves this way. Mariner comes from the Latin word marinus, "of the sea," and its root, mare, "the sea."
@@ -3192,53 +3193,53 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
 
 * individuality, 個性
 
-Whether it’s eating breakfast for lunch, learning Celtic step dancing, building birdhouses from popsicle sticks, showing off your shark tattoo, or speaking with an Australian accent on Tuesdays, all of these things can express your individuality, meaning what makes you unique.
+  * Whether it’s eating breakfast for lunch, learning Celtic step dancing, building birdhouses from popsicle sticks, showing off your shark tattoo, or speaking with an Australian accent on Tuesdays, all of these things can express your individuality, meaning what makes you unique.
 
-Use the noun individuality to refer to the sum total of characteristics that make up a particular individual. Individuality consists of the good, the bad — and even the crazy — that make a person distinct. The word can be describe the state or value of being unique, like the members of a group whose individuality makes for lively discussions, or a having your car painted a special color — neon green, perhaps? — to express the owner's individuality.
+  * Use the noun individuality to refer to the sum total of characteristics that make up a particular individual. Individuality consists of the good, the bad — and even the crazy — that make a person distinct. The word can be describe the state or value of being unique, like the members of a group whose individuality makes for lively discussions, or a having your car painted a special color — neon green, perhaps? — to express the owner's individuality.
 
 * origami, 摺紙
 
-Have you ever folded a square sheet of paper into the shape of a crane? That's origami, the Japanese art of paper folding.
+  * Have you ever folded a square sheet of paper into the shape of a crane? That's origami, the Japanese art of paper folding.
 
-Some origami is incredibly complicated and takes a long time to learn, while even small children can easily create simpler origami designs. Every piece of finished origami, whether it's a dog or an umbrella or a box, begins with a sheet of paper and specific folding techniques. Origami comes from two Japanese words, ori, "fold," and kami, "paper."
+  * Some origami is incredibly complicated and takes a long time to learn, while even small children can easily create simpler origami designs. Every piece of finished origami, whether it's a dog or an umbrella or a box, begins with a sheet of paper and specific folding techniques. Origami comes from two Japanese words, ori, "fold," and kami, "paper."
 
 * duet, 二重奏
 
-A duet is two people singing or playing musical instruments together. You and your brother might be a popular sidewalk duet with your fiddle-accordion combo.
+  * A duet is two people singing or playing musical instruments together. You and your brother might be a popular sidewalk duet with your fiddle-accordion combo.
 
-If you have tickets for a musical duet, you'll be watching and listening to two performers. You can also call the composition that's written for the two of them a duet, since it has parts for two instruments. Two dancers can also perform a duet, a dance especially choreographed for a couple. Duet stems from the Italian duetto, "musical composition for two voices," from duo, or "two."
+  * If you have tickets for a musical duet, you'll be watching and listening to two performers. You can also call the composition that's written for the two of them a duet, since it has parts for two instruments. Two dancers can also perform a duet, a dance especially choreographed for a couple. Duet stems from the Italian duetto, "musical composition for two voices," from duo, or "two."
 
 * volts
 
-A volt is one of the units of electricity, a way to measure the force that makes an electrical current flow. A car battery typically measures between 12 and 14 volts.
+  * A volt is one of the units of electricity, a way to measure the force that makes an electrical current flow. A car battery typically measures between 12 and 14 volts.
 
-Measuring electricity is complicated, but you can think of volts as the units of pressure a battery or generator exerts on a current of electricity to get it moving so it can produce power (for the electricity in your house, for example). Voltage is the overall term for this force. Both words come from the name of Alessandro Volta, the scientist who is considered by many to be the inventor of the electric battery.
+  * Measuring electricity is complicated, but you can think of volts as the units of pressure a battery or generator exerts on a current of electricity to get it moving so it can produce power (for the electricity in your house, for example). Voltage is the overall term for this force. Both words come from the name of Alessandro Volta, the scientist who is considered by many to be the inventor of the electric battery.
 
 * Thought
 
-Thought is the process of using your mind to consider something. It can also be the product of that process: an idea or just the thing you're thinking about.
+  * Thought is the process of using your mind to consider something. It can also be the product of that process: an idea or just the thing you're thinking about.
 
-Thought can also refer to the organized beliefs of a period, individual, or group. If you're writing an essay about the Reformation, you'll probably want to summarize early Catholic thought regarding free will and predestination. This word can also be used to describe a personal belief or judgment you can't prove or be entirely certain of.
+  * Thought can also refer to the organized beliefs of a period, individual, or group. If you're writing an essay about the Reformation, you'll probably want to summarize early Catholic thought regarding free will and predestination. This word can also be used to describe a personal belief or judgment you can't prove or be entirely certain of.
 
 ## 2021.1.18
 
 * Graffiti
 
-Graffiti is a word, phrase, or image painted or drawn somewhere in public, like on the side of a building or on the walls in a restroom.
+  * Graffiti is a word, phrase, or image painted or drawn somewhere in public, like on the side of a building or on the walls in a restroom.
 
-Art or vandalism? That’s the debate about graffiti. For some people, graffiti looks ugly and damages the property where it’s left. Others consider graffiti a form of self-expression and a celebration of public spaces. The word comes from the Italian graffito, which means “a scratch,” and like a deep scratch, graffiti can be difficult to remove. It’s also difficult to spell, but remember that there are two fs and only one t and you’ll get it right every time.
+  * Art or vandalism? That’s the debate about graffiti. For some people, graffiti looks ugly and damages the property where it’s left. Others consider graffiti a form of self-expression and a celebration of public spaces. The word comes from the Italian graffito, which means “a scratch,” and like a deep scratch, graffiti can be difficult to remove. It’s also difficult to spell, but remember that there are two fs and only one t and you’ll get it right every time.
 
 * acidic
 
-Something that's acidic has a sour or sharp taste. Lemonade, especially if it's light on the sugar, tastes very acidic.
+  * Something that's acidic has a sour or sharp taste. Lemonade, especially if it's light on the sugar, tastes very acidic.
 
-Citrus fruits have a typically acidic flavor, and they qualify as acidic in the scientific definition of the word as well. In chemistry, something that's acidic has a low pH, as opposed to a base, which has a higher pH. Various kinds of acids and vinegar are also acidic. The word comes from acid, which originally meant "of the taste of vinegar," from the Latin word acidus, "sour or sharp."
+  * Citrus fruits have a typically acidic flavor, and they qualify as acidic in the scientific definition of the word as well. In chemistry, something that's acidic has a low pH, as opposed to a base, which has a higher pH. Various kinds of acids and vinegar are also acidic. The word comes from acid, which originally meant "of the taste of vinegar," from the Latin word acidus, "sour or sharp."
 
 * iguana, 大蜥蜴
 
-An iguana is a big lizard with distinctive spines running down its back. If you keep an iguana as a pet, you'll want to feed it a lot of fresh vegetables.
+  * An iguana is a big lizard with distinctive spines running down its back. If you keep an iguana as a pet, you'll want to feed it a lot of fresh vegetables.
 
-Iguanas look a little intimidating, since they grow as large as six feet long to the tip of the tail and have a head that resembles a dinosaur. While pet iguanas can sometimes be somewhat aggressive, they can be tamed with enough handling. The word iguana is Spanish, and it comes from a West Indies language, Arawak, and its word for this particular kind of lizard, iwana.
+  * Iguanas look a little intimidating, since they grow as large as six feet long to the tip of the tail and have a head that resembles a dinosaur. While pet iguanas can sometimes be somewhat aggressive, they can be tamed with enough handling. The word iguana is Spanish, and it comes from a West Indies language, Arawak, and its word for this particular kind of lizard, iwana.
 
 * clutch
   * 英 [klʌtʃ]   美 [klʌtʃ]  
@@ -3251,20 +3252,67 @@ Iguanas look a little intimidating, since they grow as large as six feet long to
 
 * convincing
 
-When something is convincing, it makes people agree with what it claims to be true. Describe an argument as convincing if it wins you over and makes you believe in its rightness.
+  * When something is convincing, it makes people agree with what it claims to be true. Describe an argument as convincing if it wins you over and makes you believe in its rightness.
 
-To figure out what convincing means, remember that vincere is the Latin word for "to conquer." Add on the prefix con-, meaning "with," and you get something that has the ability to conquer — whether it's doubts, disbelief, or hostility. The suffix -ing tells you that the word describes the action or result of something. The result of a convincing argument is more people who have joined your side or cause.
+  * To figure out what convincing means, remember that vincere is the Latin word for "to conquer." Add on the prefix con-, meaning "with," and you get something that has the ability to conquer — whether it's doubts, disbelief, or hostility. The suffix -ing tells you that the word describes the action or result of something. The result of a convincing argument is more people who have joined your side or cause.
 
 * Timber
 
-Timber! That's the call of warning you hear before a tree falls. That's because those lumberjacks are going to use the tree to make timber, otherwise known as "lumber" or the wood used for construction.
+  * Timber! That's the call of warning you hear before a tree falls. That's because those lumberjacks are going to use the tree to make timber, otherwise known as "lumber" or the wood used for construction.
 
-Timber can actually be the trees used to make or build something, or the wood that comes from those trees, which you could also call "lumber." You might think that when a pirate yells "shiver me timbers!" he's referring to his wooden peg leg. But the timbers he's talking about are actually the boards and planks used to build the frame of a ship.
+  * Timber can actually be the trees used to make or build something, or the wood that comes from those trees, which you could also call "lumber." You might think that when a pirate yells "shiver me timbers!" he's referring to his wooden peg leg. But the timbers he's talking about are actually the boards and planks used to build the frame of a ship.
 
 ## 2021.1.19
 
 * triangle
 
-A triangle is a flat shape with three sides and three angles, like a slice of pizza, a yield sign, or the Greek letter delta. If you look carefully, you'll notice triangles all around you!
+  * A triangle is a flat shape with three sides and three angles, like a slice of pizza, a yield sign, or the Greek letter delta. If you look carefully, you'll notice triangles all around you!
 
-A triangle is a polygon, which is a closed shape like a square or a hexagon, but a triangle has only three sides. Wedges of pie and some tortilla chips are shaped like triangles. If you invite your crush to a movie and they bring a date, you have yourself a love triangle. Triangle comes from the Latin word triangulus, "three-cornered" or "having three angles," from the roots tri-, "three," and angulus, "angle or corner."
+  * A triangle is a polygon, which is a closed shape like a square or a hexagon, but a triangle has only three sides. Wedges of pie and some tortilla chips are shaped like triangles. If you invite your crush to a movie and they bring a date, you have yourself a love triangle. Triangle comes from the Latin word triangulus, "three-cornered" or "having three angles," from the roots tri-, "three," and angulus, "angle or corner."
+
+## 2021.1.20
+
+* sentry
+
+  * A sentry is someone who stands guard or watches against some intrusion or unwelcome activity. Your dog stands sentry over your house, but he would be more effective if he barked at strangers instead of licking their hands.
+
+  * The noun sentry came from the French sentinelle, which has a similar meaning. It was in the 17th Century that the word was first associated with someone on a watchtower as a military guard. You could only enter the dreaded ice fortress after sneaking past the sentry posted outside. Don't let his button eyes and carrot nose fool you — he's a sharp one!
+
+* lunar
+
+  * The adjective lunar is used to describe something that is related to the moon. If you like astronomy, you probably enjoy lunar eclipses, when the Earth casts its shadow on the moon.
+
+  * Lunar comes from the Latin word luna, meaning moon. The Roman goddess of the moon is called Luna (Selene in Greek mythology). There are lunar eclipses, a lunar calendar, lunar tides, and lunar orbits. Maybe you want to be the first live-in chef on a lunar space station. You can also hear lunar in the word lunatic — they used to think insanity was related to the cycles of the moon.
+
+* Marshy
+
+  * Marshy things are squishy, wet, and soft, like a marsh or a bog. After three days of rain, your backyard just might be too marshy to set up the volleyball net.
+
+  * Any area of ground that's waterlogged is marshy, like the marshy shore of a river or the low-lying marshy patch in the neighborhood dog park. Unless there's a drought, swamps and bogs and wetlands are always marshy, and water-loving plants grow happily in these areas. This adjective comes from marsh, which has a Germanic root, mari, that means "sea."
+
+* infect
+
+  * To infect is to spread an illness to another person. If you sneeze on your friend, you may inadvertently infect her with your germs.
+
+  * When a disease moves from person to person, it infects them. Most diseases only spread within one species, although there are some, like avian flu, that can infect both humans and other animals. Another way to infect someone is to deeply affect them with an idea or emotion: "His enthusiasm for music infects the class with excitement." The Latin root, inficere, means "to spoil or stain" and "to dip into."
+
+* pediatrician
+  
+  * A pediatrician is a doctor who specializes in the care of children. When a sick child goes to visit the pediatrician, often there are toys and other things to play with in the waiting room.
+  
+  * The word pediatrician has only been in use since the turn of the 20th century. Some people also use the word pediatrist to mean the same thing — a doctor who specializes in treating children ranging from newborn babies to adolescents. Pediatricians study pediatrics, both of which stem from a form of the Greek pais "children." The remainder of the word comes from the Greek iatros "healer."
+
+* anti
+  * 英 [ˈænti]   美 [ˈænti]  
+  * prep.反对
+  * n.反对者
+  * 复数：antis
+
+* annotation
+  * 英 [ˌænəˈteɪʃn]   美 [ˌænəˈteɪʃn]  
+  * n.注解;评注;注文;释文
+  * 复数： annotations
+  * 记忆技巧：an 加强 + not 标记 + ation 行为 → 注解
+
+* decorator, 裝飾
+* Cloudflare, (不明白這是個啥)
