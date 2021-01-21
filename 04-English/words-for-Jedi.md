@@ -3316,3 +3316,14 @@ Imperial College London Tackles a Big Question for Hepatitis C in China, India, 
 
 * decorator, 裝飾
 * Cloudflare, (不明白這是個啥)
+
+## 2021.1.21
+
+* pitchfork
+  
+  * A pitchfork is a large three-pronged tool used for gardening or farming. If you want to see an image of a pitchfork, just google an image of the famous painting "American Gothic."
+
+  * With a pitchfork, a farmer can easily scoop beneath a pile of hay or straw, lift it, and toss it into a pile. Most pitchforks have wooden handles and metal prongs, and they've been around since the Middle Ages. Back then, they were sometimes used as a weapon too. The word pitchfork comes from the "toss or throw" meaning of pitch, plus fork, from the Old English forca, "forked instrument or weapon."
+
+* artifacts
+* render, rendering
