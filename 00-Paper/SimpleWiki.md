@@ -1914,3 +1914,52 @@
 * [Keshubhai Patel](https://simple.wikipedia.org/wiki/Keshubhai_Patel)
 * [Castelviel](https://simple.wikipedia.org/wiki/Castelviel)
 * [Mondragon, Vaucluse](https://simple.wikipedia.org/wiki/Mondragon,_Vaucluse)
+
+## 2021.1.22
+
+* [Setques](https://simple.wikipedia.org/wiki/Setques)
+* [Patrick Manning](https://simple.wikipedia.org/wiki/Patrick_Manning)
+* [Siege of Orleans](https://simple.wikipedia.org/wiki/Siege_of_Orleans)
+* [赛珍珠](https://baike.baidu.com/item/赛珍珠)
+
+## 2021.1.25
+
+* [Alachua County, Florida](https://simple.wikipedia.org/wiki/Alachua_County,_Florida)
+* [Eusebio Leal](https://simple.wikipedia.org/wiki/Eusebio_Leal)
+* [A Head Full of Dreams](https://simple.wikipedia.org/wiki/A_Head_Full_of_Dreams)
+* [President pro tempore of the Senate of the Philippines](https://simple.wikipedia.org/wiki/President_pro_tempore_of_the_Senate_of_the_Philippines)
+* [Ayutthaya (city)](https://simple.wikipedia.org/wiki/Ayutthaya_(city))
+* [Jason Jaspers](https://simple.wikipedia.org/wiki/Jason_Jaspers)
+* [Abrest](https://simple.wikipedia.org/wiki/Abrest)
+* [Tampa Bay Area](https://simple.wikipedia.org/wiki/Tampa_Bay_Area)
+* [La Bouilladisse](https://simple.wikipedia.org/wiki/La_Bouilladisse)
+
+## 2021.2.2
+
+* [类脑计算机](https://baike.baidu.com/item/类脑计算机/53916947)
+  * 理想类脑计算平台的主要特点分为网络构建、本身特性和性能优势三个方面。通过构建类似大脑的**神经元算子**、**网络计算模型**、**信息编码理论**、**突触学习规则**等，设计与之对应的大规模集成电路平台，建立与之匹配的网络拓扑结构映射与通信路由方法，从而产生类似大脑的*层级处理*、*时空关联*、*大规模分布并行*与*存储处理一体化*等关键特性，并获得高速实时、高能效、自适应调节以及功能的通用性与多样化等诸多优势。
+  * 存储墙效应
+  * 类脑计算技术路线总体上可分为三个层次：*结构层次模仿脑*，*器件层次逼近脑*，*智能层次超越脑*。
+  * 1952年，英国科学家霍奇金和赫胥黎提出了以两人命名的*HH方程，精确刻画了单个神经元放电的非线性动力学过程*
+  * 类脑计算研究的目标是制造出类脑计算机，其硬件主体是大规模神经形态芯片，这种芯片主要包括*神经元阵列*和*突触阵列*两大部分，前者通过后者互联，一种典型连接结构是纵横交叉，使得一个神经元和上千乃至上万其他神经元连接，而且这种连接还可以是软件定义和调整的。
+
+## 2021.2.3
+
+* [Ryan McHenry](https://simple.wikipedia.org/wiki/Ryan_McHenry)
+* [Miar Glacier](https://simple.wikipedia.org/wiki/Miar_Glacier)
+* [Vandiyur Mariamman Teppakulam](https://simple.wikipedia.org/wiki/Vandiyur_Mariamman_Teppakulam)
+* [Jinder Mahal](https://simple.wikipedia.org/wiki/Jinder_Mahal)
+* [Morphogenesis](https://simple.wikipedia.org/wiki/Morphogenesis)
+* [Bode, Iowa](https://simple.wikipedia.org/wiki/Bode,_Iowa)
+* [Central Pier, Blackpool](https://simple.wikipedia.org/wiki/Central_Pier,_Blackpool)
+* [Goyo Benito](https://simple.wikipedia.org/wiki/Goyo_Benito)
+* [Statute of limitations](https://simple.wikipedia.org/wiki/Statute_of_limitations)
+* [Ara (constellation)](https://simple.wikipedia.org/wiki/Ara_(constellation))
+* [Zugangserschwerungsgesetz](https://simple.wikipedia.org/wiki/Zugangserschwerungsgesetz)
+* [Clinton Morrison](https://simple.wikipedia.org/wiki/Clinton_Morrison)
+* [Ortonville, Minnesota](https://simple.wikipedia.org/wiki/Ortonville,_Minnesota)
+* [Linköpings FC](https://simple.wikipedia.org/wiki/Link%C3%B6pings_FC)
+* [Champis, Ardèche](https://simple.wikipedia.org/wiki/Champis,_Ard%C3%A8che)
+* [Gilhoc-sur-Ormèze](https://simple.wikipedia.org/wiki/Gilhoc-sur-Orm%C3%A8ze)
+* [Jungguy frog](https://simple.wikipedia.org/wiki/Jungguy_frog)
+* [Heterodoxy](https://simple.wikipedia.org/wiki/Heterodoxy)
