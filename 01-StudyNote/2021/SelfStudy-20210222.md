@@ -1,37 +1,35 @@
 # Self Study
 
-Author: Jedi Chou, Create at 2021.2.19 7:46 PM
+Author: Jedi Chou, Create at 2021.2.22 7:46 PM
 
 * Daily study
-  * 101WeiQi daily exercise check-in
-  * Don't memorize words APP check-in
-  * 163 music APP check-in
-  * NowCoder check-in
-  * Tencent cartoon APP check-in
-  * Read Sina Blog
-  * Read articles and check interview invitation (MaiMai APP)
-  * reading 163.com mails
+  * 101WeiQi daily exercise check-in. 10:33, 10:42
+  * Don't memorize words APP check-in. 10:42
+  * 163 music APP check-in. 10:42
+  * NowCoder check-in. 10:43
+  * Tencent cartoon APP check-in. 10:43
+  * Read articles and check interview invitation (MaiMai APP). 10:44
+  * Read Sina Blog. 10:49
+  * reading 163.com mails. 12:01
   * Exercise of Vocabulary (vocabulary.com)
-  * Reading 1 minutes at SIMPLE wiki
+    * 11:56, 12:39, 12:40, 12:59, 13:37
+    * 13:46, 13:59, 14:06, 14:25, 14:45
+    * 15:14, 16:18, 16:22, 16:26, 16:35
+    * 16:40, 16:43, 16:47, 16:52, 16:56
+  * Reading 1 minutes at SIMPLE wiki. 20:01
 
 ## Other
 
 * Go Game check
-  * Leela Zero vs Leela Zero. 10:20
-  * Leela Zero vs Leela Zero. 12:20
-  * Leela Zero vs Leela Zero. 12:25
-  * Leela Zero vs Leela Zero. 12:30
-  * Leela Zero vs Leela Zero. 12:37
-  * Leela Zero vs Leela Zero. 12:43
-  * Leela Zero vs Leela Zero. 12:48
-  * Leela Zero vs Leela Zero. 12:51
-  * Leela Zero vs Leela Zero. 12:56
-  * Leela Zero vs Leela Zero. 13:01
-  * Leela Zero vs Leela Zero. 13:05
-  * Leela Zero vs Leela Zero. 13:12
-  * Leela Zero vs Leela Zero. 13:19
-  * Leela Zero vs Leela Zero. 13:25
-  * Leela Zero vs Leela Zero. 13:32
+  * Leela Zero vs Leela Zero. 9:30
+  * Leela Zero vs Leela Zero. 10:50
+  * Leela Zero vs Leela Zero. 10:54
+  * Leela Zero vs Leela Zero. 10:58
+  * Leela Zero vs Leela Zero. 11:02
+  * Leela Zero vs Leela Zero. 11:08
+  * Leela Zero vs Leela Zero. 11:13
+  * Leela Zero vs Leela Zero. 11:19
+  * Leela Zero vs Leela Zero. 11:22
 
 * C# Basic
   * C# syntax
@@ -46,6 +44,10 @@ Author: Jedi Chou, Create at 2021.2.19 7:46 PM
 * C# Basic 2
   * File I/O
   * XML, Json
+  * Rex
+  * Reflection
+  * Call Win32 API
+  * System register
 
 * hbuilder + qfedu-vue2and3
 * Atari2600, Atari800 XL, [www.8dot8.org](http://www.8dot8.org/), Nmap, Kali Linux, Spiderfoot
@@ -135,3 +137,9 @@ Https://10.153.24.98;Http://10.153.24.98;Http://10.134.33.98;Http://10.98.29.190
 Prometheus
 EVE-NG, RouterOS, SD-WAN
 talk to the hand
+
+* Tips at 2021.2.19
+  * powershell: measure-command { ipmo Microsoft.PowerShell.Management }. 10:17
+  * pandas, scilib, numpy
+* Tips at 2021.2.22
+  * powershell: format-hex ?

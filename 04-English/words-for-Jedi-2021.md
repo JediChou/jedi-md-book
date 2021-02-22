@@ -365,3 +365,69 @@
 * discs
 * basin
 * Heterodoxy, 異端 (Jedi: 強烈的貶義詞)
+
+## 2021.2.22
+
+* Miscellaneous
+* bump
+* shallow
+* precedence
+* this does not make scene
+* revocation
+* This is a nice write up of how to get performance for disconnected systems.
+* consecutive
+* Consul
+* problematic
+* extracting
+* 渌
+* 滠
+* pesky
+* meteorite
+* appetite
+* wheelbarrow
+* butterfingers,clumsy
+* shoreline
+* duel
+* bib
+* melody
+* savanna
+* braille
+* vex
+* astonishingly
+* kettle
+* famine
+* greased
+* postpone
+* balding, toupees
+* torment
+* shaky, wobbly
+* appetizer
+* noble
+* taunt
+* revolt
+* ensure
+* prey
+* mannerly
+* poverty
+* tablespoon
+* underdose
+* syllabification
+* Federal
+* crave
+* closeup
+* disobey
+* decontaminate
+* betray
+* trait
+* regardless
+* babbling
+* instant
+* wealthy
+* Treasure
+* carefree
+* 懋 (mào)
+* hit-man: 殺手
+* hostage: 人質
+* nominated: 提名
+* drama movie: 戏剧电影
+* basin: 盆地
