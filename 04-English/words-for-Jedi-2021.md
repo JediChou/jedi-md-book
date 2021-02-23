@@ -422,7 +422,7 @@
 * regardless
 * babbling
 * instant
-* wealthy
+* wealthy: 富有的
 * Treasure
 * carefree
 * 懋 (mào)
@@ -431,3 +431,22 @@
 * nominated: 提名
 * drama movie: 戏剧电影
 * basin: 盆地
+
+## 2021.2.23
+
+* 📖 财政赤字率, deficit-to-GDP ratio
+* 📖 诉讼制度, the system of legal proceedings
+* ✍ dialysis machine, 透析机
+* logos: ✅
+* ✍ eatery: 食堂
+* ✍ at all: 完全
+* ✍ to small to see, 太小了看不见
+* ✍ pragmatic: 务实
+* doze: 打瞌睡
+* stroller: 闲逛
+* ✍ amusement: 娱乐
+* claw: 爪子
+* ✍ cantaloupe: 哈密瓜
+* sap: 活力
+* onset: 攻擊
+* 讦jié，本意是指用言论遮掩自己的隐私

@@ -2026,3 +2026,9 @@
 * [Fertile Crescent](https://simple.wikipedia.org/wiki/Fertile_Crescent)
 * [La Roche-sur-Yon](https://simple.wikipedia.org/wiki/La_Roche-sur-Yon)
 * [La Folletière-Abenon](https://simple.wikipedia.org/wiki/La_Folleti%C3%A8re-Abenon)
+
+## 2021.2.23
+
+* [Gita Ramjee](https://simple.wikipedia.org/wiki/Gita_Ramjee)
+* [Letter box](https://simple.wikipedia.org/wiki/Letter_box)
+* [Pan-Arab colors](https://simple.wikipedia.org/wiki/Pan-Arab_colors)
