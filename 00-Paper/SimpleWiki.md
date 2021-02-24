@@ -2032,3 +2032,9 @@
 * [Gita Ramjee](https://simple.wikipedia.org/wiki/Gita_Ramjee)
 * [Letter box](https://simple.wikipedia.org/wiki/Letter_box)
 * [Pan-Arab colors](https://simple.wikipedia.org/wiki/Pan-Arab_colors)
+
+## 2021.2.24
+
+* [Armitage Shanks](https://simple.wikipedia.org/wiki/Armitage_Shanks)
+* [Särkänniemi](https://simple.wikipedia.org/wiki/S%C3%A4rk%C3%A4nniemi)
+* [Evolution](https://simple.wikipedia.org/wiki/Evolution)
