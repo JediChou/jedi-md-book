@@ -801,3 +801,110 @@ background: var(--penguin-skin);
     --penguin-belly: pink;
   }
 ```
+
+* 更改特定区域的变量
+
+```html
+<style>
+  :root {
+    --penguin-skin: gray;
+    --penguin-belly: pink;
+    --penguin-beak: orange;
+  }
+
+  body {
+    background: var(--penguin-belly, #c6faf1);
+  }
+
+  .penguin {
+    /* 只修改这一行下面的代码 */
+    --penguin-belly : white;
+    /* 只修改这一行上面的代码 */
+    position: relative;
+    margin: auto;
+    display: block;
+    margin-top: 5%;
+    width: 300px;
+    height: 300px;
+  }
+```
+
+* 使用媒体查询更改变量
+
+  * CSS 变量可以简化媒体查询的定义方式。
+  * 例如，当屏幕小于或大于媒体查询所设置的值，只要我们更新变量的值，那么使用了此变量的元素样式就都会更改。
+  * 在 media query（媒体查询）声明的 :root 选择器里，重定义 --penguin-size 的值为 200px。 同时，重新定义 --penguin-skin 的值为 black， 然后通过缩放页面来查看它们是否生效。
+
+```html
+<style>
+  :root {
+    --penguin-size: 300px;
+    --penguin-skin: gray;
+    --penguin-belly: white;
+    --penguin-beak: orange;
+  }
+
+  @media (max-width: 350px) {
+    :root {
+      /* 只修改这一行下面的代码 */
+      --penguin-size: 200px;
+      --penguin-skin: black;
+      /* 只修改这一行上面的代码 */
+    }
+  }
+</style>
+```
+
+### 应用视觉设计
+
+* 使用text-align属性创建视觉平衡
+
+  * text-align: justify; 可以让除最后一行之外的文字两端对齐，即每行的左右两端都紧贴行的边缘。
+  * text-align: center; 可以让文本居中对齐。
+  * text-align: right; 可以让文本右对齐。
+  * text-align: left; 是默认值，它可以让文本左对齐。
+
+```html
+<style>
+  h4 { text-align: center; }
+  p { text-align: justify; }
+</style>
+```
+
+* 使用width属性调整元素的宽度
+  * target: 应使用 fullCard class 选择器将卡片的 width 属性值设置为 245px。
+
+```css
+  .fullCard {
+    width: 245px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px 5px;
+    padding: 4px;
+  }
+```
+
+* 使用height属性调整元素的宽度
+  * target: h4的height属性值应为25px。
+
+```css
+  h4 { height: 25px;}
+```
+
+* 使用 strong 标签加粗文本
+  * target: 应添加一个 strong 标签。
+  * target: strong 标签应在 p 标签里。
+  * target: The strong tag should wrap around the words Stanford University.
+
+* 使用u标签给文本添加下划线
+  * target: 应添加一个u标签。
+  * target: u标签的内容文本应为Ph.D. students。
+
+* 使用 em 标签强调文本
+  * target: 应添加一个em标签。
+  * target: em标签应包裹p标签里的内容，但不包裹p标签本身。
+
+* 使用s标签给文本添加删除线
+  * target: 应添加一个 s 标签。
+  * s 标签应该在 h4 标签内的 Google 文字外面， 它不应包含单词 Alphabet
+  * h4 标签内应有单词 Alphabet，单词不应有删除线样式。
