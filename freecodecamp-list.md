@@ -908,3 +908,635 @@ background: var(--penguin-skin);
   * target: 应添加一个 s 标签。
   * s 标签应该在 h4 标签内的 Google 文字外面， 它不应包含单词 Alphabet
   * h4 标签内应有单词 Alphabet，单词不应有删除线样式。
+
+* Create a Horizontal Line Using the hr Element
+  * Your code should add an hr tag to the markup.
+  * The hr tag should come between the title and the paragraph.
+
+```html
+<h4><s>Google</s>Alphabet</h4>
+<hr>
+<p><em>Google was founded by Larry Page and Sergey Brin while they were <u>Ph.D. students</u> at <strong>Stanford University</strong>.</em></p>
+```
+
+* Adjust the background-color Property of Text
+  * Your code should add a background-color property to the h4 element set to rgba(45, 45, 45, 0.1).
+  * Your code should add a padding property to the h4 element and set it to 10 pixels.
+  * The height property on the h4 element should be removed.
+
+```css
+h4 {
+  text-align: center;
+  height: 25px;
+  background-color: rgba(45, 45, 45, 0.1);
+  padding: 10px;
+  height: 0px;
+}
+```
+
+* Adjust the Size of a Header Versus a Paragraph Tag
+  * Your code should add a font-size property to the h4 element set to 27 pixels.
+
+```css
+h4 {
+  text-align: center;
+  background-color: rgba(45, 45, 45, 0.1);
+  padding: 10px;
+  font-size: 27px;
+}
+```
+
+* Add a box-shadow to a Card-like Element
+  * Your code should add a box-shadow property for the thumbnail id.
+  * You should use the given CSS for the box-shadow value.
+  * Jedi: box-shadow有什麼特殊技巧？
+
+```css
+#thumbnail {
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+```
+
+* Decrease the Opacity of an Element
+  * Your code should set the opacity property to 0.7 on the anchor tags by selecting the class of links.
+
+```css
+.links {
+  text-align: left;
+  color: black;
+  opacity: 0.7;
+}
+```
+
+* Use the text-transform Property to Make Text Uppercase
+  * The h4 text should be uppercase.
+  * The original text of the h4 should not be changed.
+  * Jedi: Other options contains lowercase, uppercase, capitalize, initial, inherit, none.
+
+```css
+h4 {
+  text-align: center;
+  background-color: rgba(45, 45, 45, 0.1);
+  padding: 10px;
+  font-size: 27px;
+  text-transform: uppercase;
+}
+```
+
+* Set the font-size for Multiple Heading Elements
+  * font-weight 属性用于设置文本中字体的粗细。
+  * Your code should set the font-weight property for the h1 tag to 800.
+  * Your code should set the font-weight property for the h2 tag to 600.
+  * Your code should set the font-weight property for the h3 tag to 500.
+  * Your code should set the font-weight property for the h4 tag to 400.
+  * Your code should set the font-weight property for the h5 tag to 300.
+  * Your code should set the font-weight property for the h6 tag to 200.
+
+```css
+h1 {
+  font-size: 68px;
+  font-weight: 800;
+}
+h2 {
+  font-size: 52px;
+  font-weight: 600;
+}
+h3 {
+  font-size: 40px;
+  font-weight: 500;
+}
+h4 {
+  font-size: 32px;
+  font-weight: 400;
+}
+h5 {
+  font-size: 21px;
+  font-weight: 300;
+}
+h6 {
+  font-size: 14px;
+  font-weight: 200;
+}
+```
+
+* Set the font-size of Paragraph Text
+  * Your p tag should have a font-size of 16 pixels.
+
+* Set the line-height of Paragraphs
+  * Your code should set the line-height of the p tag to 25 pixels.
+
+```css
+p {
+  font-size: 16px;
+  line-height: 25px;
+}
+```
+
+* Adjust the Hover State of an Anchor Tag
+  * The anchor tag color should remain black, only add CSS rules for the :hover state.
+  * The anchor tag should have a color of blue on hover.
+  * Jedi: 懸停的顏色
+
+```css
+  a { color: #000; }
+  a:hover { color: blue; }
+```
+
+* Change an Element's Relative Position
+  * The h2 element should have a position property set to relative.
+  * Your code should use a CSS offset to relatively position the h2 15px away from the top of where it normally sits.
+
+ ```css
+  h2 {
+  position: relative;
+  top: 15px;
+}
+ ```
+
+* Move a Relatively Positioned Element with CSS Offsets
+  * Your code should use a CSS offset to relatively position the h2 10px upwards. In other words, move it 10px away from the bottom of where it normally sits.
+  * Your code should use a CSS offset to relatively position the h2 15px towards the right. In other words, move it 15px away from the left of where it normally sits.
+
+```css
+  h2 {
+    position: relative;
+    top: 10px;
+    bottom: 10px;
+    right: 15px;
+    left: 15px;
+  }
+```
+
+* Lock an Element to its Parent with Absolute Positioning
+  * The #searchbar element should have a position set to absolute.
+  * Your code should use the top CSS offset of 50 pixels on the #searchbar element.
+  * Your code should use the right CSS offset of 50 pixels on the #searchbar element.
+
+```html
+<style>
+  #searchbar {
+    position: absolute;
+    top: 50px;
+    right: 50px;
+  }
+  section {
+    position: relative;
+  }
+</style>
+<body>
+  <h1>Welcome!</h1>
+  <section>
+    <form id="searchbar">
+      <label for="search">Search:</label>
+      <input type="search" id="search" name="search">
+      <input type="submit" name="submit" value="Go!">
+    </form>
+  </section>
+</body>
+```
+
+* Lock an Element to the Browser Window with Fixed Positioning
+  * The #navbar element should have a position set to fixed.
+  * Your code should use the top CSS offset of 0 pixels on the #navbar element.
+  * Your code should use the left CSS offset of 0 pixels on the #navbar element.
+  * Jedi: 這個例子要好好體會下！尤其是對position的了解要進一步加深才行。
+
+```html
+<style>
+  body {
+    min-height: 150vh;
+  }
+  #navbar {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    background-color: #767676;
+  }
+  nav ul {
+    margin: 0px;
+    padding: 5px 0px 5px 30px;
+  }
+  nav li {
+    display: inline;
+    margin-right: 20px;
+  }
+  a {
+    text-decoration: none;
+  }
+</style>
+<body>
+  <header>
+    <h1>Welcome!</h1>
+    <nav id="navbar">
+      <ul>
+        <li><a href="">Home</a></li>
+        <li><a href="">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <p>I shift up when the #navbar is fixed to the browser window.</p>
+</body>
+```
+
+* Push Elements Left or Right with the float Property
+  * The element with id left should have a float value of left.
+  * The element with id right should have a float value of right.
+  * Jedi: 這個示例對我講也是個難點！
+
+```css
+<head>
+  <style>
+    #left {
+      float: left;
+      width: 50%;
+    }
+    #right {
+      float: right;
+      width: 40%;
+    }
+    aside, section {
+      padding: 2px;
+      background-color: #ccc;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome!</h1>
+  </header>
+  <section id="left">
+    <h2>Content</h2>
+    <p>Good stuff</p>
+  </section>
+  <aside id="right">
+    <h2>Sidebar</h2>
+    <p>Links</p>
+  </aside>
+</body>
+```
+
+* Change the Position of Overlapping Elements with the z-index Property
+  * 使用 z-index 属性更改重叠元素的位置
+  * The element with class first should have a z-index value of 2.
+
+```html
+<style>
+  div {
+    width: 60%;
+    height: 200px;
+    margin-top: 20px;
+  }
+
+  .first {
+    background-color: red;
+    position: absolute;
+    z-index: 2;
+  }
+  .second {
+    background-color: blue;
+    position: absolute;
+    left: 40px;
+    top: 50px;
+    z-index: 1;
+  }
+</style>
+<div class="first"></div>
+<div class="second"></div>
+```
+
+* Center an Element Horizontally Using the margin Property
+  * The div should have a margin set to auto.
+
+```html
+<style>
+  div {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+  }
+</style>
+<div></div>
+```
+
+* Learn about Complementary Colors
+  * The div element with class blue should have a background-color of blue.
+  * The div element with class yellow should have a background-color of yellow.
+
+```html
+<style>
+  body {
+    background-color: #FFFFFF;
+  }
+  .blue {
+    background-color: #0000FF;
+  }
+  .yellow {
+    background-color: #FFFF00;
+  }
+  div {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+  }
+</style>
+<div class="blue"></div>
+<div class="yellow"></div>
+```
+
+* Learn about Tertiary Colors
+  * The div element with class orange should have a background-color of orange.
+  * The div element with class cyan should have a background-color of cyan.
+  * The div element with class raspberry should have a background-color of raspberry.
+  * All background-color values for the color classes should be hex codes and not color names.
+
+```html
+<style>
+  body {
+    background-color: #FFFFFF;
+  }
+  .orange {
+    background-color: #FF7F00;
+  }
+  .cyan {
+    background-color: #00FFFF;
+  }
+  .raspberry {
+    background-color: #FF007F;
+  }
+  div {
+    height: 100px;
+    width: 100px;
+    margin-bottom: 5px;
+  }
+</style>
+
+<div class="orange"></div>
+<div class="cyan"></div>
+<div class="raspberry"></div>
+```
+
+* Adjust the Color of Various Elements to Complementary Colors
+  * header 元素的 background-color 属性值应为 #09A7A1。
+  * footer 元素的 background-color 属性值应为 #09A7A1。
+  * h2 元素的 color 属性值应为 #09A7A1。
+  * button 元素的 background-color 属性值应为 #FF790E。
+
+```html
+<style>
+  body { background-color: white; }
+  header {
+    background-color: #09A7A1;
+    color: white;
+    padding: 0.25em;
+  }
+  h2 { color: #09A7A1; }
+  button { background-color: #FF790E; }
+  footer {
+    background-color: #09A7A1;
+    color: white;
+    padding: 0.5em;
+  }
+</style>
+<header>
+  <h1>Cooking with FCC!</h1>
+</header>
+<main>
+  <article>
+    <h2>Machine Learning in the Kitchen</h2>
+    <p>Join this two day workshop that walks through how to implement cutting-edge snack-getting algorithms with a command line interface. Coding usually involves writing exact instructions, but sometimes you need your computer to execute flexible commands, like <code>fetch Pringles</code>.</p>
+    <button>Sign Up</button>
+  </article>
+  <article>
+    <h2>Bisection Vegetable Chopping</h2>
+    <p>This week-long retreat will level-up your coding ninja skills to actual ninja skills. No longer is the humble bisection search limited to sorted arrays or coding interview questions, applying its concepts in the kitchen will have you chopping carrots in O(log n) time before you know it.</p>
+    <button>Sign Up</button>
+  </article>
+</main>
+<br>
+<footer>&copy; 2018 FCC Kitchen</footer>
+```
+
+* Adjust the Hue of a Color
+
+  * Your code should use the hsl() property to declare the color green.
+  * Your code should use the hsl() property to declare the color cyan.
+  * Your code should use the hsl() property to declare the color blue.
+  * The div element with class green should have a background-color of green.
+  * The div element with class cyan should have a background-color of cyan.
+  * The div element with class blue should have a background-color of blue.
+
+```html
+<style>
+  body { background-color: #FFFFFF; }
+  .green { background-color: hsl(120, 100%, 50%); }
+  .cyan { background-color: hsl(180, 100%, 50%); }
+  .blue { background-color: 	hsl(240, 100%, 50%); }
+  div {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+  }
+</style>
+<div class="green"></div>
+<div class="cyan"></div>
+<div class="blue"></div>
+```
+
+* Adjust the Tone of a Color
+  * The nav element should have a background-color of the adjusted cyan tone using the hsl() property.
+
+```css
+header {
+  background-color: hsl(180, 90%, 35%);
+  color: #FFFFFF;
+}
+nav { background-color: hsl(180, 80%, 25%); }
+```
+
+* Create a Gradual CSS Linear Gradient
+  * 创建一个CSS线性渐变
+  * The div element should have a linear-gradient background with the specified direction and colors.
+  * Jedi: CSS线性渐变是个非常重要的特性。
+
+```html
+<style>
+  div {
+    border-radius: 20px;
+    width: 70%;
+    height: 400px;
+    margin: 50px auto;
+    background: linear-gradient(35deg, #CCFFFF, #FFCCCC);
+  }
+</style>
+<div></div>
+```
+
+* Use a CSS Linear Gradient to Create a Striped Element
+  * The angle of the repeating-linear-gradient() should be 45deg.
+  * The angle of the repeating-linear-gradient() should no longer be 90deg
+  * The color stop at 0 pixels should be yellow.
+  * One color stop at 40 pixels should be yellow.
+  * The second color stop at 40 pixels should be black.
+  * The last color stop at 80 pixels should be black.
+
+```html
+<style>
+  div{
+    border-radius: 20px;
+    width: 70%;
+    height: 400px;
+    margin:  50 auto;
+    background: repeating-linear-gradient(
+      45deg,
+      yellow 0px,
+      yellow 40px,
+      black 40px,
+      black 80px
+    );
+  }
+</style>
+<div></div>
+```
+
+* Create Texture by Adding a Subtle Pattern as a Background Image
+  * 通过添加细微图案作为背景图像来创建纹理
+  * Your body element should have a background property set to a url() with the given link.
+
+```html
+<style>
+  body {
+    background: url("https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png");
+  }
+</style>
+```
+
+* Use the CSS Transform scale Property to Change the Size of an Element
+  * 使用CSS Transform scale属性可以更改元素的大小
+  * The transform property for #ball2 should be set to scale it to 1.5 times its size.
+
+```html
+<style>
+  .ball {
+    width: 40px;
+    height: 40px;
+    margin: 50 auto;
+    position: fixed;
+    background: linear-gradient(
+      35deg,
+      #ccffff,
+      #ffcccc
+    );
+    border-radius: 50%;
+  }
+  #ball1 {
+    left: 20%;
+  }
+  #ball2 {
+    left: 65%;
+    transform: scale(1.5);
+  }
+</style>
+<div class="ball" id= "ball1"></div>
+<div class="ball" id= "ball2"></div>
+```
+
+* Use the CSS Transform scale Property to Scale an Element on Hover
+  * The size of the div element should scale 1.1 times when the user hovers over it.
+
+```html
+<style>
+  div {
+    width: 70%;
+    height: 100px;
+    margin:  50px auto;
+    background: linear-gradient(
+      53deg,
+      #ccfffc,
+      #ffcccf
+    );
+  }
+  div:hover { transform: scale(1.1); }
+</style>
+<div></div>
+```
+
+* Use the CSS Transform Property skewX to Skew an Element Along the X-Axis
+  * 使用 CSS Transform skex 属性沿X轴倾斜元素
+  * The element with id bottom should be skewed by 24 degrees along its X-axis.
+
+```html
+<style>
+  div {
+    width: 70%;
+    height: 100px;
+    margin:  50px auto;
+  }
+  #top {
+    background-color: red;
+  }
+  #bottom {
+    background-color: blue;
+    transform: skewX(24deg);
+  }
+</style>
+<div id="top"></div>
+<div id="bottom"></div>
+```
+
+* Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis
+  * The element with id top should be skewed by -10 degrees along its Y-axis.
+
+```html
+<style>
+  div {
+    width: 70%;
+    height: 100px;
+    margin: 50px auto;
+  }
+  #top {
+    background-color: red;
+    transform: skewY(-10deg);
+  }
+  #bottom {
+    background-color: blue;
+    transform: skewX(24deg);
+  }
+</style>
+<div id="top"></div>
+<div id="bottom"></div>
+```
+
+* Create a Graphic Using CSS
+  * The value of the background-color property should be set to transparent.
+  * The value of the border-radius property should be set to 50%.
+  * The value of the box-shadow property should be set to 25px for offset-x, 10px for offset-y, 0 for blur-radius, 0 for spread-radius, and finally blue for the color.
+
+```html
+<style>
+  .center {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100px;
+    height: 100px;
+    background-color: transparent;
+    border-radius: 50%;
+    box-shadow: 25px 10px 0px 0px blue;
+  }
+</style>
+<div class="center"></div>
+```
+
+* Create a More Complex Shape Using CSS and HTML
+  * The background-color property of the heart::after selector should be pink.
+  * The border-radius of the heart::after selector should be 50%.
+  * The transform property for the heart class should use a rotate() function set to -45 degrees.
+  * The content of the heart::before selector should be an empty string.
+
+```html
+```
