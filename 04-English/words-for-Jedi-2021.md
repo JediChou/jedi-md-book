@@ -451,3 +451,16 @@
 * onset: 攻擊
 * 讦jié，本意是指用言论遮掩自己的隐私
 * 阈: 拼音为yù，指门槛；国门；泛指界限或范围。
+
+## 2021.2.26
+
+* domestic
+* trumpeter
+* proficiency
+* substance, 物質
+* digestive, 消化
+* ache, 疼痛
+* nervousness
+* mint, 薄荷
+* **annoyed** (Jedi: 需要重點學習下這個單詞)
+* dummy, 笨蛋
