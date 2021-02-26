@@ -58,13 +58,6 @@ Author: Jedi Chou, Create at 2021.2.26 8:01 PM
   * Jedi: 但这个结构就有点看不懂了！
 * Seldom (selenium+unittest+web ui)
 
-* 一个招募要求
-  * 熟悉Java,项目，及Shell；
-  * 精通web自动化测试，白盒测试，熟悉单元测试框架和常见的开源测试工具（如：Selenium, Maven, Junit,Jemter等）；
-  * 熟悉Flume原理，部署操作；
-  * 熟悉Kafka原理，部署操作；
-  * 熟悉Linux操作系统，熟悉Elasticsearch相关知识、部署及查询等操作；
-
 * [sqlserver注入方式与安全防护的学习](https://www.cnblogs.com/chillsrc/archive/2008/12/10/1346054.html)
 * [C++/CLI 任务](https://docs.microsoft.com/zh-cn/cpp/dotnet/cpp-cli-tasks?view=msvc-160)
 * [开源项目：高级SQL Server监控、性能图、分析与优化、版本控制](https://www.cnblogs.com/unruledboy/archive/2011/12/05/SQLMon2.html)
@@ -72,32 +65,6 @@ Author: Jedi Chou, Create at 2021.2.26 8:01 PM
 
 * RPA framework
   * [robotframework](https://github.com/robotframework/robotframework)
-
-* 短网址服务的Repo
-  * Jedi: 要搜索下
-
-* github issue style
-  * Steps to reproduce
-  * Expected behavior
-  * Actual behavior
-  * Environment data
-
-* other github issue style
-  * Describe the bug
-  * To Reproduce
-  * Expected behavior
-  * Screenshots
-  * Attachments
-  * Environment (please complete the following information)
-
-* PowerShell Peer Review
-  * PR Summary
-  * PR Context
-  * PR Checklist
-    * Breaking changes
-    * User-facing changes
-    * Testing - New and feature
-    * Tooling
 
 * python automate framework: playwright
 
