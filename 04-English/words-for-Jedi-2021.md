@@ -457,10 +457,16 @@
 * domestic
 * trumpeter
 * proficiency
-* substance, 物質
+* 🙏 substance, 物質
 * digestive, 消化
 * ache, 疼痛
 * nervousness
 * mint, 薄荷
 * **annoyed** (Jedi: 需要重點學習下這個單詞)
 * dummy, 笨蛋
+
+## 2021.3.1
+
+* ✍ parentheses, 圆括号
+* ✍ impact on, 影響
+* sleigh, 雪橇 (sled)
