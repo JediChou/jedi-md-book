@@ -470,3 +470,8 @@
 * ✍ parentheses, 圆括号
 * ✍ impact on, 影響
 * sleigh, 雪橇 (sled)
+
+## 2021.3.2
+
+* telemetry
+* slightly, 輕微的
