@@ -2077,3 +2077,12 @@
 * [弗里德里克·肖邦](https://baike.baidu.com/item/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%85%8B%C2%B7%E8%82%96%E9%82%A6)
 * [奥洛夫·帕尔梅](https://baike.baidu.com/item/%E5%A5%A5%E6%B4%9B%E5%A4%AB%C2%B7%E5%B8%95%E5%B0%94%E6%A2%85/1757067?fromtitle=%E5%B8%95%E5%B0%94%E6%A2%85&fromid=2201652)
 * [巴蒂斯塔·塔格梅·纳·瓦伊](https://baike.baidu.com/item/%E5%B7%B4%E8%92%82%E6%96%AF%E5%A1%94%C2%B7%E5%A1%94%E6%A0%BC%E6%A2%85%C2%B7%E7%BA%B3%C2%B7%E7%93%A6%E4%BC%8A)
+
+## 2021.3.3
+
+* [彩礼](https://baike.baidu.com/item/%E5%BD%A9%E7%A4%BC/81908#hotspotmining)
+* [C919](https://baike.baidu.com/item/C919#hotspotmining)
+* [尼古拉·萨科齐](https://baike.baidu.com/item/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E8%90%A8%E7%A7%91%E9%BD%90#hotspotmining)
+* [文成公主](https://baike.baidu.com/item/%E6%96%87%E6%88%90%E5%85%AC%E4%B8%BB/26120)
+* [穆瑞·罗斯巴德](https://baike.baidu.com/item/%E7%A9%86%E7%91%9E%C2%B7%E7%BD%97%E6%96%AF%E5%B7%B4%E5%BE%B7)
+* [米哈伊尔·谢尔盖耶维奇·戈尔巴乔夫](https://baike.baidu.com/item/%E7%B1%B3%E5%93%88%E4%BC%8A%E5%B0%94%C2%B7%E8%B0%A2%E5%B0%94%E7%9B%96%E8%80%B6%E7%BB%B4%E5%A5%87%C2%B7%E6%88%88%E5%B0%94%E5%B7%B4%E4%B9%94%E5%A4%AB)
