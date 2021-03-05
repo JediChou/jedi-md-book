@@ -475,3 +475,11 @@
 
 * telemetry
 * slightly, 輕微的
+
+## 2021.3.5
+
+* ingredient, 成分
+* wrapper, 包裝、封皮
+* precise, 精確的、嚴格的
+* rollout, 首次展示；{航} 滑跑（飞机着陆时在跑道上滑跑减速的阶段）
+* write up, 全部寫出來、完整記錄
