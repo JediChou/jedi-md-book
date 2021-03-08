@@ -483,3 +483,10 @@
 * precise, 精確的、嚴格的
 * rollout, 首次展示；{航} 滑跑（飞机着陆时在跑道上滑跑减速的阶段）
 * write up, 全部寫出來、完整記錄
+
+## 2021.3.8
+
+* renderer, 渲染器
+* ✍ justification, 正当理由
+* ✍ met, 遇见
+* discrepancy, 差异

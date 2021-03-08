@@ -2086,3 +2086,23 @@
 * [文成公主](https://baike.baidu.com/item/%E6%96%87%E6%88%90%E5%85%AC%E4%B8%BB/26120)
 * [穆瑞·罗斯巴德](https://baike.baidu.com/item/%E7%A9%86%E7%91%9E%C2%B7%E7%BD%97%E6%96%AF%E5%B7%B4%E5%BE%B7)
 * [米哈伊尔·谢尔盖耶维奇·戈尔巴乔夫](https://baike.baidu.com/item/%E7%B1%B3%E5%93%88%E4%BC%8A%E5%B0%94%C2%B7%E8%B0%A2%E5%B0%94%E7%9B%96%E8%80%B6%E7%BB%B4%E5%A5%87%C2%B7%E6%88%88%E5%B0%94%E5%B7%B4%E4%B9%94%E5%A4%AB)
+
+## 2021.3.8
+
+* [国际妇女节](https://baike.baidu.com/item/%E5%9B%BD%E9%99%85%E5%A6%87%E5%A5%B3%E8%8A%82#hotspotmining)
+* [何香凝](https://baike.baidu.com/item/%E4%BD%95%E9%A6%99%E5%87%9D)
+* [2021年全国两会](https://baike.baidu.com/item/2021%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A/55601637#hotspotmining)
+* [悦己型消费](https://baike.baidu.com/item/%E6%82%A6%E5%B7%B1%E5%9E%8B%E6%B6%88%E8%B4%B9/56223581#hotspotmining)
+  * 《2018年中国消费趋势报告》
+  * 《2019年中国年货消费报告》
+* [外汇储备](https://baike.baidu.com/item/%E5%A4%96%E6%B1%87%E5%82%A8%E5%A4%87v)
+* [约翰尼斯·开普勒](https://baike.baidu.com/item/%E7%BA%A6%E7%BF%B0%E5%B0%BC%E6%96%AF%C2%B7%E5%BC%80%E6%99%AE%E5%8B%92)
+* [阮玲玉](https://baike.baidu.com/item/%E9%98%AE%E7%8E%B2%E7%8E%89/15405)
+* [李季](https://baike.baidu.com/item/%E6%9D%8E%E5%AD%A3/24390)
+* [伊丽莎白·芭蕾特·布朗宁](https://baike.baidu.com/item/%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%C2%B7%E8%8A%AD%E8%95%BE%E7%89%B9%C2%B7%E5%B8%83%E6%9C%97%E5%AE%81)
+* [戈特利布·戴姆勒](https://baike.baidu.com/item/%E6%88%88%E7%89%B9%E5%88%A9%E5%B8%83%C2%B7%E6%88%B4%E5%A7%86%E5%8B%92)
+* [朱光潜](https://baike.baidu.com/item/%E6%9C%B1%E5%85%89%E6%BD%9C)
+* [第一次英缅战争](https://baike.baidu.com/item/%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%8B%B1%E7%BC%85%E6%88%98%E4%BA%89)
+* [罗莎·卢森堡](https://baike.baidu.com/item/%E7%BD%97%E8%8E%8E%C2%B7%E5%8D%A2%E6%A3%AE%E5%A0%A1/10732163)
+* [蔡元培](https://baike.baidu.com/item/%E8%94%A1%E5%85%83%E5%9F%B9/119206)
+* [孙敬修](https://baike.baidu.com/item/%E5%AD%99%E6%95%AC%E4%BF%AE)
