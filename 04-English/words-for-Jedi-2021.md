@@ -490,3 +490,33 @@
 * ✍ justification, 正当理由
 * ✍ met, 遇见
 * discrepancy, 差异
+
+## 2021.3.9
+
+* instant, 瞬間
+* dozing, 打瞌睡
+* aggravated, 加重
+* worship, 崇拜
+* swirl, 旋轉
+* distress, 憂慮
+* molecule, 分子
+* reveal, 揭示
+* conceal, 隱藏
+* minimum wage, 最低工資
+* shimmer, 微光
+* addict, 癮君子
+* collide, 碰撞
+* protons
+* intersection
+* glow, 發光
+* Blame, 果醬
+* accidental, 意外的
+* vacation, 假期
+* equilateral, 等邊的
+* shone，閃耀
+* disturb, 打擾
+* keen, 熱切
+* delude, 大約
+* Ambidextrous, 左右手都靈活
+* speck, 斑點
+* timbre, 音色
