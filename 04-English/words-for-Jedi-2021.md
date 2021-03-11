@@ -520,3 +520,16 @@
 * Ambidextrous, 左右手都靈活
 * speck, 斑點
 * timbre, 音色
+
+## 2021.3.11
+
+* But I'm nowhere near a fence!
+* advantage
+* countless
+* eliminate, 消除
+* consumption, 消费
+* eligible, 合格?
+* Instantly, 立即
+* incriminate, 牵连
+* concluding, 结束语
+* deserter, 逃兵
