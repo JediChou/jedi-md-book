@@ -533,3 +533,9 @@
 * incriminate, 牵连
 * concluding, 结束语
 * deserter, 逃兵
+
+## 2021.3.12
+
+* talk to the hand, 懶得理你
+* supervised, 监督
+* inference phase, 推断阶段
