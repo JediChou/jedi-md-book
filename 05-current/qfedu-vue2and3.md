@@ -1,5 +1,7 @@
 # qfedu: Vue2 and Vue3
 
+* [Bilibili vedio url](https://www.bilibili.com/video/BV18K4y1f7Vi?from=search&seid=18275054797537653521)
+
 ## 001-vue介绍
 
 * vue.js是什么?
