@@ -539,3 +539,11 @@
 * talk to the hand, 懶得理你
 * supervised, 监督
 * inference phase, 推断阶段
+
+## 2021.3.15
+
+* double agent, 双重间谍
+* prudent, 谨慎的
+* vault
+  * n.(尤指银行的)金库，保险库;(教堂的)地下墓室;(坟地的)墓穴;拱顶;穹隆
+  * v.(用手支撑或撑杆)跳跃，腾跃
