@@ -2,10 +2,6 @@
 
 ## Cool site
 
-* [程序员最全进阶资源免费送](https://zhuanlan.zhihu.com/p/52670535)
-* [How to Study Fast](https://www.wikihow.com/Study-Fast)
-* [indienova](https://www.indienova.com/)
-* [Awesome Service Mesh](http://www.servicemesher.com/awesome-servicemesh/)
 * [掘金](https://juejin.im/)
 * [前端每日实战](https://segmentfault.com/a/1190000016237865?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 * [Estimator 的数据集](https://tensorflow.google.cn/guide/datasets_for_estimators?hl=zh-CN)
@@ -529,3 +525,30 @@
   * ILSpy, dnSpy
   * 科幻題材（Jedi）：要毁灭地球，只需把月球炸毁即可。
   * 无量纲化？
+
+## 2021.3.15
+
+* [SQL_JOIN讲解](https://www.bilibili.com/video/BV1YD4y1X76p?from=search&seid=9128442686113590990)
+* dotUltimate
+  * ReSharper, Rider, ReSharper C++
+  * dotTrace, dotMemory, dotCover, dotPeek
+  * [Ref](https://www.jetbrains.com/dotnet/)
+  * [reading resharp official site - product page](https://www.jetbrains.com/resharper/). 10:09
+  * [ReSharper 2020.1 vs Visual Studio 2019](https://www.jetbrains.com/resharper/compare/resharper-vs-visual-studio/). 10:12
+  * [ReSharper Documentation](https://www.jetbrains.com/resharper/documentation/documentation.html). 10:15
+  * [Todo: ReSharp knowledge base](https://resharper-support.jetbrains.com/hc/en-us). 10:16
+  * [Todo: ReSharp Cookbook](https://www.jetbrains.com/help/resharper/Cookbook.html). 10:16
+  * [Todo: ReSharp -> .NET Tools Guide](https://www.jetbrains.com/dotnet/guide/)
+* Todo: Anaconda有別的更新代理嗎？
+* Todo: 今天要把asp.net-mvc-core的基本功能給鍛煉下(依據bilibili已查看過的視頻). 10:25
+* [Todo: How to Generate a Link to download a File in asp.net MVC?](https://stackoverflow.com/questions/745042/how-to-generate-a-link-to-download-a-file-in-asp-net-mvc). 10:40
+* [Todo: ASP.NET MVC Controller Overview (C#)ASP.NET MVC Controller Overview (C#)](https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controllers-and-routing/aspnet-mvc-controllers-overview-cs)
+* [Todo: 上传对象](https://docs.aws.amazon.com/zh_cn/AmazonS3/latest/userguide/upload-objects.html). 10:46
+  * Jedi: content內容應該可以直接傳遞byte數組
+* [Verify: C# Unit Testing(Nunit) the Main method of a console app?](https://stackoverflow.com/questions/24507290/c-sharp-unit-testingnunit-the-main-method-of-a-console-app). 10:56
+* Bilibili查询关键字: “专注力”、“英语听力”有大量资源
+* ASP.NET Core MVC + Web Api + token: OpenID, JWT, token, authetication
+* Thesis: The rule of One-Third*
+* CA: Study how to use powershell to backup, recover sqlserver 2005 database
+* CA: study Ansible
+* CA/Self: Study Element-UI
