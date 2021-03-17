@@ -2,7 +2,6 @@
 
 ## Cool site
 
-* [掘金](https://juejin.im/)
 * [前端每日实战](https://segmentfault.com/a/1190000016237865?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 * [Estimator 的数据集](https://tensorflow.google.cn/guide/datasets_for_estimators?hl=zh-CN)
 * [微擎](https://www.we7.cc/)
@@ -76,11 +75,7 @@
 * [cppreference](https://en.cppreference.com/w/)
 * [在 Visual Studio 中分析 CPU 使用情况数据 (ASP.NET)](https://docs.microsoft.com/zh-cn/visualstudio/profiling/quickstart-cpu-usage-aspnet?view=vs-2017)
 * Python library
-  * [NumPy](http://www.numpy.org/)
-  * [SciPy](https://scipy.org/scipylib/)
-  * [Pandas](https://pandas.pydata.org/)
   * [StatsModels](http://www.statsmodels.org/devel/)
-  * [Matplotlib](https://matplotlib.org/index.html)
   * [Seaborn](https://seaborn.pydata.org/)
   * [Plotly](https://plot.ly/python/)
   * [Bokeh](https://bokeh.pydata.org/en/latest/)
@@ -552,3 +547,13 @@
 * CA: Study how to use powershell to backup, recover sqlserver 2005 database
 * CA: study Ansible
 * CA/Self: Study Element-UI
+
+## 2021.3.17
+
+* [rss自荐工具](https://github.com/GuangzheJiang/rss_everyday)
+* [pp飞桨](https://www.paddlepaddle.org.cn/)，估计已有生态圈
+* Idea: 使用UI来制作网页（模板+目标网站+训练模型+模式识别 => 类似CSS的HTML、组件）. 9:34
+* [log4stash](https://github.com/urielha/log4stash)
+* [log4net-kafka](https://github.com/DrG0rg/logstash-kafka)
+* [bing-daily-wallpaper](https://github.com/Anonymity94/bing-daily-wallpaper)
+* 哪里有最新的股票数据信息? 10:32
