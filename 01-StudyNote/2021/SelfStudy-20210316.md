@@ -41,3 +41,17 @@ Https://10.153.24.98;Http://10.153.24.98;Http://10.134.33.98;Http://10.98.29.190
 
 10.130.2.191:808
 ```
+
+## Today Reading
+
+* [什么是 SQL Server 大数据群集？](https://docs.microsoft.com/zh-cn/sql/big-data-cluster/big-data-cluster-overview?view=sql-server-ver15)
+  * 🔰 集成的 AI 和机器学习 -> Jedi: 怎么理解这个？
+  * 是否这个特性只能在Azure上应用？
+* OSS(Operation Support System)
+* TODO: **Verify** SQL Server + ElasticSearch. 前者做写，后者做读！减轻DB的压力。
+* TODO: 如何用AI辅助测试工程师，或干脆就让AI干测试就好了！
+* ❓ Facets: 交互式可视化工具，可让开发者以不同的精细程度了解其训练数据的整体情况
+* ❓ Mmd-critic: 探索性数据分析工具，用于查找数据中具有统计意义的少数样本
+* dogfooding（内部测试）
+* Win10新建桌面快捷键：Win+Ctrl+D
+* 《人工智能简史》
