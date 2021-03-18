@@ -557,3 +557,8 @@
 * [log4net-kafka](https://github.com/DrG0rg/logstash-kafka)
 * [bing-daily-wallpaper](https://github.com/Anonymity94/bing-daily-wallpaper)
 * 哪里有最新的股票数据信息? 10:32
+
+## 2021.3.18
+
+* todo: study Bulma CSS framework.
+* todo: 短网址服务的部署
