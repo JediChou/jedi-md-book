@@ -562,3 +562,5 @@
 
 * todo: study Bulma CSS framework.
 * todo: 短网址服务的部署
+* Jedi-Idea: 通过keras的分词功能来制作分词器，便于制作特定领域的分词器，并使之标准化。
+* Jedi-Idea: 但凡可以自动化的——亦可用ML来提高工作效率. 12:01
