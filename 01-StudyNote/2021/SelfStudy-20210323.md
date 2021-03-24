@@ -1,37 +1,25 @@
 # Self Study
 
-Author: Jedi Chou, Create at 2021.3.20 7:56 PM
+Author: Jedi Chou, Create at 2021.3.23 7:53 PM
 
 * Daily study
   * 101WeiQi daily exercise check-in. 7:00, 7:00
   * 163 music APP check-in. 7:05
   * Don't memorize words APP check-in. 7:05
   * Tencent cartoon APP check-in. 7:05
-  * NowCoder check-in. 7:05
+  * NowCoder check-in. 7:05. 7:05
   * Read articles and check interview invitation (MaiMai APP). 7:05
-  * Read Sina Blog. 7:05. 7:05
-  * Exercise of Vocabulary (vocabulary.com). 12:06
-  * 百词斩
+  * Read Sina Blog. 7:05
+  * 百词斩. 7:15
+  * Exercise of Vocabulary (vocabulary.com). 9:06
 
 * Weekly task
-  * reading 163.com mails. 10:27
+  * reading 163.com mails. 9:01
   * Reading 1 minutes at SIMPLE wiki or Baike.Baidu
   * Go Game check
-    * Leela Zero vs Leela Zero. 8:48
-    * Leela Zero vs Leela Zero. 9:25
-    * Leela Zero vs Leela Zero. 10:04
-    * Leela Zero vs Leela Zero. 10:41
-    * Leela Zero vs Leela Zero. 11:19
-    * Leela Zero vs Leela Zero. 11:46
-    * Leela Zero vs Leela Zero. 12:01
-    * Leela Zero vs Leela Zero. 12:16
-    * Leela Zero vs Leela Zero. 13:00
-    * Leela Zero vs Leela Zero. 13:27
-    * Leela Zero vs Leela Zero. 14:01
-    * Leela Zero vs Leela Zero. 14:30
-    * Leela Zero vs Leela Zero. 14:58
-    * Leela Zero vs Leela Zero. 15:48
-    * Leela Zero vs Leela Zero. 16:08
+    * Leela Zero vs Leela Zero. 8:58
+    * Leela Zero vs Leela Zero. 12:45
+    * Leela Zero vs Leela Zero
 
 ## Proxy
 
@@ -46,18 +34,10 @@ Https://10.153.24.98;Http://10.153.24.98;Http://10.134.33.98;Http://10.98.29.190
 10.130.2.191:808
 ```
 
-## reading
-
-* [pytorch stable](https://download.pytorch.org/whl/torch_stable.html)
-
-## NuGet101
-
-* P1 What Is Nuget
-* P2 Install And Use A Nuget Package With VisualStudio
-* P3 Install And Use A Nuget Package With .NET CLI
-* P4 Create and Publish a NuGet Package with Visual Studio
-* P5 Create and Publish a NuGet Package with the .NET CLI
-
-## Tye Introduction
-
-* BuildingmicroserviceswithTye_high
+* AI wars. 10:40
+* video: BuildingmicroserviceswithTye_high(将项目编译成容器，并发布). 12:57
+* NuGet101-P1 What Is Nuget(简单介绍). 13:04
+* NuGet101-P2 Install And Use A Nuget Package With VisualStudio. 13:10
+* NuGet101-P3 Install And Use A Nuget Package With .NET CLI. 13:16
+* NuGet101-P4 Create and Publish a NuGet Package with Visual Studio. 13:29
+* NuGet101-P5 Create and Publish a NuGet Package with the .NET CLI. 13:37
