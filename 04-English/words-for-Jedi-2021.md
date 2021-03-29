@@ -564,3 +564,10 @@
 * struggle
 * merchandise
 * lead board
+
+## 2021.3.29
+
+* fossil fuel, 化石燃料
+* sniper, 狙击手
+* sapling, 树苗
+* siblings, 兄弟姐妹
