@@ -571,3 +571,9 @@
 * sniper, 狙击手
 * sapling, 树苗
 * siblings, 兄弟姐妹
+
+## 2021.4.1
+
+* expansion, 膨脹
+* horse sense, 常识
+* volunteer, 自愿者
