@@ -3,23 +3,23 @@
 Author: Jedi Chou, Create at 2021.4.2 7:35 PM
 
 * Daily study
-  * 101WeiQi daily exercise check-in
-  * 163 music APP check-in
-  * Don't memorize words APP check-in
-  * Tencent cartoon APP check-in
-  * NowCoder check-in. 7:05
-  * Read articles and check interview invitation (MaiMai APP)
-  * 百词斩
-  * Read Sina Blog
-  * Exercise of Vocabulary (vocabulary.com)
+  * 101WeiQi daily exercise check-in. 8:03, 8:04
+  * 163 music APP check-in. 8:05
+  * Don't memorize words APP check-in. 8:05
+  * Tencent cartoon APP check-in. 8:06
+  * NowCoder check-in. 8:07
+  * Read articles and check interview invitation (MaiMai APP). 8:09
+  * Read Sina Blog. 8:25
+  * Exercise of Vocabulary (vocabulary.com). 8:42
+  * 百词斩. 9:52
 
 * Weekly task
-  * reading 163.com mails
+  * reading 163.com mails. 9:12
   * Reading 1 minutes at SIMPLE wiki or Baike.Baidu
   * Go Game check
-    * Leela Zero vs Leela Zero
-    * Leela Zero vs Leela Zero
-    * Leela Zero vs Leela Zero
+    * Leela Zero vs Leela Zero. 9:07
+    * Leela Zero vs Leela Zero. 10:41
+    * Leela Zero vs Leela Zero. 14:24
 
 ## Proxy
 
@@ -168,3 +168,38 @@ import {symbol as alias, symbol2} from "filename"
 ```powershell
 Measure-Command
 ```
+
+
+## regx
+
+* r"hel+o" -> helllllo
+* r"(\d{1,3}\.){3}\d{1,3}"
+
+## foxconn official dns
+
+* 10.150.4.161
+* 10.244.226.1
+
+```powershell
+Uninstall-WindowsFeature -Remove Web-Server  # Uninstall IIS.
+$ENV:PSModulePath # The path of powershell modules storage.
+Import-Module servermanager # Install servermanager module to local host.
+Compress-Archive *.xlsx demo.zip # Compress all xlsx file to demo.zip
+```
+
+```powershell
+# PowerShell for VS2019
+# You can use this cmdlet to call web api.
+# 391232.com
+Invoke-RestMethod (Microsoft.PowerShell.Utility) - PowerShell
+```
+
+* template collectors
+  * [story](https://toidicode.github.io/template/16-story/)
+  * [cardio](https://toidicode.github.io/template/17-cardio/)
+  * [made](https://toidicode.github.io/template/19-made-one/)
+  * [weather](https://toidicode.github.io/template/21-weather/)
+
+* Study how to use row id at SQL Server.
+
+* HtmlRenderer.PdfSharp

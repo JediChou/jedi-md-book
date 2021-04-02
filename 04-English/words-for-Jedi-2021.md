@@ -577,3 +577,10 @@
 * expansion, 膨脹
 * horse sense, 常识
 * volunteer, 自愿者
+
+## 2021.4.2
+
+* quadruple, 四倍
+* contrast, 对比
+* fidget, 坐立不安
+* heritage, 遗产
