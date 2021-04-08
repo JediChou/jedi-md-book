@@ -584,3 +584,17 @@
 * contrast, 对比
 * fidget, 坐立不安
 * heritage, 遗产
+
+## 2021.4.8
+
+* go to land, 求助
+* for instance, 例如（和for example比多了一種說法）
+* meant to be，命中註定
+* mean to，對XX來說很重要
+* sit back
+* eternity
+  * 英 [ɪˈtɜːnəti]   美 [ɪˈtɜːrnəti]  
+  * n.永恒;永生;不朽;(似乎)无穷无尽的一段时间
+* meadow
+  * 英 [ˈmedəʊ]   美 [ˈmedoʊ]  
+  * n.草地;牧场

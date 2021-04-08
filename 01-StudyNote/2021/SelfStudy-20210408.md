@@ -10,16 +10,16 @@ Author: Jedi Chou, Create at 2021.4.8 7:56 PM
   * NowCoder check-in. 7:10
   * Read articles and check interview invitation (MaiMai APP). 7:10
   * 百词斩. 7:15
-  * Read Sina Blog
-  * Exercise of Vocabulary (vocabulary.com)
+  * Read Sina Blog. 9:19, 9:37
+  * Exercise of Vocabulary (vocabulary.com). 9:42
 
 * Weekly task
-  * reading 163.com mails
+  * reading 163.com mails. 9:08
   * Reading 1 minutes at SIMPLE wiki or Baike.Baidu
   * Go Game check
-    * Leela Zero vs Leela Zero (86%)
-    * Leela Zero vs Leela Zero
-    * Leela Zero vs Leela Zero
+    * Leela Zero vs Leela Zero. 8:00-8:31 (86%-73%)
+    * Leela Zero vs Leela Zero. 8:35-9:03 (73%-60%)
+    * Leela Zero vs Leela Zero. 9:05-9:34 (60%-52%)
 
 ## Proxy
 
@@ -169,7 +169,6 @@ import {symbol as alias, symbol2} from "filename"
 Measure-Command
 ```
 
-
 ## regx
 
 * r"hel+o" -> helllllo
@@ -203,3 +202,12 @@ Invoke-RestMethod (Microsoft.PowerShell.Utility) - PowerShell
 * Study how to use row id at SQL Server.
 
 * HtmlRenderer.PdfSharp
+* DirectML是個什麼東東？
+
+```bash
+# Bash命令行文件重命名(加扩展名)小技巧：
+# 与其：mv -v 2021-04-06 2021-04-06.txt
+# 不如：mv -v 2021–04-06{,.txt}
+mv -v 2021-04-06 2021-04-06.txt
+mv -v 2021–04-06{,.txt}
+```
