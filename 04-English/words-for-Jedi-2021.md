@@ -598,3 +598,17 @@
 * meadow
   * 英 [ˈmedəʊ]   美 [ˈmedoʊ]  
   * n.草地;牧场
+* backfill, 回填
+* reinstated
+  * 英 [ˌriːɪnˈsteɪtɪd]   美 [ˌriːɪnˈsteɪtɪd]  
+  * v.使恢复原职;使重返岗位;把…放回原处;使恢复原状
+  * reinstate的过去分词和过去式
+
+* sparingly
+  * 英 ['speərɪŋli]   美 ['sperɪŋli]  
+  * adv.很少;细嚼慢咽地;节俭地
+
+* thermal
+  * 英 [ˈθɜːml]   美 [ˈθɜːrml]  
+  * adj.热的;热量的;保暖的;防寒的;温暖的
+  * n.上升的热气流;保暖内衣裤
