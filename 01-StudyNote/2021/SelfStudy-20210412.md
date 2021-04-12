@@ -26,8 +26,8 @@ Author: Jedi Chou, Create at 2021.4.9 7:59 PM
     * Leela Zero vs Leela Zero(B5s-W3s). **10:15** (46%-41%)
     * Leela Zero vs Leela Zero(B5s-W3s). **10:33** (41%-33%)
     * Leela Zero vs Leela Zero(B5s-W3s). **10:49** (33%-27%)
-    * Leela Zero vs Leela Zero(B5s-W3s). **** (26%-%)
-    * Leela Zero vs Leela Zero(B5s-W3s). **** (%-%)
+    * Leela Zero vs Leela Zero(B5s-W3s). **11:21** (26%-20%)
+    * Leela Zero vs Leela Zero(B5s-W3s). **11:40** (20%-12%)
 
 ## Proxy
 
