@@ -612,3 +612,27 @@
   * 英 [ˈθɜːml]   美 [ˈθɜːrml]  
   * adj.热的;热量的;保暖的;防寒的;温暖的
   * n.上升的热气流;保暖内衣裤
+
+## 2021.4.12
+
+* squawk
+  * 英 [skwɔːk]   美 [skwɔːk]  
+  * v.发出刺耳的尖叫声;尖声高叫;怒声叫嚷;吃惊地尖声说话
+  * n.（尤指鸟受惊时）粗厉的叫声
+  * 第三人称单数： squawks复数： squawks现在分词： squawking过去式： squawked过去分词： squawked
+  * 派生词： squawk n.
+
+* contest
+  * 英 [ˈkɒntest , kənˈtest]   美 [ˈkɑːntest , kənˈtest]  
+  * n.比赛;竞赛;(控制权或权力的)争夺，竞争
+  * v.争取赢得(比赛、选举等);争辩;就…提出异议
+  * 第三人称单数： contests复数： contests现在分词： contesting过去式： contested过去分词： contested
+  * 记忆技巧：con 共同 + test 测试；证据 → 共同论证 → 争论
+
+* retirement
+  * 英 [rɪˈtaɪəmənt]   美 [rɪˈtaɪərmənt]  
+  * n.退休;退职;退休年龄;退休生活;(尤指从体育、政治等方面的)退出，引退
+
+* vegan
+  * 英 [ˈviːɡən]   美 [ˈviːɡən]  
+  * n.严格素食主义者(不吃肉、奶、蛋等，有的不用动物产品)
