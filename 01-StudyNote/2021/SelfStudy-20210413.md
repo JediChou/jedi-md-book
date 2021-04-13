@@ -1,6 +1,6 @@
 # Self Study
 
-Author: Jedi Chou, Create at 2021.4.9 7:59 PM
+Author: Jedi Chou, Create at 2021.4.13 8:45 PM
 
 * Daily study
   * 101WeiQi daily exercise check-in. 7:10, 7:10
@@ -10,24 +10,19 @@ Author: Jedi Chou, Create at 2021.4.9 7:59 PM
   * NowCoder check-in. 7:10
   * Read articles and check interview invitation (MaiMai APP). 7:10
   * 百词斩. 7:20
-  * Read Sina Blog. **8:30**
-  * Check gitee messages. **9:31**
-  * Exercise of Vocabulary (vocabulary.com). **10:27**, **10:32**, **10:39**
+  * Read Sina Blog. **8:57**
+  * Exercise of Vocabulary (vocabulary.com). **9:57**
+  * Check gitee messages. **14:26**
+  * Check github messages
 
 * Weekly task
-  * reading mail from jedigit@163.com mails. **10:23**
-  * reading mails from skyzhx@163.com. **10:23**
+  * reading mails from skyzhx@163.com. **8:20**
+  * reading mail from jedigit@163.com mails. **9:56**
   * Reading 1 minutes at SIMPLE wiki or Baike.Baidu
   * Go Game check
-    * Leela Zero vs Leela Zero(B5s-W3s). **8:20** (75%-67%)
-    * Leela Zero vs Leela Zero(B5s-W3s). **8:45** (67%-62%)
-    * Leela Zero vs Leela Zero(B5s-W3s). **8:58** (62%-56%)
-    * Leela Zero vs Leela Zero(B5s-W3s). **10:03** (51%-46%)
-    * Leela Zero vs Leela Zero(B5s-W3s). **10:15** (46%-41%)
-    * Leela Zero vs Leela Zero(B5s-W3s). **10:33** (41%-33%)
-    * Leela Zero vs Leela Zero(B5s-W3s). **10:49** (33%-27%)
-    * Leela Zero vs Leela Zero(B5s-W3s). **11:21** (26%-20%)
-    * Leela Zero vs Leela Zero(B5s-W3s). **11:40** (20%-12%)
+    * Leela Zero vs Leela Zero(B5s-W3s). **8:45** (71%-71%)
+    * Leela Zero vs Leela Zero(B5s-W3s). **9:03** (71%-67%)
+    * Leela Zero vs Leela Zero(B5s-W3s). **9:19** (67%-61%)
 
 ## Proxy
 

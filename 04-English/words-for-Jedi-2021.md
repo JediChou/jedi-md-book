@@ -636,3 +636,32 @@
 * vegan
   * 英 [ˈviːɡən]   美 [ˈviːɡən]  
   * n.严格素食主义者(不吃肉、奶、蛋等，有的不用动物产品)
+
+## 2021.4.13
+
+* omission
+  * 英 [əˈmɪʃn]   美 [əˈmɪʃn]  
+  * n.省略;删除;免除;遗漏;疏忽
+  * 复数： omissions
+
+* ar·i·ty  (âr′ĭ-tē)
+  * n. pl. ar·i·ties
+  * The number of arguments or operands taken by a function or operator.
+
+* frostbite
+  * 英 [ˈfrɒstbaɪt]   美 [ˈfrɔːstbaɪt]  
+  * n.冻伤;冻疮
+  * vt.参加冬季帆船比赛使冻伤;使受霜害
+  * 第三人称单数： frostbites复数： frostbites现在分词： frostbiting过去式： frostbit过去分词： frostbitten
+  * 派生词： frostbitten adj.
+
+* mystic
+  * 英 [ˈmɪstɪk]   美 [ˈmɪstɪk]  
+  * n.潜修者;神秘主义者
+  * 复数： mystics
+
+* cuisine
+  * 英 [kwɪˈziːn]   美 [kwɪˈziːn]  
+  * n.烹饪;风味;(通常指昂贵的饭店中的)饭菜，菜肴
+  * 复数： cuisines
+
