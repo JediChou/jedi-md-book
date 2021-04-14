@@ -665,3 +665,12 @@
   * n.烹饪;风味;(通常指昂贵的饭店中的)饭菜，菜肴
   * 复数： cuisines
 
+## 2021.4.14
+
+* hoax
+  * 英 [həʊks]   美 [hoʊks]  
+  * n.骗局;恶作剧
+  * v.捉弄;欺骗
+  * 第三人称单数： hoaxes复数： hoaxes现在分词： hoaxing过去式： hoaxed过去分词： hoaxed
+  * 派生词： hoaxer n.
+
