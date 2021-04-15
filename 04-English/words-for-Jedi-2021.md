@@ -671,6 +671,47 @@
   * 英 [həʊks]   美 [hoʊks]  
   * n.骗局;恶作剧
   * v.捉弄;欺骗
-  * 第三人称单数： hoaxes复数： hoaxes现在分词： hoaxing过去式： hoaxed过去分词： hoaxed
+  * 第三人称单数： hoaxes
+  * 复数： hoaxes
+  * 现在分词： hoaxing
+  * 过去式： hoaxed
+  * 过去分词： hoaxed
   * 派生词： hoaxer n.
 
+## 2021.4.15
+
+* antenna
+  * 英 [ænˈtenə]   美 [ænˈtenə]  
+  * n.触角;触须
+  * 复数： antennas antennae
+
+* argue
+  * 英 [ˈɑːɡjuː]   美 [ˈɑːrɡjuː]  
+  * v.争论;争吵;争辩;论证;说理;证明;表明
+  * 第三人称单数： argues
+  * 现在分词： arguing
+  * 过去式： argued
+  * 过去分词： argued
+
+* Disrespectful
+  * 英 [ˌdɪsrɪˈspektfl]   美 [ˌdɪsrɪˈspektfl]  
+  * 不尊敬的;失礼的,无礼的
+
+* Wallaby
+  * 英 [ˈwɒləbi]   美 [ˈwɑːləbi]  
+  * 沙袋鼠;小袋鼠;袋鼠;塔岛沙袋鼠
+
+* elaborate on
+  * 英 [ɪˈlæbərət ɒn]   美 [ɪˈlæbərət ɑːn]  
+  * 详细说明
+
+* flakiness
+  * n.成薄片，片状
+
+* Role-based access control (RBAC)
+
+* alongside
+  * 英 [əˌlɒŋˈsaɪd]   美 [əˌlɔːŋˈsaɪd]  
+  * prep.在…旁边;沿着…的边;与…一起;与…同时
+  * adv.在…的侧面;在…旁边;与…并排
+  * 派生词： alongside adv.
