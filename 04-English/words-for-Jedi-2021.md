@@ -715,3 +715,34 @@
   * prep.在…旁边;沿着…的边;与…一起;与…同时
   * adv.在…的侧面;在…旁边;与…并排
   * 派生词： alongside adv.
+
+## 2021.4.19
+
+* gaze
+  * 英 [ɡeɪz]   美 [ɡeɪz]  
+  * v.凝视;注视;盯着
+  * n.凝视;注视
+  * 第三人称单数： gazes
+  * 现在分词： gazing
+  * 过去式： gazed
+  * 过去分词： gazed
+
+* moisturize
+  * 英 [ˈmɔɪstʃəraɪz]   美 [ˈmɔɪstʃəraɪz]  
+  * v.使皮肤湿润;(用脂膏)滋润
+  * 第三人称单数： moisturizes
+  * 现在分词： moisturizing
+  * 过去式： moisturized
+  * 过去分词： moisturized
+
+* calves
+  * 英 [kɑːvz]   美 [kævz]  
+  * n.腓;小腿肚;小牛;牛犊;(象、鲸等的)崽，幼兽
+  * calf的复数;
+  * calve的第三人称单数
+
+* infectious
+  * 英 [ɪnˈfekʃəs]   美 [ɪnˈfekʃəs]  
+  * adj.传染性的，感染的(尤指通过呼吸);患有传染病;有传染力
+  * 派生词： infectiously adv. infectiousness n.
+  * 记忆技巧：infect 传染；感化 + ious …的 → 传染性的
