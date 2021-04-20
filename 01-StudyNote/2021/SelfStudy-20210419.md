@@ -10,26 +10,19 @@ Author: Jedi Chou, Create at 2021.4.19 7:58 PM
   * NowCoder check-in. 7:10
   * Read articles and check interview invitation (MaiMai APP). 7:10
   * 百词斩. 7:15
-  * Check github messages. **15:13**
-  * Check gitee messages. **15:36**
-  * Read Sina Blog. **15:52**
-  * Exercise of Vocabulary (vocabulary.com). **16:04**, **16:09**, **16:13**
+  * Check gitee messages. **8:20**
+  * Exercise of Vocabulary (vocabulary.com). **8:24**
+  * Read Sina Blog. **8:36**
+  * Check github messages. **8:42**
 
 * Weekly task
-  * reading mails from skyzhx@163.com. **9:45**
-  * reading mail from jedigit@163.com mails. **15:11**
+  * reading mails from skyzhx@163.com. **8:18**
+  * reading mail from jedigit@163.com mails. **9:23**
   * Reading 1 minutes at SIMPLE wiki or Baike.Baidu
   * Go Game check
-    * Leela Zero vs Leela Zero(B5s-W3s). **13:42** (100%-98%)
-    * Leela Zero vs Leela Zero(B5s-W3s). **13:55** (98%-94%)
-    * Leela Zero vs Leela Zero(B5s-W3s). **14:02** (94%-92%)
-    * Leela Zero vs Leela Zero(B5s-W3s). **14:14** (92%-88%)
-    * Leela Zero vs Leela Zero(B5s-W3s). **14:25** (88%-86%)
-    * Leela Zero vs Leela Zero(B5s-W3s). **14:38** (86%-82%)
-    * Leela Zero vs Leela Zero(B5s-W3s). **15:07** (82%-77%)
-    * Leela Zero vs Leela Zero(B5s-W3s). **15:32** (77%-72%)
-    * Leela Zero vs Leela Zero(B5s-W3s). **15:46** (72%-67%)
-    * Leela Zero vs Leela Zero(B5s-W3s). **15:54** (67%-64%)
+    * Leela Zero vs Leela Zero(B5s-W3s). **8:38** (69%-59%)
+    * Leela Zero vs Leela Zero(B5s-W3s). **8:53** (59%-54%)
+    * Leela Zero vs Leela Zero(B5s-W3s). **9:23** (54%-45%)
 
 ## Proxy
 
@@ -244,3 +237,4 @@ MMC.exe -> add certificate node -> open
 * Use RAM as a disk~
   * [link1](https://stackoverflow.com/questions/13727718/how-to-create-a-ram-disk-with-imdisk-and-c)
   * [link2](https://stackoverflow.com/questions/2402888/programmable-ram-disk-api-for-net)
+* 《考试脑科学》
