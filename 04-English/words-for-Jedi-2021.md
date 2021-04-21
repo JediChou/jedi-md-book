@@ -746,3 +746,36 @@
   * adj.传染性的，感染的(尤指通过呼吸);患有传染病;有传染力
   * 派生词： infectiously adv. infectiousness n.
   * 记忆技巧：infect 传染；感化 + ious …的 → 传染性的
+
+## 2021.4.21
+
+* caveat
+  * 英 [ˈkæviæt]  美 [ˈkæviæt] 
+  * n. 警告；中止诉讼手续的申请；货物出门概不退换；停止支付的广告
+  * 复数 caveats
+
+* prone to, 有…倾向的
+* illness
+  * 英 [ˈɪlnəs]  美 [ˈɪlnəs]
+  * n. 病；疾病
+  * [ 复数 illnesses ]
+
+* shrink
+  * 英 [ʃrɪŋk]  美 [ʃrɪŋk] 
+  * v. （使）缩小，（使）收缩；（尤指因恐惧而）退缩，畏缩，回避；（衣服、布料）缩水
+  * n. 收缩；畏缩；（非正式）精神病医生，精神病学家，心理学家
+  * 复数 shrinks
+  * 第三人称单数 shrinks
+  * 现在分词 shrinking
+  * 过去式 shrank或shrunk
+  * 过去分词 shrunk或shrunken
+
+* Just to reiterate, 只是再次重申
+
+* grumpy
+  * 英 [ˈɡrʌmpi]  美 [ˈɡrʌmpi]
+  * adj. 脾气暴躁的；性情乖戾的
+  * n. 脾气坏的人；爱抱怨的人
+  * 复数 grumpies
+  * 比较级 grumpier
+  * 最高级 grumpiest
