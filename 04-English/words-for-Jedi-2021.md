@@ -779,3 +779,19 @@
   * 复数 grumpies
   * 比较级 grumpier
   * 最高级 grumpiest
+
+* all along, 自始至终，一直
+
+## 2021.4.22
+
+* nausea
+  * 英 [ˈnɔːziə]  美 [ˈnɔːziə]
+  * n. 恶心，晕船；极端的憎恶
+
+* rumble
+  * 英 [ˈrʌmbl]  美 [ˈrʌmbl]
+  * vt. 使隆隆响；低沉地说
+  * vi. 隆隆作响
+  * n. 隆隆声；抱怨声
+  * n. (Rumble)人名；(英)朗布尔
+
