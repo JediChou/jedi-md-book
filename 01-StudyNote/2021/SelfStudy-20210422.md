@@ -10,19 +10,19 @@ Author: Jedi Chou, Create at 2021.4.22 7:55 PM
   * NowCoder check-in. 7:10
   * Read articles and check interview invitation (MaiMai APP). 7:10
   * 百词斩. 7:15
-  * Check gitee messages. **7:58**
-  * Check github messages. **8:03**
-  * Read Sina Blog. **8:08**
-  * Exercise of Vocabulary (vocabulary.com). **8:22**
+  * Check github messages. **8:41**
+  * Check gitee messages. **8:41**
+  * Read Sina Blog. **9:17**
+  * Exercise of Vocabulary (vocabulary.com). **9:56**
 
 * Weekly task
-  * reading mails from skyzhx@163.com. **8:00**
-  * reading mail from jedigit@163.com mails. **9:12**
+  * reading mails from skyzhx@163.com. **9:57**
+  * reading mail from jedigit@163.com mails. **10:40**
   * Reading 1 minutes at SIMPLE wiki or Baike.Baidu
   * Go Game check
-    * Leela Zero vs Leela Zero(B5s-W3s)  **8:02** (81%-77%)
-    * Leela Zero vs Leela Zero(B5s-W3s)  **8:16** (77%-72%)
-    * Leela Zero vs Leela Zero(B5s-W3s)  **8:34** (72%-67%)
+    * Leela Zero vs Leela Zero(B5s-W3s) **7:56** (97%-92%)
+    * Leela Zero vs Leela Zero(B5s-W3s) **8:38** (92%-82%)
+    * Leela Zero vs Leela Zero(B5s-W3s) **8:47** (82%-78%)
 
 ## Proxy
 
@@ -238,3 +238,16 @@ MMC.exe -> add certificate node -> open
   * [link1](https://stackoverflow.com/questions/13727718/how-to-create-a-ram-disk-with-imdisk-and-c)
   * [link2](https://stackoverflow.com/questions/2402888/programmable-ram-disk-api-for-net)
 * 《考试脑科学》
+* [OneAPM工作两年总结](https://www.ituring.com.cn/article/497377)
+  * HBase->Druid->ClickHouse(fast open-source OLAP DBMS)
+  * 探针的原理, Metric 数据, Boot化
+  * Camel中间件
+  * Mock Agent: 当时我们经常遇到的开发测试问题是，测试不好造数据来进行测试，无法验证某些特定指标的数据，开发无法脱离探针团队单独验证新功能和数据。于是我们决定自己写一套探针数据生成器，定义了一套DSL语言，完整地定义了应用、探针等数据格式，并能自动按照定义规则随机生成指定数据到后端。
+* dotnet core怎么连kafaka
+  * [rdkafka-dotnet](https://github.com/ah-/rdkafka-dotnet)
+  * [kafka-net](https://github.com/Jroland/kafka-net)
+  * [kafka-net](https://github.com/ExactTargetDev/kafka-net)
+  * [CSharpClient-for-Kafka](https://github.com/microsoft/CSharpClient-for-Kafka)
+  * [kafka4net](https://github.com/ntent/kafka4net)
+  * [kafka-sharp](https://github.com/criteo/kafka-sharp)
+  * [kafunk](https://github.com/jet/kafunk)
