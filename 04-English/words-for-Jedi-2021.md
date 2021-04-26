@@ -801,3 +801,10 @@
   * 英 [ˈmetrɪk]   美 [ˈmetrɪk]  
   * adj.米制的;公制的;按公制制作的;用公制测量的
   * n.度量标准;[数学]度量;诗体;韵文;诗韵
+
+## 2021.4.24
+
+* information disclosure, 信息通报
+* arrest, 逮捕
+* withhold, keep back, 保留
+* barrier, 屏障
