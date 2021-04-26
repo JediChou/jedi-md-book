@@ -22,10 +22,10 @@ Author: Jedi Chou, Create at 2021.4.26 7:44 AM
   * Go Game check
     * Leela Zero vs Leela Zero(B5s-W3s) **8:56** (57%-48%)
     * Leela Zero vs Leela Zero(B5s-W3s) **9:19** (48%-39%)
-    * Leela Zero vs Leela Zero(B5s-W3s) (%-%)
-    * Leela Zero vs Leela Zero(B5s-W3s) (%-%)
-    * Leela Zero vs Leela Zero(B5s-W3s) (%-%)
-    * Leela Zero vs Leela Zero(B5s-W3s) (%-%)
+    * Leela Zero vs Leela Zero(B5s-W3s) **13:59** (100%-98%)
+    * Leela Zero vs Leela Zero(B5s-W3s) **14:10** (98%%-95%)
+    * Leela Zero vs Leela Zero(B5s-W3s) **15:57** (94%-90%)
+    * Leela Zero vs Leela Zero(B5s-W3s) **15:29** (90%-83%)
 
 ## Proxy
 
