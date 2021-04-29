@@ -808,3 +808,38 @@
 * arrest, 逮捕
 * withhold, keep back, 保留
 * barrier, 屏障
+
+## 2021.4.29
+
+* there's no denying
+  * there's no denying (that/something) 表示“无可否认”，相当于it is true，英文解释为“”举个🌰：
+  * There's no denying that this has been a difficult year for us.
+  * 今年对大家而言是非常困难的一年，这一点毋庸置疑。
+
+* opposite
+  * 作名词，表示“对立的物（或人）；对立面；反面”
+  * 英文解释为“something or someone that is completely different from another person or thing”举个🌰：
+  * My father is a very calm person, but my mother is just the opposite.
+  * 我父亲是个非常沉着的人，而我母亲则正好相反。
+
+* linger
+  * 表示“（想法、感觉、疾病）继续存留”
+  * 英文解释为“When something such as an idea, feeling, or illness lingers, it continues to exist for a long time, often much longer than expected.”举个🌰：
+  * The scent of her perfume lingered on in the room. 
+  * 她的香水味在房间里久久不散。
+
+* pharmacy 
+  * /ˈfɑːməsɪ/表示“药剂学；制药学”
+  * 英文解释为“the study of how to prepare medicines and drugs”
+
+deftly
+表示“熟练地；灵巧地；敏捷地”，英文解释为“in a skilful, clever, or quick way”举个🌰：
+She deftly caught the ball.
+她巧妙地接住了球。
+
+runoff
+表示“决选；决胜赛”，英文解释为“A runoff is an extra vote or contest which is held in order to decide the winner of an election or competition, because no one has yet clearly won.”
+
+* dreadful
+* Tissue
+* squint
