@@ -2122,3 +2122,16 @@
 * [氧化铝](https://baike.baidu.com/item/%E6%B0%A7%E5%8C%96%E9%93%9D)
 * [抗生素](https://baike.baidu.com/item/%E6%8A%97%E7%94%9F%E7%B4%A0)
 * [巨齿鲨](https://baike.baidu.com/item/%E5%B7%A8%E9%BD%BF%E9%B2%A8/1061355#viewPageContent)
+
+## 2021.5.14
+
+* [洛必达法则](https://baike.baidu.com/item/%E6%B4%9B%E5%BF%85%E8%BE%BE%E6%B3%95%E5%88%99/7646700)
+* [环比](https://baike.baidu.com/item/%E7%8E%AF%E6%AF%94/3207054)
+* [合数](https://baike.baidu.com/item/%E5%90%88%E6%95%B0/49186)
+
+## 2021.5.17
+
+* [椭圆](https://baike.baidu.com/item/%E6%A4%AD%E5%9C%86/684466)
+* [泊松分布](https://baike.baidu.com/item/%E6%B3%8A%E6%9D%BE%E5%88%86%E5%B8%83/1442110)
+* [六维空间](https://baike.baidu.com/item/%E5%85%AD%E7%BB%B4%E7%A9%BA%E9%97%B4/681https://baike.baidu.com/item/%E5%85%AD%E7%BB%B4%E7%A9%BA%E9%97%B4/681)
+* [昨晚你睡好了吗？](https://baike.baidu.com/vbaike/%E6%98%A8%E6%99%9A%E4%BD%A0%E7%9D%A1%E5%A5%BD%E4%BA%86%E5%90%97%EF%BC%9F/84684)
