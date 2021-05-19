@@ -466,3 +466,50 @@ apache
   * templates: 如果想要部署运行时信息更改的软件包配置或者内容文件，将它们和一些嵌入Ruby（ERB）代码一起放在这个目录。
   * tests: 这个文件夹包含你想要用来说明模块使用方法的示例。
   * metadata.json: 这个文件包含semver格式的模块版本名称，以及puppet module generate命令提供的其余数据。
+
+#### 4.5.3 Puppet模块初始化清单(init.pp)
+
+* 整个类定义都将进入init.pp文件。
+* 将文件放置在/etc/puppetlabs/puppet/modules/apache/mainifest中。
+* 代码中的路径才用puppet URL格式。
+* 采用puppet url的好处是可以用puppet协议来访问，例如：
+  * puppet:///modules/apache/
+* 程序清单4-6：Apache Web服务器模块的init.pp文件。
+
+```pp
+class apache {
+  case: $operatingsystem {
+    centos: {
+      $webserver = 'httpd'
+      $confpath = "/etc/$webserver/conf/$webserver.conf"
+    }
+    ubuntu: {
+      $webserver = 'apache2'
+      $confpath = "/etc/$webserver/$webserver.conf"
+    }
+    default: {
+      fail("Unsupported OS")
+    }
+  }
+
+  package { 'apache':
+    name => $webserver,
+    ensure => installed,
+  }
+
+  file { 'apacheconf': 
+    name => $confpath,
+    ensure => file,
+    mode => 600,
+    source => "puppet:///modules/apache/$webserver.conf",
+    require => Package['apache'],
+  }
+
+  service { 'apache':
+    name => $webserver,
+    ensure => running,
+    enable => true,
+    subscribe => File['apacheconf'],
+  }
+}
+```
