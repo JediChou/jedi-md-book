@@ -27,10 +27,10 @@ Author: Jedi Chou, Create at 2021.5.17 7:47 AM
   * Leela Zero vs Leela Zero(B5s-W3s) **9:56** (66%-66% charging)
   * Leela Zero vs Leela Zero(B5s-W3s) **10:46** (66%-62%)
   * Leela Zero vs Leela Zero(B5s-W3s) **11:09** (62%-53%)
-  * Leela Zero vs Leela Zero(B5s-W3s) (%-%)
-  * Leela Zero vs Leela Zero(B5s-W3s) (%-%)
-  * Leela Zero vs Leela Zero(B5s-W3s) (%-%)
-* Adjust Java study conceps list
+  * Leela Zero vs Leela Zero(B5s-W3s) **11:38** (53%-45%)
+  * Leela Zero vs Leela Zero(B5s-W3s) **11:49** (45%-40%)
+  * Leela Zero vs Leela Zero(B5s-W3s) **11:59** (40%-37%)
+* Read 139 mails. **17:54**
 
 ## Proxy
 
