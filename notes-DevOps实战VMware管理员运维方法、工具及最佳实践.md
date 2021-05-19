@@ -16,7 +16,7 @@
   * 評審：Scott Lowe
   * 評審：Matt Oswalt
   
-  ## 第1章 DevOps簡介
+## 第1章 DevOps簡介
 
 ### 1.1 DevOps原則概述
 
