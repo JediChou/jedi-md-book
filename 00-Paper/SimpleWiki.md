@@ -2135,3 +2135,13 @@
 * [泊松分布](https://baike.baidu.com/item/%E6%B3%8A%E6%9D%BE%E5%88%86%E5%B8%83/1442110)
 * [六维空间](https://baike.baidu.com/item/%E5%85%AD%E7%BB%B4%E7%A9%BA%E9%97%B4/681https://baike.baidu.com/item/%E5%85%AD%E7%BB%B4%E7%A9%BA%E9%97%B4/681)
 * [昨晚你睡好了吗？](https://baike.baidu.com/vbaike/%E6%98%A8%E6%99%9A%E4%BD%A0%E7%9D%A1%E5%A5%BD%E4%BA%86%E5%90%97%EF%BC%9F/84684)
+
+## 2021.5.19
+
+* [涡轮增压](https://baike.baidu.com/item/%E6%B6%A1%E8%BD%AE%E5%A2%9E%E5%8E%8B/324624)
+* [ajax](https://baike.baidu.com/item/ajax/8425)
+* [硅胶](https://baike.baidu.com/item/%E7%A1%85%E8%83%B6/1136174)
+* [数据透视表](https://baike.baidu.com/item/%E6%95%B0%E6%8D%AE%E9%80%8F%E8%A7%86%E8%A1%A8/4013030)
+  * Jedi: 這個技術應專題學習. **10:54**
+* [万用表](https://baike.baidu.com/item/%E4%B8%87%E7%94%A8%E8%A1%A8/6229832)
+* [约翰·戈特利布·费希特](https://baike.baidu.com/item/%E7%BA%A6%E7%BF%B0%C2%B7%E6%88%88%E7%89%B9%E5%88%A9%E5%B8%83%C2%B7%E8%B4%B9%E5%B8%8C%E7%89%B9)
