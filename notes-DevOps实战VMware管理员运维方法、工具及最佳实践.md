@@ -15,7 +15,6 @@
   * 作者：Yvo van Doorn
   * 評審：Scott Lowe
   * 評審：Matt Oswalt
-  
 ## 第1章 DevOps簡介
 
 ### 1.1 DevOps原則概述
@@ -513,3 +512,25 @@ class apache {
   }
 }
 ```
+
+#### 4.5.4 模板
+
+* 在apache模板templates目录下创建index.html.erb文件
+
+```erb
+<html>
+    <body>
+        <h1>Puppet Rocks!</h1>
+        <p>This is the default web page for
+        <%# Print the corrent Operating System name with the right article i.e. "a" vs "an"%>
+        <% if @operatingsystem[0].chr =~/[AEIOU] %>
+          <%= "an" %>
+        <% else %>
+          <%= "a" %>
+        <% end %>
+        <b><%= @operatingsystem %></b> server.</p>
+    	<p></p>
+    </body>
+</html>
+```
+
