@@ -2145,3 +2145,16 @@
   * Jedi: 這個技術應專題學習. **10:54**
 * [万用表](https://baike.baidu.com/item/%E4%B8%87%E7%94%A8%E8%A1%A8/6229832)
 * [约翰·戈特利布·费希特](https://baike.baidu.com/item/%E7%BA%A6%E7%BF%B0%C2%B7%E6%88%88%E7%89%B9%E5%88%A9%E5%B8%83%C2%B7%E8%B4%B9%E5%B8%8C%E7%89%B9)
+
+## 2021.5.20
+
+* [瓦肯人](https://baike.baidu.com/item/%E7%93%A6%E8%82%AF%E4%BA%BA/5778155?fr=aladdin)
+  * 「觉醒时代」(Time of Awakening)
+  * 「庞发」(Pon farr)
+  * 瓦肯人去除情感的过程称为「柯里纳」(Kohlinahr)。
+  * 心灵融合(Mind Meld)
+* [应答机](https://baike.baidu.com/item/%E5%BA%94%E7%AD%94%E6%9C%BA)
+* [瓦肯人](https://memory-alpha.fandom.com/zh/wiki/%E7%93%A6%E8%82%AF%E4%BA%BA?variant=zh-hant)
+  * "Live Long and Prosper"(生生不息，繁榮昌盛)
+  * "Peace and Long Life"（和平與壽命），
+  * "IDIC - Infinite Diversity in Infinite Combinations"（在無限組合之中的無限多元）
