@@ -2158,3 +2158,10 @@
   * "Live Long and Prosper"(生生不息，繁榮昌盛)
   * "Peace and Long Life"（和平與壽命），
   * "IDIC - Infinite Diversity in Infinite Combinations"（在無限組合之中的無限多元）
+
+## 2021.5.21
+
+* [正则表达式](https://baike.baidu.com/item/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/1700215)
+  * 主流的正则引擎又分为3类：一、DFA，二、传统型NFA，三、POSIX NFA。
+* [动车](https://baike.baidu.com/item/%E5%8A%A8%E8%BD%A6/3527769)
+* [氨水](https://baike.baidu.com/item/%E6%B0%A8%E6%B0%B4/163683)
