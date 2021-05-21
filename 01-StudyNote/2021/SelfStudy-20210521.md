@@ -24,6 +24,12 @@ Author: Jedi Chou, Create at 2021.5.20 7:52 AM
   * Leela Zero vs Leela Zero(B5s-W3s) **9:17** (83%-80%)
   * Leela Zero vs Leela Zero(B5s-W3s) **9:25** (80%-78%)
 * Reading mail from jedigit@163.com mails. **9:48**
+* Update and upgrade packages at wsl. **10:33**
+* Have a browse through *Modern C++ for Absolute Beginners*. **11:49**
+* [玛茵×安房悟] 在异世界开拓第二人生 第01巻[chinese]【巴别塔汉化组】. **13:09**
+* [玛茵×安房悟] 在异世界开拓第二人生 第02巻[chinese]【巴别塔汉化组】. **13:24**
+* [玛茵×安房悟] 在异世界开拓第二人生 第03巻[chinese]【巴别塔汉化组】. **13:54**
+* [玛茵×安房悟] 在异世界开拓第二人生 第05巻[chinese]【巴别塔汉化组】. **current**
 * Adjust Java study conceps list
 
 ## Proxy
