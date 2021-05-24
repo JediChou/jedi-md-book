@@ -529,8 +529,159 @@ class apache {
           <%= "a" %>
         <% end %>
         <b><%= @operatingsystem %></b> server.</p>
-    	<p></p>
+      <p>The web server software is running and content has been added by your <b>Puppet</b> code.</p>
     </body>
 </html>
 ```
 
+* Jedi:模板这个概念容易理解。
+* 程序清单4-7 更新后的Apache类，包含index.html ERB模板
+
+```pp
+class apache {
+  case $operatingsystem {
+    centos: {
+      $webserver = 'http'
+      $confpath = "/etc/$webserer/conf/$webserver.conf"
+      $htmlpath = "/ar/www/html/index.html"
+    }
+    ubuntu: {
+      $webserver = 'apache2'
+      $confpath = "/etc/$webserver/$webserver.conf"
+      $htmlpath = "/var/www/index.html"
+    }
+    default: {
+      fail("Unsupported OS")
+    }
+  }
+
+  package { 'apache':
+    name => $webserver,
+    ensure => installed,
+  }
+
+  file { 'apacheconf':
+    name => $confpath,
+    ensure => file,
+    mode => 600,
+    source => "puppet://modules/apache/$webserver.conf",
+    require => Package['apache'],
+  }
+
+  service { 'apache':
+    name => $webserver,
+    ensure => running,
+    enable => true,
+    subscribe => File['apacheconf'],
+  }
+
+  file { 'apachecontent': 
+    name => $htmlpath,
+    ensure => file,
+    mode => 644,
+    content => template('apache/index.html.erb'),
+    require => Service['apache'],
+  }
+}
+```
+
+#### 4.5.5 使用Puppet模块
+
+```pp
+# 部署Apache Web服务器所需的唯一代码
+include apache
+```
+
+```pp
+# 如果定义另一个类作为模块的一部分（例如,vhost），
+# 它可以通过如下调用在清单中使用：
+include apache::vhost
+```
+
+#### 4.5.6 最后一步：版本控制提交
+
+## 第5章 Puppet系统管理任务
+
+* Target
+  * Web层
+  * 用数据分离优化Web层
+  * 应用层
+  * 数据库层
+
+### 5.1 用数据分离优化Web层
+
+* Jedi: 拆分代码，以利重用。
+* Jedi: 看到5.3后我对Puppet有点失去信心，太过复杂了。
+
+#### 5.1.1 参数类
+
+* 程序清单5-2 参数类
+
+```pp
+#/etc/puppetlbas/puppet/module/apache/manifests/params.pp
+class apache::params {
+  case $::operatingsystem {
+    'CentOS': {
+      $webserver = 'httpd'
+      $confpath = "/etc/$webserver/conf/$webserver.conf"
+      $htmlpath = "/var/www/html/index.html'
+    }
+    'Ubuntu': {
+      $webserver = "apache2"
+      $confpath = "/etc/$webserver/$webserver.conf"
+      $htmlpath = '/var/www/index.html'
+    }
+    default: {
+      fail("The ${module_name} does not support this Operating System")
+    }
+  }
+}
+```
+
+* 程序清单5-3 更新后的Apache模块
+
+```pp
+#/etc/puppetlabs/puppet/module/apache/manifests/init.pp
+class apache (
+  $webserver = $apache::params::webserer,
+  $confpath = $apache::params::confpath,
+  $htmlpath = $apache::params::htmlpath,
+) inherits apache::params
+{
+  package { 'apache':
+    name => $webserver,
+    ensure => installed,
+  }
+
+  file { 'apacheconf':
+    name => $confpath,
+    ensure => file,
+    mode => 600,
+    source => "puppet://modules/apache/$webserver.conf",
+    require => Package['apache'],
+  }
+
+  service { 'apache': 
+    name => $webserver,
+    ensure => running,
+    enable => true,
+    subscribe => File['apacheconf'],
+  }
+
+  file {'apachecontent':
+    name => $htmlpath,
+    ensure => file,
+    mode => 644,
+    content => template('apache/index.html.erb'),
+    require => Service['apache'],
+
+  }
+}
+```
+
+* Puppet继续借鉴面向对象编程原则，使用inherits关键字表示主清单（init.pp）和params类之间的关系。
+
+* 作业过程
+  * 从远程存储库克隆Apache Web服务器模块，更正Puppet主机上的路径。
+  * 编辑Puppet主服务器的site.pp文件，并制定应该运行模块的主机。
+  * 告诉Puppet代理节点应用我们定义的Puppet代码，也可以等待下一次自动化Puppet代理执行。
