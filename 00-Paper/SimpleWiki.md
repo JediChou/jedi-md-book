@@ -2165,3 +2165,23 @@
   * 主流的正则引擎又分为3类：一、DFA，二、传统型NFA，三、POSIX NFA。
 * [动车](https://baike.baidu.com/item/%E5%8A%A8%E8%BD%A6/3527769)
 * [氨水](https://baike.baidu.com/item/%E6%B0%A8%E6%B0%B4/163683)
+
+## 2021.5.24
+
+* [音速](https://baike.baidu.com/item/%E9%9F%B3%E9%80%9F/2903624)
+* [移动电源](https://baike.baidu.com/item/%E7%A7%BB%E5%8A%A8%E7%94%B5%E6%BA%90/10883289)
+* [混沌](https://baike.baidu.com/item/%E6%B7%B7%E6%B2%8C/7988486)
+  * 牛顿力学的成功，特别是它在预言海王星上的成功，在一定程度上产生误解，把确定性和可预测性等同起来，以为确定性运动一定是可预测的。
+  * 力学系统可按照其能量是否守恒区分为保守系统和耗散系统；又可按照系统可否用已知数学方式表达其运动形式区分为可积系统与不可积系统两类。
+  * KAM定理
+* [加权平均法](https://baike.baidu.com/item/%E5%8A%A0%E6%9D%83%E5%B9%B3%E5%9D%87%E6%B3%95/10357914)
+* [无理数](https://baike.baidu.com/item/%E6%97%A0%E7%90%86%E6%95%B0/105044)
+  * Jedi: 百科中的幾個證明要好好消化一下。
+* [超声波](https://baike.baidu.com/item/%E8%B6%85%E5%A3%B0%E6%B3%A2/603430)
+* [马赫](https://baike.baidu.com/item/%E9%A9%AC%E8%B5%AB/9981198)
+* [牛顿](https://baike.baidu.com/item/%E7%89%9B%E9%A1%BF/5489111)
+* [庞加莱](https://baike.baidu.com/item/%E5%BA%9E%E5%8A%A0%E8%8E%B1)
+  * 《大洪水前的地球》
+  * 他用括去法证明了狄利克雷问题解的存在性，这一方法后来促使位势论有新发展。
+  * 庞加莱的哲学著作《科学与假设》、《科学的价值》、《科学与方法》也有着重大的影响。
+* [Adobe](https://baike.baidu.com/item/Adobe/211696)
