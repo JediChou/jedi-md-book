@@ -2,28 +2,28 @@
 
 Author: Jedi Chou, Create at 2021.6.2 8:33 AM
 
-* Read mails from 13417xx51@139.com
-* 163 music APP check-in
-* Don't memorize words APP check-in
-* NowCoder check-in
-* Tencent cartoon APP check-in
-* Read articles and check interview invitation (MaiMai APP)
-* Download books from salttiger (none)
-* Check news from ZhiHu app or website
-* Check github messages
-* Check gitee messages
-* 101WeiQi daily exercise check-in
-* Download ebook from jb51.net
-* Update and upgrade packages at wsl
-* Read Sina Blog
-* Exercise of Vocabulary (vocabulary.com)
+* Update and upgrade packages at wsl. **13:00**
+* Read mails from 13417xx51@139.com. **13:00**
+* 163 music APP check-in. **13:01**
+* Don't memorize words APP check-in. **13:01**
+* NowCoder check-in. **13:02**
+* Tencent cartoon APP check-in. **13:02**
+* Read articles and check interview invitation (MaiMai APP). **13:03**
+* Download books from salttiger (none). **13:03**
+* Check news from ZhiHu app or website. **13:03**
+* Check github messages. **13:03**
+* Check gitee messages. **13:06**
+* 101WeiQi daily exercise check-in. **13:07**, **13:10**
+* Download ebook from jb51.net. **13:14**
+* Read Sina Blog. **13:32**
 * Go Game check
-  * Leela Zero vs Leela Zero(B5s-W3s) (%-%)
-  * Leela Zero vs Leela Zero(B5s-W3s) (%-%)
-  * Leela Zero vs Leela Zero(B5s-W3s) (%-%)
-* 百词斩
+  * Leela Zero vs Leela Zero(B5s-W3s) **13:14** (90%-87%)
+  * Leela Zero vs Leela Zero(B5s-W3s) **13:50** (87%-79%)
+  * Leela Zero vs Leela Zero(B5s-W3s) **14:02** (79%-75%)
+* Read mails from skyzhx@163.com. **13:57**
+* Exercise of Vocabulary (vocabulary.com). **14:03**
+* 百词斩. **14:05**
 * Reading mail from jedigit@163.com mail
-* Read mails from skyzhx@163.com
 
 * Reading 1 minutes at SIMPLE wiki or Baike.Baidu
 * Have a browse through *Modern C++ for Absolute Beginners*
