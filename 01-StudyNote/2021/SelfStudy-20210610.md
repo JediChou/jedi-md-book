@@ -1,30 +1,35 @@
 # Self Study
 
-Author: Jedi Chou, Create at 2021.6.4 7:32 AM
+Author: Jedi Chou, Create at 2021.6.10 7:49 AM
 
-* Read mails from skyzhx@163.com. **7:34**
-* Check github messages. **7:35**
-* Check gitee messages. **7:36**
-* Update and upgrade packages at wsl. **7:37**
-* Read mails from 13417xx51@139.com. **7:38**
-* 163 music APP check-in. **7:39**
-* Don't memorize words APP check-in. **7:39**
-* NowCoder check-in. **7:40**
-* Tencent cartoon APP check-in. **7:40**
-* Read articles and check interview invitation (MaiMai APP). **7:41**
-* Download books from salttiger (none). **7:42**
-* Check news from ZhiHu app or website. **7:43**
-* 101WeiQi daily exercise check-in. **7:43**, **7:45**
-* Download ebook from jb51.net. **7:49**
-* Read Sina Blog. **7:54**
-* Exercise of Vocabulary (vocabulary.com). **8:05**
-* Reading mail from jedigit@163.com mail. **8:30**
+* Download books from salttiger (none). **7:49**
+* Check gitee messages. **8:03**
+* Read mails from skyzhx@163.com. **8:04**
+* Check github messages. **8:08**
+* Update and upgrade packages at wsl
+* Read mails from 13417xx51@139.com. **8:09**
+* 163 music APP check-in. **8:10**
+* Don't memorize words APP check-in. **8:10**
+* NowCoder check-in. **8:12**
+* Tencent cartoon APP check-in. **8:12**
+* Read articles and check interview invitation (MaiMai APP). **8:13**
+* Check news from ZhiHu app or website. **8:17**
+* 101WeiQi daily exercise check-in. **8:17**, **8:20**
+* Download ebook from jb51.net. **8:33**
+* Read Sina Blog. **8:46**
+* Exercise of Vocabulary (vocabulary.com). **9:52**
 * Go Game check
-  * Leela Zero vs Leela Zero(B5s-W3s) **8:03** (85%-83%)
-  * Leela Zero vs Leela Zero(B5s-W3s) **8:17** (83%-77%)
-  * Leela Zero vs Leela Zero(B5s-W3s) **8:32** (77%-72%)
-* 百词斩. **8:47**
+  * Leela Zero vs Leela Zero(B5s-W3s) **8:50** (xx%-69%)
+  * Leela Zero vs Leela Zero(B5s-W3s) **9:13** (69%-62%)
+  * Leela Zero vs Leela Zero(B5s-W3s) **9:37** (62%-54%)
+  * Leela Zero vs Leela Zero(B5s-W3s) **9:49** (54%-49%)
+  * Leela Zero vs Leela Zero(B5s-W3s) **10:05** (49%-43%)
+  * Leela Zero vs Leela Zero(B5s-W3s) **10:15** (43%-39%)
+* 百词斩. **10:23**
+* Reading mail from jedigit@163.com mail. **12:58**
 
+* Powershell cmdlet: Get-BitsTransfer
+* Powershell cmdlet: Invoke-RestMethod
 * Reading 1 minutes at SIMPLE wiki or Baike.Baidu
 * Have a browse through *Modern C++ for Absolute Beginners*
 * Adjust Java study conceps list
@@ -374,3 +379,8 @@ runas /noprofile /user:administor cmd
 * Keyword: msiexec, slient install.
 * [Ruby视频收集](https://space.bilibili.com/286293946?from=search&seid=6856907615671458278)
 * SysMain服務可以被禁用
+* 非学无以广才，非志无以成学｡
+* 用curl來執行sql.
+* search: ctf beginner
+* CTF stands for “capture the flag.”
+* Metasploitable: What is it?
