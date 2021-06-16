@@ -382,3 +382,9 @@ runas /noprofile /user:administor cmd
 * search: ctf beginner
 * CTF stands for “capture the flag.”
 * Metasploitable: What is it?
+
+```python
+>>> complex(1, 0) == 1
+>>> type(complex(1,0)) == type(1)
+# Jedi: 复数在零点处坍塌!
+```
