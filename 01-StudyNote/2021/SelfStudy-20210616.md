@@ -1,29 +1,29 @@
 # Self Study
 
-Author: Jedi Chou, Create at 2021.6.16 7:51 AM
+Author: Jedi Chou, Create at 2021.6.17 7:37 AM
 
-* Download books from salttiger (none). **8:51**
-* Check gitee messages. **8:54**
-* Update and upgrade packages at wsl. **8:57**
-* Download ebook from jb51.net. **9:05**
+* Download books from salttiger (none). **11:07**
+* Check gitee messages. **11:12**
+* Update and upgrade packages at wsl. **11:13**
+* Download ebook from jb51.net. **11:16**
 * Go Game check
-  * Leela Zero vs Leela Zero(B5s-W3s) **9:50** (xx%-42%)
-  * Leela Zero vs Leela Zero(B5s-W3s) **10:03** (42%-35%)
-  * Leela Zero vs Leela Zero(B5s-W3s) **10:21** (35%-%)
-* Reading mail from jedigit@163.com mail. **10:26**
-* Read mails from skyzhx@163.com. **10:26**
-* Read mails from 13417xx51@139.com. **10:27**
-* Don't memorize words APP check-in. **10:28**
-* 163 music APP check-in. **10:28**
-* NowCoder check-in. **10:29**
-* Tencent cartoon APP check-in. **10:30**
-* Read articles and check interview invitation (MaiMai APP). **10:30**
-* Check news from ZhiHu app or website. **10:31**
-* 101WeiQi daily exercise check-in. **10:31**, **10:33**
-* Check github messages. **10:34**
-* Read Sina Blog. **10:50**
-* 百词斩. **10:55**
-* Exercise of Vocabulary (vocabulary.com). **11:09**
+  * Leela Zero vs Leela Zero(B5s-W3s). **10:21**
+  * Leela Zero vs Leela Zero(B5s-W3s). **10:38**
+  * Leela Zero vs Leela Zero(B5s-W3s). **11:29**
+* Reading mail from jedigit@163.com mail. **13:49**
+* Read mails from skyzhx@163.com. **13:50**
+* Read mails from 13417xx51@139.com. **13:51**
+* Don't memorize words APP check-in. **13:53**
+* 163 music APP check-in. **13:53**
+* NowCoder check-in. **13:54**
+* Tencent cartoon APP check-in. **13:54**
+* Read articles and check interview invitation (MaiMai APP). **13:55**
+* Check news from ZhiHu app or website. **13:55**
+* 101WeiQi daily exercise check-in. **13:58**, **13:59**
+* Check github messages. **14:00**
+* Read Sina Blog. **15:00**
+* 百词斩
+* Exercise of Vocabulary (vocabulary.com)
 
 * github: rustdesk
 * words: racecourse, synthetic
