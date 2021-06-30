@@ -1055,3 +1055,11 @@ I suggest to get other approvals before checking in.
 * surrogate, Unable to accept long sequences of utf-16 surrogate pairs as an input for `ParamsSource` (#1703)
 * Replace all stub refs with real links
 * dual compilation problem in project
+
+* Autoscale
+* fixation
+* bandaging
+* waterproofed
+* Revert
+* racecourse
+* synthetic

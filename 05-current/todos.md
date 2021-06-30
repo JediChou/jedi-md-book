@@ -564,3 +564,56 @@
 * todo: 短网址服务的部署
 * Jedi-Idea: 通过keras的分词功能来制作分词器，便于制作特定领域的分词器，并使之标准化。
 * Jedi-Idea: 但凡可以自动化的——亦可用ML来提高工作效率. 12:01
+
+## 2021.6.30
+
+* Idea: Remember your defects tracking system idea, you can use 'bugit' to name it.
+* Idea
+  * sklearn + (your model) + special logs analysis + maintain script repo + operate center
+  * Auto process your ap and db errors or issues.
+* 根據瀏覽器加載不同的CSS和JS，或者干脆用JS生成动态CSS（类似PostCSS，但本质不同）.
+* Learn From Unit Test (目的：基于单元测试来学习语言或框架，可以做一个系列视频）
+
+* Book: Inside the Microsoft Build Engine: Using MSBuild and Team Foundation Build (Developer Reference) 2nd Edition
+* Book: StyleCop Code Analysis How-to
+* Book: MSBuild Trickery: 99 Ways to Bend the Build Engine to Your Will
+* Book: Continuous Integration in .NET
+* Books: Build Your Own .NET Language and Compiler
+
+* Study how to use row id at SQL Server.
+* HtmlRenderer.PdfSharp
+* snapshot機制？
+  * snapshot 通常是天级别，checkpoint 一般是小时级。
+  * 321備份策略：至少 3 个副本, 2 个不同的存储介质, 1 个 offsite
+* How to create a Deb package or RPM package
+* 《考试脑科学》
+* 什麼是GPG 验证？
+* 免疫逃逸?
+* Java -> Web Services/SOAP/XML-RPC
+* Web Services Description Language (WSDL)
+* Universal Description,Discovery, and Integration (UDDI)
+* 日志易
+* 通过数据标准化算法分析出QPS 和慢速比，井根据实时压测反馈的数据生成水位线， 结合两个指标和水位线的波动情况进行自动扩容和缩容。
+* 智能化故障诊断、异常点检测、根因分析等是智能运维要解决的核心问题
+* 轮询的C#实现
+* css module? 不懂～
+* npm總是有warning
+* npm command: npm install npm@latest -> update npm
+* C#應用程序的補丁機制？
+* eslint是什麼鬼東西？
+* Pulsar是消息队列服务的中间件？
+* Content-Type=application/json
+* Keyword: msiexec, slient install.
+* SysMain服務可以被禁用
+* 用curl來執行sql.
+* 《手写IOC容器》、《23种设计模式核心解析》
+* 《课本上学不到的漫画中国史》
+* redis協議
+* How to use C# generate a SVG picture?
+* How to list installed software at local computer by Chocolate (choco.exe)?
+* 【如何撰写清晰、准确、简洁的科研论文】《Scientific Papers | Learn Science at Scitable
+* 【十步撰写科研论文】《Writing a paper》 4分钟腹部训练TABATA
+*【用Python实现“X题库”：扫描搜索高中习题答案】《Python project that answers high-school problems almost instantly. Made using Tesseract, Scrapy and Flask》
+* 【Kaggle新赛：抽象与推理挑战，“解决以前从未见过的推理任务”】“Abstraction and Reasoning Challenge | Kaggle”
+* Solution Architecture: Vite + Vue + TS files
+* 【如何撰写清晰、准确、简洁的科研论文】《Scientific Papers | Learn Science at Scitable

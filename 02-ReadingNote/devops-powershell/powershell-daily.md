@@ -248,3 +248,61 @@ $appPools_namelist | Format-Table Name, @{expression={$_.queueLength};label="Que
   "icon": "C:\\ca-util\\icon\\activity-icon.png"
 }
 ```
+
+## 2021.6.30
+
+* Jedi: 将其他文件中收录的技巧进行归档. 2021.6.30 11:04 AM.
+* Powershell cmdlet: Get-BitsTransfer
+* Powershell cmdlet: Invoke-RestMethod
+* PowerShell cmdlet: Measure-Command
+
+```powershell
+Uninstall-WindowsFeature -Remove Web-Server  # Uninstall IIS.
+$ENV:PSModulePath # The path of powershell modules storage.
+Import-Module servermanager # Install servermanager module to local host.
+Compress-Archive *.xlsx demo.zip # Compress all xlsx file to demo.zip
+```
+
+```powershell
+# PowerShell for VS2019
+# You can use this cmdlet to call web api.
+# 391232.com
+Invoke-RestMethod (Microsoft.PowerShell.Utility) - PowerShell
+```
+
+```bash
+# Bash命令行文件重命名(加扩展名)小技巧：
+# 与其：mv -v 2021-04-06 2021-04-06.txt
+# 不如：mv -v 2021–04-06{,.txt}
+mv -v 2021-04-06 2021-04-06.txt
+mv -v 2021–04-06{,.txt}
+```
+
+```shell
+# I don't know how to use chcp.exe at windows console.
+PS c:> chcp.exe
+```
+
+```markdown
+# check all certificates on local computer.
+MMC.exe -> add certificate node -> open
+```
+
+```powershell
+# start notepad++
+start "C:\Program Files (x86)\Notepad++\notepad++.exe"
+```
+
+```powershell
+(Get-FormatData System.Diagnostics.Process).FormatViewDefinition.Count
+(Get-FormatData System.Diagnostics.Process)
+```
+
+```shell
+# 以管理员方式运行cmd
+runas /noprofile /user:administor cmd
+```
+
+* RE skills
+  * r"hel+o" -> helllllo
+  * r"(\d{1,3}\.){3}\d{1,3}"
