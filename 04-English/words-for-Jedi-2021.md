@@ -825,10 +825,10 @@
 * linger
   * 表示“（想法、感觉、疾病）继续存留”
   * 英文解释为“When something such as an idea, feeling, or illness lingers, it continues to exist for a long time, often much longer than expected.”举个🌰：
-  * The scent of her perfume lingered on in the room. 
+  * The scent of her perfume lingered on in the room.
   * 她的香水味在房间里久久不散。
 
-* pharmacy 
+* pharmacy
   * /ˈfɑːməsɪ/表示“药剂学；制药学”
   * 英文解释为“the study of how to prepare medicines and drugs”
 
@@ -847,3 +847,211 @@ runoff
 ## 2021.5.13
 
 * wreck
+
+## 2021.6.30
+
+* drowsy
+* pulishment
+* stakeholders
+* ribbing
+* flux
+* preflight
+* Vaguely
+* retrieved
+* vite
+* suspicions
+* rely
+* ally
+* babysitter (todo)
+* firecrackers  (todo)
+* glory (todo) 榮譽？榮耀？
+* cliff
+* icy
+* shortcuts
+* tidbit
+* Briefly
+* weird
+* tagged 标记
+* INCEPTION
+* further discussion
+* RETAIL
+* completeness
+* wrestle
+* yodeling
+* prowess
+* presence
+* Disease
+* thrive
+* pathogen
+* tolerance
+* constable
+* roundup
+* orbit
+* endowment
+* plunge
+
+```text
+And even two guys courting the same gal are considered competitors.
+rely: To rely is to have confidence in something.
+  You're bound to the people you rely on!
+```
+
+* elated
+* handspring
+* overjoyed
+* clandestine
+* espionage
+* guerrilla
+* ambiguity
+
+* yelp
+* rely
+* overdue
+* drench
+* meme
+* attain
+* elated
+* handspring
+* overjoyed
+* clandestine
+* espionage
+* guerrilla
+* ambiguity
+
+* yelp
+* rely
+* overdue
+* drench
+* meme
+* attain
+
+```text
+An annoyed man in the crowd after politely requesting her to moderate her enthusiasm, quite without effect, bluntly told her to shut up.
+This PR is in very rough shape at the moment.
+I suggest to get other approvals before checking in.
+```
+
+* quarterly
+* flu
+* ✍the man/woman in sb's life：your romantic/sexual partner （某人的）伴侣；（某人的）性伴侣
+* ✍Who's the new man in your life, eh? 谁是你生活中的新伴侣，嗯？
+* yardstick
+* collide
+* undergo
+* telemetry
+* vulnerability, vulnerabilities
+* You are appreciated!
+* I'm immersing myself in exercises.
+* choir
+* curator
+  * The current curator version is too low.
+  * so this pr is to upgrade curator version to latest version.
+* Apparently this was a thing in v4 and subsequently taken out in v5 and later.
+* no sticky
+* invitations
+* tackle
+* remain
+* borked
+* due to
+* GC is undoubtedly be frequent
+* as far as I tell,
+* WIP: Native argument passing adjustments for Windows systems (#15408),  what is mean WIP?
+* "shrink to fit"
+
+* Yogurt
+* flammable, easy ignited
+* tease, 柔軟的組織（人體皮膚等）
+* salamander, 蠑螈
+* yogurt, 酸奶（Location: in the dairy aisle）
+* cordially, 熱忱的
+* candidate, 候選人
+* meetup, 組織者的其他設置
+
+* cumulative
+  * 英 [ˈkjuːmjələtɪv]   美 [ˈkjuːmjəleɪtɪv]  
+  * adj. (在力量或重要性方面)聚积的，积累的，渐增的;累计的;累积的
+
+* coherence
+  * 英 [kəʊˈhɪərəns]   美 [koʊˈhɪrəns]  
+  * n.连贯性;条理性
+  
+* immutable
+* volatile
+* a silly mistake from my side (silly)
+* proteins
+* horizonzy, 地平線
+
+* Spells out words before introducing abbreviation and fixes typo
+* so we can properly triage this and help you out.
+* Use the present tense and imperative mood when describing your changes
+* It's clear a lot of work went into making adoption of the library easy.
+* but I thought I'd jump in and provide some unsollicited (and friendly!) feedback
+* It seems like all approaches to improve splatting and thus usability are declined.
+* Remove never executed codes (I think the description is a hard code to me.
+
+* 練習項目：
+  * 留言板
+  * 商城
+  * 附件管理
+  * 短網址
+  * Blog
+  * BBS
+  * 小程序（微信、百度、淘寶）
+  * 進銷存
+
+* Java CLI
+  * jabswitch.exe
+  * java-rmi.exe
+  * java.exe
+  * javacpl.exe
+  * javaw.exe
+  * javaws.exe
+  * jjs.exe
+  * jp2launcher.exe
+  * keytool.exe
+  * kinit.exe
+  * klist.exe
+  * ktab.exe
+  * orbd.exe
+  * pack200.exe
+  * policytool.exe
+  * rmid.exe
+  * rmiregistry.exe
+  * servertool.exe
+  * ssvagent.exe
+  * tnameserv.exe
+
+* 利用SQL SERVER对比两张表的数据一致性
+* [ref](https://blog.csdn.net/weixin_30533797/article/details/96808070?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-4&spm=1001.2101.3001.4242)
+
+* chased
+  * 英 [tʃeɪst]   美 [tʃeɪst]  
+  * v.追赶;追逐;追捕;努力获得;争取得到;追求;求爱
+  * chase的过去分词和过去式
+
+* chug
+  * 英 [tʃʌɡ]   美 [tʃʌɡ]  
+  * v.(发动机缓慢运转时)发出突突声;一饮而尽;一口气喝完
+  * n.(发动机的)突突声
+  * 第三人称单数： chugs
+  * 复数： chugs
+  * 现在分词： chugging
+  * 过去式： chugged
+  * 过去分词： chugged
+
+* tease
+  * 英 [tiːz]   美 [tiːz]  
+  * v.取笑;戏弄;揶揄;寻开心;招惹，逗弄(动物);挑逗，撩拨(异性)
+  * n.爱戏弄人的人;逗弄者;取笑者;戏弄;捉弄;取笑;卖弄风骚的人;勾引人者
+  * 第三人称单数： teases
+  * 复数： teases
+  * 现在分词： teasing
+  * 过去式： teased
+  * 过去分词： teased
+
+* thought
+* referring
+* Set Canonical Meta tag on pages
+* surrogate, Unable to accept long sequences of utf-16 surrogate pairs as an input for `ParamsSource` (#1703)
+* Replace all stub refs with real links
+* dual compilation problem in project

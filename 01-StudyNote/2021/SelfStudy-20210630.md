@@ -396,3 +396,34 @@ runas /noprofile /user:administor cmd
 * waterproofed
 * Revert
 * Idea: 只有js，沒有css文件的應用框架。
+* 《手写IOC容器》、《23种设计模式核心解析》
+* 《课本上学不到的漫画中国史》
+* redis協議
+
+* [The Project Gutenberg EBook of St. Nicholas Magazine for Boys and Girls](https://www.gutenberg.org/files/17513/17513-h/17513-h.htm)
+  * word: Proofreading
+  * word: PROLOGUE
+
+* How to use C# generate a SVG picture?
+* How to list installed software at local computer by Chocolate (choco.exe)?
+* Idea: Remember your defects tracking system idea, you can use 'bugit' to name it.
+* [Hacker101](www.hacker101.com)
+* What is Hacker101?
+* What is the Hacker101 CTF?
+* I'm new to all of this; how do I get started?
+
+* 【如何撰写清晰、准确、简洁的科研论文】《Scientific Papers | Learn Science at Scitable
+* 【十步撰写科研论文】《Writing a paper》 4分钟腹部训练TABATA
+*【用Python实现“X题库”：扫描搜索高中习题答案】《Python project that answers high-school problems almost instantly. Made using Tesseract, Scrapy and Flask》
+* 【Kaggle新赛：抽象与推理挑战，“解决以前从未见过的推理任务”】“Abstraction and Reasoning Challenge | Kaggle”
+* 【新书：零基础AI入门指南——非技术无炒作的AI时代指南】《Zero to AI》by Nicolo Valigi and Gianluca Mauro (Manning 2020)
+* 【新书：用python玩转大规模数据集——Python并行化/分布式指南】《Mastering Large Datasets with Python》by John T. Wolohan (Manning 2020)
+* 【新书：Python专家实战技巧】《Practices of the Python Pro》by Dane Hillard(Manning 2019)
+* Solution Architecture: Vite + Vue + TS files* 【如何撰写清晰、准确、简洁的科研论文】《Scientific Papers | Learn Science at Scitable
+* 【十步撰写科研论文】《Writing a paper》 4分钟腹部训练TABATA
+*【用Python实现“X题库”：扫描搜索高中习题答案】《Python project that answers high-school problems almost instantly. Made using Tesseract, Scrapy and Flask》
+* 【Kaggle新赛：抽象与推理挑战，“解决以前从未见过的推理任务”】“Abstraction and Reasoning Challenge | Kaggle”
+* 【新书：零基础AI入门指南——非技术无炒作的AI时代指南】《Zero to AI》by Nicolo Valigi and Gianluca Mauro (Manning 2020)
+* 【新书：用python玩转大规模数据集——Python并行化/分布式指南】《Mastering Large Datasets with Python》by John T. Wolohan (Manning 2020)
+* 【新书：Python专家实战技巧】《Practices of the Python Pro》by Dane Hillard(Manning 2019)
+* Solution Architecture: Vite + Vue + TS files
