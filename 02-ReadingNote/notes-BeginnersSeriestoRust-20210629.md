@@ -227,7 +227,6 @@ fn main() {
 
 ## Demo: Create and use scalar data types [10 of 35]
 
-
 ```rust
 fn main() {
     let a: u8 = 5;
