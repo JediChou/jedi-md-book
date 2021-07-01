@@ -306,3 +306,21 @@ runas /noprofile /user:administor cmd
 * RE skills
   * r"hel+o" -> helllllo
   * r"(\d{1,3}\.){3}\d{1,3}"
+
+## 2021.7.1
+
+* 在wsl下設置apt的代理
+
+```shell
+jedi@MIS-F3216338:/etc/apt$ cat apt.conf
+Acquire::http::Proxy "http://10.130.2.21:5000";
+```
+
+* wsl另外一處設置代理似乎沒用
+
+```shell
+jedi@MIS-F3216338:/etc/apt$ cat /etc/apt/apt.conf.d/10proxy
+Acquire::http::Proxy "http://10.130.2.21:5000";
+```
+
+* 根據進勇描述這兩個配置檔是相互補充的！
