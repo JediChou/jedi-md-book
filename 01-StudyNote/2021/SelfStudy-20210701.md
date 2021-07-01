@@ -23,7 +23,8 @@ Author: Jedi Chou, Create at 2021.7.1 7:09 AM
 * 百词斩. **10:51**
 * Exercise of Vocabulary (vocabulary.com). **10:51**
 * Read Sina Blog. **11:03**
-* Update and upgrade packages at wsl
+* Update and upgrade packages at wsl. **16:13*
+* Read mails from skyzhx@163.com. **17:01**
 
 ## Proxy
 
@@ -41,3 +42,16 @@ Https://10.153.24.98;Http://10.153.24.98;Http://10.134.33.98;Http://10.98.29.190
 10.130.2.191:808
 10.130.2.21:5000
 ```
+
+* [Beginner's Series to: Vue.js](https://channel9.msdn.com/Series/Beginners-Series-to-Vuejs)
+* [Let's Learn .NET](https://channel9.msdn.com/Shows/lets-learn-dotnet)
+* [Beginner's Series to: Serverless](https://channel9.msdn.com/Series/Beginners-Series-to-Serverless)
+
+## What is TailWind
+
+* [Link](https://channel9.msdn.com/Shows/Web-Wednesday/What-is-Tailwind-CSS)
+* Support flex layout.
+* Use class to design page.
+* It is a mobile-first framework.
+* Bulma, Buefy, VuePress
+* 2021.7.1 19:13 PM
