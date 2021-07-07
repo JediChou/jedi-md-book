@@ -83,3 +83,4 @@ Https://10.153.24.98;Http://10.153.24.98;Http://10.134.33.98;Http://10.98.29.190
 * [TestYourVocab](http://testyourvocab.com/)
   * current result is 3,110.
   * 2021.7.7
+* Words: brochure, indigenously-produced
