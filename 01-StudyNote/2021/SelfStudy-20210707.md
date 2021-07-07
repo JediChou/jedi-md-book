@@ -84,3 +84,17 @@ Https://10.153.24.98;Http://10.153.24.98;Http://10.134.33.98;Http://10.98.29.190
   * current result is 3,110.
   * 2021.7.7
 * Words: brochure, indigenously-produced
+* Thinking: 什麼時候不能用二分法看問題？
+* words: squint, alliance
+
+```english-text
+They order espresso and share a creme brulee, their two teaspoons cracking the hard amber surface from either side.
+```
+
+* words: espresso, creme, brulee, teaspoons, amber
+
+```english-text
+You only have to look at his performances: he is a talent and a goalscoring threat.
+```
+
+* words: goalscoring, dry goods

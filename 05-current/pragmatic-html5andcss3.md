@@ -46,3 +46,31 @@
 ### HTML5: The Platform vs. The Specification
 
 ### What’s in This Book
+
+* Browser Compatibility Lists
+* What’s Not in This book
+* Changes in the Second Edition
+* Jedi: Grid layout, flex layout
+
+```book-list
+Head First HTML and CSS, 2nd Edition
+HTML and CSS: Design and Build Websites [Duc11], by Jon Duckett.
+Designing with Web Standards [Zel09], by Jeffrey Zeldman.
+Responsive Web Design with HTML5 and CSS, 3rd Edition
+```
+
+### How to Read This Book
+
+### What You Need
+
+* Testing on Internet Explorer
+* Node.js and the Example Server
+
+### A Note about JavaScript and jQuery Usage
+
+### Online Resources
+
+## CHAPTER 1 An Overview of HTML5 and CSS3
+
+### 1.1 A Stronger Platform for Web Development
+
