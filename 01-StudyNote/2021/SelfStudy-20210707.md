@@ -44,57 +44,7 @@ Https://10.153.24.98;Http://10.153.24.98;Http://10.134.33.98;Http://10.98.29.190
 10.191.131.12:3128
 Https://10.153.24.98;Http://10.153.24.98;Http://10.134.33.98;Http://10.98.29.190;Https://Ca.Foxconn.Com;Http://Ca.Foxconn.Com;Http://esign.efoxconn.com;Http://ks.esign.efoxconn.com;Http://evouchers.efoxconn.com;Http://emvouchers.efoxconn.com
 
+oaproxy.minmaxtec.com:3128
 10.130.2.191:808
 10.130.2.21:5000
 ```
-
-* [Beginner's Series to: Vue.js](https://channel9.msdn.com/Series/Beginners-Series-to-Vuejs)
-* [Let's Learn .NET](https://channel9.msdn.com/Shows/lets-learn-dotnet)
-* [Beginner's Series to: Serverless](https://channel9.msdn.com/Series/Beginners-Series-to-Serverless)
-
-* words: double-hop
-* words: prettier
-* words: gradle, placeholder
-* words: mutex, elegant
-* powershell-cmdlet: ConvertFrom-Json
-* powershell-cmdlet: Get-NetIPAddress
-* powershell-cmdlet: Get-WinEvent
-* Jedi: 公司的WSL未安裝php，系統提示兩個安裝項（php7.2-cli, hhvm）。
-* Jedi: 如何實現Web黑暗模式？重新設計、使用系統默認？
-* words: boycott, protest
-* words: loaf, holler, annoy, creamy, sour, salty
-* words: nutritious, assertive, Jamaican, sprinter
-* words: rivals, souvenir, keepsake, telltale
-* powershell-cmdlet: test-json
-* words: make sure, retrieving, dreadful, routine
-* words: remorseful
-* words: Immigration
-* words: Detergent
-* words: nacos
-* words: extract
-* words: favicon
-* words: helix
-* words: groundwork
-* concepts: 销售工程师（Sales Engineer）
-  * [What Skills do I Need to be a Sales Engineer?](https://www.salesengineertraining.com/what-skills-do-i-need-to-be-a-sales-engineer)
-* 查詢下在vscode中如何自定義代碼片段（code snippets）
-* words: fragment
-* words: spectacular, domestic
-* [TestYourVocab](http://testyourvocab.com/)
-  * current result is 3,110.
-  * 2021.7.7
-* Words: brochure, indigenously-produced
-* Thinking: 什麼時候不能用二分法看問題？
-* words: squint, alliance
-
-```english-text
-They order espresso and share a creme brulee, their two teaspoons cracking the hard amber surface from either side.
-```
-
-* words: espresso, creme, brulee, teaspoons, amber
-
-```english-text
-You only have to look at his performances: he is a talent and a goalscoring threat.
-```
-
-* words: goalscoring, dry goods
