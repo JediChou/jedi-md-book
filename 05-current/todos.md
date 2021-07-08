@@ -617,3 +617,137 @@
 * 【Kaggle新赛：抽象与推理挑战，“解决以前从未见过的推理任务”】“Abstraction and Reasoning Challenge | Kaggle”
 * Solution Architecture: Vite + Vue + TS files
 * 【如何撰写清晰、准确、简洁的科研论文】《Scientific Papers | Learn Science at Scitable
+
+## 2021.7.8
+
+* [Beginner's Series to: Vue.js](https://channel9.msdn.com/Series/Beginners-Series-to-Vuejs)
+* [Let's Learn .NET](https://channel9.msdn.com/Shows/lets-learn-dotnet)
+* [Beginner's Series to: Serverless](https://channel9.msdn.com/Series/Beginners-Series-to-Serverless)
+* Thinking: 什麼時候不能用二分法看問題？
+* What: `TestFlight`
+* Jedi: 公司的WSL未安裝php，系統提示兩個安裝項（php7.2-cli, hhvm）。
+* Jedi: 如何實現Web黑暗模式？重新設計、使用系統默認？
+* 查詢下在vscode中如何自定義代碼片段（code snippets）
+* concepts: 销售工程师（Sales Engineer）
+  * [What Skills do I Need to be a Sales Engineer?](https://www.salesengineertraining.com/what-skills-do-i-need-to-be-a-sales-engineer)
+
+* 練習項目：
+  * 留言板
+  * 商城
+  * 附件管理
+  * 短網址
+  * Blog
+  * BBS
+  * 小程序（微信、百度、淘寶）
+  * 進銷存
+
+* Java CLI
+  * jabswitch.exe
+  * java-rmi.exe
+  * java.exe
+  * javacpl.exe
+  * javaw.exe
+  * javaws.exe
+  * jjs.exe
+  * jp2launcher.exe
+  * keytool.exe
+  * kinit.exe
+  * klist.exe
+  * ktab.exe
+  * orbd.exe
+  * pack200.exe
+  * policytool.exe
+  * rmid.exe
+  * rmiregistry.exe
+  * servertool.exe
+  * ssvagent.exe
+  * tnameserv.exe
+
+* 利用SQL SERVER对比两张表的数据一致性
+* [ref](https://blog.csdn.net/weixin_30533797/article/details/96808070?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-4&spm=1001.2101.3001.4242)
+
+* Mine Target
+  * 大文件传输服务（2G/10G/20G/200G）
+  * Cloud Foundry
+  * 解决方案实施
+  * 二次开发实施
+  * 计费系统核心及其相关周边插件的开发
+  * 基于开源的DevOps系统的实施与二次开发（Python,Ruby)
+  * 自己开发的一个CSS框架（快速、好用）
+  * 自己开发的一套基于ASP.NET MVC的快速开发框架
+  * 重构当前的CA网站至ASP.NET MVC架构下；
+  * 重构当前的CA网站至ASP.NET MVC Core架构下；
+  * 分离目前的PDF生成服务，并使之变得产品化
+  * 小型工作流作業框架
+  * 消息推送平台
+  * 创建属于自己的nuget包
+  * 制作一个大家都喜欢用的touch bar
+  * 多活, 高可用, 熔斷, 限流, 高並發, 自動化, 服務調度
+  * 消息推送，服務發現, 對象存儲, 推薦系統
+  * 郵件, 版本管理, 企業內及時通訊，商城
+  * PDF生成框架
+    * [XpdfNet](https://github.com/gqy117/XpdfNet)
+    * [XPdf](https://github.com/fzani/xpdf)
+    * [pdf-extract](https://github.com/poulfoged/pdf-extract)
+
+* Skills
+  * [.NET ORM - Dapper](https://github.com/StackExchange/Dapper)
+  * [Web font](https://fontawesome.com/)
+  * [開源的DevOps工具 - bigops](http://www.bigops.com/)
+  * Domain-Wiki
+  * Scrapy: Python爬虫
+  * curl
+  * dotnet的CURL库调用
+  * ElasticSearch
+    * [CN Guide](https://elasticsearch.apachecn.org/#/)
+    * [CN Guide - Officical](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)
+
+* Nuget Package want to study
+  * Bootstrap CSS ***Import***
+  * jQuery
+  * WebGrease
+  * NUnit Version 3
+  * AngularJS
+  * AutoMapper
+  * ANTLRv3
+  * log4net
+  * Application Insights for Web Applications
+  * Microsoft ASP.NET SignalR
+  * System.Data.SQLite (x86/x64)
+  * Unity
+  * NLog
+  * Ninject
+  * Dapper dot net
+  * MySql.Data
+  * NUnit.Runners
+  * Selenium WebDriver
+  * RestSharp
+  * iTextSharp
+  * (Legacy) Official C# driver for MongoDB
+  * Sake
+  * AngularJS UI Bootstrap
+  * xUnit.net
+  * CvsHelper
+  * Selenium WebDriver Support Classes
+  * NHibernate
+  * MongoDB.Driver
+  * MySql.Data.Entity
+  * Moment.js
+  * NLog Configuration
+  * Quartz.NET
+  * EPPlus
+  * Common.Logging
+  * NPOI
+  * Ninject.MVC3
+  * Math.NET Numerics
+  * Mono.Nat
+  * Microsoft ASP.NET SignalR System.Web
+  * DotNetOpenAuth OAuth 1.0(a)
+  * SpecFlow
+  * DataTables
+  * RabbitMQ.Client
+  * NuGet.Server
+  * OSChina.net - Enterprise BUS System (C#)
+  * [zbus](http://git.oschina.net/rushmore/zbus)
+  * MassTransit
+  * [Shuttle ESB](https://github.com/shuttle/shuttle-esb)
