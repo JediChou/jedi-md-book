@@ -989,41 +989,6 @@ I suggest to get other approvals before checking in.
 * It seems like all approaches to improve splatting and thus usability are declined.
 * Remove never executed codes (I think the description is a hard code to me.
 
-* 練習項目：
-  * 留言板
-  * 商城
-  * 附件管理
-  * 短網址
-  * Blog
-  * BBS
-  * 小程序（微信、百度、淘寶）
-  * 進銷存
-
-* Java CLI
-  * jabswitch.exe
-  * java-rmi.exe
-  * java.exe
-  * javacpl.exe
-  * javaw.exe
-  * javaws.exe
-  * jjs.exe
-  * jp2launcher.exe
-  * keytool.exe
-  * kinit.exe
-  * klist.exe
-  * ktab.exe
-  * orbd.exe
-  * pack200.exe
-  * policytool.exe
-  * rmid.exe
-  * rmiregistry.exe
-  * servertool.exe
-  * ssvagent.exe
-  * tnameserv.exe
-
-* 利用SQL SERVER对比两张表的数据一致性
-* [ref](https://blog.csdn.net/weixin_30533797/article/details/96808070?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-4&spm=1001.2101.3001.4242)
-
 * chased
   * 英 [tʃeɪst]   美 [tʃeɪst]  
   * v.追赶;追逐;追捕;努力获得;争取得到;追求;求爱
@@ -1063,3 +1028,36 @@ I suggest to get other approvals before checking in.
 * Revert
 * racecourse
 * synthetic
+
+## 2021.7.8
+
+* words: double-hop
+* words: prettier
+* words: gradle, placeholder
+* words: mutex, elegant
+* words: boycott, protest
+* words: loaf, holler, annoy, creamy, sour, salty
+* words: nutritious, assertive, Jamaican, sprinter
+* words: rivals, souvenir, keepsake, telltale
+* words: make sure, retrieving, dreadful, routine
+* words: remorseful
+* words: Immigration
+* words: Detergent
+* words: nacos
+* words: extract
+* words: favicon
+* words: helix
+* words: groundwork
+* words: fragment
+* words: spectacular, domestic
+* Words: brochure, indigenously-produced
+* words: squint, alliance
+* sentences: They order espresso and share a creme brulee, their two teaspoons cracking the hard amber surface from either side.
+* words: espresso, creme, brulee, teaspoons, amber
+* sentences:  You only have to look at his performances: he is a talent and a goalscoring threat.
+* words: goalscoring, dry goods
+* words: Unemployment, trio, triplet
+* words: remorse, remorseful, destructure
+* words: plagued by, exclusively, this is cuts me.
+* words: misnomer, slash, assistance, Deduction
+* words: conveyed
