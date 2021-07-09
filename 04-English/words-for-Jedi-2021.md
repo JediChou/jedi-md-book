@@ -1060,4 +1060,35 @@ I suggest to get other approvals before checking in.
 * words: remorse, remorseful, destructure
 * words: plagued by, exclusively, this is cuts me.
 * words: misnomer, slash, assistance, Deduction
-* words: conveyed
+* words: conveyed, 表达，传递(思想、感情等);传送;运送;输送
+* words: unflinching
+* words: versus -> humanity versus nature
+* words: geoengineering
+  * n 地球工程;气候工程
+* words: memoir, 回憶錄
+* words: overstory, 夸大
+* words: unusual, 不寻常、不普通
+* words: eager (常见词)
+* words: Immune System, 免疫系统
+* nevertheless, bad-actor
+* facility, 設施
+* on the right track, 就該這麼做～ 這才對！
+* skepticism, sponsored by
+
+## 2021.7.9
+
+* amused
+* yolk
+* familiarly -> informally
+* decline
+* concession
+* gherkin: 醋泡小黄瓜;小黄瓜
+* galore: 大量;很多
+* breeze
+  * n.微风;和风;轻而易举的事
+  * v.轻盈而自信地走
+* abiding
+  * adj. 持久的;长久的;始终不渝的
+  * v. (十分厌恶而)不能容忍，无法容忍;逗留;停留;居留;居住
+  * abide的现在分词
+* harassed <- `If you are being harassed by a member, ...`

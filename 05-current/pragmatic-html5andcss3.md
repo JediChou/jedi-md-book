@@ -74,3 +74,4 @@ Responsive Web Design with HTML5 and CSS, 3rd Edition
 
 ### 1.1 A Stronger Platform for Web Development
 
+* Backward Compatibility
