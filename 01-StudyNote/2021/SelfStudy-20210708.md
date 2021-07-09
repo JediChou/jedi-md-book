@@ -33,14 +33,19 @@ Author: Jedi Chou, Create at 2021.7.8 7:50 AM
   * Leela Zero vs Leela Zero(B2s-W1s). **11:13**
   * Leela Zero vs Leela Zero(B5s-W3s). **11:24**
   * Leela Zero vs Leela Zero(B5s-W3s). **11:36**
-  * Leela Zero vs Leela Zero(B5s-W3s)
+  * Leela Zero vs Leela Zero(B5s-W3s). **11:52**
+  * Leela Zero vs Leela Zero(B5s-W3s). **11:55**
 
-* Reading: Introduction to Logic Programming and Prolog. **11:29**
+## Reading
+
+* Introduction to Logic Programming and Prolog. **11:29**
+* [5 ideas for summer reading](https://www.gatesnotes.com/About-Bill-Gates/Summer-Books-2021). **14:59**
+* [America’s Long-Term Care System Is Broken](https://www.scientificamerican.com/article/americas-long-term-care-system-is-broken/)
 
 ## Proxy
 
 ```memo
-proxy: 10.*;*.minmaxtec.com;*.foxconn.net;*.cfa.com;*.lh.com
+Ignore: 10.*;*.minmaxtec.com;*.foxconn.net;*.cfa.com;*.lh.com
 oaproxy.minmaxtec.com:3128
 10.191.131.12:3128
 ```
