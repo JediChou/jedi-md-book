@@ -1092,3 +1092,9 @@ I suggest to get other approvals before checking in.
   * v. (十分厌恶而)不能容忍，无法容忍;逗留;停留;居留;居住
   * abide的现在分词
 * harassed <- `If you are being harassed by a member, ...`
+
+## 2021.7.13
+
+* turnip, 白罗卜
+* trickster, 骗子
+* cherish, 珍惜
