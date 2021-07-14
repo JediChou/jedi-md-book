@@ -30,16 +30,3 @@ Author: Jedi Chou, Create at 2021.7.13 8:51 AM
   * Leela Zero vs Leela Zero(B5s-W2s). **17:04**
   * Leela Zero vs Leela Zero(B5s-W2s). **17:16**
   * Leela Zero vs Leela Zero(B10s-W5s). **17:42**
-* 百词斩
-
-## Proxy
-
-```memo
-Ignore: 10.*;*.minmaxtec.com;*.foxconn.net;*.cfa.com;*.lh.com
-oaproxy.minmaxtec.com:3128
-10.191.131.12:3128
-```
-
-* Question bank, 题库
-* IDC, Internet Data Center.
-* NOI or ACM
