@@ -42,3 +42,4 @@ oaproxy.minmaxtec.com:3128
 * [Github Copilot](https://copilot.github.com/)
 * [Microsoft safty scanner](https://docs.microsoft.com/zh-cn/windows/security/threat-protection/intelligence/safety-scanner-download)
 * Network simulate software: [PNETLab](https://pnetlab.com/pages/main)
+  * B站有一個有效資源

@@ -1098,3 +1098,35 @@ I suggest to get other approvals before checking in.
 * turnip, 白罗卜
 * trickster, 骗子
 * cherish, 珍惜
+
+## 2021.7.15
+
+* Words: seesaws -> 蹺蹺板
+* words: linefeed -> 換行符
+* Words: deprecated
+* Words: I see other people have done interesting things in collating this sort of info.
+* Words: butterfingers -> 常常掉東西的人
+* Words: Help desk -> 服務台
+* Words: ongoing -> 不間斷的
+* Words: decay
+* words: `proposal`
+* words: `Entrepreneurial and scrappy`
+* words: `crucial`
+* words: `General Availability`
+* words: `Compatible, 兼容的`
+* words: `yolk, 蛋黃`
+* words: `bothered -> annoyed, 煩惱、擔心`
+* words: `therefore -> hence, 因此`
+* words: `It’s like getting a radio broadcast in a doggy bag.`
+* words: `seedpods`
+* words: `Climate change -> 氣候變化`; `unsustainable`, `deforestation`, `agriculture`, `worsened`
+* words: `energetic -> 精力充沛`
+* Question bank, 题库
+* `Curiosity -> 好奇心`
+* `urge -> 催促, inquisitive, wondering`
+* `Lockdown -> 封锁`
+* `reunion -> 聚会（同学聚会）`
+* `abduct -> 诱拐;劫持;绑架, kidnap`
+* `embryo`
+* `absorption`
+* `is a port of` -> What mean?

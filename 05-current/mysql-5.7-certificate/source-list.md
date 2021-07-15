@@ -5,3 +5,4 @@
 * [Extending MySQL 5.7](https://downloads.mysql.com/docs/extending-mysql-5.7-en.pdf)
 * Book: JDBC Metadata, MySQL, and Oracle Recipes: A Problem-Solution Approach
 * Book: MySQL 5.0 Certification Study Guide
+* [MySQL 5.1 Plugin Development](https://www.packtpub.com/product/mysql-5-1-plugin-development/9781849510608)
