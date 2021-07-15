@@ -35,24 +35,3 @@ Ignore: 10.*;*.minmaxtec.com;*.foxconn.net;*.cfa.com;*.lh.com
 oaproxy.minmaxtec.com:3128
 10.191.131.12:3128
 ```
-
-* Question bank, 题库
-* IDC, Internet Data Center.
-* NOI or ACM
-* Book: JDBC Metadata, MySQL, and Oracle Recipes: A Problem-Solution Approach
-* Book: MySQL 5.0 Certification Study Guide
-* Github Copilot
-* Words: seesaws -> 蹺蹺板
-* words: linefeed -> 換行符
-
-## MySQL Lab
-
-* Ref: MySQL Cook: Solutions for Database Develpers and Administrators
-* Importing CSV Files (use LOAD DATA, `P383`)
-* Importing CSV Files (use mysqlimport, `P383`)
-* Exporting Query Results from MySQL (use SELECT INTO OUTFILE, `P383`)
-* Exporting Query Results from MySQL (use SELECT INTO OUTFILE and output format is CSV, `P384`)
-* Exporting using the mysql client program (option1/2/3, `P384`)
-* Importing and Exporting NULL Values.
-* Writing Your Own Data Export Programs.
-* 11.6: Converting Datafiles from One Format to Another.
