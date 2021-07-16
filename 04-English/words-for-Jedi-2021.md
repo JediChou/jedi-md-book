@@ -1130,3 +1130,10 @@ I suggest to get other approvals before checking in.
 * `embryo`
 * `absorption`
 * `is a port of` -> What mean?
+
+## 2021.7.16
+
+* `an open-air movie -> 露天电影`
+* `When night fall -> 夜幕降临`
+* `The search for a job is taking a long time`
+* `in search of -> 寻找`
