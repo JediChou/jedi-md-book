@@ -1137,3 +1137,10 @@ I suggest to get other approvals before checking in.
 * `When night fall -> 夜幕降临`
 * `The search for a job is taking a long time`
 * `in search of -> 寻找`
+
+## 2021.7.19
+
+* `ecologist`
+* `lunatic, A lunatic is someone who is either clinically insane or just acting really crazy. Someone driving too fast and zigging in and out of traffic is driving like a lunatic.`
+* `baptize, To baptize is the ritual of bringing someone into the religion of Christianity. It’s usually when little babies get their heads sprinkled with water in a church.`
+* `comet, A comet is a small, icy object that orbits the sun and has a long "tail" of gas. Some comets can be seen from Earth every few years, while others pass by once in a person's lifetime.`
