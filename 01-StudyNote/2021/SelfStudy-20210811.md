@@ -21,15 +21,15 @@ Author: Jedi Chou, Create at 2021.8.11 7:56 AM
 * Tencent cartoon APP check-in. **9:29**
 * 101WeiQi daily exercise check-in. **9:30**, **9:31**
 * Go Game check
-  * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
+  * Leela Zero vs Leela Zero(B5s-W2s). **9:56**
+  * Leela Zero vs Leela Zero(B5s-W2s). **10:09**
+  * Leela Zero vs Leela Zero(B5s-W2s). **10:33**
+  * Leela Zero vs Leela Zero(B5s-W2s). **10:42**
+  * Leela Zero vs Leela Zero(B5s-W2s). **10:52**
+  * Leela Zero vs Leela Zero(B5s-W2s). **11:07**
+  * Leela Zero vs Leela Zero(B5s-W2s). **11:33**
+  * Leela Zero vs Leela Zero(B5s-W2s). **11:52**
+  * Leela Zero vs Leela Zero(B5s-W2s). **12:01**
 
 ## Proxy
 
@@ -84,3 +84,7 @@ oaproxy.minmaxtec.com:3128
 * 《周礼》中的六官是？
 * Milestone bonuses for this achievement
 * powershell: Get-WinUserLanguageList
+* 漫畫：《明日之劫》
+* 漫畫：《萬古最強宗》
+* 漫畫：《天命為凰》
+* certlm.msc
