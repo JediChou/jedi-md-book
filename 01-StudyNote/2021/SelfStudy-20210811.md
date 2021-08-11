@@ -2,24 +2,24 @@
 
 Author: Jedi Chou, Create at 2021.8.11 7:56 AM
 
-* 百词斩
-* 163 music APP check-in
-* Don't memorize words APP check-in
-* NowCoder check-in
-* Read articles and check interview invitation (MaiMai APP)
-* Tencent cartoon APP check-in
-* 101WeiQi daily exercise check-in
-* Read mails from skyzhx@163.com
-* Read mails from 13417xx51@139.com
-* Update and upgrade packages at wsl
-* Check gitee messages
-* Check github messages
-* Check news from ZhiHu app or website
-* Download books from salttiger(none)
-* Download ebook from jb51.net
-* Reading mail from jedigit@163.com mail
-* Read Sina Blog
-* Exercise of Vocabulary (vocabulary.com)
+* Read mails from skyzhx@163.com. **8:09**
+* Read mails from 13417xx51@139.com. **8:09**
+* Update and upgrade packages at wsl. **8:11**
+* Check gitee messages. **8:12**
+* Check github messages. **8:12**
+* Check news from ZhiHu app or website. **8:19**
+* Download books from salttiger(none). **8:20**
+* Download ebook from jb51.net. **8:29**
+* Exercise of Vocabulary (vocabulary.com). **8:53**
+* Reading mail from jedigit@163.com mail. **9:17**
+* Read Sina Blog. **9:25**
+* 百词斩. **9:27**
+* 163 music APP check-in. **9:27**
+* Don't memorize words APP check-in. **9:28**
+* NowCoder check-in. **9:28**
+* Read articles and check interview invitation (MaiMai APP). **9:29**
+* Tencent cartoon APP check-in. **9:29**
+* 101WeiQi daily exercise check-in. **9:30**, **9:31**
 * Go Game check
   * Leela Zero vs Leela Zero(B5s-W2s)
   * Leela Zero vs Leela Zero(B5s-W2s)
