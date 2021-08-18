@@ -24,7 +24,7 @@ Author: Jedi Chou, Create at 2021.8.17 8:04 AM
   * Leela Zero vs Leela Zero(B5s-W2s). **8:53**
   * Leela Zero vs Leela Zero(B5s-W2s). **9:01**
   * Leela Zero vs Leela Zero(B5s-W2s). **9:11**
-* Reading mail from jedigit@163.com mail
+* Reading mail from jedigit@163.com mail. **10:42**
 
 ## Proxy
 
@@ -284,3 +284,16 @@ oaproxy.minmaxtec.com:3128
 * Comic: 《炎拳》
 * Comic: 《无限之住人》
 * focus is about saying no!
+
+* Software concepts
+  * SCM（Supply Chain Management）
+  * SLM （管理流程）
+  * PLM (Product Lifecycle Management，PLM)
+  * ERP (Enterprise Resource Planning)
+  * CRM (Customer Relationship Management)
+* appidpolicyconverter.exe?
+* B站-关键字: asp.net web form
+* B站-关键字: asp.net core 搭建框架
+* B站-关键字: Ocelot
+* B站: [ASP.NET Core - Authentication](https://www.bilibili.com/video/BV1RB4y1w72E?from=search&seid=9655436018478353734)
+* [ocelet document](https://ocelot.readthedocs.io/en/latest/introduction/bigpicture.html)
