@@ -39,6 +39,20 @@ oaproxy.minmaxtec.com:3128
 
 ## Others
 
+* DevOps: Study Docker
+* DevOps: Let's Learn DotNet - Microservices
+  * [src](https://channel9.msdn.com/Shows/lets-learn-dotnet/Lets-Learn-DotNet-Microservices)
+  * source: .NET Microservices: Architecture for Containerized .NET Applications
+  * source: Architecting Cloud-Native .NET Apps for Azure
+  * source: gRPC for WCF Developers
+  * source: Moernize existing .NET applications with Azure cloud and Windows Containers
+  * `dotnet new webapi -o MyMicroservice --no-https -f net5.0`
+  * `echo . > Dockerfile`
+* DevOps: Visual Studio 2022 Experience (Web apps -> Razor Pages -> Update the pages)
+* DevOps: Visual Studio 2022 Experience (Web apps -> Razor Pages -> Add search)
+* DevOps: Visual Studio 2022 Experience (Web apps -> Razor Pages -> Add a new field)
+* DevOps: Visual Studio 2022 Experience (Web apps -> Razor Pages -> Add validation)
+
 * %SYSTEMROOT%\debug\
 * [hackr](https://hackr.io/)
 * [Web Security tools](https://hackr.io/blog/category/information-security-ethical-hacking)
