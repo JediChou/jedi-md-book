@@ -504,29 +504,7 @@
 * 利用SQL SERVER对比两张表的数据一致性
 * [ref](https://blog.csdn.net/weixin_30533797/article/details/96808070?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-4&spm=1001.2101.3001.4242)
 
-* Mine Target
-  * 大文件传输服务（2G/10G/20G/200G）
-  * Cloud Foundry
-  * 解决方案实施
-  * 二次开发实施
-  * 计费系统核心及其相关周边插件的开发
-  * 基于开源的DevOps系统的实施与二次开发（Python,Ruby)
-  * 自己开发的一个CSS框架（快速、好用）
-  * 自己开发的一套基于ASP.NET MVC的快速开发框架
-  * 重构当前的CA网站至ASP.NET MVC架构下；
-  * 重构当前的CA网站至ASP.NET MVC Core架构下；
-  * 分离目前的PDF生成服务，并使之变得产品化
-  * 小型工作流作業框架
-  * 消息推送平台
-  * 创建属于自己的nuget包
-  * 制作一个大家都喜欢用的touch bar
-  * 多活, 高可用, 熔斷, 限流, 高並發, 自動化, 服務調度
-  * 消息推送，服務發現, 對象存儲, 推薦系統
-  * 郵件, 版本管理, 企業內及時通訊，商城
-  * PDF生成框架
-    * [XpdfNet](https://github.com/gqy117/XpdfNet)
-    * [XPdf](https://github.com/fzani/xpdf)
-    * [pdf-extract](https://github.com/poulfoged/pdf-extract)
+
 
 * Skills
   * [.NET ORM - Dapper](https://github.com/StackExchange/Dapper)
@@ -597,3 +575,224 @@
 * [Koa](https://koajs.com/#)
 * [web dev](https://web.dev/)
 * [google web fundamentals](https://developers.google.com/web/fundamentals)
+
+## 2021.9.6
+
+* Books: 《蛤蟆先生去看心理医生》
+* Books: 《好好学习》, 《好好思考》
+
+* Mine Target
+  * 大文件传输服务（2G/10G/20G/200G）
+  * Cloud Foundry
+  * 解决方案实施
+  * 二次开发实施
+  * 计费系统核心及其相关周边插件的开发
+  * 基于开源的DevOps系统的实施与二次开发（Python,Ruby)
+  * 自己开发的一个CSS框架（快速、好用）
+  * 自己开发的一套基于ASP.NET MVC的快速开发框架
+  * 重构当前的CA网站至ASP.NET MVC架构下；
+  * 重构当前的CA网站至ASP.NET MVC Core架构下；
+  * 分离目前的PDF生成服务，并使之变得产品化
+  * 小型工作流作業框架
+  * 消息推送平台
+  * 创建属于自己的nuget包
+  * 制作一个大家都喜欢用的touch bar
+  * 多活, 高可用, 熔斷, 限流, 高並發, 自動化, 服務調度
+  * 消息推送，服務發現, 對象存儲, 推薦系統
+  * 郵件, 版本管理, 企業內及時通訊，商城
+  * PDF生成框架
+    * [XpdfNet](https://github.com/gqy117/XpdfNet)
+    * [XPdf](https://github.com/fzani/xpdf)
+    * [pdf-extract](https://github.com/poulfoged/pdf-extract)
+
+* 《一次讀懂哲學經典》這本書中，作者湯姆•巴特勒
+* 本文中我們轉載了關於膾炙人口的女性主義《第二性》（Le Deuxième sex）的段落。
+* Comic: 《happiness》
+* Comic: 《恶之华》
+* Comic: 《炎拳》
+* Comic: 《无限之住人》
+* Bill gates book list
+  * 《新吉姆·克劳：色盲时代的大规模监禁》
+  * 《范围：为什么通才能在专业化的世界中取胜》
+  * 《辉煌与邪恶：闪电战期间丘吉尔、家人与反抗的传奇》
+  * 《间谍与叛徒：冷战时期最伟大的间谍故事》
+  * 《从盐来的呼吸：致命的遗传性疾病、科学新时代、以及改变医学的病人和家庭》（暂译）
+
+* Idea: 可编程的家电（具备基本功能，通过编程可实现功能组合！）
+
+## *`current`*
+
+* DevOps: Study Docker
+* DevOps: Let's Learn DotNet - Microservices
+  * [src](https://channel9.msdn.com/Shows/lets-learn-dotnet/Lets-Learn-DotNet-Microservices)
+  * source: .NET Microservices: Architecture for Containerized .NET Applications
+  * source: Architecting Cloud-Native .NET Apps for Azure
+  * source: gRPC for WCF Developers
+  * source: Moernize existing .NET applications with Azure cloud and Windows Containers
+  * `dotnet new webapi -o MyMicroservice --no-https -f net5.0`
+  * `echo . > Dockerfile`
+* DevOps: Visual Studio 2022 Experience (Web apps -> Razor Pages -> Update the pages)
+* DevOps: Visual Studio 2022 Experience (Web apps -> Razor Pages -> Add search)
+* DevOps: Visual Studio 2022 Experience (Web apps -> Razor Pages -> Add a new field)
+* DevOps: Visual Studio 2022 Experience (Web apps -> Razor Pages -> Add validation)
+
+* %SYSTEMROOT%\debug\
+* [hackr](https://hackr.io/)
+* [Web Security tools](https://hackr.io/blog/category/information-security-ethical-hacking)
+  * [Zed Attack Proxy (ZAP)](https://www.zaproxy.org/)
+    * [ZAP github](https://github.com/zaproxy)
+  * [Wfuzz](http://www.edge-security.com/wfuzz.php), 似乎已消失
+  * [Wapiti](https://wapiti.sourceforge.io/)
+  * [W3af](http://w3af.org/)
+  * [SQLMap](https://sqlmap.org/)
+  * [SonarQube](https://www.sonarqube.org/)
+  * [Nogotofail](https://github.com/google/nogotofail)
+  * [Iron Wasp](https://ironwasp.org/)
+    * [Iron Wasp src](https://github.com/Lavakumar/IronWASP)
+  * [Grabber](https://tools.kali.org/web-applications/grabber)
+  * [Arachni](https://www.arachni-scanner.com/)
+
+* mysql labs:
+  * 10.134.181.124 user:mis pass:foxconn.88
+  * 10.134.181.125 user:mis pass:foxconn.88
+  * [mysql 5.6.46 linux](https://res.minmaxtec.com/Server/linux/mysql-5.6.46-linux-glibc2.12-x86_64.tar.gz)
+  * [links](https://www.cnblogs.com/javabg/p/9951852.html)
+
+* DevOps
+  * ML.NET book: ML.NET Revealed
+  * ML.NET book: Hands-On Machine Learning with ML.NET
+* Getting Started with Visual Studio 2019: Learning and Implementing New Features 1st ed. Edition
+* Visual Studio Code Distilled: Evolved Code Editing for Windows, macOS, and Linux 1st ed. Edition
+* Visual Studio Code: End-to-End Editing and Debugging Tools for Web Developers 1st Edition
+* Visual Studio Code for Python Programmers 1st Edition
+* Developing Multi-Platform Apps with Visual Studio Code: Get up and running with VS Code by building multi-platform, cloud-native, and microservices-based apps
+
+* Web Security: IIS Crypto
+
+[Link](https://docs.microsoft.com/zh-cn/aspnet/core/tutorials/razor-pages/model?view=aspnetcore-5.0&tabs=visual-studio)
+
+* 我国四大名亭是？
+* 《周礼》中的六官是？
+* Milestone bonuses for this achievement
+* powershell: Get-WinUserLanguageList
+* 漫畫：《明日之劫》
+* 漫畫：《萬古最強宗》
+* 漫畫：《天命為凰》
+* certlm.msc
+
+### Visual Studio 2022 Preview 2.1
+
+* DevOps: Visual Studio 2022 Experience
+  * Web apps -> Razor Pages *current*
+  * Web apps -> MVC
+  * Web apps -> Blazor
+  * Web API apps -> Create a web API
+  * Web API apps -> Web API with MongoDB
+  * Web API apps -> Web API with JavaScript
+  * Web API apps -> Backend for mobile
+  * Web API apps -> Publish to Azure API Management
+  * Real-time web apps -> SignalR with JavaScript
+  * Real-time web apps -> SignalR with TypeScript
+  * Real-time web apps -> SignalR with Blazor
+  * Remote Procedure Call apps -> Get started with a gRPC service
+  * Data access -> EF Core with Razor Pages
+  * Data access -> EF Core with MVC
+  * Learn Module -> Create a web UI with ASP.NET Core
+  * Learn Module -> Create a web API with ASP.NET Core
+  * Learn Module -> Cloud-native microservices -> Create and deploy
+  * Learn Module -> Cloud-native microservices -> Implement resiliency
+  * Learn Module -> Cloud-native microservices -> Deploy with GitHub Actions
+  * Learn Module -> Cloud-native microservices -> Log and monitor
+  * Learn Module -> Cloud-native microservices -> Implement feature flags
+  * Learn Module -> Cloud-native microservices -> Use managed data stores
+  * Learn Module -> Cloud-native microservices -> Implement API gateways
+  * Data access
+  * Web app security
+
+* DevOps: Visual Studio 2022 Experience (Web apps -> Razor Pages -> Update the pages)
+  * 更新生成的代码. **done**
+  * 添加路由模板. **done**
+  * 查看并发异常处理
+  * 发布和绑定审阅
+* DevOps: Visual Studio 2022 Experience (Web apps -> Razor Pages -> Add search)
+  * 按流派搜索
+  * 将按流派搜索添加到Razor页面
+* DevOps: Visual Studio 2022 Experience (Web apps -> Razor Pages -> Add a new field)
+  * 向电影模型添加分级属性
+  * 添加用于评级字段的迁移
+* DevOps: Visual Studio 2022 Experience (Web apps -> Razor Pages -> Add validation)
+  * 验证
+  * 将验证规则添加到电影模型
+  * Razor页面中的验证错误UI
+  * 服务器端验证
+  * 使用DataType特性
+  * 应用迁移
+  * 发布到Azure
+
+* [Winfr](https://support.microsoft.com/en-us/windows/recover-lost-files-on-windows-10-61f5b28a-f5b8-3cc2-0f8e-a63cb4e1d4c4) - Windows Recovery Tool
+  * `winfr C: E: /n \Users\<username>\Documents\QuarterlyStatement.docx`
+  * `winfr C: E: /n \Users\<username>\Pictures\*.JPEG /n \Users\<username>\Pictures\*.PNG`
+  * `winfr C: E: /n \Users\<username>\Documents\`
+
+* 2020年Gartner十大安全项目发布
+  * Securing Your Remote Workforce
+  * Risk-Based Vulnerability Management
+  * Platform Approach to Detection and Response
+  * Cloud Security Posture Management
+  * Simplify Cloud Access Controls
+  * DMARC(基于域的消息认证报告和一致性)
+  * Passwordless Authentication
+  * Data Classification and Protection
+  * Workforce Competencies Assessment
+  * Automating Security Risk Assessments
+
+```shell
+# 修改centos的時區
+[root@localhost ~]# timedatectl
+[root@localhost ~]# timedatectl list-timezones
+[root@localhost ~]# timedatectl set-timezone Europe/Berlin
+```
+
+* 深入了解：微內核，Dubbo，應用系統中間的微內核（Microkernel + Plugin）
+* 深入了解：“优选法”和“统筹法”
+* “电瓶方法”？
+* “GTK点评法”？
+
+* DevOps: Visual Studio 2022 Experience (Web apps -> Razor Pages -> Work with a database)
+  * 在appsettings.json中綁定ConnectionString, `Configuration.GetConnectionString("RazorPagesMovieContext")` **Done**
+  * ConfigureServices中進行綁定. **Done**
+  * SQL Server Express LocalDB. **Done**
+  * 设定数据库种子. **Done**
+  * 添加种子初始值设定项. **Done**
+  * 测试应用. **Done**
+
+* focus is about saying no!
+
+* Software concepts
+  * SCM（Supply Chain Management）
+  * SLM （管理流程）
+  * PLM (Product Lifecycle Management，PLM)
+  * ERP (Enterprise Resource Planning)
+  * CRM (Customer Relationship Management)
+* appidpolicyconverter.exe?
+* B站-关键字: asp.net web form
+* B站-关键字: asp.net core 搭建框架
+* B站-关键字: Ocelot
+* B站: [ASP.NET Core - Authentication](https://www.bilibili.com/video/BV1RB4y1w72E?from=search&seid=9655436018478353734)
+* [ocelet document](https://ocelot.readthedocs.io/en/latest/introduction/bigpicture.html)
+* 产品线(Product)即为BFE中的"租户"。
+* C#實現RSS訂閱服務
+* MFA
+* nuget
+  * Confluent.Kafka
+  * MongoDB.Driver
+  * Elasticsearch.Net
+  * StackExchange.Redis
+  * fastJSON
+  * [curl](https://github.com/coapp-packages/curl)
+  * ServiceStack.Caching.Memcached
+  * [RestSharp](https://restsharp.dev/)
+  * [ZeroMQ](https://github.com/zeromq/clrzmq4/)
+  * [NetMQ](https://github.com/zeromq/netmq)
+* azure: microsoft flow
+* Idea: 虚拟机房的游戏和模拟器（模拟不同层级的ISP）

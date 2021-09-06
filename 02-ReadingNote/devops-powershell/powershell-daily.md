@@ -324,3 +324,8 @@ Acquire::http::Proxy "http://10.130.2.21:5000";
 ```
 
 * 根據進勇描述這兩個配置檔是相互補充的！
+
+## 2021.9.6
+
+* powershell: tee-object
+* powershell: write-error
