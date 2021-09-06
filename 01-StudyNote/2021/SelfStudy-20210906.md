@@ -21,23 +21,23 @@ Author: Jedi Chou, Create at 2021.9.6 10:57 AM
 * Read WeiBo. **12:57**
 * Exercise of Vocabulary (vocabulary.com). **13:01**
 
+* Reading mail from jedigit@163.com mail. **17:16**
 * Go Game check
   * Leela Zero vs Leela Zero(B5s-W2s). **13:08**
   * Leela Zero vs Leela Zero(B5s-W2s). **13:20**
   * Leela Zero vs Leela Zero(B5s-W2s). **13:31**
   * Leela Zero vs Leela Zero(B5s-W2s). **13:39**
+  * Leela Zero vs Leela Zero(B5s-W2s). **13:45**
+  * Leela Zero vs Leela Zero(B5s-W2s). **13:59**
+  * Leela Zero vs Leela Zero(B5s-W2s). **16:34**
+  * Leela Zero vs Leela Zero(B5s-W2s). **16:45**
+  * Leela Zero vs Leela Zero(B5s-W2s). **16:53**
+  * Leela Zero vs Leela Zero(B5s-W2s). **16:59**
+  * Leela Zero vs Leela Zero(B5s-W2s). **17:05**
   * Leela Zero vs Leela Zero(B5s-W2s)
   * Leela Zero vs Leela Zero(B5s-W2s)
   * Leela Zero vs Leela Zero(B5s-W2s)
   * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
-* Reading mail from jedigit@163.com mail
 
 ## Proxy
 
@@ -357,3 +357,5 @@ oaproxy.minmaxtec.com:3128
 * No way. The SPEC should committed by IT from FIH BG.
 * “Unlike with ionizing radiation from ________ and CT scans, ultrasound has no side effects,” says radiologist Yale Tung Chen of the University Hospital of La Paz in Madrid. `Answer is "x-rays"`
 * Whaite has eschewed prescribed ________ but has tried other traditional treatments including talking therapy and exercise sessions. `Answer is "medication"`
+
+* [Life Restart](https://github.com/VickScarlet/lifeRestart)
