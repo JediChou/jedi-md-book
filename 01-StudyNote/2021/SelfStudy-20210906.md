@@ -34,10 +34,10 @@ Author: Jedi Chou, Create at 2021.9.6 10:57 AM
   * Leela Zero vs Leela Zero(B5s-W2s). **16:53**
   * Leela Zero vs Leela Zero(B5s-W2s). **16:59**
   * Leela Zero vs Leela Zero(B5s-W2s). **17:05**
-  * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
+  * Leela Zero vs Leela Zero(B5s-W2s). **18:09**
+  * Leela Zero vs Leela Zero(B5s-W2s). **18:51**
+  * Leela Zero vs Leela Zero(B5s-W2s). **19:23**
+  * Leela Zero vs Leela Zero(B5s-W2s). **19:43**
 
 ## Proxy
 
@@ -359,3 +359,7 @@ oaproxy.minmaxtec.com:3128
 * Whaite has eschewed prescribed ________ but has tried other traditional treatments including talking therapy and exercise sessions. `Answer is "medication"`
 
 * [Life Restart](https://github.com/VickScarlet/lifeRestart)
+* words: peep
+* words: sentoh
+* words: caster
+* words: experimental subject
