@@ -35,3 +35,13 @@ oaproxy.minmaxtec.com:3128
 10.191.131.12:3128
 10.130.2.21:5000
 ```
+
+## Others
+
+* OpenSSL.PrivateKeyDecoder
+* OpenSSL.PublicKeyDecoder
+* OpenSSL.X509Certificate2.Provider
+* openssl-vc141 by: kobake
+* search keywords: `visual c++`
+* search keywords: `.NET 微服务`
+* [MLOps基礎考試試題](https://ks.wjx.top/vj/eos34UI.aspx)
