@@ -24,8 +24,8 @@ Author: Jedi Chou, Create at 2021.9.7 7:50 AM
 * Reading mail from jedigit@163.com mail. **8:32**
 * Go Game check
   * Leela Zero vs Leela Zero(B5s-W2s). **8:29**
-  * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
+  * Leela Zero vs Leela Zero(B5s-W2s). **8:47**
+  * Leela Zero vs Leela Zero(B5s-W2s). **9:23**
 
 ## Proxy
 
