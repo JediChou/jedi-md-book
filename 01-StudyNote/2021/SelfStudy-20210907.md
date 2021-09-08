@@ -30,15 +30,6 @@ Author: Jedi Chou, Create at 2021.9.7 7:50 AM
 * .NET微服务应用开发
   * [微服务概述](https://www.bilibili.com/video/BV1Gt4y1S7bc?from=search&seid=227117552012152059&spm_id_from=333.337.0.0)
 
-## Proxy
-
-```memo
-Ignore: 10.*;*.minmaxtec.com;*.foxconn.net;*.cfa.com;*.lh.com
-oaproxy.minmaxtec.com:3128
-10.191.131.12:3128
-10.130.2.21:5000
-```
-
 ## Others
 
 * OpenSSL.PrivateKeyDecoder
