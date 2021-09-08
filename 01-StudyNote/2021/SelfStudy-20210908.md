@@ -10,20 +10,20 @@ Author: Jedi Chou, Create at 2021.9.7 7:50 AM
 * Tencent cartoon APP check-in. **7:05**
 * 101WeiQi daily exercise check-in. **7:05**, **7:05**
 
-* Update and upgrade packages at wsl
-* Read mails from skyzhx@163.com
-* Read mails from 13417xx51@139.com
-* Check gitee messages
-* Download books from salttiger(none)
-* Download ebook from jb51.net
-* Check news from ZhiHu app or websit
-* Read WeiBo
-* Exercise of Vocabulary (vocabulary.com)
-* Check github messages
+* Update and upgrade packages at wsl. **7:58**
+* Read mails from skyzhx@163.com. **7:59**
+* Read mails from 13417xx51@139.com. **7:59**
+* Check gitee messages. **8:00**
+* Download books from salttiger(none). **8:01**
+* Download ebook from jb51.net. **8:05**
+* Check news from ZhiHu app or websit. **8:07**
+* Exercise of Vocabulary (vocabulary.com). **8:09**
+* Read WeiBo. **8:18**
+* Check github messages. **8:27**
 
-* Reading mail from jedigit@163.com mail
+* Reading mail from jedigit@163.com mail. **8:32**
 * Go Game check
-  * Leela Zero vs Leela Zero(B5s-W2s)
+  * Leela Zero vs Leela Zero(B5s-W2s). **8:29**
   * Leela Zero vs Leela Zero(B5s-W2s)
   * Leela Zero vs Leela Zero(B5s-W2s)
 
