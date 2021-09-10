@@ -1263,3 +1263,20 @@ I suggest to get other approvals before checking in.
 * No way. The SPEC should committed by IT from FIH BG.
 * “Unlike with ionizing radiation from ________ and CT scans, ultrasound has no side effects,” says radiologist Yale Tung Chen of the University Hospital of La Paz in Madrid. `Answer is "x-rays"`
 * Whaite has eschewed prescribed ________ but has tried other traditional treatments including talking therapy and exercise sessions. `Answer is "medication"`
+
+## 2021.9.9
+
+* Prevent
+
+## 2021.9.10
+
+* federalist
+* consent
+* promote
+* go-live
+* recipients (接受者)
+* Notarize ???  * consent
+* promote
+* go-live
+* recipients (接受者)
+* Notarize ???

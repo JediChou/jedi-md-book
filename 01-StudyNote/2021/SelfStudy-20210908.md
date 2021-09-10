@@ -26,12 +26,3 @@ Author: Jedi Chou, Create at 2021.9.7 7:50 AM
   * Leela Zero vs Leela Zero(B5s-W2s). **8:29**
   * Leela Zero vs Leela Zero(B5s-W2s). **8:47**
   * Leela Zero vs Leela Zero(B5s-W2s). **9:23**
-
-## Proxy
-
-```memo
-Ignore: 10.*;*.minmaxtec.com;*.foxconn.net;*.cfa.com;*.lh.com
-oaproxy.minmaxtec.com:3128
-10.191.131.12:3128
-10.130.2.21:5000
-```

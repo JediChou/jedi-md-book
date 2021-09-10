@@ -26,16 +26,3 @@ Author: Jedi Chou, Create at 2021.9.7 7:50 AM
   * Leela Zero vs Leela Zero(B5s-W2s). **8:52**
   * Leela Zero vs Leela Zero(B5s-W2s). **9:28**
   * Leela Zero vs Leela Zero(B5s-W2s). **10:04**
-
-* .NET微服务应用开发
-  * [微服务概述](https://www.bilibili.com/video/BV1Gt4y1S7bc?from=search&seid=227117552012152059&spm_id_from=333.337.0.0)
-
-## Others
-
-* OpenSSL.PrivateKeyDecoder
-* OpenSSL.PublicKeyDecoder
-* OpenSSL.X509Certificate2.Provider
-* openssl-vc141 by: kobake
-* search keywords: `visual c++`
-* search keywords: `.NET 微服务`
-* [MLOps基礎考試試題](https://ks.wjx.top/vj/eos34UI.aspx)
