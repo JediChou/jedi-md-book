@@ -1280,3 +1280,5 @@ I suggest to get other approvals before checking in.
 * go-live
 * recipients (接受者)
 * Notarize ???
+* Interoperability
+* encapsulating
