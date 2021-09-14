@@ -1282,3 +1282,8 @@ I suggest to get other approvals before checking in.
 * Notarize ???
 * Interoperability
 * encapsulating
+
+## 2021.9.14
+
+* rounds out
+* so be it.
