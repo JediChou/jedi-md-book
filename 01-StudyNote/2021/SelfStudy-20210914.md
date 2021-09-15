@@ -25,8 +25,4 @@ Author: Jedi Chou, Create at 2021.9.14 9:40 AM
   * Leela Zero vs Leela Zero(B5s-W2s). **9:41**
   * Leela Zero vs Leela Zero(B5s-W2s). **15:04**
   * Leela Zero vs Leela Zero(B5s-W2s). **15:17**
-* Reading mail from jedigit@163.com mail. **15:26**
-
-* asp.net mvc入門
-* Scrcpy的教學視頻要查一查。
-* 目前ServiceStack在B站上並沒有什麼資源，但它應該是個不錯的微服務框架。
+* Reading mail from jedigit@163.com mail. **15:26**, **18:07**
