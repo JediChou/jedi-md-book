@@ -21,13 +21,8 @@ Author: Jedi Chou, Create at 2021.9.15 7:59 AM
 * Exercise of Vocabulary (vocabulary.com). **8:27**
 * Check github messages. **8:28**
 
-* Reading mail from jedigit@163.com mail. **8:37**
 * Go Game check
   * Leela Zero vs Leela Zero(B5s-W2s). **8:21**
-  * Leela Zero vs Leela Zero(B5s-W2s). **8:33**
   * Leela Zero vs Leela Zero(B5s-W2s). **8:44**
-
-* asp.net mvc入門
-* Scrcpy的教學視頻要查一查。
-* 目前ServiceStack在B站上並沒有什麼資源，但它應該是個不錯的微服務框架。
-* IT常用詞: estimate, 估计
+  * Leela Zero vs Leela Zero(B5s-W2s). **8:33**
+* Reading mail from jedigit@163.com mail. **8:37**, **12:37**
