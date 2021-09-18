@@ -8,7 +8,7 @@ Author: Jedi Chou, Create at 2021.9.18 7:56 AM
 * Tencent cartoon APP check-in. **8:19**
 * Read articles and check interview invitation (MaiMai APP). **8:19**
 * 101WeiQi daily exercise check-in. **8:19**
-* 百词斩. **15:30**
+* 百词斩
 
 * Download books from salttiger(none). **9:43**
 * Update and upgrade packages at wsl. **9:45**
