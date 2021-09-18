@@ -26,20 +26,3 @@ Author: Jedi Chou, Create at 2021.9.16 8:31 AM
   * Leela Zero vs Leela Zero(B5s-W2s). **9:30**
   * Leela Zero vs Leela Zero(B5s-W2s). **9:40**
 * Reading mail from jedigit@163.com mail. **9:42**
-
-* asp.net mvc入門
-* Scrcpy的教學視頻要查一查。
-* 目前ServiceStack在B站上並沒有什麼資源，但它應該是個不錯的微服務框架。
-* IT常用詞
-  * estimate, 估计
-  * present, 目前
-  * render, 提供
-  * It bothers me.
-  * deprecated
-  * bump
-* [System.IO.Pipelines](https://docs.microsoft.com/zh-cn/dotnet/standard/io/pipelines)
-
-```python
->>> math.sqrt(2**6**2**1**4**4)
-262144.0
-```
