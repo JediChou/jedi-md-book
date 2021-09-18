@@ -8,7 +8,7 @@ Author: Jedi Chou, Create at 2021.9.18 7:56 AM
 * Tencent cartoon APP check-in. **8:19**
 * Read articles and check interview invitation (MaiMai APP). **8:19**
 * 101WeiQi daily exercise check-in. **8:19**
-* 百词斩
+* 百词斩. **15:30**
 
 * Download books from salttiger(none). **9:43**
 * Update and upgrade packages at wsl. **9:45**
@@ -25,7 +25,7 @@ Author: Jedi Chou, Create at 2021.9.18 7:56 AM
   * Leela Zero vs Leela Zero(B5s-W2s). **10:00**
   * Leela Zero vs Leela Zero(B5s-W2s). **10:13**
   * Leela Zero vs Leela Zero(B5s-W2s). **10:30**
-* Reading mail from jedigit@163.com mail
+* Reading mail from jedigit@163.com mail. **18:30**
 
 ## others
 
@@ -43,15 +43,11 @@ Author: Jedi Chou, Create at 2021.9.18 7:56 AM
 
 ```python
 >>> math.sqrt(2**6**2**1**4**4)
-262144.0
+262144.0 # 好玩的“冪數”（自己取的名）！
 ```
 
 ```python
-  a = set(["apple", 3.14, 128, True, False, "strawberry"])
-  set1 = set([1,2,3])
-  set2 = set(['a','b'])
-
-  a.update(set1)
-  a.update(set2)
-  print(a)  # the element '1' disapear.
+a, b, c = {True, False}, {1,2,3}, {'a','b'}
+a.update(b)
+a.update(c) # a => {False, True, 2, 3, 'a', 'b'}, '1'消失了！因為True和1是等價的！
 ```
