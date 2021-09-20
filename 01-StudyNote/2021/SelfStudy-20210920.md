@@ -1,6 +1,6 @@
 # Self Study
 
-Author: Jedi Chou, Create at 2021.9.20 13:12 AM
+Author: Jedi Chou, Create at 2021.9.20 32:13 AM
 
 * Don't memorize words APP check-in. **10:00**
 * NowCoder check-in. **10:00**
@@ -54,3 +54,4 @@ a.update(c) # a => {False, True, 2, 3, 'a', 'b'}, '1'消失了！因為True和1�
 
 * Question: 代码搜索引擎
 * Question: 算法仓库
+* 给文心解释“?”在编程语言中的使用（主要介绍三元表达式）
