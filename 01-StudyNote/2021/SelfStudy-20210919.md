@@ -26,31 +26,3 @@ Author: Jedi Chou, Create at 2021.9.19 13:12 AM
   * Leela Zero vs Leela Zero(B5s-W2s). **13:49**
   * Leela Zero vs Leela Zero(B5s-W2s). **14:01**
   * Leela Zero vs Leela Zero(B5s-W2s). **14:11**
-
-## others
-
-* asp.net mvc入門
-* Scrcpy的教學視頻要查一查。
-* 目前ServiceStack在B站上並沒有什麼資源，但它應該是個不錯的微服務框架。
-* IT常用詞
-  * estimate, 估计
-  * present, 目前
-  * render, 提供
-  * It bothers me.
-  * deprecated
-  * bump
-* [System.IO.Pipelines](https://docs.microsoft.com/zh-cn/dotnet/standard/io/pipelines)
-
-```python
->>> math.sqrt(2**6**2**1**4**4)
-262144.0 # 好玩的“冪數”（自己取的名）！
-```
-
-```python
-a, b, c = {True, False}, {1,2,3}, {'a','b'}
-a.update(b)
-a.update(c) # a => {False, True, 2, 3, 'a', 'b'}, '1'消失了！因為True和1是等價的！
-```
-
-* Question: 代码搜索引擎
-* Question: 算法仓库
