@@ -27,6 +27,45 @@ Author: Jedi Chou, Create at 2021.9.23 8:11 AM
   * Leela Zero vs Leela Zero(B5s-W2s). **11:00**
 * Reading mail from jedigit@163.com mail. **12:33**
 
+## 華為2021全連接大會
+
+* HuaWei Connect (華為2021全連接大會)
+  * MindSpore, ModelArts. **15:10**
+  * 盘古大模型. **15:20**
+  * 華為雲SparkRTC. **15:40**
+  * FunctionGraph (Serverless). **15:48**
+  * 天籌AI求解器（運籌優化方向）. **16:00**
+  * GaussDB. **16:06**
+  * 華為雲區塊鏈. **16:08**
+  * 華為雲Stack. **16:09**
+  * WeLink. **16:15**
+* 华为云开启应用现代化之旅，实现企业应用敏捷创新 (華為2021全連接大會)
+  * Forrest
+  * 应用现代化 -> 云原生. **16:31**
+  * 架构设计与设计现代化（微服务化 -> Serverless化）. **16:34**
+    * 开发函数、发布函数（周->天）. **16:35**
+    * Serverless, FunctionGraph, CAE, EventGrid. **16:35**
+    * Serverless支持状态保存(有状态函数). **16:37**
+  * 从敏捷到DevSecOps. **16:37**
+    * Agile Dev -> DevOps -> DevSecOps. **16:38**
+    * DevCloud: 全流程安全开发平台. **16:39**
+  * AppCube: 低代码平台. **16:40**
+  * DevSpore: 企业级开发皇家，应用现代化基座. **16:41**
+  * 治理与运营现代化. **16:43**
+    * ROMA Connect, ROMA Lab. **16:44**
+    * ROMA（企业级平台） Exchange **16:56**
+    * 模型资产？ **16:56**
+* 华为云Serverless探索与思考 (華為2021全連接大會)
+  * Cloud 1.0 -> 2.0 -> 3.0. **16:59**
+  * 开放架构(API First -> Serverless First). **17:02**
+  * API + Serverless 长期共存. **17:03**
+  * 函数计算2.0 **17:05**
+  * IDE MarketPlace、Cloud IDE、Cloud Debugger(多函数并行调测). **17:07**
+  * Server Stage？资源无感知？ **17:09**
+  * EventGrid:API驱动到事件驱动，构建Serverless时代时间中枢 **17:10**
+  * Serverless场景：单用途+无状态、计算胶水、弹性伸缩. **17:11**
+* 数字赋智能源，开启低碳时代 (華為2021全連接大會). **17:35**
+
 ## others
 
 * asp.net mvc入門
@@ -40,26 +79,15 @@ Author: Jedi Chou, Create at 2021.9.23 8:11 AM
   * deprecated
   * bump
 * [System.IO.Pipelines](https://docs.microsoft.com/zh-cn/dotnet/standard/io/pipelines)
-
-```python
->>> math.sqrt(2**6**2**1**4**4)
-262144.0 # 好玩的“冪數”（自己取的名）！
-```
-
-```python
-a, b, c = {True, False}, {1,2,3}, {'a','b'}
-a.update(b)
-a.update(c) # a => {False, True, 2, 3, 'a', 'b'}, '1'消失了！因為True和1是等價的！
-```
-
 * Question: 代码搜索引擎
 * Question: 算法仓库
 
-* 《架构探险 从零开始写Java Web框架》
-* 《哆啦A梦漫画书全套45册珍藏版 机器猫卡通动漫》
-* 《【全套装12册】中学生数学思维方法丛书 冯跃峰著 研究特例+考察极端+更换角度+改造命题等 中科大》
-* 《现货正版 深入实践C++模板编程 温宇杰[按需印刷]3801384》
-* 《包邮 直播系统开发：基于Nginx与Nginx-rtmp-module+Android音视频开发》
-* 《包邮 C++代码整洁之道：C++17可持续软件开发模式实践 斯蒂芬·罗斯 程序员书库》
-* 《蔡东藩历朝通俗演义历史【11部全21册】绣像本中华书局 前后汉两晋南北史唐史五代史宋元明清史》
-* 《》
+* Question: 如何将“思维导图”认定为“知识结构”，那什么数据库能够对其进行存储和比对？ **13:46**
+  * 推理：同理“Markdown”也可认为是种“知识结构”。**13:48**
+  * 联想：不管是“思维导图”、“Markdown”都是文档化（Document）的知识（Knowledge），可天然存于NoSQL资料库。**13:49**
+
+* Question: 如何用Docker做网络实验？**13:52**
+  * 要求：和思科模拟器能达到同一级别。**13:52**
+  * 其他：这是一个月前（2021.8）的点子。认为Docker、NS3的组合可达到这个目的。**13:53*
+* Concept: 专业名词“耐受性”。**14:42**
+* Concept: “延迟方程”、“淋浴公式”。**14:46**

@@ -504,8 +504,6 @@
 * 利用SQL SERVER对比两张表的数据一致性
 * [ref](https://blog.csdn.net/weixin_30533797/article/details/96808070?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-4&spm=1001.2101.3001.4242)
 
-
-
 * Skills
   * [.NET ORM - Dapper](https://github.com/StackExchange/Dapper)
   * [Web font](https://fontawesome.com/)
@@ -796,3 +794,201 @@
   * [NetMQ](https://github.com/zeromq/netmq)
 * azure: microsoft flow
 * Idea: 虚拟机房的游戏和模拟器（模拟不同层级的ISP）
+
+## 2021.9.23
+
+```python
+>>> math.sqrt(2**6**2**1**4**4)
+262144.0 # 好玩的“冪數”（自己取的名）！
+```
+
+```python
+a, b, c = {True, False}, {1,2,3}, {'a','b'}
+a.update(b)
+a.update(c) # a => {False, True, 2, 3, 'a', 'b'}, '1'消失了！因為True和1是等價的！
+```
+
+* 《架构探险 从零开始写Java Web框架》
+* 《哆啦A梦漫画书全套45册珍藏版 机器猫卡通动漫》
+* 《【全套装12册】中学生数学思维方法丛书 冯跃峰著 研究特例+考察极端+更换角度+改造命题等 中科大》
+* 《现货正版 深入实践C++模板编程 温宇杰[按需印刷]3801384》
+* 《包邮 直播系统开发：基于Nginx与Nginx-rtmp-module+Android音视频开发》
+* 《包邮 C++代码整洁之道：C++17可持续软件开发模式实践 斯蒂芬·罗斯 程序员书库》
+* 《蔡东藩历朝通俗演义历史【11部全21册】绣像本中华书局 前后汉两晋南北史唐史五代史宋元明清史》
+* 《费曼物理学讲义5本套装（3本讲义加补编加习题册）》
+* 《构建体验新框架：人性化·智能化·平台化》
+* 《灌篮高手漫画全套31册 井上雄彦 日本经典动漫小说漫画书籍樱木花道流川枫》
+* 《鸿蒙应用开发实战 华为国产操作系统HarmonyOS IoT设备开发实战JavaScript编程》
+* 《监控的艺术 云原生时代的监控框架(图灵出品)》
+* 《蒋金楠新作问世 ASP.NET Core 3 框架揭秘（上下册）(博文视点出品)》
+* 《精通Python爬虫框架Scrapy(异步图书出品)》
+* 《开源网络模拟器ns-3 架构与实践》
+* 《可伸缩服务架构：框架与中间件(博文视点出品)》
+* 《铝合金箱升级款 全套初中高中物理实验箱电学力学物理实验器材光学声热学实验盒箱》
+* 《密码学：C/C++语言实现（原书第2版）》
+* 《面向WebAssembly编程：应用开发方法与实践》
+* 《爬虫实战：从数据到产品(博文视点出品)》
+* 《千金良方——MySQL性能优化金字塔法则(博文视点出品)》
+* 《前端自动化测试框架 ——Cypress从入门到精通》
+* 《全套8本绘画入门自学零基础书籍水粉水彩画白描素描基础色铅笔彩铅画入门漫画教程书素描书入门自学零基础》
+* 《三维图形化C++趣味编程》
+* 《深入理解MySQL主从原理(博文视点出品)》
+* 《实战Python网络爬虫》
+* 《数据生态 MySQL复制技术与生产实践 罗小波 千金良方 MySQL性能优化金字塔法则姐妹书 初中》
+* 《数学女孩1-4 全4册》
+* 《现货包邮 Apache SkyWalking实战 吴晟 高洪涛 赵禹光 曹奕雄8071406》
+* 《现货包邮 Nginx应用与运维实战 编程语言与程序设计8071611》
+* 《现货包邮 Spring Cloud、Nginx高并发核心编程 编程语言与程序设计8075421》
+* 《现货正版 STL高效编程(英文影印版) (美)Scott Meyer[图书]31206》
+* 《信息学奥赛一本通第五版+训练指导教程C++版第五版全国青少年奥林匹克竞赛教程 C++语言FERR P》
+* 《用Python写网络爬虫 第2版(异步图书出品)》
+* 《游戏引擎原理与实践 卷1 基础框架 程东哲著 游戏引擎架构设计开发教程书籍 体验引擎 Milo推荐》
+* 《远山启数学与生活（京东套装3册）》
+* 《正版 名侦探柯南漫画全套38册柯南侦探全集少儿版漫画书7-10岁柯南彩色抓帧漫画书适合小学生课外阅读》
+* 《直播系统开发：基于Nginx与Nginx-rtmp-module(博文视点出品)》
+* 《App自动化测试与框架实战(异步图书出品)》
+* 《C++标准模板库编程实战》
+* 《C++并发编程实战》
+* 《C++多线程编程实战(异步图书出品)》
+* 《C++性能优化指南》
+* 《CMDB分步构建指南》
+* 《DBA攻坚指南：左手Oracle，右手MySQL》
+* 《Java多线程与Socket：实战微服务框架(博文视点出品)》
+* 《JavaScript框架设计（第2版）(异步图书出品)》
+* 《Linux多线程服务端编程 使用muduo C++网络库》
+* 《MySQL DBA工作笔记：数据库管理、架构优化与运维开发》
+* 《MySQL技术大全：开发、优化与运维实战（视频教学版）》
+* 《MySQL是怎样运行的 从根儿上理解MySQL》
+* 《MySQL性能优化和高可用架构实践》
+* 《Nginx Lua开发实战》
+* 《Nginx高性能Web服务器详解(博文视点出品)》
+* 《Nginx实战：基于Lua语言的配置、开发与架构详解(博文视点出品)》
+* 《Nginx完全开发指南：使用C、C++、JavaScript和Lua(博文视点出品)》
+* 《Nginx应用与运维实战》
+* 《Node.js：来一打 C++ 扩展(博文视点出品)》
+* 《OPNET物联网仿真：基于5G通信与计算的物联网智能应用》
+* 《PHP网站开发-CodeIgniter敏捷开发框架(实战案例版) HTML网页设计制作CI教程》
+* 《Python 3 爬虫、数据清洗与可视化实战（第2版）(博文视点出品)》
+* 《Python 3反爬虫原理与绕过实战(图灵出品)》
+* 《Python 3网络爬虫开发实战(图灵出品)》
+* 《Python网络爬虫从入门到实践（Python3 全彩版）自动化数据采集，入门知识，项目实践，海量资源，技术答疑》
+* 《Python网络爬虫权威指南 第2版(图灵出品)》
+* 《Rcpp：R与C++的无缝整合》
+* 《ROBOT FRAMEWORK自动化测试框架核心指南》
+* 《Scrapy网络爬虫实战》
+* 《Spring源码深度解析(异步图书出品)》
+* 《ThinkPHP5框架原理与实战(国家软件与集成电路公共服务平台信息技术紧缺人才培养》
+* 《Unreal Engine4学习总动员(C++编程)》
+
+* Beginning Backup and Restore for SQL Server
+* Beginning Database Design Solutions
+* Beginning Oracle PL/SQL, 2nd edition
+* Beginning Oracle WebCenter Portal 12c
+* Beginning SQL Server R Services
+* Beginning SQL Server Reporting Services
+* Beginning Ubuntu for Windows and Mac Users, 2nd Edition
+* CompTIA Linux+ Practice Tests, 2nd Edition
+* CompTIA Linux+ Study Guide, 4th Edition
+* Cosmos DB for MongoDB Developers
+* Data Science Using Oracle Data Miner and Oracle R Enterprise
+* Effective MySQL Replication Techniques in Depth
+* Exam 70-410 Installing and Configuring Windows Server 2012 Lab Manual
+* Expert Oracle Database 11g Administration
+* Expert SQL Server In-Memory OLTP, 2nd Edition
+* Expert SQL Server Transactions and Locking
+* Formal SQL Tuning for Oracle Databases
+* Inside the SQL Server Query Optimizer
+* Introducing the MySQL 8 Document Store
+* Introducing ZFS on Linux
+* Learning SQL Server 2008 Reporting Services
+* Linux and Solaris Recipes for Oracle DBAs
+* Learn Windows PowerShell 3 in a Month of Lunches, 2nd Edition
+* Learning PowerCLI
+* Microsoft SQL Server 2008 Administration with Windows PowerShell
+* Oracle Database and PowerShell How-to
+* PowerShell Deep Dives
+* PowerShell for SQL Server Essentials
+* Pro PowerShell for Database Developers
+* SQL Server 2012 with PowerShell V3 Cookbook
+* Windows PowerShell for Developers
+* Introducing the MySQL 8 Document Store
+* Building Interactive Queries with LINQPad
+* Programming Reactive Extensions and LINQ
+* C++ for Engineers and Scientists, 4th Edition
+* Introduction to MATLAB for Engineers and Scientists
+* Mathematical Game Theory and Applications
+* Mathematical Structures for Computer Graphics
+* Programming Projects in C for Students of Engineering, Science, and Mathematics 
+* Programming with Mathematica
+* Requirements Writing for System Engineering
+* Natural Language Processing with Python and spaCy
+* Advanced ASP.NET Core 3 Security
+* Basic Linux Terminal Tips and Tricks
+* Beginning Progressive Web App Development
+* Beyond jQuery
+* Building Progressive Web Applications with Vue.js
+* Data Science Fundamentals for Python and MongoDB
+* Developing Responsive Web Applications with AJAX and jQuery
+* Hands-on Booting
+* jQuery Design Patterns
+* Parallel Programming with Microsoft Visual Studio 2010 Step by Step
+* Programming 101
+* Progressive Web Apps
+* Progressive Web Apps with Angular
+* ReactJS by Example - Building Modern Web Applications with React
+* Using and Administering Linux: Volume 3
+
+* Linux in Action
+* Linux Networking Cookbook
+* MariaDB and MySQL Common Table Expressions and Window Functions Revealed
+* Mastering Oracle GoldenGate
+* MCSA Windows Server 2016 Complete Study Guide, 2nd Edition
+* Microsoft SQL Server 2008 R2 Master Data Services
+* Microsoft SQL Server 2008, Second Edition
+* Microsoft SQL Server 2012 High Performance T-SQL Using Window Functions
+* Microsoft SQL Server 2012 Performance Tuning Cookbook
+* MongoDB: The Definitive Guide, 3rd Edition
+* MySQL Connector/Python Revealed
+* Next Generation Databases: NoSQL, NewSQL, and Big Data
+* OCA Oracle Database 11g Administration I Exam Guide (Exam 1Z0-052)
+* OCA/OCP Oracle Database 11g All-in-One Exam Guide
+* Oracle 10g/11g Data and Database Management Utilities
+* Oracle 11G: SQL, 2nd Edition
+* Oracle Application Express Administration
+* Oracle Certified Professional Java SE 8 Programmer Exam 1Z0-809
+* Oracle Database 11g DBA Handbook
+* Oracle Database 12c DBA Handbook
+* Oracle Database Upgrade and Migration Methods
+* Oracle High Availability, Disaster Recovery, and Cloud Services
+* Oracle PL/SQL by Example, 5th Edition
+* Oracle SOA Suite 11g Handbook
+* Oracle SOA Suite 12c Administrator’s Guide
+* PostgreSQL Development Essentials
+* PowerShell and Python Together
+* Pro MongoDB Development
+* Pro MySQL NDB Cluster
+* Pro Oracle Application Express
+* Pro Oracle Identity and Access Management Suite
+* Pro PowerShell Desired State Configuration, 2nd Edition
+* Pro SQL Server 2005 Service Broker
+* Pro SQL Server 2019 Wait Statistics, 2nd Edition
+* Pro SQL Server Always on Availability Groups
+* Pro SQL Server Internals, 2nd edition
+* Pro SQL Server on Linux
+* Professional Microsoft SQL Server 2016 Reporting Services and Mobile Reports
+* SQL on Big Data
+* SQL Server 2012 Integration Services Design Patterns
+* SQL Server 2017 Query Performance Tuning, 5th Edition
+* SQL Server Advanced Data Types
+* SQL Server AlwaysOn Revealed, 2nd Edition
+* The CIO’s Guide to Oracle Products and Solutions
+* The Cloud DBA-Oracle
+* The Linux Philosophy for SysAdmins
+* Windows Networking Troubleshooting
+* Windows Virus and Malware Troubleshooting
+
+* 《Cucumber：行为驱动开发指南》
+* 《JavaScript异步编程：设计快速响应的网络应用》
+* 《数据压缩入门》
+* 《软件调试修炼之道》
+* 《软件调试的艺术》
