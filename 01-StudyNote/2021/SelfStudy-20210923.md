@@ -65,29 +65,3 @@ Author: Jedi Chou, Create at 2021.9.23 8:11 AM
   * EventGrid:API驱动到事件驱动，构建Serverless时代时间中枢 **17:10**
   * Serverless场景：单用途+无状态、计算胶水、弹性伸缩. **17:11**
 * 数字赋智能源，开启低碳时代 (華為2021全連接大會). **17:35**
-
-## others
-
-* asp.net mvc入門
-* Scrcpy的教學視頻要查一查。
-* 目前ServiceStack在B站上並沒有什麼資源，但它應該是個不錯的微服務框架。
-* IT常用詞
-  * estimate, 估计
-  * present, 目前
-  * render, 提供
-  * It bothers me.
-  * deprecated
-  * bump
-* [System.IO.Pipelines](https://docs.microsoft.com/zh-cn/dotnet/standard/io/pipelines)
-* Question: 代码搜索引擎
-* Question: 算法仓库
-
-* Question: 如何将“思维导图”认定为“知识结构”，那什么数据库能够对其进行存储和比对？ **13:46**
-  * 推理：同理“Markdown”也可认为是种“知识结构”。**13:48**
-  * 联想：不管是“思维导图”、“Markdown”都是文档化（Document）的知识（Knowledge），可天然存于NoSQL资料库。**13:49**
-
-* Question: 如何用Docker做网络实验？**13:52**
-  * 要求：和思科模拟器能达到同一级别。**13:52**
-  * 其他：这是一个月前（2021.8）的点子。认为Docker、NS3的组合可达到这个目的。**13:53*
-* Concept: 专业名词“耐受性”。**14:42**
-* Concept: “延迟方程”、“淋浴公式”。**14:46**
