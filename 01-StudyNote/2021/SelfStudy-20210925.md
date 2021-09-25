@@ -2,29 +2,29 @@
 
 Author: Jedi Chou, Create at 2021.9.25 7:45 AM
 
-* Don't memorize words APP check-in
-* NowCoder check-in
-* 163 music APP check-in
-* Tencent cartoon APP check-in
-* Read articles and check interview invitation (MaiMai APP)
-* 101WeiQi daily exercise check-in
-* 百词斩
+* Don't memorize words APP check-in. **8:53**
+* NowCoder check-in. **8:53**
+* 163 music APP check-in. **8:54**
+* Tencent cartoon APP check-in. **8:54**
+* Read articles and check interview invitation (MaiMai APP). **8:55**
+* 101WeiQi daily exercise check-in. **8:57**, **8:57**
+* 百词斩. **9:06**
 
-* Download books from salttiger(none)
-* Update and upgrade packages at wsl
-* Read mails from skyzhx@163.com
-* Read mails from 13417xx51@139.com
-* Check news from ZhiHu app or website
-* Check gitee messages
-* Check github messages
-* Read WeiBo
-* Download ebook from jb51.net
-* Exercise of Vocabulary (vocabulary.com)
+* Download books from salttiger(none). **8:58**
+* Update and upgrade packages at wsl. **8:58**
+* Read mails from skyzhx@163.com. **9:08**
+* Read mails from 13417xx51@139.com. **9:09**
+* Check news from ZhiHu app or website. **9:11**
+* Check gitee messages. **9:12**
+* Read WeiBo. **9:21**
+* Download ebook from jb51.net. **9:22**
+* Exercise of Vocabulary (vocabulary.com). **9:25**
+* Check github messages. **9:25**
 
 * Go Game check
-  * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
+  * Leela Zero vs Leela Zero(B5s-W2s). **8:52**
+  * Leela Zero vs Leela Zero(B5s-W2s). **9:16**
+  * Leela Zero vs Leela Zero(B5s-W2s). **9:28**
 * Reading mail from jedigit@163.com mail
 
 ## 華為2021全連接大會-2021.9.24
