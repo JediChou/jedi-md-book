@@ -25,9 +25,9 @@ Author: Jedi Chou, Create at 2021.9.25 7:45 AM
   * Leela Zero vs Leela Zero(B5s-W2s). **8:52**
   * Leela Zero vs Leela Zero(B5s-W2s). **9:16**
   * Leela Zero vs Leela Zero(B5s-W2s). **9:28**
-* Reading mail from jedigit@163.com mail
+* Reading mail from jedigit@163.com mail. **13:12**
 
-## 華為2021全連接大會-2021.9.24
+## 華為2021全連接大會-2021.9.25
 
 ## others
 
