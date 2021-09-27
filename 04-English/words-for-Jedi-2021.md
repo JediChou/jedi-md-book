@@ -1287,3 +1287,16 @@ I suggest to get other approvals before checking in.
 
 * rounds out
 * so be it.
+
+## 2021.9.27
+
+* stealth
+* moat
+* enthusiastic
+* animated -  "wildly happy,"
+* excessive, excessive emotions
+* agitated
+* spectrum
+* You're delirious, frantic, mad, or unrestrained
+* impeachment
+* hand over formally ??? 没搞懂这个短语
