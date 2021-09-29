@@ -1165,7 +1165,6 @@ I suggest to get other approvals before checking in.
 * words: provoke, 表示“激起，引起”
 * words: renew, 表示“延长（协议或官方文件）的期限，使续期”，英文解释为“to arrange for an agreement or official document to continue for a further period of time”
 
-
 * words: collapse
 
   ```english
@@ -1300,3 +1299,20 @@ I suggest to get other approvals before checking in.
 * You're delirious, frantic, mad, or unrestrained
 * impeachment
 * hand over formally ??? 没搞懂这个短语
+
+## 2021.9.28
+
+* estimate, 估计
+* present, 目前
+* render, 提供
+* It bothers me.
+* deprecated
+* bump
+
+## 2021.9.29
+
+* incorporates 合并
+* elaborate on sth 详细的处理某事
+* stats 统计数据
+* Persistent 持久的
+* enroll 登记
