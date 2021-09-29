@@ -76,6 +76,7 @@ Author: Jedi Chou, Create at 2021.9.29 8:32 AM
 * [原型链](https://blog.csdn.net/csdn372301467/article/details/120523916)
 
 * [C#程序到底用了多少内存？](https://stackoverflow.com/questions/14032515/how-to-get-the-amount-of-memory-used-by-an-application)
+* [莫斯密码](https://en.wikipedia.org/wiki/Morse_code)
 
 ```C#
 // 1st method
