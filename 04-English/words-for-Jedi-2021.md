@@ -1316,3 +1316,10 @@ I suggest to get other approvals before checking in.
 * stats 统计数据
 * Persistent 持久的
 * enroll 登记
+
+## 2021.9.30
+
+* lunatic 疯子
+* latch 门闩
+* tweak 扭
+* Triple 三部分的
