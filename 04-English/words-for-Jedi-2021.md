@@ -1323,3 +1323,8 @@ I suggest to get other approvals before checking in.
 * latch 门闩
 * tweak 扭
 * Triple 三部分的
+
+## 2021.10.8
+
+* influx 涌入
+* recess 休会
