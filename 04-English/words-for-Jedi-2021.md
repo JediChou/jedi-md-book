@@ -1328,3 +1328,22 @@ I suggest to get other approvals before checking in.
 
 * influx 涌入
 * recess 休会
+
+## 2021.10.9
+
+* consistent with
+* Not able to specify
+* Below is my what I get in Individual components.
+* elaborate on
+* sibling of
+* Sounds good.
+* Here's your sneak peek at what to expect.
+
+## 2021.10.11
+
+* evolved into, 演变成
+* dramatically, 戏剧性
+* decades, 十年
+* colossal, 巨大的
+* morphed, 变形的
+* delve into, 专研
