@@ -1347,3 +1347,20 @@ I suggest to get other approvals before checking in.
 * colossal, 巨大的
 * morphed, 变形的
 * delve into, 专研
+
+## 2021.10.12
+
+* taper
+  * 英 [ˈteɪpə(r)]   美 [ˈteɪpər]  
+  * v.变尖;(使)逐渐变窄
+  * n.(点火用的)木条，纸媒;细长蜡烛;渐减;逐渐缩小(或变细)
+  * 第三人称单数： tapers
+  * 复数： tapers
+  * 现在分词： tapering
+  * 过去式： tapered
+  * 过去分词： tapered
+
+* Paradox, 反对的人
+* Q4: the 4th Quarter, 第四季度
+* it is tough to change: 很难改变
+* a liability for a company: 公司的责任
