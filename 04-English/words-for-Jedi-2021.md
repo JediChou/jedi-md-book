@@ -1364,3 +1364,31 @@ I suggest to get other approvals before checking in.
 * Q4: the 4th Quarter, 第四季度
 * it is tough to change: 很难改变
 * a liability for a company: 公司的责任
+
+## 2021.10.13
+
+* snorkel, 通气管
+* crucial, 关键的
+* rummaging
+* affiliated
+* caveats, 警告
+* proclivity, 倾向性
+* fragile code, 脆弱的代码
+* vulnerable
+* termination character, 结束符号
+* enrolment
+* the Chinese Consulate
+* eternity
+* worrisome
+* forearms
+* herd immunity, 群体免疫
+* dilemma, 困境
+* participation, 参加
+* quarantines, 隔离
+* racquets, 球拍
+* insists, 坚持
+* pros
+* repertoire
+* stadium
+* Beitar Jerusalem
+* bigwigs
