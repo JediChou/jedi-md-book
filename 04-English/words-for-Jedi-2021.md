@@ -1392,3 +1392,20 @@ I suggest to get other approvals before checking in.
 * stadium
 * Beitar Jerusalem
 * bigwigs
+
+## 2021.10.14
+
+* the basis of sth
+* literacy
+* urbanization
+* tradespeople
+* barter system
+* adjective
+* potatoes
+* cranberry sauce
+* thrilled
+* You're delirious, frantic, mad, or unrestrained.
+* wipe out, 消灭
+* deplete, 大量减少
+* embarrassment, 尴尬
+* morale, 士气
