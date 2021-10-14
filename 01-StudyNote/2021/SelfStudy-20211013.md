@@ -26,7 +26,7 @@ Author: Jedi Chou, Create at 2021.10.13 7:44 AM
 * Reading mail from jedigit@163.com mail. **10:21**
 * Exercise of Vocabulary (vocabulary.com). **10:46**
 
-* Read news
+* Read news. **15:30**
 * 百词斩
 
 ## 華為2021全連接大會
