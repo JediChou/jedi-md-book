@@ -1409,3 +1409,49 @@ I suggest to get other approvals before checking in.
 * deplete, 大量减少
 * embarrassment, 尴尬
 * morale, 士气
+
+## 2021.10.15
+
+* Meetup，会面、见面会
+* leveraging, 杠杆作用
+* biases, 偏见
+* conducted, 进行
+* deputy, 副手
+* squadron, 中队
+* bolster
+* gauges
+* stimulus
+* inflation, 通货膨胀
+* spike, 尖峰
+* intensify
+* influential, overlooked
+* war-torn country
+* generalissimo Chiang
+* Green Gang of Shanghai, 上海青帮
+* a vast narcotics empire.
+* misery
+* the Manchurian Qing dynasty
+* was rapidly waning
+* concessions
+* albeit at gunpoint⁠
+* Shanghailanders, 上海人
+* gambling, 赌博
+* the Shanghai Municipal Council
+* porters, servants, merchants
+* outskirts, 郊区
+* eking ???
+* whenever and wherever he could
+* enrolled, 登记
+* lockdowns
+* laid off workers, 不在岗员工（不能简单理解为“下岗”）
+* criticized, 批评
+* logjam, 僵局
+* snacks, 小吃
+* maneuvers
+* incursions, 入侵
+* intercepts
+* reunification, 统一！？（老外这么形容统一？）
+* urged, 敦促
+* herbal, 草药
+* octogenarians, 八十多岁
+* parole, 假释
