@@ -1455,3 +1455,8 @@ I suggest to get other approvals before checking in.
 * herbal, 草药
 * octogenarians, 八十多岁
 * parole, 假释
+
+## 2021.10.19
+
+* acquiescent
+* loyal
