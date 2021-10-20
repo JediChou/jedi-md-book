@@ -1460,3 +1460,24 @@ I suggest to get other approvals before checking in.
 
 * acquiescent
 * loyal
+
+## 2021.10.20
+
+* vaster scope
+* domestic
+* the Monetary Authority of Macao
+* residents
+* the Greater Bay Area, 大湾区
+* year-on-year
+* parole, 假释
+* second-degree, 二级
+* fetus skulls, 胎儿头骨
+* clientele, 客户
+* osteology, 骨科
+* unethical
+* aerodynamic
+* a wild card
+* according to, (高频)根据
+* altar, 祭坛
+* Generation Z, Z世代
+* diagonal, 斜线
