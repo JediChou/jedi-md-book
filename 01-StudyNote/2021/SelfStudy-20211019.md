@@ -29,14 +29,6 @@ Author: Jedi Chou, Create at 2021.10.19 9:52 AM
 
 ## Other
 
-* key
-  * asp.net mvc, webapi, ef
-  * c# parallel, async
-  * regx, multi-thread
-  * JWT, oauth2, log(ELK)
-  * call back
-  * Interface: IDisposable
-* MySQL Connector/Python X DevAPI Reference
 * Article-FreeBuf: CTF-2021中国能源网络WEB题目全解. **11:54**
 * Article-FreeBuf: 企业安全漏洞运营：重视复盘. **11:57**
 * Article-FreeBuf: vulnhub_IMF缓冲区溢出详解. **12:00**
