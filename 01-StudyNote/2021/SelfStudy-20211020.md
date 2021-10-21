@@ -54,3 +54,9 @@ Author: Jedi Chou, Create at 2021.10.20 7:53 AM
 * Article-cnn: Emma Raducanu is the new face of Dior. **9:19**
 * Article-foxnews: Missing Maya Millete: Husband Larry arrested for murder nine months after California mom vanished. **9:25**
 * Article-foxnews: Kamala Harris video urging churchgoers to vote for McAuliffe may be illegal. **9:29**
+* Comic: 玛丽的音乐盒. **15:39**
+* Comic: 红色花园. **15:39**
+* Powershell-cmdlet: `msiexec /package connector-net.msi /quiet`
+* NPM repo config
+  * repo.minmaxtec.com **16:34**
+  * `https://repo.minmaxtec.com/repository/npm/`
