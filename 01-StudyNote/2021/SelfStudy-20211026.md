@@ -2,30 +2,30 @@
 
 Author: Jedi Chou, Create at 2021.10.26 7:50 AM
 
-* Download books from salttiger
-* Check gitee messages
-* Read mails from skyzhx@163.com
-* Read mails from 13417xx51@139.com
-* Check github messages
-* Check news from ZhiHu app or website
-* Update and upgrade packages at wsl
-* Don't memorize words APP check-in
-* NowCoder check-in
-* 163 music APP check-in
-* Read articles and check interview invitation (MaiMai APP)
-* Tencent cartoon APP check-in
-* 101WeiQi daily exercise check-in
-* Download ebook from jb51.net
+* Download books from salttiger. **8:12**
+* Check gitee messages. **8:14**
+* Read mails from skyzhx@163.com. **8:18**
+* Read mails from 13417xx51@139.com. **8:18**
+* Check github messages. **8:19**
+* Check news from ZhiHu app or website. **8:19**
+* Update and upgrade packages at wsl. **8:20**
+* Don't memorize words APP check-in. **8:22**
+* NowCoder check-in. **8:23**
+* 163 music APP check-in. **8:24**
+* Read articles and check interview invitation (MaiMai APP). **8:24**
+* Tencent cartoon APP check-in. **8:25**
+* 101WeiQi daily exercise check-in. **8:27**, **8:28**
+* Download ebook from jb51.net. **8:30**
 
-* Read WeiBo
+* Read WeiBo. **8:30**
+* Exercise of Vocabulary (vocabulary.com). **8:56**
 * Go Game check
-  * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
-  * Leela Zero vs Leela Zero(B5s-W2s)
-* Exercise of Vocabulary (vocabulary.com)
-* Reading mail from jedigit@163.com mail
-* Read news
-* 百词斩
+  * Leela Zero vs Leela Zero(B5s-W2s). **9:01**
+  * Leela Zero vs Leela Zero(B5s-W2s). **9:13**
+  * Leela Zero vs Leela Zero(B5s-W2s). **9:26**
+* 百词斩. **10:30**
+* Read news. **15:30**
+* Reading mail from jedigit@163.com mail. **10:15**
 
 ## Other
 
